@@ -1,0 +1,23 @@
+# Die Online-Hilfe
+
+Die Online-Hilfe von Dastra ist jederzeit in Ihrem Mandanten zugänglich, indem Sie auf die Schaltfläche "Hilfe" unten links auf dem Bildschirm klicken.
+
+![](<../../.gitbook/assets/image (148).png>)
+
+Ein Fenster wird angezeigt, mit allen Möglichkeiten:
+
+![Öffnung des Hilfepanels](<../../.gitbook/assets/Capture web\_3-5-2022\_153323\_app.dastra.eu.jpeg>)
+
+### Der Leitfaden für die erste Anmeldung
+
+Bei der ersten Anmeldung in Ihrem Mandanten bietet Ihnen Dastra ein Tutorial an, das in wenigen Seiten die wichtigsten Funktionen von Dastra durchgeht.
+
+Wenn Sie diesen Leitfaden erneut starten möchten, klicken Sie einfach auf die Schaltfläche "Hilfe" unten links auf dem Bildschirm und wählen Sie dann die Option "**Leitfaden anzeigen**":&#x20;
+
+![](<../../.gitbook/assets/image (149).png>)
+
+Der Startleitfaden wird dann erneut gestartet und Sie müssen nur den Schritten folgen.
+
+{% content-ref url="laide-en-ligne.md" %}
+[laide-en-ligne.md](laide-en-ligne.md)
+{% endcontent-ref %}
