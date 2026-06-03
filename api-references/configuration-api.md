@@ -1,9 +1,5 @@
 # API-Konfiguration
 
-
-
-{% embed url="https://youtu.be/Bl-T-slTyiQ" %}
-
 ### APIs in Dastra konfigurieren&#x20;
 
 API steht für _**Application Programming Interface**_ (Programmierschnittstelle).&#x20;
@@ -14,16 +10,12 @@ Die Möglichkeiten sind vielfältig: Verbindung mit einer CRM-Software zur autom
 
 Dastra basiert auf dem Standard **API-Rest** und insbesondere auf den folgenden HTTP-Anfragen:&#x20;
 
-
-
 | URI                                                                      | GET                                                                                                  | POST                                                                                                                                                                                                                                                     | PUT                                                                                                                                                                                                     | PATCH                                                                                                                                                                                                                       | DELETE                                                                                        |
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Sammlungsressource, wie `http://api.beispiel.com/collection/`            | _Ruft_ die URIs der Mitgliedsressourcen der Sammlungsressource im Antwortkörper ab.                  | _Erstellt_ eine Mitgliedsressource in der Sammlungsressource unter Verwendung der Anweisungen des Anfragekörpers. Die URI der erstellten Mitgliedsressource wird _automatisch zugewiesen_ und im _Location_-Header-Feld der Antwort zurückgegeben.        | _Ersetzt_ alle Darstellungen der Mitgliedsressourcen der Sammlungsressource durch die Darstellung im Anfragekörper oder _erstellt_ die Sammlungsressource, wenn sie nicht existiert.                     | _Aktualisiert_ alle Darstellungen der Mitgliedsressourcen der Sammlungsressource unter Verwendung der Anweisungen des Anfragekörpers oder _erstellt gegebenenfalls_ die Sammlungsressource, wenn sie nicht existiert.        | _Löscht_ alle Darstellungen der Mitgliedsressourcen der Sammlungsressource.                   |
 | Mitgliedsressource, wie `http://api.beispiel.com/collection/item3`       | _Ruft_ eine Darstellung der Mitgliedsressource im Antwortkörper ab.                                 | _Erstellt_ eine Mitgliedsressource in der Mitgliedsressource unter Verwendung der Anweisungen des Anfragekörpers. Die URI der erstellten Mitgliedsressource wird _automatisch zugewiesen_ und im _Location_-Header-Feld der Antwort zurückgegeben.        | _Ersetzt_ alle Darstellungen der Mitgliedsressource oder _erstellt_ die Mitgliedsressource, wenn sie nicht existiert, durch die Darstellung im Anfragekörper.                                           | _Aktualisiert_ alle Darstellungen der Mitgliedsressource oder _erstellt gegebenenfalls_ die Mitgliedsressource, wenn sie nicht existiert, unter Verwendung der Anweisungen des Anfragekörpers.                              | _Löscht_ alle Darstellungen der Mitgliedsressource.                                          |
 
 &#x20;Quelle: [_Wikipedia_](https://fr.wikipedia.org/wiki/Representational\_state\_transfer)&#x20;
-
-
 
 Mit Dastra ist es möglich, mehrere APIs zu konfigurieren. Die Liste der APIs ist hier verfügbar: [https://api.dastra.eu/swagger/index.html](https://api.dastra.eu/swagger/index.html)
 

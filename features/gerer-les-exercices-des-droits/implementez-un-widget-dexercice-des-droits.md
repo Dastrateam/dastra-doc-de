@@ -32,13 +32,6 @@ Dieses Diagramm veranschaulicht den Prozess:
 3. Sie werden benachrichtigt und können sie in der Plattform qualifizieren und bearbeiten.
 4. Die betroffene Person erhält eine Antwort über das Antragstellerportal.
 
-#### Video-Tutorial
-
-Hier ist ein Video-Tutorial, das zeigt, wie Sie ein Widget zur Erfassung von Betroffenenanfragen einrichten.\
-⚠️ Achtung: Das Video ist visuell nicht vollständig aktuell, aber dennoch nützlich, um die wesentlichen Schritte zu verstehen.
-
-{% embed url="https://youtu.be/P1Z4hvmpbSw" %}
-
 ***
 
 ### Allgemeine Konfiguration

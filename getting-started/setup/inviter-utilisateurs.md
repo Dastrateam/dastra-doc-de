@@ -12,8 +12,6 @@ Sie können Nutzer zu Ihrem Mandanten einladen, indem Sie auf die Schaltfläche 
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-10-17 143642.png" alt=""><figcaption></figcaption></figure>
 
-
-
 Geben Sie die E-Mail-Adresse der Person ein, die Sie in Ihren Dastra-Bereich einladen möchten. Wenn diese Adresse noch nicht mit der Organisation verknüpft ist, klicken Sie darauf, um einen Einladungslink zu senden.
 
 ![](<../../.gitbook/assets/image (130).png>)
@@ -103,11 +101,7 @@ Um die Konsole in Microsoft Edge zu öffnen, können Sie das Tastenkürzel verwe
 
 Achtung, die Rollen müssen vorab erstellt werden.
 
-
-
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-10-17 144450.png" alt=""><figcaption><p>Hier ist die Rollen-Kennung die Nummer 10</p></figcaption></figure>
-
-
 
 **Zu den Team-Kennungen:**&#x20;
 
@@ -128,8 +122,6 @@ Speichern Sie Ihre Datei im Format CSV UTF-8&#x20;
 <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sobald Ihre Datei fertig ist, geben Sie uns an, in welchen Mandanten Sie die Nutzer importieren möchten, und laden Sie die Datei über die Upload-Oberfläche hoch:&#x20;
-
-
 
 <figure><img src="../../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption></figcaption></figure>
 

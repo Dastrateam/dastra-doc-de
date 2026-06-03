@@ -4,8 +4,6 @@ description: Erfahren Sie, wie Sie das Dashboard von Dastra verwenden.
 
 # Dashboard
 
-{% embed url="https://youtu.be/PnPa70sRGF8" %}
-
 ## Einführung
 
 Das Dashboard von Dastra ist die erste Seite, auf die Sie beim Betreten Ihres Mandanten zugreifen, und stellt eine Zusammenfassung Ihrer DSGVO-Compliance dar.

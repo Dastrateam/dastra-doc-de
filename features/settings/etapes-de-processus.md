@@ -18,8 +18,6 @@ So können Sie Ihr Verfahren sehr operativ umsetzen, indem Sie die zu befolgende
 
 ## Wie passe ich die Workflow-Schritte an?
 
-{% embed url="https://youtu.be/rIPJUY3vylc" %}
-
 Klicken Sie auf „Einstellungen" und dann auf „Prozessschritte"&#x20;
 
 <figure><img src="../../.gitbook/assets/etapes-processus01.png" alt=""><figcaption></figcaption></figure>

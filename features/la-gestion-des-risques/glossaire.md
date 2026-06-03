@@ -1,7 +1,5 @@
 # Glossar
 
-
-
 Bevor wir beginnen, hier einige wichtige Definitionen:
 
 * **Die Wahrscheinlichkeit:** entspricht der Bewertung der Häufigkeit des Eintretens eines Risikos. Es handelt sich um einen empirisch bewerteten Score (traditionell auf einer Skala von 5). Jede Risikostufe entspricht einer Häufigkeit des Risikoauftretens.

@@ -6,10 +6,6 @@ description: >-
 
 # SMTP-Konfiguration
 
-
-
-{% embed url="https://youtu.be/We93kT_KrJA" %}
-
 ## Funktionsprinzip
 
 Standardmäßig routet Dastra eine große Anzahl von Benachrichtigungs-E-Mails für die folgenden Dienste:&#x20;

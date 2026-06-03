@@ -6,15 +6,11 @@ description: Erfahren Sie, wie Sie ein vollständiges bestehendes Verzeichnis in
 
 ## Der Verzeichnisexport
 
-{% embed url="https://www.youtube.com/watch?index=24&list=PL-EvtNdEiDxEzGBBTfGHy25vS6COmcgeQ&v=FZrIB6q76Mw" %}
-
 Um das gesamte Verzeichnis zu exportieren, gehen Sie zum Modul "Verzeichnis", klicken Sie auf den Pfeil oben rechts neben der Schaltfläche zur Erstellung einer Verarbeitung und wählen Sie dann "Verzeichnis exportieren".
 
 ![Dropdown-Menü des Verzeichnisses mit der Exportfunktion](<../../.gitbook/assets/Capture web\_3-5-2022\_164438\_app.dastra.eu.jpeg>)
 
 Wählen Sie dann das Exportformat sowie die gewünschte Exportart (vollständig oder Format Artikel 30) und klicken Sie auf "Datei herunterladen". Das war's, Ihr Verzeichnis ist exportiert!
-
-
 
 ### Format Artikel 30/CNIL
 
@@ -26,13 +22,9 @@ Das sogenannte Artikel-30-Format entspricht dem, was von der DSGVO gefordert wir
 * Empfänger und eventuelle Übermittlungen
 * Sicherheitsmaßnahmen
 
-
-
 ### Vollständiges Format
 
 Das vollständige Format ist das native Format von Dastra. Sie exportieren alle Felder, die das Verarbeitungsblatt bilden.&#x20;
-
-
 
 {% hint style="info" %}
 Es ist auch möglich, nur eine oder mehrere Verarbeitungen des Verzeichnisses zu exportieren, anstatt das gesamte Verzeichnis. Wählen Sie dazu die betreffenden Verarbeitungen manuell aus, indem Sie die Kontrollkästchen links im Verzeichnis aktivieren, dann "Gruppenaktion wählen" und "Exportieren".
@@ -50,17 +42,7 @@ Sie bietet auch den Vorteil, **sämtliche** Ihre **Referenzsysteme** direkt in u
 
 So können Sie Ihre _Assets_, Ihre _Datensätze_, Ihre _Stakeholder_, Ihre _Sicherheitsmaßnahmen_ usw. eingeben.
 
-
-
-{% embed url="https://youtu.be/88e1j4v-fKQ" %}
-
 Sie können [hier](https://docs.google.com/spreadsheets/d/1u\_QLMbx9k4fFm7jBrpnt65i8fVfOzYz8/edit?usp=sharing\&ouid=117505938343554554786\&rtpof=true\&sd=true) die Excel-Tabelle zur Datenformatierung herunterladen, die für einen fehlerfreien Import erforderlich ist!
-
-
-
-
-
-
 
 #### Standardimport
 
@@ -81,8 +63,6 @@ Um Ihre bestehenden Verarbeitungsbezeichnungen zu importieren, klicken Sie auf d
 Laden Sie dann eine Beispieldatei herunter, wie auf dem Bildschirm angezeigt.
 
 ![](<../../.gitbook/assets/image (11) (1) (1).png>)
-
-
 
 Füllen Sie die heruntergeladene Datei mit Ihren Verarbeitungsbezeichnungen in der folgenden Reihenfolge aus:
 

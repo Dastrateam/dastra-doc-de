@@ -13,6 +13,4 @@ Zusätzlich zur Erstellung, Nachverfolgung und dem Export von Aufgaben ermöglic
 
 ![Anpassung des Aufgaben-Workflows](<../../.gitbook/assets/image (162).png>)
 
-
-
 Für weitere Informationen zögern Sie nicht, [uns direkt zu kontaktieren](https://www.dastra.eu/fr/Contact?type=Demo).

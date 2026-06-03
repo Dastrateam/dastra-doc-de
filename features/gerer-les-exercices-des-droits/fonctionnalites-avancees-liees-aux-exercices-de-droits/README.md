@@ -30,4 +30,3 @@ Die globalen Einstellungen des Mandanten ermöglichen die Konfiguration von zwei
 [regles-de-purge-des-demandes.md](regles-de-purge-des-demandes.md)
 {% endcontent-ref %}
 
-

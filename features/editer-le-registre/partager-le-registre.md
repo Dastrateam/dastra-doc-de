@@ -4,8 +4,6 @@ description: Erfahren Sie, wie Sie Ihr Verzeichnis teilen.
 
 # Verzeichnis teilen
 
-{% embed url="https://www.youtube-nocookie.com/embed/FZrIB6q76Mw?si=w5J27ax2OmT5refp" %}
-
 ## Teilen des gesamten Verzeichnisses
 
 Klicken Sie im Bereich "Verzeichnis" von DASTRA auf den Pfeil oben rechts im Verzeichnis neben der Schaltfläche zur Erstellung einer Verarbeitung und dann im Dropdown-Menü auf "Teilen".
@@ -13,8 +11,6 @@ Klicken Sie im Bereich "Verzeichnis" von DASTRA auf den Pfeil oben rechts im Ver
 Sobald Sie geklickt haben, erscheint ein Fenster auf dem Bildschirm, das Sie nach dem Ablaufdatum des Freigabelinks fragt. Klicken Sie dann auf "Link erstellen".
 
 ![](<../../.gitbook/assets/image (180).png>)
-
-
 
 Die Freigabe berücksichtigt alle Verarbeitungen mit dem Status "veröffentlicht". Verarbeitungen im Entwurfsstatus werden mit dieser Funktion nicht geteilt. Um eine Verarbeitung im Entwurfsstatus zu teilen, muss sie einzeln geteilt werden.&#x20;
 
@@ -40,8 +36,6 @@ Verarbeitungen können unabhängig vom Status (veröffentlicht oder Entwurf) get
 ![](<../../.gitbook/assets/image (18) (1).png>)
 
 Es ist auch möglich, mehrere Verarbeitungen zu teilen, indem Sie sie im Menü Verzeichnis auswählen und die Gruppenaktion "Teilen" wählen.&#x20;
-
-
 
 ## Freigabelinks verwalten
 

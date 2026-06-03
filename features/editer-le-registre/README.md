@@ -54,11 +54,7 @@ Die gute Nachricht ist, dass Dastra beide Ansätze perfekt unterstützt! Sie kö
 
 ## Wie erstellt man sein Verarbeitungsverzeichnis?
 
-Hier ist ein Video-Tutorial, das Ihnen die Erstellung des Verzeichnisses ermöglicht.
-
 Wenn Sie lernen möchten, wie Sie Ihr Verarbeitungsverzeichnis entwerfen und verwalten, beginnen Sie hier:
-
-{% embed url="https://www.youtube.com/watch?v=gqtAPok9ZuU" %}
 
 {% content-ref url="gerer-votre-registre.md" %}
 [gerer-votre-registre.md](gerer-votre-registre.md)
@@ -86,15 +82,10 @@ Wenn Sie lernen möchten, wie Sie das Verzeichnis teilen, klicken Sie hier:
 
 ## Wie führt man Aktionen auf mehreren Verarbeitungen durch?
 
-
-
-{% embed url="https://youtu.be/0BQDHzyFl-Y" %}
-
 ## Weiterführende Informationen
 
 Hier finden Sie unser Webinar zum Verarbeitungsverzeichnis.&#x20;
 
-{% embed url="https://www.youtube.com/watch?v=R_Z2m4sb-44" %}
 Wie Sie bei der Verwaltung der Verarbeitungsverzeichnisse in den Betriebsmodus wechseln
 {% endembed %}
 

@@ -44,23 +44,9 @@ Um auf Ihren Mandanten zuzugreifen:&#x20;
 Sie können jederzeit den Mandanten wechseln, indem Sie auf den Selektor oben links auf dem Bildschirm klicken:\
 ![](<../../.gitbook/assets/image (377).png>)
 
-
-
-
-
-Sehen Sie sich das Video zur Grundkonfiguration Ihrer Mandanten an:
-
-{% embed url="https://www.youtube.com/watch?v=IJE5rzou-EM&list=PL-EvtNdEiDxEUikz6mrcMlKZ54r3RpBLZ&index=1" %}
-
-{% embed url="https://youtu.be/a7sW-B_TeZ0" %}
-
 ![](<../../.gitbook/assets/image (181).png>)
 
 Füllen Sie die Felder aus und klicken Sie dann auf "Weiter".
-
-
-
-{% embed url="https://youtu.be/94K9ERenlo8" %}
 
 ### Die ersten Nutzer einladen
 
@@ -80,8 +66,6 @@ In Dastra ist der Begriff des Mandanten von dem der juristischen Entität getren
 
 Jede Entität gilt als ein Verantwortlicher.&#x20;
 
-
-
 {% hint style="info" %}
 Achten Sie darauf, Entitäten und Mandanten klar zu unterscheiden.
 
@@ -93,8 +77,6 @@ Hier eine Erinnerung an die Begriffsdefinitionen in Dastra:&#x20;
 * Eine **Entität** entspricht einem Verantwortlichen. Es handelt sich um eine juristische Entität, deren Kontaktdaten angegeben werden. Ein Datenschutzbeauftragter sowie ein Verantwortlicher können dieser Entität zugeordnet werden. Ebenso kann eine federführende Aufsichtsbehörde zugeordnet werden. Diese Entität kann in Abteilungen untergliedert werden.
 * Eine **Abteilung** ist eine Organisationseinheit, die unter einer Entität positioniert ist. Diese Abteilung ermöglicht die Organisation der Entität und die Verteilung der angehängten Elemente in verschiedene Zweige. Es ist möglich, für jede Abteilung Unterabteilungen hinzuzufügen. Abteilungen können beispielsweise verwendet werden, um das Organigramm des Unternehmens abzubilden.&#x20;
 {% endhint %}
-
-
 
 Um die erste juristische Entität zu erstellen, geben Sie einfach ihren Namen an und ordnen Sie ihr den Verantwortlichen (den gesetzlichen Vertreter) und, falls benannt, den Datenschutzbeauftragten oder andere Stakeholder zu. Nur der Name der juristischen Entität ist obligatorisch.
 
@@ -119,12 +101,6 @@ Sie können auch Unterabteilungen hinzufügen, indem Sie auf die Schaltfläche "
 ![Die in Dastra generierte Organigramm-Ansicht.](<../../.gitbook/assets/image (128).png>)
 
 Herzlichen Glückwunsch, Ihr Mandant in Dastra ist erstellt und eingerichtet!&#x20;
-
-
-
-{% embed url="https://youtu.be/QbH80Xp5c90" %}
-
-
 
 Folgen Sie dem untenstehenden Tutorial oder beginnen Sie, Dastra selbst zu erkunden.&#x20;
 

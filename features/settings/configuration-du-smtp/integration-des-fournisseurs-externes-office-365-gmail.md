@@ -69,8 +69,6 @@ Die Nachricht sieht folgendermaßen aus:&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (7) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ***
 
 ### ✅ Wichtige Punkte zum Merken

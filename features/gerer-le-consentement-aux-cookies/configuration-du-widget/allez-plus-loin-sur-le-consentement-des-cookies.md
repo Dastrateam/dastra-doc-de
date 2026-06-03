@@ -21,4 +21,3 @@ Für weitere Informationen können Sie uns gerne [direkt kontaktieren](https://w
 [integration-technique](../integration-technique/)
 {% endcontent-ref %}
 
-

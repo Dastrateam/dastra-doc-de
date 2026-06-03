@@ -1,7 +1,5 @@
 # Ihre Daten importieren (Excel, CSV)
 
-{% embed url="https://www.youtube-nocookie.com/embed/XNcy3eudgZk?si=LadsT5mhFv-hubDT" %}
-
 ## Der Datenimport in Dastra
 
 Dastra ermöglicht es Ihnen, Ihre eigenen Daten im Tabellenformat ganz einfach direkt in die Anwendung zu importieren.
@@ -30,8 +28,6 @@ Er erfolgt in 4 Schritten:&#x20;
 2. [Hochladen der Datei](importer-vos-donnees-excel-csv.md#2.-charger-le-fichier)
 3. [Überprüfung der Daten vor dem Import](importer-vos-donnees-excel-csv.md#3.-verifiez-vos-donnees)
 4. [Import der Daten](importer-vos-donnees-excel-csv.md#4.-importez-les-donnees)
-
-
 
 ### 1. Vorbereitung der Datendatei
 
@@ -126,8 +122,6 @@ Wenn alles korrekt erscheint, können Sie den Datenimport starten.
 Starten Sie den Datenimport, indem Sie auf die Schaltfläche "Fortfahren" klicken. Der Importprozess wird dann ausgelöst.
 
 <figure><img src="../../.gitbook/assets/image (252) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### 5. Fertig!
 

@@ -36,8 +36,6 @@ Klicken Sie dann auf "Gruppenaktion wählen" und "Daten zusammenführen":&#x20;
 \
 ![](<../../.gitbook/assets/image (417).png>)
 
-
-
 Sie gelangen dann zu einer speziellen Seite, auf der Sie:
 
 Das Hauptelement auswählen können, das nach der Zusammenführung erhalten bleiben soll.

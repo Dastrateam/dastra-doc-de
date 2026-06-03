@@ -1,7 +1,5 @@
 # Empfänger
 
-{% embed url="https://youtu.be/BNj0pG7ddRw" %}
-
 [**Artikel 30 Abs. 1 Buchst. d) der DSGVO**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4) verlangt, dass das Verzeichnis die Information über "_die Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden, einschließlich Empfänger in Drittländern oder internationalen Organisationen_" enthält.
 
 [**Artikel 4 der DSGVO**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1) definiert den Empfänger als "_eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, der personenbezogene Daten offengelegt werden, unabhängig davon, ob es sich bei ihr um einen Dritten handelt oder nicht. Behörden, die im Rahmen eines bestimmten Untersuchungsauftrags nach dem Unionsrecht oder dem Recht der Mitgliedstaaten möglicherweise personenbezogene Daten erhalten, gelten jedoch nicht als Empfänger; die Verarbeitung dieser Daten durch die genannten Behörden erfolgt im Einklang mit den geltenden Datenschutzvorschriften gemäß den Zwecken der Verarbeitung_".&#x20;
@@ -10,6 +8,3 @@ Mit anderen Worten sind unter dem Begriff Empfänger alle Stellen zu verstehen, 
 
 ### DPA erstellen
 
-
-
-{% embed url="https://youtu.be/kUatwoQSWOM" %}

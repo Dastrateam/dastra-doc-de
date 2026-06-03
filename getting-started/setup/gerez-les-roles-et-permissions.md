@@ -4,15 +4,11 @@ description: Erfahren Sie, wie Sie Rollen und Berechtigungen in Dastra verwalten
 
 # Rollen und Berechtigungen verwalten
 
-{% embed url="https://youtu.be/wNrj3Ru2wz8" %}
-
 Beim Einladen eines Nutzers bietet Dastra standardmäßig **drei Rollen** an:
 
 * **Administrator**: Administratoren haben die Rechte der Mitwirkenden und können die Mandanten-Einstellungen verwalten. Administratoren sind die einzigen, die eine Verarbeitung auf den Status "veröffentlicht" setzen, Organisationseinheiten erstellen und neue Nutzer in den Mandanten einladen können.&#x20;
 * **Mitwirkender**: Mitwirkende können den Inhalt der Mandanten lesen und bearbeiten. Sie können Elemente erstellen und noch nicht veröffentlichte Entwürfe bearbeiten. Sie können die Mandanten-Einstellungen nicht ändern.
 * **Leser:** Leser können den Inhalt des Mandanten nur einsehen. Sie können weder den Inhalt bearbeiten noch die Mandanten-Einstellungen ändern.
-
-
 
 {% hint style="info" %}
 Nur **Inhaber** können die Organisationskonto-Einstellungen ändern und Mandanten erstellen.
@@ -25,30 +21,16 @@ In Dastra kann ein Nutzer mehrere verschiedene Rollen kumulieren. Um einem Nutze
 {% hint style="info" %}
 <img src="../../.gitbook/assets/image (248) (1) (1).png" alt="" data-size="original">
 
-
-
 dann die Optionen des Nutzers anzeigen&#x20;
 
-
-
 ![](<../../.gitbook/assets/Capture d'écran 2024-10-17 144942.png>)
-
-
 
 und die entsprechende "Rolle" für den betreffenden Nutzer auswählen.
 {% endhint %}
 
-
-
 Es ist jedoch möglich, maßgeschneiderte Rollen zu erstellen, die möglicherweise besser zu Ihrer Organisation passen.
 
 ### Eine benutzerdefinierte Rolle erstellen
-
-
-
-{% embed url="https://youtu.be/zdUm7SQ3mLY" %}
-
-
 
 Um eine benutzerdefinierte Rolle zu erstellen, müssen Sie Inhaber der Organisation sein. Klicken Sie einfach auf das Profilsymbol oben rechts auf dem Bildschirm und dann auf den Tab "Konfiguration" in der Dropdown-Liste.
 
@@ -73,5 +55,4 @@ Das war's, die Rollen und Berechtigungen sind eingerichtet! Sie können jetzt da
 {% content-ref url="../tutoriel/" %}
 [tutoriel](../tutoriel/)
 {% endcontent-ref %}
-
 

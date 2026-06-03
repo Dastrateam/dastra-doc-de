@@ -154,7 +154,6 @@ Verknüpfen Sie diese Dauern mit Ihrem **Register der KI-Systeme**, um die Kohä
 
 ### ▶️ Ressourcen & nächste Schritte
 
-{% embed url="https://www.youtube.com/watch?v=BK8A3L9P7T0" %}
 Webinar "Speicherdauern: Wie bestimmt man sie?"
 {% endembed %}
 

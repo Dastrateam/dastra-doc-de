@@ -13,8 +13,6 @@ Um ein Risiko zu einer Verarbeitung hinzuzufügen, gehen Sie auf den Reiter "Ris
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-
-
 und klicken Sie auf die Schaltfläche "Ein Risiko erstellen".
 
 ![](<../../.gitbook/assets/image (106).png>)
@@ -32,8 +30,6 @@ Gehen Sie dazu auf den Reiter "Risiken" und klicken Sie auf "Ein Risiko erstelle
 ### Risiken einer Verarbeitung visualisieren
 
 Um die Risiken der Verarbeitungen zu visualisieren, müssen Sie zum Risiko-Modul von Dastra navigieren.&#x20;
-
-
 
 ![](<../../.gitbook/assets/image (253) (1) (1) (1).png>)
 

@@ -17,10 +17,6 @@ Durch Klicken auf die Schaltfläche „Datenschutzvorfall hinzufügen" erscheint
 
 ![Die Schritte der Dokumentation des Datenschutzvorfalls](<../../.gitbook/assets/image (172).png>)
 
-
-
-{% embed url="https://youtu.be/59bysJxvs5M" %}
-
 ### Import / Export des Verzeichnisses der Datenschutzvorfälle
 
 Das gesamte Verzeichnis der Datenschutzvorfälle kann importiert und exportiert werden. Um einen Datenschutzvorfall zu importieren, klicken Sie auf das Pfeilsymbol neben der Schaltfläche „Datenschutzvorfall hinzufügen".
@@ -33,6 +29,3 @@ Ein Fenster erscheint mit einer Schaltfläche „Import". Klicken Sie darauf, la
 
 ### Wie führt man eine Risikoanalyse des Datenschutzvorfalls durch?
 
-
-
-{% embed url="https://youtu.be/r47gMaPJJog" %}

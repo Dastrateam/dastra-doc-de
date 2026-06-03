@@ -4,15 +4,9 @@ description: Funktionsweise der Nachrichtenvorlagen
 
 # Nachrichtenvorlagen
 
-{% embed url="https://youtu.be/3UtQuceFXqo" %}
-
 ## Anpassung der Nachrichtenvorlagen
 
-
-
 Um Ihre Zeit zu optimieren und die Effizienz zu steigern, können Sie Nachrichtenvorlagen konfigurieren, die in den Modulen von Dastra wiederverwendet werden können.
-
-
 
 ### Verfügbare Arten von Nachrichtenvorlagen&#x20;
 
@@ -36,8 +30,6 @@ Die Vorlagentypen sind wie folgt:
 
     Sie können einen Dastra-Nutzer einladen, eine Datenschutzverletzung ab einem bestimmten Schritt zu vervollständigen. Schreiben Sie die Vorlage einmal oder wählen Sie eine Vorlage je nach Qualität des Empfängers (Jurist, IT-Leiter usw.), um Zeit zu sparen.&#x20;
 
-
-
 ### Erstellung der Vorlage
 
 Die Vorlagenerstellung erfolgt entweder über die Mandant-Einstellungen oder direkt am Ort der Nachricht.&#x20;
@@ -59,8 +51,6 @@ Das bedeutet, dass Sie automatisch Informationen zum mit der Vorlage verknüpfte
 Zum Beispiel kann in der Einladung zur Beantwortung eines Audits automatisch das Fälligkeitsdatum eines Audits übernommen werden.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption><p>Die benutzerdefinierten Felder der Einladungsnachricht zur Audit-Beantwortung</p></figcaption></figure>
-
-
 
 Sie können so einfach dynamische Felder direkt in die Vorlage einfügen. Als Sprache für die Vorlagenerstellung verwenden wir die LiquidJS-Syntax.&#x20;
 
@@ -156,8 +146,6 @@ Um Status zu übersetzen, können Sie den benutzerdefinierten Filter getTranslat
 
 •             Tags (tags)
 
-
-
 #### Aufgabenbeschreibung:&#x20;
 
 •             Projekt (project)
@@ -222,8 +210,6 @@ Um Status zu übersetzen, können Sie den benutzerdefinierten Filter getTranslat
 
 •             Zugewiesen an (assignedToUser)
 
-
-
 #### Einladungen zur Beantwortung eines Audit-Fragebogens:&#x20;
 
 •             Vorlage (template)
@@ -285,8 +271,6 @@ Um Status zu übersetzen, können Sie den benutzerdefinierten Filter getTranslat
 •             Verknüpftes Objekt (objectLabel)
 
 •             Frist (deadline)
-
-
 
 #### Einladungen zur Vervollständigung einer Verarbeitung:&#x20;
 
@@ -363,8 +347,6 @@ Veröffentlichungsdatum (datePublication)
 Letzte Änderung (dateUpdate)
 
 Beschreibung (description)
-
-
 
 #### Einladung zur Vervollständigung einer Verletzung:&#x20;
 

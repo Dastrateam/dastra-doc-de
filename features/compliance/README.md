@@ -153,8 +153,6 @@ Eine einzelne Kontrolle (z. B. Überprüfung der Zugänge) kann somit:
 * eine ISO 27001-Anforderung erfüllen,
 * mehrere Risikoszenarien reduzieren.
 
-
-
 **Erläuterndes Schema**
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

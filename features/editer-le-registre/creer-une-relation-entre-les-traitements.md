@@ -20,8 +20,6 @@ Gehen Sie dazu auf ein Verarbeitungsblatt und wählen Sie den Tab "Beziehungen" 
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Schaltfläche zur Erstellung von Verarbeitungsbeziehungen</p></figcaption></figure>
 
-
-
 Wählen Sie dann einen Beziehungstyp aus.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Erstellung neuer Beziehungen</p></figcaption></figure>
@@ -38,8 +36,6 @@ Es gibt zwei Arten von Beziehungen:&#x20;
 
 1. **Deklarative Beziehungen:** Werden verwendet, um eine einfache Verknüpfung zwischen zwei Verarbeitungen herzustellen (ohne funktionale Abhängigkeit).
 2. **Funktionale Beziehungen:** Ermöglichen die Übertragung oder Vererbung von Feldern von einer Verarbeitung zu einer anderen.
-
-
 
 ### Deklarative Beziehungen:
 

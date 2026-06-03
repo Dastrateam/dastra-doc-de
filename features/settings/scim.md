@@ -10,8 +10,6 @@ description: >-
 
 [SCIM](http://www.simplecloud.info/), die englische Abkürzung für System for Cross-domain Identity Management (übersetzt: „System für domänenübergreifendes Identitätsmanagement"), ist ein offener Standard, der die Automatisierung der Nutzerbereitstellung unterstützt. Das SCIM-Protokoll ist ein Vermittler: Es sammelt Identitätsdaten der Nutzer bei den Identitätsanbietern (Azure AD, Google Workspace, Okta...) und übermittelt sie an die Dienstanbieter, die diese Identifikationsinformationen benötigen (wie Dastra).
 
-
-
 {% hint style="warning" %}
 Die SCIM-Funktionalität ist Kunden mit einem **Enterprise-Plan** vorbehalten.
 
@@ -62,8 +60,6 @@ Sie definieren Gruppen in Ihrem Azure Directory und Dastra kann diese Nutzer syn
 
 ![](<../../.gitbook/assets/image (14) (1).png>)
 
-
-
 Klicken Sie auf die Schaltfläche **Konfigurieren**
 
 <figure><img src="../../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
@@ -92,13 +88,9 @@ Klicken Sie auf „**Verbindung testen**" und „**Speichern**". Wenn beim Verbi
 
 <figure><img src="../../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ### Lassen Sie Ihre Nutzer sich verbinden
 
 Sie sollten sehen, dass sich die Nutzerkonten Ihres AD automatisch in Dastra synchronisieren. Wenn sie sich über [die Anmeldeseite](https://app.dastra.eu/login) bei Dastra anmelden, sollten sie sich mit ihrer E-Mail verbinden können. Wenn das SSO nicht konfiguriert und für alle Nutzer erzwungen ist, müssen die Nutzer ein Passwort-Reset durchführen, um sich anzumelden. Wenn das SSO aktiv ist und für alle Nutzer erzwungen wird, werden diese automatisch zum Anmeldeformular Ihres Identitätsanbieters (Azure AD, Google Workspace, Okta...) weitergeleitet.
-
-
 
 ### Verhaltensweisen und Einschränkungen der SCIM-Synchronisation
 

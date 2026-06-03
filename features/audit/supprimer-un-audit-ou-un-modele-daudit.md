@@ -12,8 +12,6 @@ Bevor ein Audit gelöscht wird, haben wir eine Sicherheitsmaßnahme eingerichtet
 
 Zunächst müssen Sie das Audit über die Schaltfläche **Archivieren** im Menü des Audits archivieren. Um das Menü anzuzeigen, gehen Sie auf die drei kleinen Punkte in der Audit-Liste.
 
-
-
 <figure><img src="../../.gitbook/assets/image (4) (3) (1).png" alt=""><figcaption><p>Die Schaltfläche Archivieren befindet sich unten in der Liste</p></figcaption></figure>
 
 Klicken Sie auf **Archivieren** und Ihr Audit wird archiviert.

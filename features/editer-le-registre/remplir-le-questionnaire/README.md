@@ -10,8 +10,6 @@ description: >-
 
 Die Dastra-Anwendung begleitet Sie bei jedem Schritt des Erstellungsprozesses einer Verarbeitung und bleibt dabei autonom. Profitieren Sie von Ratschlägen und werden Sie DSGVO-konform.
 
-{% embed url="https://www.youtube.com/embed/videoseries?list=PL-EvtNdEiDxEzGBBTfGHy25vS6COmcgeQ&si=q8iJKz0VjemfjzbO" %}
-
 ## Was ist der Dastra-Fragebogen?&#x20;
 
 Der Dastra-Fragebogen hilft Ihnen, alle erforderlichen Informationen zu einer Verarbeitungstätigkeit so flüssig und schnell wie möglich bereitzustellen. Er besteht aus 12 Schritten, um die gesamten Informationen zu einer Datenverarbeitung auszufüllen.
@@ -100,21 +98,9 @@ Sobald Sie die Ihnen vorliegenden Informationen eingegeben haben, können Sie da
 [planifier](../../planifier/)
 {% endcontent-ref %}
 
-
-
 ## Effektiv an Verarbeitungen zusammenarbeiten
 
-
-
-{% embed url="https://youtu.be/pz61gKChilY" %}
-
 ## Die Indikatoren auf den Verarbeitungsblättern
-
-
-
-{% embed url="https://youtu.be/QAmXR4y2RYU" %}
-
-
 
 Der Fragebogen ist nicht das einzige Leitelement bei der Erstellung der Verarbeitungsblätter.\
 Tatsächlich finden Sie Indikatoren, die es Ihnen ermöglichen, insbesondere den Fortschritt und die Qualität Ihres Blattes zu bewerten.&#x20;

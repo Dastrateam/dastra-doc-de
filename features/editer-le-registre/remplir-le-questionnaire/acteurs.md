@@ -4,8 +4,6 @@ description: Definieren Sie die an der Datenverarbeitung beteiligten Stakeholder
 
 # Interessengruppen
 
-{% embed url="https://youtu.be/ReWH4-vYkcU" %}
-
 ## Nutzer einer Verarbeitung zuordnen&#x20;
 
 Dastra ermöglicht es Ihnen, Nutzer einer Verarbeitung zuzuordnen.
@@ -40,10 +38,6 @@ Sie werden aufgefordert, einen Stakeholder als gemeinsamen Verantwortlichen hinz
 
 <figure><img src="../../../.gitbook/assets/image (12) (4).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
 ## Einen Verantwortlichen für die Umsetzung der Verarbeitung hinzufügen
 
 Der Verantwortliche für die Umsetzung entspricht der Abteilung, die operativ für die Verarbeitung verantwortlich ist. Es handelt sich in der Regel um die Abteilung, die die Daten nutzt und die Verarbeitungstätigkeit durchführt.&#x20;
@@ -52,13 +46,9 @@ Es kann sich um eine Abteilung oder eine natürliche Person handeln.&#x20;
 
 In Dastra müssen Sie einen Stakeholder hinzufügen.&#x20;
 
-
-
 ## Einen Vertreter des Verantwortlichen hinzufügen
 
 Der Vertreter des Verantwortlichen entspricht dem operativen Vertreter des Verantwortlichen. Es kann sich beispielsweise um ein Mitglied der Geschäftsleitung oder einen Gemeinderat handeln (wobei der Verantwortliche durch den Bürgermeister vertreten wird).
-
-
 
 ## Einen operativen Verantwortlichen hinzufügen
 

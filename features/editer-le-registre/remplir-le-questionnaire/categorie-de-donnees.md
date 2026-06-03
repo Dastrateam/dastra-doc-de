@@ -6,8 +6,6 @@ description: >-
 
 # Daten und Aufbewahrung
 
-{% embed url="https://youtu.be/VEeICwrm3pg" %}
-
 [**Artikel 30 der DSGVO**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4) verlangt auch die Eintragung der verarbeiteten Datenkategorien.
 
 Hier geht es darum, die Kategorien der verarbeiteten Daten zu definieren. Diese können als gewöhnlich oder sensibel eingestuft werden. Es wird nämlich zwischen Daten unterschieden, die ein höheres Risiko für natürliche Personen darstellen, wie z. B. Gesundheitsdaten, Daten zu politischen Meinungen oder gewerkschaftlichen Aktivitäten. Daten zu Straftaten oder anderen Vollstreckungsmaßnahmen stellen ebenfalls besonders geschützte Daten dar.&#x20;
@@ -139,8 +137,6 @@ Wenn die Speicherdauer auf Verarbeitungsebene angepasst wurde, erscheint ein kle
 Das langfristige Ziel kann sein, die Verwendung generischer Datensätze zu reduzieren und sich einer präziseren Kartierung zuzuwenden, entweder über die Datenverarbeitungen (Fall Nr. 2) oder über die Assets (Fall Nr. 1).
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (2) (4).png" alt=""><figcaption><p>Auf Verarbeitungsebene angepasste Speicherdauer</p></figcaption></figure>
-
-
 
 ####
 

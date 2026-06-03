@@ -36,4 +36,3 @@ Bewahren Sie den Wiederherstellungscode sorgfältig auf! Dieser ermöglicht es I
 Alle Nutzer, die sich anmelden, werden keinen Zugang zur Anwendung haben, ohne die Zwei-Faktor-Authentifizierung in ihrem Konto konfiguriert zu haben. Stellen Sie sicher, dass Ihr Team über die Best Practices zur Aufbewahrung der geheimen TOTP-Schlüssel informiert ist.
 {% endhint %}
 
-

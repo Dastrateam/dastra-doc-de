@@ -52,8 +52,6 @@ Wenn Sie WordPress verwenden, finden Sie im folgenden Link weitere Informationen
 [wordpress.md](wordpress.md)
 {% endcontent-ref %}
 
-
-
 Sobald das Widget integriert ist, fahren Sie mit der Testphase fort.
 
 {% content-ref url="../comment-tester-lintegration-dun-widget.md" %}

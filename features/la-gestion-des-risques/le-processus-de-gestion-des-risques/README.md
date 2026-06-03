@@ -4,8 +4,6 @@ description: Erfahren Sie, wie der Risikomanagement-Prozess in Dastra funktionie
 
 # Der Risikomanagement-Prozess
 
-{% embed url="https://www.youtube.com/watch?v=sR_dFRc_4rc" %}
-
 \
 Der Risikomanagement-Prozess in Dastra ist eine **vereinfachte Version** des Modells **eBios Risk Manager** sowie der **Risikobewertungsmethodik der CNIL**.
 
@@ -35,8 +33,6 @@ Die Risikobehandlung besteht in der Antwort auf ein Risiko. Diese kann verschied
 Sobald eine Antwort auf das Risiko gegeben wurde, ist das Risiko unter Kontrolle. Es muss regelmäßig überprüft und neu bewertet werden, um den Entwicklungen des Risikos Rechnung zu tragen. Insbesondere bei der Einführung von Kontrollpunkten.
 
 Schließlich **archivieren** Sie Ihre Risiken, sobald sie verschwunden sind, um eine Nachverfolgung zu gewährleisten.
-
-
 
 {% hint style="info" %}
 Die Besonderheit des Dastra-Risikomanagement-Prozesses besteht darin, eine nahezu Echtzeit-Aktualisierung der Risikobewertung zu ermöglichen, basierend auf den Ergebnissen der Kontrollpunkte.

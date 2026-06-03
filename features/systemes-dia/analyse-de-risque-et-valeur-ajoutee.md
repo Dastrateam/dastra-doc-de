@@ -93,8 +93,6 @@ Die Zuordnung des richtigen Risikoniveaus zu Ihren KI-Systemen ermöglicht Ihnen
 
 ***
 
-
-
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 142759.png" alt=""><figcaption><p>Risikoanalyse eines KI-Systems</p></figcaption></figure>
 
 #### **Mehrwert eines KI-Systems**
@@ -105,8 +103,6 @@ Sie müssen **eines der drei Wertniveaus** auswählen, von **niedrig** bis **hoc
 * Ein **Gewinn an operativer Leistung**
 * Eine **Verbesserung der Servicequalität**
 * Eine **Reduktion von Risiken oder Kosten**
-
-
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 143019.png" alt=""><figcaption><p>Mehrwert eines KI-Systems</p></figcaption></figure>
 

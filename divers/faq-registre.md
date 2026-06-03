@@ -53,7 +53,6 @@ Wenn Sie ein Element nicht finden, auf das Sie Zugriff haben sollten, ist es mö
 
     <figure><img src="../.gitbook/assets/image (4) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
-
 4. Schließlich sind möglicherweise fehlerhafte Einstellungen in Ihrem Browser gespeichert. Zur Überprüfung können Sie den privaten Modus verwenden. Wenn der private Modus das Problem löst, folgen Sie der unten beschriebenen Prozedur zum Löschen des lokalen Speichers Ihres Browsers.
 
 ## Wie lösche ich den LocalStorage?

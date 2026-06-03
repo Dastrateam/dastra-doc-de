@@ -41,8 +41,6 @@ Der Einrichtungsprozess ist sehr einfach:
 
     <figure><img src="../../.gitbook/assets/SetupServiceNowAccount.png" alt=""><figcaption></figcaption></figure>
 
-
-
 4. Nach der Validierung wird ein Konfigurationsfenster angezeigt. Dieser Schritt ist **obligatorisch**, um die Installation abzuschließen.
 
 <figure><img src="../../.gitbook/assets/SettingsServiceNow.png" alt=""><figcaption></figcaption></figure>

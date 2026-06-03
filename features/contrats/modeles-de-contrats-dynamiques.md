@@ -14,17 +14,11 @@ Durch Auswahl dieser Option erhalten Sie Zugriff auf die Liste aller von uns ang
 
 Durch die Verwendung unserer Vorlage für Standardvertragsklauseln stellen Sie beispielsweise sicher, dass Sie die Pflichten der DSGVO gegenüber Ihren Auftragsverarbeitern einhalten, und generieren gleichzeitig mit wenigen Klicks einen vollständigen Vertrag, der dynamisch mit allen Informationen aus Ihrem Verarbeitungsverzeichnis und Ihren Referenzsystemen befüllt wird.
 
-
-
 <figure><img src="../../.gitbook/assets/image (367).png" alt=""><figcaption><p>Wählen Sie die Vertragsvorlage aus, die Sie verwenden möchten</p></figcaption></figure>
-
-
 
 Sobald die Vorlage ausgewählt ist, werden Sie zu einem Formular weitergeleitet, in dem Sie die für die Befüllung der Vorlage erforderlichen Informationen angeben müssen. Dieses Formular ist für jede Vorlage spezifisch und hängt von den dynamisch zu befüllenden Feldern in der Vorlage ab.&#x20;
 
 Am Beispiel des AVV werden Sie beispielsweise aufgefordert, die betroffene Verarbeitung aus Ihrem Verzeichnis auszuwählen, den Auftragsverarbeiter (aus dem Verarbeitungsdatenblatt), mit dem Sie den Vertrag abschließen möchten, sowie verschiedene Fragen zu optionalen Klauseln zu beantworten, die in den Vertrag eingefügt werden sollen.
-
-
 
 <figure><img src="../../.gitbook/assets/image (368).png" alt=""><figcaption><p>Beantworten Sie einige Fragen, damit wir die Vorlage vervollständigen können</p></figcaption></figure>
 

@@ -10,8 +10,6 @@ Die Spezifikationen von OpenId finden Sie [hier](https://openid.net/connect/)
 
 ![](<../../../.gitbook/assets/image (119).png>)
 
-
-
 Die Konfiguration des SSO mit OpenID erfolgt in drei Schritten&#x20;
 
 * Konfiguration des Authentifizierungsanbieters: Active Directory, Google Workspace...

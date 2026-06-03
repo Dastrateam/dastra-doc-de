@@ -4,7 +4,6 @@ description: Dastra bietet Ihnen die Möglichkeit, Ihre Formulare unbegrenzt anz
 
 # Benutzerdefinierte Felder
 
-{% embed url="https://www.youtube-nocookie.com/embed/mDyJD-mnnL0" %}
 So verwenden Sie benutzerdefinierte Felder in Dastra
 {% endembed %}
 

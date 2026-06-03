@@ -43,8 +43,6 @@ Um Ihren Cloud-Dateimanager zu konfigurieren, ist es ganz einfach:
 
 ![](<../../.gitbook/assets/image (255).png>)
 
-
-
 ### Einschränkungen
 
 **Google Drive**: Achtung, nur Dateien, die aus Ihrem Dastra-Bereich erstellt wurden, können zu Ihrem Google Drive hinzugefügt oder darin bearbeitet werden. Dastra hat keine Zugriffsrechte auf Dateien, die Sie selbst im Drive erstellt haben. Dies ist eine Einschränkung dieses Konnektors. Sie können in Dastra erstellte Dateien problemlos mit anderen Mitarbeitern teilen.

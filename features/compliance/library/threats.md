@@ -56,7 +56,6 @@ Die Bedrohungsbibliothek zentralisiert alle identifizierten Bedrohungen mit:
 {% columns %}
 {% column %}
 
-
 Bei der Erstellung oder Bearbeitung einer Bedrohung gibt der Nutzer an:
 
 * **den Namen der Bedrohung**

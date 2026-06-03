@@ -37,4 +37,3 @@ Der Kundensupport-Prozess bei Dastra ist darauf ausgelegt, effizient und kundeno
 
 Darüber hinaus analysieren wir dank unseres ständigen Engagements für kontinuierliche Verbesserung regelmäßig Rückmeldungen und Trends, um unseren Service sowie unser Produkt anzupassen und zu optimieren. Dies ermöglicht es uns nicht nur, auf die aktuellen Bedürfnisse unserer Kunden einzugehen, sondern auch ihre zukünftigen Erwartungen vorherzusehen und Probleme zu vermeiden, bevor sie auftreten.
 
-

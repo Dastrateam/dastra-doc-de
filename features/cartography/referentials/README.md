@@ -23,8 +23,5 @@ Um Eingabefehler zu reduzieren, ermöglicht Ihnen das Dastra-Verzeichnis die Ver
 
 ## Datenreferenzsystem mit Dastra generieren
 
-{% embed url="https://youtu.be/7Ul_agu6wLc" %}
-
 ## Wie filtert man die Referenzsysteme?
 
-{% embed url="https://youtu.be/q3dvGcBr6ZA" %}

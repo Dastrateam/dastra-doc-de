@@ -46,8 +46,6 @@ https://account.dastra.eu/connect/authorize?
 
 <table><thead><tr><th width="272.5595168190588">Parameter Name</th><th width="470.9578998488362">Description</th></tr></thead><tbody><tr><td><code>response_type</code></td><td>code</td></tr><tr><td><code>client_id</code></td><td>Der öffentliche Schlüssel Ihres in Ihrem Dastra-Konto konfigurierten API-Schlüssels</td></tr><tr><td><code>redirect_uri</code></td><td>Die im Dastra-API-Schlüssel konfigurierte URL. Sie werden nach Abschluss des Autorisierungsprozesses automatisch auf diese Seite weitergeleitet</td></tr><tr><td><code>scope</code></td><td><p>api1 => erforderlich</p><p>offline_access <em>=></em> um ein refresh_token zu erhalten (lange Sitzungen)</p></td></tr><tr><td><code>state</code></td><td>Ein von Ihrer Anwendung generierter zufälliger Schlüssel, der Cross-Site-Request-Forgery-Angriffe (CSRF) verhindert, siehe <a href="https://auth0.com/docs/protocols/oauth2/mitigate-csrf-attacks">Mitigate CSRF Attacks With State Parameters</a>. Client-Bibliotheken handhaben dies schnell</td></tr></tbody></table>
 
-
-
 ## OAuth2 "Client credential" Flow
 
 ### Authentifizierungsmethode
@@ -143,8 +141,6 @@ Liste der Dastra-Mandanten abrufen
 ```
 {% endtab %}
 {% endtabs %}
-
-
 
 Alle Anfragen müssen über [HTTPS](http://en.wikipedia.org/wiki/HTTP_Secure) und immer serverseitig erfolgen. Anfragen ohne Authentifizierung schlagen mit dem Fehlercode 401 fehl.
 

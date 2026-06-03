@@ -8,8 +8,6 @@ Gehen Sie dazu zur Listenansicht mit dem Titel „KI-Systeme". Öffnen Sie oben 
 
 Wir empfehlen Ihnen, die Schritte auf der Seite [Ihre Daten importieren (Excel, CSV, JSON)](../generalites/importer-vos-donnees-excel-csv.md) für weitere Details zu befolgen.
 
-
-
 ## Importformat der KI-Systeme in Dastra
 
 Dieser Leitfaden beschreibt das erwartete Format für die CSV-Datei zum Import von KI-Systemen in Dastra.

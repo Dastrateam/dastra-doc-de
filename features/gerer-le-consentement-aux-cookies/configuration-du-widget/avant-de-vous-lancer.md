@@ -62,10 +62,7 @@ Um Cookies standardmäßig zu blockieren, gibt es mehrere mögliche Strategien, 
 * **Vollständig blockieren**: Die Ausführung des Tags wird vollständig blockiert, solange der Nutzer die Cookies nicht akzeptiert hat;
 * **Teilweise blockieren**: Nur die Tracking-Funktionen werden blockiert (sofern die Bibliothek dies ermöglicht). Einige Bibliotheken können nämlich in einem vollständig degradierten Modus ohne Leistungseinbußen funktionieren.
 
-
-
 {% content-ref url="scannez-les-cookies-deposes-sur-votre-site-web.md" %}
 [scannez-les-cookies-deposes-sur-votre-site-web.md](scannez-les-cookies-deposes-sur-votre-site-web.md)
 {% endcontent-ref %}
-
 

@@ -4,8 +4,6 @@ description: Erfahren Sie, wie Sie Entitäten und Abteilungen in Dastra erstelle
 
 # Organisationseinheiten erstellen und einrichten
 
-{% embed url="https://youtu.be/WPSzbYtu3j4" %}
-
 ### Einführung
 
 Die Organisationseinheiten ermöglichen es, Ihren Mandanten zu strukturieren. Zwei Arten von Organisationseinheiten können erstellt werden:&#x20;
@@ -23,11 +21,7 @@ Jede Entität in Dastra gilt als ein Verantwortlicher.&#x20;
 
 Navigieren Sie zu "Einstellungen" auf der linken Seite des Bildschirms und klicken Sie dann auf "Organisationseinheiten".
 
-
-
 ![Schaltfläche zum Zugriff auf die Mandanten-Einstellungen](<../../.gitbook/assets/Capture d'écran 2024-10-17 123108.png>)
-
-
 
 ![Zugriff auf die Einstellungen der Organisationseinheiten](<../../.gitbook/assets/Capture d'écran 2024-10-17 123327.png>)
 
@@ -79,10 +73,6 @@ Sie können sie auch direkt hier herunterladen&#x20;
 &#x20;Importdatei für Organisationseinheiten
 {% endfile %}
 
-
-
-
-
 Die Datei muss mit folgenden Pflichtfeldern ausgefüllt werden:&#x20;
 
 * **Id**: Die eindeutige Kennung der Organisationseinheit (5-stellige Zahl)
@@ -97,15 +87,11 @@ Das Feld **ParentId** ist nicht obligatorisch, ermöglicht aber die Identifizier
 Es ist wichtig, die Anzahl der Hierarchieebenen auf 7 Stufen (Eltern-Kind-Beziehungen) zu begrenzen, um eine korrekte Datenverarbeitung sicherzustellen.
 {% endhint %}
 
-
-
 Beispiel:
 
 <table><thead><tr><th>Id</th><th>ParentId</th><th width="492">Label</th><th>CountryCode</th><th>Type</th></tr></thead><tbody><tr><td>20996</td><td></td><td>HOLDING</td><td>FR</td><td>Entity</td></tr><tr><td>21009</td><td>20996</td><td>Informatique</td><td>BE</td><td>Area</td></tr></tbody></table>
 
 Nachdem Sie die Datei ausgefüllt haben, laden Sie sie im Upload-Bereich hoch und folgen Sie den Anweisungen.
-
-
 
 ## Entitäten und Abteilungen über das Organigramm visualisieren und einrichten
 
@@ -130,14 +116,6 @@ Mithilfe des Nutzer-Teams-Systems können Sie den Zugriff auf den Inhalt einer O
 Dazu müssen Teams den Organisationseinheiten zugeordnet werden.&#x20;
 
 Das System ist hierarchisch aufgebaut. Das bedeutet, dass ein Team, um auf eine untergeordnete Organisationseinheit zugreifen zu können, auch Zugriff auf die übergeordnete Organisationseinheit haben muss.&#x20;
-
-
-
-Hier ein erklärendes Video:
-
-
-
-{% embed url="https://youtu.be/RCLIWokRmAA" %}
 
 ## Weiterführende Informationen
 

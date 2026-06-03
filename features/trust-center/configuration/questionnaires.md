@@ -10,8 +10,6 @@ Um die Funktion 'Fragebögen' in Ihrem Trust Center zu aktivieren, konsultieren 
 
 <figure><img src="../../../.gitbook/assets/image (393).png" alt=""><figcaption><p>Die Konfigurationsregisterkarte für Fragebögen Ihres Trust Centers</p></figcaption></figure>
 
-
-
 #### Einen Fragebogen zu Ihrem Trust Center hinzufügen
 
 Um einen Fragebogen hinzuzufügen, wählen Sie die in Ihrem Trust Center zu teilenden Fragebögen aus, indem Sie auf **Fragebögen hinzufügen** klicken. Ein Auswahlfenster öffnet sich, in dem Sie einen oder mehrere Fragebögen auswählen können. Klicken Sie nach Ihrer Auswahl auf **Hinzufügen** zur Bestätigung. Die verfügbaren Fragebögen entsprechen denen, die Sie im Fragebogen-Modul dieses Mandanten installiert haben.

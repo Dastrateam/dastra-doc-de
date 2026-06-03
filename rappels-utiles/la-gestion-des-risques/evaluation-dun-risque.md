@@ -54,11 +54,7 @@ Ein "**Brutto**"-Risiko wird ohne die Gesamtheit der Kontroll- und Steuerungsma�
 
 Ein "**Netto**"-Risiko (oder Restrisiko) wird hingegen unter Berücksichtigung aller bereits vorhandenen und wirksamen Maßnahmen bewertet.
 
-
-
 ## Visualisierung eines Risikos
-
-
 
 ![Beispiel für die Visualisierung von Risiken in Dastra.](<../../.gitbook/assets/image (198).png>)
 

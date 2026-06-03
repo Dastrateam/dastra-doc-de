@@ -4,8 +4,6 @@ description: Dokumentieren Sie die Verarbeitungszwecke und die zugehörige Recht
 
 # Verarbeitungszwecke
 
-{% embed url="https://youtu.be/JFiY1ydSiDg" %}
-
 ## Verarbeitungszwecke
 
 Ein **Verarbeitungszweck** stellt das Ziel dar, das mit der Einrichtung Ihrer Datei verfolgt wird. Er gibt an, wozu die Verarbeitung personenbezogener Daten dient, ihre Daseinsberechtigung. Dieses Ziel muss klar und verständlich sein.
@@ -34,8 +32,6 @@ Für jeden Zweck müssen Sie [**die Rechtsgrundlage**](https://www.cnil.fr/fr/le
 Das Hinzufügen von Verarbeitungszwecken erfolgt in Abschnitt 3 der Verarbeitung.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Verarbeitungszweck hinzufügen</p></figcaption></figure>
-
-
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

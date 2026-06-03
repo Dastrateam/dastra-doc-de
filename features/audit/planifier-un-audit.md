@@ -6,8 +6,6 @@ description: Erfahren Sie, wie Sie einen Fragebogen mit Dastra planen.
 
 ## Die Planung einer Kampagne
 
-{% embed url="https://youtu.be/YGU3yPRtQok" %}
-
 Sobald die Fragebogenvorlage erstellt und angepasst ist, starten Sie eine Kampagne, indem Sie auf die Schaltfläche "Fragebogen planen" klicken.
 
 Es gibt zwei Möglichkeiten, eine Fragebogenkampagne zu versenden:
@@ -37,8 +35,5 @@ Sie können einen Fragebogen nur mit einem einzigen Objekt in Dastra verknüpfen
 
 ## Wie erstellt man einen Maßnahmenplan aus einem Fragebogen?
 
-{% embed url="https://youtu.be/hPeM4mHOzww" %}
-
 ## Wie validiert man einen Fragebogen?
 
-{% embed url="https://youtu.be/caEBTQTV2Yo" %}

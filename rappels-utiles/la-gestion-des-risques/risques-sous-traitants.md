@@ -36,4 +36,3 @@ Der Auftragsverarbeiter haftet nicht für materielle oder immaterielle Schäden,
 [etape-4-gerer-les-risques.md](../../getting-started/tutoriel/etape-4-gerer-les-risques.md)
 {% endcontent-ref %}
 
-

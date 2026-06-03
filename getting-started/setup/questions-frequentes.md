@@ -34,15 +34,11 @@ Um den Datenschutzbeauftragten zu wechseln, ist es ganz einfach! Navigieren Sie 
 
 Dann [wählen Sie](designer-un-dpo.md#ajouter-un-dpo-dans-dastra) den Stakeholder aus, der als DSB benannt werden soll.&#x20;
 
-
-
 ## Wie fügt man einen Inhaber der Organisation hinzu?&#x20;
 
 Um einen Inhaber hinzuzufügen, müssen Sie selbst Inhaber der Organisation sein. Gehen Sie dann zur Organisationskonfiguration ([https://app.dastra.eu/general-settings/organization](https://app.dastra.eu/general-settings/organization)) und klicken Sie auf "Neuer Inhaber".&#x20;
 
 Sie können einen Nutzer auswählen, der bereits in Ihrer Organisation eingeladen ist. Wenn dieser noch nicht in Ihrer Organisation ist, können Sie ihn nicht hinzufügen.&#x20;
-
-
 
 ## Wie entfernt man einen Inhaber der Organisation?&#x20;
 

@@ -120,8 +120,6 @@ Um nur den ersten Wert einer Variablen vom Typ Array anzuzeigen (erster Genehmig
 {{accountable.displayName}}
 ```
 
-
-
 ### Beispiele&#x20;
 
 **Beispiel eines aktionsbasierten Workflows**
@@ -159,6 +157,3 @@ Diese Funktionalität ermöglicht die Harmonisierung der Automatisierungsregeln 
 
 ***
 
-## Video-Tutorial: Die Workflow-Regeln
-
-{% embed url="https://www.youtube-nocookie.com/embed/FqPmGdk2nTI" %}

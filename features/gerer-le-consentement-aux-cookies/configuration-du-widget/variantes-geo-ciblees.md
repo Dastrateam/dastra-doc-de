@@ -54,8 +54,6 @@ Sobald die Variante erstellt ist, können Sie sie **vollständig unabhängig** v
 * **Angezeigte Dienste**: Sie können die Liste der angezeigten Tracker einschränken oder erweitern
 * **Auslöser**: spezifische Anzeigebedingungen
 
-
-
 #### 5. Die Anzeige des Banners deaktivieren (optional)
 
 Eine Option ermöglicht es, **kein Banner** für Nutzer der Zielzone anzuzeigen.

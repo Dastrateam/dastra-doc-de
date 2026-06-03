@@ -18,8 +18,6 @@ Beginnen Sie im Tag-Eingabeformular, den Namen eines beliebigen Tags einzutippen
 
 <figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## **Wie verwaltet man alle Tags der Anwendung?**
 
 * Gehen Sie zu > **Einstellungen des Mandanten** ![](<../../.gitbook/assets/image (11) (1) (2).png>)&#x20;

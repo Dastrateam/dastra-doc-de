@@ -157,6 +157,4 @@ Hier einige häufige Szenarien, ihre Ziele und die zu verwendenden **Dastra-Endp
 * **Direkte API-Integrationen** = Robustheit und Skalierbarkeit für große Organisationen.
 * Mit diesen Modellen kann sich Dastra nahtlos in IT-, Daten- und Business-Ökosysteme integrieren.
 
-
-
 [Kontaktieren Sie uns](https://www.dastra.eu/fr/contacts/demo) für weitere Informationen.

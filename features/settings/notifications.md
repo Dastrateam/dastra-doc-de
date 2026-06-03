@@ -119,8 +119,6 @@ Achtung: Sie erhalten keine Benachrichtigung für Elemente, die Sie selbst betre
 
 Sie können eine monatliche Zusammenfassung der Aktivitäten Ihres Mandanten erhalten. Klicken Sie auf die Benachrichtigung: **Präferenzen: Anmeldung zum monatlichen Bericht**
 
-
-
 ***
 
 ### 🔗 Siehe auch

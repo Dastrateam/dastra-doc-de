@@ -7,8 +7,6 @@ description: >-
 
 # Assets
 
-{% embed url="https://youtu.be/cDB0qfqGaqU" %}
-
 Hier geht es darum, die Anwendungen, Software oder Ähnliches einzutragen, die als **Träger für personenbezogene Daten** dienen.
 
 _Wenn Sie beispielsweise eine CRM-Kundenbeziehungssoftware verwenden, fügen Sie diese in diese Liste ein._

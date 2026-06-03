@@ -64,10 +64,6 @@ Ein Fenster erscheint mit einer Auswahl möglicher Exportformate. Klicken Sie au
 
 Geschafft, Ihre Aufgaben sind exportiert!
 
-
-
-{% embed url="https://youtu.be/MVWJev04V8Y" %}
-
 ## Weiterführende Informationen
 
 {% content-ref url="synchroniser-avec-dautres-calendriers.md" %}

@@ -1,7 +1,5 @@
 # Schritt 5: Interne Prozesse implementieren
 
-
-
 Um jederzeit ein hohes Schutzniveau für personenbezogene Daten zu gewährleisten, müssen Sie [interne Verfahren einrichten](https://www.cnil.fr/fr/organiser-les-processus-internes), die den Datenschutz zu jedem Zeitpunkt berücksichtigen, unter Einbeziehung aller Ereignisse, die im Laufe des Lebenszyklus einer Verarbeitung auftreten können (z. B.: Sicherheitslücke, Verwaltung von Berichtigungs- oder Auskunftsanfragen, Änderung der erhobenen Daten, Wechsel eines Dienstleisters).
 
 Dastra ermöglicht es Ihnen, die folgenden internen Prozesse zu digitalisieren und zumindest teilweise zu automatisieren:
@@ -23,5 +21,4 @@ Dastra ermöglicht es Ihnen, die folgenden internen Prozesse zu digitalisieren u
 {% content-ref url="../../features/documenter-les-violations-de-donnees/" %}
 [documenter-les-violations-de-donnees](../../features/documenter-les-violations-de-donnees/)
 {% endcontent-ref %}
-
 

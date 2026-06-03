@@ -4,8 +4,6 @@ description: Erfahren Sie, wie Sie die Karte der Datenübermittlungen in Dastra 
 
 # Karte der Datenübermittlungen visualisieren
 
-{% embed url="https://youtu.be/tgYM6-wNKtc" %}
-
 ## Einführung
 
 In Dastra können Daten auf verschiedene Weisen visualisiert werden. Eine davon ist die **Karte der Datenübermittlungen**.
@@ -15,8 +13,6 @@ Diese Visualisierung ermöglicht es insbesondere, die geografischen Datenübermi
 ## Karte der Datenübermittlungen visualisieren
 
 Um die Karte der Datenübermittlungen zu visualisieren, klicken Sie auf das Modul "Verzeichnis" und dann auf die Schaltfläche "**Übermittlungen**" über Ihrer Verarbeitungsliste.&#x20;
-
-
 
 ![Modul "Verzeichnis"](<../../../.gitbook/assets/image (199).png>)
 

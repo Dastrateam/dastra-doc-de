@@ -21,7 +21,6 @@ Es ermöglicht die genaue Identifizierung von:
 * Den **Speicherdauern**
 * Den umgesetzten **Sicherheitsmaßnahmen**
 
-{% embed url="https://youtu.be/R_Z2m4sb-44" %}
 Wie Sie in den "Run"-Modus bei der Verwaltung der Verarbeitungsverzeichnisse wechseln
 {% endembed %}
 
@@ -146,8 +145,6 @@ Dastra integriert bereits jetzt ein **Register der KI-Systeme**, um:
 * Zwecke, verwendete Modelle und Trainingsdaten zu beschreiben,
 * Risiken und Maßnahmen zur Risikominderung zu bewerten,
 * Die Compliance mit KI-Verordnung und DSGVO in einem gemeinsamen Bereich zu verfolgen.
-
-
 
 ***
 

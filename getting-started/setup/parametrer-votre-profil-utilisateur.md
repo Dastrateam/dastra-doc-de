@@ -93,8 +93,6 @@ Eine Wiederherstellung ist nicht möglich.
 
 ### 💡 Bewährte Praktiken
 
-
-
 * Halten Sie Ihre Kontaktdaten aktuell, um die Kontinuität der Kommunikation sicherzustellen.
 * Verwenden Sie einen professionellen Spitznamen für die Dastra-Community.
 * Informieren Sie vor der Löschung Ihres Kontos Ihren Administrator, um Datenverlust zu vermeiden.&#x20;

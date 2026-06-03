@@ -4,15 +4,9 @@ description: Erfahren Sie alles über die Integration von Webhooks in Dastra
 
 # Webhooks
 
-
-
-{% embed url="https://youtu.be/gqwGui1ua7Y" %}
-
 ## Konzept 👓
 
 Einfach ausgedrückt ermöglichen Webhooks das **Auslösen einer Aktion** nach einem Ereignis. Sie werden in der Regel verwendet, um Systeme miteinander kommunizieren zu lassen. Es ist die einfachste Art, eine Warnung zu erhalten, wenn etwas in Dastra passiert. Das Ziel ist die Benachrichtigung von Drittanwendungen (API, CRM, Serverless-Funktionen...) in Echtzeit.
-
-
 
 ## Konfiguration 🛠️
 
@@ -59,8 +53,6 @@ Es gibt derzeit kein System zum erneuten Abspielen fehlgeschlagener Webhooks und
 ### Ihre Webhook-URL testen 🧪
 
 Sie können Ihren Webhook unter realen Bedingungen testen, **indem Sie auf die Schaltfläche „Testen" klicken.**
-
-
 
 ### Webhook absichern 🛡️
 

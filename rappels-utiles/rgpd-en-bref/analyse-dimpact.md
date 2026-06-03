@@ -168,6 +168,5 @@ Dastra ermöglicht es, jede **DSFA** mit einem **KI-System** zu verknüpfen, um 
 
 ### 📘 Weiterführende Informationen
 
-{% embed url="https://www.youtube.com/watch?v=yfaJC-YESPk" %}
 🎥 Webinar "Wie Sie die DSFA-Phase mit einem Tool angehen"
 {% endembed %}

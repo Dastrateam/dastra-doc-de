@@ -6,8 +6,6 @@ description: >-
 
 # Rollen und Berechtigungen
 
-{% embed url="https://youtu.be/wNrj3Ru2wz8" %}
-
 ## Allgemeine Funktionsweise
 
 Jeder Nutzer kann einer oder mehreren Rollen zugeordnet werden. Die Rollen sind ihrerseits mit einer Liste von Berechtigungen verknüpft (z. B.: im Verzeichnis schreiben, einen Fragebogen erstellen...). Es gibt zwei Möglichkeiten, die den Nutzern zugeordneten Rollen zu verwalten.&#x20;
@@ -24,8 +22,6 @@ Sie können eine neue benutzerdefinierte Rolle erstellen, indem Sie auf die Scha
 <figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
 
 Es ist dann möglich, die den Berechtigungen zugeordneten Kontrollkästchen auszuwählen:
-
-
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-11-24 153151.png" alt=""><figcaption><p>Erstellung einer Aufgabenverwaltungsrolle</p></figcaption></figure>
 

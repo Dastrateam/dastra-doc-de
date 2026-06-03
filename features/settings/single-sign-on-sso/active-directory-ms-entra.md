@@ -6,10 +6,6 @@ description: >-
 
 # Active Directory (MS Entra)
 
-Erfahren Sie in der Video-Anleitung, wie Sie das SSO Active Directory (Microsoft Entra) Schritt für Schritt konfigurieren:
-
-{% embed url="https://www.youtube.com/embed/SUC_J489wjI?si=VPoD5nAxG_i1-AEp" %}
-
 ## **Konfiguration der Anwendung im Azure-Portal**
 
 * Gehen Sie zum Microsoft Azure-Portal: [https://portal.azure.com](https://portal.azure.com)
@@ -24,8 +20,6 @@ Erfahren Sie in der Video-Anleitung, wie Sie das SSO Active Directory (Microsoft
 * **Sie gelangen auf diese Seite**
 
 ![](<../../../.gitbook/assets/image (8) (1).png>)
-
-
 
 ## **Konfiguration des SSO-Clients in Dastra**
 

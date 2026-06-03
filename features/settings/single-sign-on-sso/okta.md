@@ -32,8 +32,6 @@ Für das Anwendungslogo können Sie [dieses hier verwenden](https://www.dastra.e
 
 <figure><img src="../../../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
 
-
-
 **Schritt 6**: Gehen Sie zurück zu Okta und fügen Sie die Umleitungs-URL in das entsprechende Feld ein, wählen Sie die Okta-Nutzer aus, denen Sie Zugang zu Dastra gewähren möchten (standardmäßig können Sie „Allow everyone" aktivieren) und klicken Sie auf „**Save**"
 
 ![](../../../.gitbook/assets/okta-redirecturi-config.png)
@@ -52,8 +50,6 @@ Für das Anwendungslogo können Sie [dieses hier verwenden](https://www.dastra.e
 * **Geheimer Schlüssel**: Kopieren Sie den geheimen Schlüssel von Okta
 * **Scope**: openid profile email &#x20;
 * **Response-Typ**: id\_token
-
-
 
 ![](../../../.gitbook/assets/okta-dastra-settings.png)
 

@@ -60,11 +60,7 @@ Betroffenenanfragen können auch über ein spezifisches Widget erfasst werden, d
 
 Konsultieren Sie [unseren Leitfaden zur Einrichtung des Widgets für Betroffenenanfragen](./#mise-en-place-de-widget-de-demande-dexercice-de-droits)
 
-
-
 {% content-ref url="implementez-un-widget-dexercice-des-droits.md" %}
 [implementez-un-widget-dexercice-des-droits.md](implementez-un-widget-dexercice-des-droits.md)
 {% endcontent-ref %}
-
-
 

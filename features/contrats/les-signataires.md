@@ -1,7 +1,5 @@
 # Die Unterzeichner
 
-
-
 {% hint style="info" %}
 Der Unterzeichner eines Vertrags ist in der Regel eine natürliche oder juristische Person, die **als Akteur in Dastra referenziert ist**.
 {% endhint %}

@@ -6,8 +6,6 @@ description: >-
 
 # Allgemein
 
-{% embed url="https://youtu.be/wkRBxYOcVmc" %}
-
 [**Artikel 30 der DSGVO**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4) verpflichtet jeden Verantwortlichen, ein Verzeichnis der Verarbeitungstätigkeiten zu führen, für die er verantwortlich ist. Es stellt das erste Element der Rechenschaftspflicht ("Accountability") dar, mit dem die Einhaltung der DSGVO nachgewiesen werden kann. Das Verarbeitungsverzeichnis ermöglicht es, Ihre Datenverarbeitungen zu erfassen und einen Gesamtüberblick darüber zu erhalten, was Sie mit personenbezogenen Daten tun.
 
 Die Verarbeitungstätigkeit stellt die "Dachaktivität" dar, die alle im Rahmen der Tätigkeit verfolgten Verarbeitungszwecke umfasst.&#x20;

@@ -46,8 +46,6 @@ Die Methodik des Risikomanagements entspricht den Standardanforderungen des Risi
 
 4: Risikoüberwachung
 
-
-
 Das Risiko wird allgemein wie folgt gemessen:&#x20;
 
 $$

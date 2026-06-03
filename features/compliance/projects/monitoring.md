@@ -61,7 +61,6 @@ Jeder Nachweis kann dokumentiert werden, um nachfolgende Audits zu erleichtern.
 
 {% column %}
 
-
 <figure><img src="../../../.gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
@@ -99,7 +98,6 @@ Der globale Fortschritt der Kampagne ist in Echtzeit sichtbar, sodass der Projek
 {% endcolumn %}
 
 {% column %}
-
 
 <figure><img src="../../../.gitbook/assets/image (468).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}

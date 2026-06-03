@@ -156,4 +156,3 @@ window.addEventListener('dastra:consent:<slug du service>', function(){
 </script>
 ```
 
-

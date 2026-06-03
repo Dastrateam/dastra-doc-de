@@ -61,19 +61,14 @@ Beispiel: Sie wählen die Variable "Anzahl Datenverarbeitungen" und "Status" aus
 | Entwurf | 12                         |
 | Aktiv   | 560                        |
 
-
-
 ## Anzeige und grafische Darstellung des benutzerdefinierten Berichts
 
 Sobald der Bericht erstellt wurde, werden Sie auf die folgende Seite weitergeleitet:&#x20;
 
 <figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption><p>Bildschirmaufnahme der Ergebnisse der benutzerdefinierten Berichte</p></figcaption></figure>
 
-
-
 Um ein Diagramm hinzuzufügen, klicken Sie auf "**Diagramm hinzufügen**".
 
 Sie können dann verschiedene Diagrammkategorien definieren.\
 ![](<../../.gitbook/assets/image (289).png>)
-
 

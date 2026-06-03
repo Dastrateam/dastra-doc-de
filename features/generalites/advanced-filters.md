@@ -6,8 +6,6 @@ description: >-
 
 # Erweiterte Filter
 
-{% embed url="https://www.youtube-nocookie.com/embed/uLzd1as3QBo?si=yokS5cLZcNJ__V4z" %}
-
 ## Verwendung
 
 Die erweiterten Filter ermöglichen es Ihnen, Ihre Daten nach nahezu allen Feldern Ihrer Entitäten zu filtern.

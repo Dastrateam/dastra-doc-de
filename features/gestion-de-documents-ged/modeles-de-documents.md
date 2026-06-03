@@ -6,8 +6,6 @@ Um auf die Dokumentressourcen zuzugreifen, navigieren Sie zum Modul "Monitoring 
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-18 104530.png" alt=""><figcaption><p>Zugang zu den Ressourcen</p></figcaption></figure>
 
-
-
 Sie müssen nur noch die Vorlagen auswählen
 
 <figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>

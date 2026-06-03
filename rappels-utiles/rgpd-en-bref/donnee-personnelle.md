@@ -97,8 +97,6 @@ Dastra ermöglicht es, **personenbezogene Daten mit ihrer Verwendung in KI-Syste
 [systemes-dia](../../features/systemes-dia/)
 {% endcontent-ref %}
 
-
-
 ***
 
 ### 🔍 Weiterführende Informationen

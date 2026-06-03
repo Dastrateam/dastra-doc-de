@@ -35,12 +35,7 @@ Unser Ziel: **Compliance und Governance von Daten und KI einfach, nützlich und 
 > Bei Dastra sind wir der Überzeugung, dass Compliance nicht nur eine regulatorische Pflicht ist:\
 > Sie ist ein Hebel für **Transparenz, Vertrauen und verantwortungsvolle Innovation.**
 
-Weitere Informationen finden Sie in unserem [Manifesto](https://www.dastra.eu/fr/mission)\
-oder sehen Sie sich das Video unseres CEO an:
-
-{% embed url="https://www.youtube.com/watch?v=Aea2PscbEHU" fullWidth="false" %}
-Unser Ansatz zum Datenschutz
-{% endembed %}
+Weitere Informationen finden Sie in unserem [Manifesto](https://www.dastra.eu/fr/mission).
 
 ***
 
@@ -90,8 +85,6 @@ Dieses Verzeichnis ermöglicht es Ihnen:
 * **Zwecke, Datenquellen, Risikobewertungen und Kontrollmaßnahmen zu dokumentieren.**
 * **Die fortlaufende Compliance** der Modelle durch regelmäßige Audits und Maßnahmenpläne sicherzustellen.
 * **KI und Datenverarbeitungen zu verknüpfen**: Einheitliche DSGVO-/KI-Verordnung-Kartierung.
-
-
 
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 

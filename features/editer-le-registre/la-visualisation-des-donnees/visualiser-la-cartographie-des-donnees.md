@@ -4,8 +4,6 @@ description: Erfahren Sie, wie Sie die Datenkartierung in Dastra visualisieren.
 
 # Datenkartierung des Verzeichnisses visualisieren
 
-{% embed url="https://www.youtube-nocookie.com/embed/RuhOQL6j0PE?si=sAnjkCklIehTilrh" %}
-
 ## Einführung
 
 In Dastra können Daten auf verschiedene Weisen visualisiert werden. Eine davon ist die **Datenkartierung des Verarbeitungsverzeichnisses**.
@@ -15,8 +13,6 @@ Diese Visualisierung ermöglicht es insbesondere, die Verknüpfungen zwischen de
 ## Datenkartierung des Verzeichnisses visualisieren
 
 Um die Datenkartierung des Verzeichnisses zu visualisieren, klicken Sie auf das Modul "Verzeichnis" und dann auf die Schaltfläche "**Datenkartierung**" über Ihrer Verarbeitungsliste.&#x20;
-
-
 
 ![Modul "Verzeichnis"](<../../../.gitbook/assets/image (199).png>)
 
@@ -31,8 +27,6 @@ Sobald die Datenkartierung angezeigt wird, kann sie durch **Doppelklick** auf di
 
 Eine Suchleiste ermöglicht auch zusätzliche Filter.
 {% endhint %}
-
-
 
 ## Weiterführende Informationen
 

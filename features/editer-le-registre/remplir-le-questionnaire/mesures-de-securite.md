@@ -1,7 +1,5 @@
 # Sicherheitsmaßnahmen
 
-{% embed url="https://youtu.be/r6QGbq1tZ20" %}
-
 [**Artikel 30 Abs. 1 Buchst. g) der DSGVO**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4) verlangt, im Verzeichnis "_soweit möglich, eine allgemeine Beschreibung der technischen und organisatorischen Sicherheitsmaßnahmen gemäß_[_**Artikel 32 Absatz 1**_](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article32)" einzutragen.
 
 Jeder Verantwortliche oder Auftragsverarbeiter ist gemäß den [**Artikeln 5 Abs. 1 Buchst. f)**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article5) und [**32**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article32) der DSGVO verpflichtet, die Sicherheit der Daten durch dem Risikoniveau angemessene Maßnahmen zu gewährleisten.&#x20;

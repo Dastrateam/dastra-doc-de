@@ -10,8 +10,6 @@ Das Erstellen oder Bearbeiten einer Fragebogenvorlage in Dastra ist kinderleicht
 
 ## Eine Fragebogenvorlage erstellen oder bearbeiten
 
-{% embed url="https://youtu.be/bESwC6iMcI8" %}
-
 Um eine Fragebogenvorlage zu erstellen, klicken Sie auf die Schaltfläche "Vorlage erstellen" in der Registerkarte "Fragebögen". Anschließend können Sie einen der in Dastra verfügbaren Vorlagentypen auswählen: automatisierter Fragebogen, benutzerdefinierter Fragebogen oder aus einer Datei importiert.
 
 <figure><img src="../../../.gitbook/assets/image (16) (3).png" alt=""><figcaption></figcaption></figure>
@@ -79,8 +77,6 @@ Diese Typen ermöglichen eine gewisse Anpassung der Fragebogenvorlagen.
 Schließlich ist es möglich, eine Ihrer Fragebogenvorlagen im JSON-Format zu importieren. Wählen Sie dazu bei der Erstellung des Fragebogens die Option "Vorlage laden".
 
 ## Analyseblöcke
-
-{% embed url="https://youtu.be/Ot4OmgTKtrg" %}
 
 ## Weiterführende Informationen
 

@@ -71,9 +71,7 @@ Im Bearbeitungsmodus kann der Nutzer:
 
 {% column %}
 
-
 <figure><img src="../../../../.gitbook/assets/image (449).png" alt=""><figcaption></figcaption></figure>
-
 
 {% endcolumn %}
 {% endcolumns %}
@@ -166,7 +164,6 @@ Bei der Erstellung einer Anforderung bietet Dastra eine **KI-Unterstützung** an
 * dem übergeordneten Kapitel
 * dem Kontext des Frameworks
 
-
 {% endcolumn %}
 {% endcolumns %}
 
@@ -215,9 +212,7 @@ Für die Zuordnung von Kontrollen zu einer Anforderung gibt es zwei Ansätze.
 {% columns %}
 {% column %}
 
-
 Der Nutzer kann eine oder mehrere bereits in der Bibliothek vorhandene Kontrollen auswählen und der Anforderung zuordnen.
-
 
 {% endcolumn %}
 

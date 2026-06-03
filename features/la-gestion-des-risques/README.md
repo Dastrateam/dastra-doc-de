@@ -47,4 +47,3 @@ In Dastra kann ein Risiko **einem oder mehreren Objekten** zugeordnet werden, da
 [risques.md](risques.md)
 {% endcontent-ref %}
 
-

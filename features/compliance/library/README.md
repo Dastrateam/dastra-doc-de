@@ -19,7 +19,6 @@ Von der Bibliothek aus können Sie erstellen, strukturieren und pflegen:
 {% column %}
 <figure><img src="../../../.gitbook/assets/image (488).png" alt=""><figcaption></figcaption></figure>
 
-
 {% endcolumn %}
 {% endcolumns %}
 

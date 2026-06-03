@@ -39,8 +39,6 @@ Die Erstellung einer Mission ist der Ausgangspunkt Ihrer Bewertung. Klicken Sie 
 
 <figure><img src="../../../.gitbook/assets/image (510).png" alt=""><figcaption></figcaption></figure>
 
-
-
 #### 2. Audit-Phase und Zeitplan
 
 Die Wahl der Phase ermöglicht die Segmentierung Ihrer Mission und die Filterung Ihrer Governance-Dashboards.
@@ -104,8 +102,6 @@ Das Dashboard dient auch als kollaborativer Hub für das Audit-Team:
 
 Ergebnis dieses Schritts: Das Audit wird nun ausgeführt. Jede Eingabe aktualisiert dynamisch die globalen Compliance-Indikatoren des Projekts.
 
-
-
 ### 3. Bewertung der Anforderungen und Überprüfung der Kontrollen
 
 Sobald das Audit gestartet ist, besteht die Bewertungsphase darin, jede Anforderung des Referenzrahmens zu überprüfen, um die tatsächliche Compliance auf Basis der bestehenden Kontrollen und Tests zu validieren.
@@ -148,8 +144,6 @@ Während der Bewertung aktualisiert das System dynamisch die Tracking-Indikatore
 ***
 
 Erwartetes Ergebnis: Jede Anforderung ist nun mit einem Expertengutachten und verifizierten Nachweisen dokumentiert, was eine unveränderliche Audit-Spur für Regulierungsbehörden oder die Geschäftsleitung garantiert.
-
-
 
 ### 4. Abschluss und Schließung des Audits
 

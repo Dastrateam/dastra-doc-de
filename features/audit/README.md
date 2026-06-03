@@ -10,8 +10,6 @@ Um auf das Modul zuzugreifen, klicken Sie auf das Symbol **"Fragebögen"** auf d
 
 ## Benutzer-Tutorial
 
-{% embed url="https://www.youtube-nocookie.com/embed/IHevXHniVvk" %}
-
 ## Eine Vorlage erstellen
 
 {% content-ref url="creez-un-modele-daudit/" %}

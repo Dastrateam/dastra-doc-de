@@ -6,8 +6,6 @@ description: >-
 
 # Datenkartierung
 
-{% embed url="https://youtu.be/Cl8aBeX68s4" %}
-
 #### Alles beginnt mit einer Datenkartierung <a href="#id-0-label" id="id-0-label"></a>
 
 Bevor Sie mit der Erstellung Ihrer Verarbeitungsblätter beginnen, empfehlen wir Ihnen, die Daten des Unternehmens so genau wie möglich zu kartieren. Das folgende Schema zeigt Ihnen die Struktur der Datenkartierung, die Sie einrichten können.
@@ -25,8 +23,6 @@ Diese Datenkartierung erleichtert die Erstellung von Verarbeitungsblättern erhe
 
 Sie möchten diese Inventarisierung nicht durchführen oder sind der Meinung, dass die von Ihnen verwendete Software Standard ist? Wir haben an alles gedacht: Sie können Ihr Asset-Referenzsystem mithilfe unserer Bibliothek vordefinierter Vorlagen erstellen, die die Standard-Assets des Marktes enthalten (Salesforce, Jira...).
 
-
-
 ### So greifen Sie auf die Datenkartierung zu
 
 1. [Greifen Sie auf Ihren Mandanten zu](../../getting-started/setup/espace-de-travail.md#accedez-a-un-espace-de-travail)
@@ -37,12 +33,7 @@ Sie möchten diese Inventarisierung nicht durchführen oder sind der Meinung, da
 
 Wählen Sie dann das Referenzsystem, auf das Sie zugreifen möchten.
 
-
-
 ## Erstellen Sie Ihre Liste der Sicherheitsmaßnahmen&#x20;
-
-{% embed url="https://youtu.be/5gHAl_8Tdv4" %}
 
 ## Wie verwaltet man seine Auftragsverarbeiter?
 
-{% embed url="https://youtu.be/VATg9fGMeU0" %}

@@ -52,4 +52,3 @@ Einfaches Beispiel:
 &#x20;Achtung, bestimmte Änderungen am Widget-Container können unerwünschte Effekte verursachen.
 {% endhint %}
 
-

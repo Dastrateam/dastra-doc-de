@@ -101,8 +101,6 @@ Die **KI-Verordnung** ergänzt diesen Rahmen, indem sie **KI-Systeme** nach ihre
 [systemes-dia](../../features/systemes-dia/)
 {% endcontent-ref %}
 
-
-
 ***
 
 {% hint style="warning" %}

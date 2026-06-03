@@ -5,8 +5,6 @@ description: >-
 
 # Integration in Datenanalyse-Tools (BI)
 
-
-
 {% hint style="info" %}
 Um diese Funktion zu nutzen, benötigen Sie in Ihrem Abonnement den **Enterprise**-Plan
 {% endhint %}
@@ -17,13 +15,9 @@ Dastra ermöglicht es Ihnen ganz einfach, [benutzerdefinierte Berichte](./) in I
 
 Navigieren Sie zum Modul der benutzerdefinierten Berichte, öffnen Sie einen davon und klicken Sie auf die Schaltfläche "In BI-Tool integrieren".&#x20;
 
-
-
 Ein modales Fenster öffnet sich, klicken Sie dann auf "Integrations-Link erstellen".
 
 **Kopieren Sie anschließend den generierten Link**
-
-
 
 {% hint style="info" %}
 Achtung! Geben Sie den generierten Link an niemanden weiter. Dieser ermöglicht den Zugriff auf die Rohdaten des Berichts.&#x20;
@@ -53,8 +47,6 @@ Achtung! Geben Sie den generierten Link an niemanden weiter. Dieser ermöglicht 
 * **Leistung**: Wenn Ihre JSON-Datei groß ist oder tiefe Hierarchien enthält, kann Power BI einige Zeit zum Laden und Transformieren der Daten benötigen.
 * **Datenaktualisierung**: Wenn die JSON-Daten regelmäßig aktualisiert werden (z. B. durch eine API), können Sie eine **Datenaktualisierung** im Power BI Service konfigurieren, um die neuesten Daten automatisch abzurufen.
 {% endhint %}
-
-
 
 ### Google Looker
 
@@ -86,8 +78,6 @@ Wenn Sie die Integration von JSON-Daten aus einer API oder einer externen Datei 
 2. **Transformieren Sie die Daten**, damit sie den Anforderungen Ihres Daten-Warehouses entsprechen.
 3. **Laden Sie die Daten in das Warehouse** (z. B. BigQuery).
 4. **Verbinden Sie Looker mit diesem Daten-Warehouse**, um Daten abzufragen und zu visualisieren.
-
-
 
 ### Tableau Software
 

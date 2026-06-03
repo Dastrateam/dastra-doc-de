@@ -50,8 +50,6 @@ Sie können diese Werte anschließend in eine Tabelle exportieren oder über Ihr
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (6).png" alt=""><figcaption><p>Beispiel für Arbeitsaufwand-Felder</p></figcaption></figure>
 
-
-
 ## Wie erinnert man an eine Aufgabe?
 
 Sie können eine Aufgabenbenachrichtigung erneut an einen Nutzer senden, indem Sie ihn in einer Diskussion erwähnen.&#x20;

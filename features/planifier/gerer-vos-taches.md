@@ -12,12 +12,6 @@ In Dastra entspricht eine Aufgabe einer Arbeit, die ausgeführt werden muss.
 
 ## Erstellung einer Aufgabe&#x20;
 
-
-
-{% embed url="https://youtu.be/ARvp9PGVnAE" %}
-
-
-
 Um eine Aufgabe zu erstellen, haben Sie zwei Möglichkeiten:
 
 * Sie erstellen eine Aufgabe direkt im Maßnahmenplan

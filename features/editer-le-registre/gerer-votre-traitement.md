@@ -18,8 +18,6 @@ Wählen Sie den Typ der Verarbeitung&#x20;
 
 Füllen Sie die Beschreibung der Verarbeitungstätigkeit aus, und Sie werden zum Fragebogenbereich weitergeleitet, wo Sie alle erforderlichen Informationen hinzufügen können.
 
-
-
 ## Verarbeitung als Auftragsverarbeiter erstellen
 
 Um eine Verarbeitung als Auftragsverarbeiter zu erstellen, ist es ganz einfach. Sie müssen beim Erstellen einer Verarbeitung das Kontrollkästchen aktivieren&#x20;

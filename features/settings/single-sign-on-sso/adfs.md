@@ -54,13 +54,9 @@ So konfigurieren Sie das Dastra SSO mit ADFS SSO SAML2P
 
 **Schritt 2:** Klicken Sie rechts auf **„Relying Party Trusts**" und wählen Sie „**Add Relying Party Trust**". Dies startet den Assistenten zum Hinzufügen eines **Relying Party Trust**.
 
-
-
 &#x20;![](<../../../.gitbook/assets/image (248).png>)
 
 **Schritt 3:**  Im Bildschirm _**Select Data Source**_ wählen Sie _**Enter data about the relying party manually**_.&#x20;
-
-
 
 &#x20;![](<../../../.gitbook/assets/image (254).png>)
 

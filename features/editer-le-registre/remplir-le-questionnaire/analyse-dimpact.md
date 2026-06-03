@@ -1,7 +1,5 @@
 # Datenschutz-Folgenabschätzung
 
-{% embed url="https://youtu.be/We7jZ2DpmLk" %}
-
 Dieser Schritt ermöglicht es Ihnen, auf einfache Weise zu bewerten, ob Ihre Verarbeitung Gegenstand einer Datenschutz-Folgenabschätzung (DSFA oder PIA auf Englisch) sein muss, wie in [**Artikel 35 der DSGVO**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article35) vorgesehen.&#x20;
 
 Was ist eine DSFA? Ein Verfahren zur Bewertung der Notwendigkeit und Verhältnismäßigkeit sowie zur Steuerung der Risiken.&#x20;

@@ -1,7 +1,5 @@
 # Dokumentation
 
-{% embed url="https://youtu.be/MoVRO4pSrkc" %}
-
 Die Dokumentationspflicht ergibt sich aus dem Grundsatz der Rechenschaftspflicht (Accountability), der in [**Artikel 24 der DSGVO**](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4) bekräftigt wird.&#x20;
 
 Diese Dokumentation zeigt sich in der Praxis zunächst durch das Verarbeitungsverzeichnis, aber auch durch andere Elemente der Datenverwaltung und der DSGVO-Compliance. Es kann sich um folgende Elemente handeln (nicht abschließende Liste):&#x20;

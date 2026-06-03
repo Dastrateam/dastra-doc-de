@@ -63,8 +63,6 @@ Zentralisieren Sie schließlich die Dokumentation Ihrer Compliance, insbesondere
 [etape-6-documenter-la-conformite.md](etape-6-documenter-la-conformite.md)
 {% endcontent-ref %}
 
-
-
 Herzlichen Glückwunsch, Sie haben das Tutorial abgeschlossen!
 
 Zögern Sie nicht, anschließend die Funktionen von Dastra zu erkunden, beginnend beispielsweise mit dem Verarbeitungsverzeichnis:

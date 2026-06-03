@@ -27,8 +27,6 @@ Das JavaScript-SDK des Widgets muss auf allen Seiten der Website aufgerufen werd
 
 ![Schematische Darstellung der globalen Funktionsweise des Cookie-Einwilligungs-Widgets](../../../.gitbook/assets/cookie-consent.png)
 
-
-
 ### 1. Besuch auf der Kundenwebsite
 
 Der Internetnutzer besucht die Website, auf der das JS-Code-Snippet installiert ist. Um die Leistung und das SEO der Webseiten nicht zu beeinträchtigen, wird das SDK vollständig asynchron mit einer Caching-Dauer von einem Tag geladen.
@@ -103,8 +101,6 @@ Für diese Phase empfehlen wir Ihnen den Leitfaden zur Cookie-Blockierung:
 {% content-ref url="blocage-des-cookies/" %}
 [blocage-des-cookies](blocage-des-cookies/)
 {% endcontent-ref %}
-
-
 
 {% hint style="info" %}
 Mit Ausnahme der unbedingt erforderlichen Cookies müssen alle Drittanbieterdienste, die Tracking durchführen, standardmäßig blockiert werden.&#x20;

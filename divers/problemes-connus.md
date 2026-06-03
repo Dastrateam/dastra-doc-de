@@ -43,8 +43,6 @@ Wenn Sie diese Option wählen, verlieren Sie Ihre Spalteneinstellungen in allen 
 
 Diese beiden Maßnahmen haben Ihr Problem nicht gelöst? Kontaktieren Sie den Support direkt über die Anwendung, per Chat oder über den "Megafon"-Tab.
 
-
-
 ## Fehler 401 bei der Anmeldung
 
 **Szenario**: Sie melden sich bei Dastra über die URL https://app.dastra.eu an, geben Ihre Anmeldedaten ein und gelangen auf eine Fehlerseite "**Zugriff verweigert (401)**".
