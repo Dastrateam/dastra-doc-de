@@ -14,7 +14,7 @@ In Dastra ist es möglich, alle erstellten Aktionen mit anderen Kalendern zu syn
 
 Gehen Sie dazu auf den Reiter "Spalten" oder "Tabelle" im Modul "Planung" und klicken Sie dann auf den Pfeil oben rechts auf dem Bildschirm neben der Schaltfläche "Neue Aufgabe". Klicken Sie anschließend auf "Mit meinem Kalender synchronisieren (Outlook...).
 
-![Das Dropdown-Menü der Aufgaben](<../../.gitbook/assets/Capture web\_4-5-2022\_152356\_app.dastra.eu.jpeg>)
+![Das Dropdown-Menü der Aufgaben](<../../.gitbook/assets/capture-web-4-5-2022-152356-app-dastra-eu.jpeg>)
 
 Dadurch wird ein **Link** generiert und/oder eine **.ics-Datei** heruntergeladen, mit der es möglich ist, den Kalender der Ihnen zugewiesenen Aufgaben mit jeder beliebigen Kalenderanwendung (Outlook, Google...) zu synchronisieren.
 

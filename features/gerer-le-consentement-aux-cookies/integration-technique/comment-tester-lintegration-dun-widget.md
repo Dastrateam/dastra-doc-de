@@ -6,7 +6,7 @@ description: Erfahren Sie, wie Sie die Integration eines Einwilligungs-Widgets t
 
 ## Vorschaumodus aktivieren
 
-![](<../../../.gitbook/assets/image (68).png>)
+![](<../../../.gitbook/assets/image-68.png>)
 
 Der Vorschaumodus deaktiviert den Widget-Cache und ermöglicht es Ihnen, Ihre Konfigurationsänderungen live zu sehen. Domains auf localhost werden ebenfalls zugelassen.
 

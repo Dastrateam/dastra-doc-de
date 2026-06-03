@@ -39,17 +39,17 @@ Dastra unterstützt nur die folgenden Datenformate:
 
 Um das Datenimport-Menü aufzurufen, klicken Sie auf die Schaltfläche "Importieren" unter jedem Pfeil der Erstellungsschaltfläche.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-18 102227.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-12-18-102227.png" alt=""><figcaption></figcaption></figure>
 
 Wählen Sie Excel, wenn Sie dazu aufgefordert werden:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (83) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-83-1.png" alt=""><figcaption></figcaption></figure>
 
 #### Herunterladen der Dateivorlage
 
 Laden Sie dann eine Dateivorlage herunter, indem Sie auf die Schaltfläche "Dateivorlage herunterladen" klicken
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-18 102637.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-12-18-102637.png" alt=""><figcaption></figcaption></figure>
 
 Die Dateivorlage ist **eine Datei im CSV-Format**, die Sie einfach mit LibreOffice, Wordpad, Excel oder Google Sheets bearbeiten können.
 
@@ -57,7 +57,7 @@ Diese enthält alle erforderlichen Spalten mit Beispieldaten.
 
 Beispieldatei (für das Verarbeitungsverzeichnis): &#x20;
 
-<figure><img src="../../.gitbook/assets/image (265).png" alt=""><figcaption><p>Zeile 2 enthält Beispieldaten, die ersetzt werden müssen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-265.png" alt=""><figcaption><p>Zeile 2 enthält Beispieldaten, die ersetzt werden müssen</p></figcaption></figure>
 
 #### Ausfüllen der Dateivorlage
 
@@ -65,7 +65,7 @@ Füllen Sie die heruntergeladene Datei mit Ihren Daten aus.
 
 Für jede Datendatei können Sie die erwarteten Werte der Spalten anzeigen:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (262) (1).png" alt=""><figcaption><p>Erwartete Werte für die Importdatei des Verarbeitungsverzeichnisses</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-262-1.png" alt=""><figcaption><p>Erwartete Werte für die Importdatei des Verarbeitungsverzeichnisses</p></figcaption></figure>
 
 Die Importe enthalten erwartete Werte auf Englisch. Das ist völlig normal. Es handelt sich um einen technischen Import in die Datenbank.&#x20;
 
@@ -95,7 +95,7 @@ Es ist möglich, ein bestehendes Objekt zu aktualisieren (z. B. einen Stakeholde
 
 In diesem Fall müssen Sie das Kontrollkästchen "Bestehende Daten aktualisieren" auswählen und das Zuordnungsfeld wählen. Dieses Feld ist der Schlüssel zur Identifizierung der zu aktualisierenden Felder.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (263).png" alt=""><figcaption><p>Daten aktualisieren</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-263.png" alt=""><figcaption><p>Daten aktualisieren</p></figcaption></figure>
 
 Durch Klicken auf die Schaltfläche "Daten übereinstimmender Zeilen überschreiben" werden die entsprechenden Daten durch die Importdaten ersetzt.
 
@@ -103,7 +103,7 @@ Durch Klicken auf die Schaltfläche "Daten übereinstimmender Zeilen überschrei
 
 Senden Sie die Datei, indem Sie in den Bereich klicken
 
-<figure><img src="../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-266.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Sie können Ihre Dateien auch per Drag-and-Drop in den Datei-Upload-Bereich ziehen
@@ -113,7 +113,7 @@ Sie können Ihre Dateien auch per Drag-and-Drop in den Datei-Upload-Bereich zieh
 
 Das folgende Hilfsprogramm ermöglicht es Ihnen, die Spalten Ihrer Excel-Datei zu validieren und gegebenenfalls den erwarteten Spalten im Importformat zuzuordnen.
 
-<figure><img src="../../.gitbook/assets/image (248) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-248-1.png" alt=""><figcaption></figcaption></figure>
 
 Wenn alles korrekt erscheint, können Sie den Datenimport starten.
 
@@ -121,7 +121,7 @@ Wenn alles korrekt erscheint, können Sie den Datenimport starten.
 
 Starten Sie den Datenimport, indem Sie auf die Schaltfläche "Fortfahren" klicken. Der Importprozess wird dann ausgelöst.
 
-<figure><img src="../../.gitbook/assets/image (252) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-252-1-1.png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Fertig!
 

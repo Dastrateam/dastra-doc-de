@@ -16,9 +16,9 @@ So können Sie beispielsweise einen Tag "prioritär" oder "Zu überprüfen" oder
 
 Beginnen Sie im Tag-Eingabeformular, den Namen eines beliebigen Tags einzutippen. Es gibt zwei Möglichkeiten: Entweder existiert der Tag bereits, dann können Sie ihn auswählen. Falls er nicht existiert, können Sie **die Eingabetaste auf Ihrer Tastatur drücken**, wodurch der neue Tag automatisch erstellt und zur Auswahlliste hinzugefügt wird.
 
-<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-1-2-1.png" alt=""><figcaption></figcaption></figure>
 
 ## **Wie verwaltet man alle Tags der Anwendung?**
 
-* Gehen Sie zu > **Einstellungen des Mandanten** ![](<../../.gitbook/assets/image (11) (1) (2).png>)&#x20;
+* Gehen Sie zu > **Einstellungen des Mandanten** ![](<../../.gitbook/assets/image-11-1-2.png>)&#x20;
 * Klicken Sie auf das Menü **Tag-Verwaltung**

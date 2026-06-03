@@ -37,7 +37,7 @@ Sie werden hauptsächlich im Modul **Assets** und in den **Referenzsystemen** (D
 1. Öffnen Sie ein Element (z. B. ein Asset).
 2. Klicken Sie auf das Symbol **"Verknüpfte Elemente"** in der Symbolleiste — es zeigt die Anzahl bestehender Verknüpfungen an.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-1-1-1-4.png" alt=""><figcaption></figcaption></figure>
 
 3. Klicken Sie auf **"Beziehung hinzufügen"** und wählen Sie den Objekttyp, der verknüpft werden soll (Stakeholder, Sicherheitsmaßnahme, Datenschutzvorfall, Asset, Datensatz oder Risiko).
 4. Im Dialogfenster:
@@ -47,7 +47,7 @@ Sie werden hauptsächlich im Modul **Assets** und in den **Referenzsystemen** (D
    * Fügen Sie optional eine **Beziehungsbezeichnung** und eine **Zusammenfassung** hinzu.
 5. Klicken Sie auf **"Hinzufügen"**, um die Beziehung zu speichern.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-2-1-4.png" alt=""><figcaption></figcaption></figure>
 
 ## Beziehungen visualisieren
 
@@ -56,7 +56,7 @@ Sobald die Beziehungen erstellt sind, erscheinen sie in:
 * Dem Panel **"Verknüpfte Elemente"** jedes Elements, das alle direkten Verknüpfungen anzeigt.
 * Dem **Knotengraph** in der Datenkartierungsansicht, in dem alle Beziehungen als verbundenes Netzwerk dargestellt werden.
 
-<figure><img src="../../.gitbook/assets/image (4) (7).png" alt=""><figcaption><p>Beispiel einer grafischen Visualisierung einer generischen Beziehung in der Datenkartierung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-4-7.png" alt=""><figcaption><p>Beispiel einer grafischen Visualisierung einer generischen Beziehung in der Datenkartierung</p></figcaption></figure>
 
 ## Weiterführende Informationen
 

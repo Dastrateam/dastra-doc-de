@@ -10,7 +10,7 @@ Um Ihre Zeit zu optimieren und die Effizienz zu steigern, können Sie Nachrichte
 
 ### Verfügbare Arten von Nachrichtenvorlagen&#x20;
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-16.png" alt=""><figcaption></figcaption></figure>
 
 Die Vorlagentypen sind wie folgt:
 
@@ -34,11 +34,11 @@ Die Vorlagentypen sind wie folgt:
 
 Die Vorlagenerstellung erfolgt entweder über die Mandant-Einstellungen oder direkt am Ort der Nachricht.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption><p>Erstellung über die Mandant-Einstellungen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-1-1-2-1.png" alt=""><figcaption><p>Erstellung über die Mandant-Einstellungen</p></figcaption></figure>
 
 Klicken Sie auf Vorlage erstellen
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (2) (1) (1).png" alt=""><figcaption><p>Oberfläche zur Vorlagenerstellung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-4-1-2-1-1.png" alt=""><figcaption><p>Oberfläche zur Vorlagenerstellung</p></figcaption></figure>
 
 Vergessen Sie nicht, Ihre Arbeit zu speichern!
 
@@ -50,7 +50,7 @@ Das bedeutet, dass Sie automatisch Informationen zum mit der Vorlage verknüpfte
 
 Zum Beispiel kann in der Einladung zur Beantwortung eines Audits automatisch das Fälligkeitsdatum eines Audits übernommen werden.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption><p>Die benutzerdefinierten Felder der Einladungsnachricht zur Audit-Beantwortung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-2-1-2.png" alt=""><figcaption><p>Die benutzerdefinierten Felder der Einladungsnachricht zur Audit-Beantwortung</p></figcaption></figure>
 
 Sie können so einfach dynamische Felder direkt in die Vorlage einfügen. Als Sprache für die Vorlagenerstellung verwenden wir die LiquidJS-Syntax.&#x20;
 

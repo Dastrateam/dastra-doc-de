@@ -155,7 +155,7 @@ Beispiele: Sensible Daten, elektronische Werbung, Cookies (je nach Zweck).
 * **Automatisierung**: Antwortvorlagen, wiederkehrende Aufgaben, Erinnerungen, Benachrichtigungen, Integrationen (Helpdesk/CRM).
 * **Reporting**: Antwortzeiten, Volumen, Ablehnungsgründe, Trends nach Recht.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-12.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -35,7 +35,7 @@ Diese Konfiguration betrifft **alle von Dastra in Ihrer Organisation versendeten
 
 Sie können auch über diese URL auf die Konfiguration zugreifen: [https://app.dastra.eu/general-settings/smtp](https://app.dastra.eu/general-settings/smtp)
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-3-1-6-1.png" alt=""><figcaption></figcaption></figure>
 
 * Wählen Sie den gewünschten Anbieter:
   * **Microsoft 365 (Office 365)**
@@ -49,7 +49,7 @@ Sie können auch über diese URL auf die Konfiguration zugreifen: [https://app.d
 
 #### Schritt 2: Geforderte Informationen eingeben
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-13.png" alt=""><figcaption></figcaption></figure>
 
 Zwei Pflichtfelder müssen ausgefüllt werden:
 
@@ -67,7 +67,7 @@ Klicken Sie nach dem Ausfüllen auf **Speichern und testen**, um die Konfigurati
 
 Die Nachricht sieht folgendermaßen aus:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-1-1-7-1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

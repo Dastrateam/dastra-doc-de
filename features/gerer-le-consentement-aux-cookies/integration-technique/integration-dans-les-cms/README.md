@@ -10,7 +10,7 @@ description: >-
 
 Um einen öffentlichen Schlüssel des Dastra-SDK abzurufen, besuchen Sie diese Seite: [https://app.dastra.eu/general-settings/api](https://app.dastra.eu/general-settings/api)&#x20;
 
-![](<../../../../.gitbook/assets/image (88).png>)
+![](<../../../../.gitbook/assets/image-88.png>)
 
 ## Konfigurieren Sie Ihr Widget
 

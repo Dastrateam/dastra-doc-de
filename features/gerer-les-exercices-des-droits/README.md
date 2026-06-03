@@ -16,7 +16,7 @@ Dazu muss das Unternehmen oder die Organisation Verfahren einrichten, die es erm
 
 Die Verwaltung einer Betroffenenanfrage kann in 4 große Schritte zusammengefasst werden:
 
-<figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-283.png" alt=""><figcaption></figcaption></figure>
 
 Für weitere Details zur Verwaltung von Betroffenenanfragen siehe die folgende Seite:&#x20;
 
@@ -28,7 +28,7 @@ Für weitere Details zur Verwaltung von Betroffenenanfragen siehe die folgende S
 
 Dastra ermöglicht es Ihnen, ein Verzeichnis der Betroffenenanfragen aufzubauen, das alle vergangenen, aktuellen und zukünftigen Anfragen zentralisiert. Dieses ist verfügbar, indem Sie auf den Reiter "Betroffenenanfragen" in der linken Seitenleiste klicken.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (420).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-420.png" alt=""><figcaption></figcaption></figure>
 
 ## Eine neue Betroffenenanfrage erfassen
 
@@ -42,17 +42,17 @@ Es gibt 3 Möglichkeiten, eine neue Betroffenenanfrage in DASTRA zu erfassen:
 
 Durch Klicken auf die Schaltfläche "Anfrage erstellen" erscheint ein Fenster, in dem Sie die Betroffenenanfrage detailliert beschreiben können. Klicken Sie auf "Speichern und beenden". Geschafft, Sie haben Ihre erste Betroffenenanfrage manuell erstellt!
 
-<figure><img src="../../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-421.png" alt=""><figcaption></figcaption></figure>
 
 ### Import / Export des Verzeichnisses der Betroffenenanfragen
 
 Das gesamte Anfragenverzeichnis ist importier- und exportierbar. Um eine Anfrage zu importieren, klicken Sie auf den Pfeil neben der Schaltfläche "Anfrage erstellen".
 
-<figure><img src="../../.gitbook/assets/image (422).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-422.png" alt=""><figcaption></figcaption></figure>
 
 Ein Fenster erscheint mit einer Schaltfläche "Import". Klicken Sie darauf, laden Sie die Verzeichnisvorlage herunter und folgen Sie den Anweisungen, um die Anfragen in Dastra zu importieren. Nach dem Import ist die Anfrage direkt im Anfragenverzeichnis verfügbar.
 
-![Fenster zum Import des Verzeichnisses der Betroffenenanfragen](<../../.gitbook/assets/image (34).png>)
+![Fenster zum Import des Verzeichnisses der Betroffenenanfragen](<../../.gitbook/assets/image-34.png>)
 
 ### Einrichtung eines Widgets für Betroffenenanfragen
 

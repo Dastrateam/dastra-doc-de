@@ -12,7 +12,7 @@ In Dastra werden Nutzer in Teams gruppiert, die wiederum entweder juristischen E
 
 Um ein neues Team zu erstellen oder einen neuen Nutzer einem bestehenden Team zuzuweisen, klicken Sie auf die Schaltfläche "Einstellungen" unten links auf dem Bildschirm und dann auf die Schaltfläche "Teams".
 
-![Die Schaltflächen zum Zugriff auf die Teams](<../../.gitbook/assets/image (253) (1) (1) (1) (1).png>)
+![Die Schaltflächen zum Zugriff auf die Teams](<../../.gitbook/assets/image-253-1-1-1-1.png>)
 
 Um ein Team zu erstellen, klicken Sie auf die Schaltfläche "Team hinzufügen".
 

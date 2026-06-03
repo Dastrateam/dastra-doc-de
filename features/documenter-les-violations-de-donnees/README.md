@@ -24,11 +24,11 @@ Artikel 33 Absatz 5 der DSGVO verpflichtet jede Organisation, eine Dokumentation
 
 DASTRA ermöglicht es Ihnen, ein Verzeichnis der Datenschutzvorfälle zu erstellen. Gehen Sie dazu in die DASTRA-Anwendung und klicken Sie auf das Modul **Verletzungen**, das in der linken Seitenleiste verfügbar ist:
 
-![Schaltfläche des Moduls zur Verwaltung von Datenschutzvorfällen](<../../.gitbook/assets/Capture web\_5-5-2022\_163811\_app.dastra.eu.jpeg>)
+![Schaltfläche des Moduls zur Verwaltung von Datenschutzvorfällen](<../../.gitbook/assets/capture-web-5-5-2022-163811-app-dastra-eu.jpeg>)
 
 Das Verzeichnis der Datenschutzvorfälle wird angezeigt.
 
-![Der Verwaltungsbereich für Datenschutzvorfälle](<../../.gitbook/assets/Capture web\_5-5-2022\_163922\_app.dastra.eu.jpeg>)
+![Der Verwaltungsbereich für Datenschutzvorfälle](<../../.gitbook/assets/capture-web-5-5-2022-163922-app-dastra-eu.jpeg>)
 
 ## Weiterführende Informationen
 

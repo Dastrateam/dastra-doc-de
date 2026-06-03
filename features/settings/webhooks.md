@@ -12,7 +12,7 @@ Einfach ausgedrückt ermöglichen Webhooks das **Auslösen einer Aktion** nach e
 
 Um Ihre Webhooks zu konfigurieren, gehen Sie auf die Seite: [https://app.dastra.eu/general-settings/webhooks](https://app.dastra.eu/general-settings/webhooks)
 
-![](<../../.gitbook/assets/image (252) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image-252-1-1-1.png>)
 
 * Klicken Sie auf „Webhook-URL erstellen"
 * Geben Sie die Empfangs-URL Ihres Webhooks ein. Weitere Informationen finden Sie im Abschnitt [Webhook empfangen](webhooks.md#undefined).
@@ -22,7 +22,7 @@ Um Ihre Webhooks zu konfigurieren, gehen Sie auf die Seite: [https://app.dastra.
 
 Sie gelangen zum **Detailbildschirm des Webhooks.**
 
-![](<../../.gitbook/assets/image (254) (1) (1).png>)
+![](<../../.gitbook/assets/image-254-1-1.png>)
 
 ### Webhook empfangen 🛬
 
@@ -162,22 +162,22 @@ Der Webhook wird automatisch blockiert und als fehlerhaft betrachtet, wenn die S
 
 Die mit Ihrem Konto verknüpften Webhooks abrufen (in allen Mandanten)
 
-{% swagger src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls" method="get" %}
-[dastra api.json](<../../.gitbook/assets/dastra api.json>)
+{% swagger src="../../.gitbook/assets/dastra-api.json" path="/v1/WebHookUrls" method="get" %}
+[dastra api.json](<../../.gitbook/assets/dastra-api.json>)
 {% endswagger %}
 
 Erstellen Sie eine neue Webhook-URL mit dem POST-Endpoint. Geben Sie die Ereignisse an, die Sie mit dem Parameter **subscribedEvents** abonnieren möchten.
 
-{% swagger src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls" method="post" %}
-[dastra api.json](<../../.gitbook/assets/dastra api.json>)
+{% swagger src="../../.gitbook/assets/dastra-api.json" path="/v1/WebHookUrls" method="post" %}
+[dastra api.json](<../../.gitbook/assets/dastra-api.json>)
 {% endswagger %}
 
 Eine Webhook-ID wird Ihnen zurückgegeben
 
-{% swagger src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls/{id}" method="get" %}
-[dastra api.json](<../../.gitbook/assets/dastra api.json>)
+{% swagger src="../../.gitbook/assets/dastra-api.json" path="/v1/WebHookUrls/{id}" method="get" %}
+[dastra api.json](<../../.gitbook/assets/dastra-api.json>)
 {% endswagger %}
 
-{% swagger src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls/{id}" method="delete" %}
-[dastra api.json](<../../.gitbook/assets/dastra api.json>)
+{% swagger src="../../.gitbook/assets/dastra-api.json" path="/v1/WebHookUrls/{id}" method="delete" %}
+[dastra api.json](<../../.gitbook/assets/dastra-api.json>)
 {% endswagger %}

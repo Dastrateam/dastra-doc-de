@@ -4,4 +4,4 @@ Ein **Transparenzhinweis** (oder Informationshinweis) ist ein wichtiges Dokument
 
 In Dastra müssen Sie diesen Hinweis im **Abschnitt „Dokumentation"** eines KI-Systems integrieren. Sie können ihn als Dokument hochladen oder direkt innerhalb des Tabs verfassen.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 143244.png" alt=""><figcaption><p>Transparenzhinweis eines KI-Systems</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-06-14-143244.png" alt=""><figcaption><p>Transparenzhinweis eines KI-Systems</p></figcaption></figure>

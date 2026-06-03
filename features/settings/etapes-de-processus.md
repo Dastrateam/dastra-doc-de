@@ -24,7 +24,7 @@ Klicken Sie auf „Einstellungen" und dann auf „Prozessschritte"&#x20;
 
 Sie erhalten Zugriff auf die verschiedenen Schritte und Status („Entwurf" oder „Veröffentlicht") der pro Prozess verfügbaren Workflows. Passen Sie diese nach Ihren Wünschen an und klicken Sie auf „Speichern".
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-10-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Kann man einen Workflow-Schritt löschen?
 
@@ -34,8 +34,8 @@ Die an den gelöschten Schritt angehängten Elemente werden automatisch dem erst
 
 Wenn Sie zum Beispiel den Schritt „In Bearbeitung" in den Aufgaben-Workflows löschen:
 
-<figure><img src="../../.gitbook/assets/image (9) (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-9-2-2.png" alt=""><figcaption></figcaption></figure>
 
 Werden die angehängten Objekte auf den Schritt „Info benötigt" verschoben:
 
-<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-11-2.png" alt=""><figcaption></figcaption></figure>

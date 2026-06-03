@@ -4,4 +4,4 @@ In der Registerkarte Assets können Sie bestimmte Assets mit Ihrem Vertrag verkn
 
 Die verknüpften Assets stammen aus Ihren [referentials](../cartography/referentials/ "mention"). Sie finden die mit Ihrem Vertrag verknüpften Assets im Vertrag, aber auch auf der Asset-Detailseite, wo Sie alle Verträge einsehen können, mit denen es verknüpft ist.
 
-<figure><img src="../../.gitbook/assets/image (329).png" alt=""><figcaption><p>Erfassen Sie Assets in Ihrem Vertrag</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-329.png" alt=""><figcaption><p>Erfassen Sie Assets in Ihrem Vertrag</p></figcaption></figure>

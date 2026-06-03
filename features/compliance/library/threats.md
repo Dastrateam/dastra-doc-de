@@ -35,7 +35,7 @@ Das Dastra-Modell basiert auf einer einfachen und lesbaren Kette:
 
 ### Bibliotheksansicht der Bedrohungen
 
-<figure><img src="../../../.gitbook/assets/image (501).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-501.png" alt=""><figcaption></figcaption></figure>
 
 Die Bedrohungsbibliothek zentralisiert alle identifizierten Bedrohungen mit:
 
@@ -64,7 +64,7 @@ Bei der Erstellung oder Bearbeitung einer Bedrohung gibt der Nutzer an:
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (502).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-502.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 

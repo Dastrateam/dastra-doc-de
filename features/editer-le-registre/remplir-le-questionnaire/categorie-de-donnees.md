@@ -46,7 +46,7 @@ In jedem Datensatz können Sie den Ursprung der Daten eintragen. Dieser ist entw
 
 Ein Feld zur Beschreibung des Erhebungsursprungs ermöglicht es, die erforderliche Präzision zu liefern.
 
-<figure><img src="../../../.gitbook/assets/image (10) (2) (1).png" alt=""><figcaption><p>Datenquelle</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-10-2-1.png" alt=""><figcaption><p>Datenquelle</p></figcaption></figure>
 
 ### Ein Asset dem Datensatz zuordnen
 
@@ -54,7 +54,7 @@ Datensätze haben von Natur aus die Bestimmung, [Assets](applications.md) zugeor
 
 Sie können bei der Erstellung eines Datensatzes ein Asset zuordnen.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption><p>Asset-Selektor</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-2-1-3.png" alt=""><figcaption><p>Asset-Selektor</p></figcaption></figure>
 
 Ein Datensatz kann nur einem einzigen Asset zugeordnet werden. Durch die Definition der Datensätze eines Assets sind diese nämlich einzigartig.&#x20;
 
@@ -66,7 +66,7 @@ Für jeden Datensatz können Sie eine oder mehrere Kategorien betroffener Person
 
 Dies ermöglicht es Ihnen, besser zu verstehen, welche Daten den betroffenen Personen zugeordnet sind. Darüber hinaus vereinfacht dies die Kartierungsarbeit.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (3) (2).png" alt=""><figcaption><p>Selektor für Kategorien betroffener Personen</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-3-1-3-2.png" alt=""><figcaption><p>Selektor für Kategorien betroffener Personen</p></figcaption></figure>
 
 {% hint style="info" %}
 Die Angabe der betroffenen Personen ist nützlich für die Verwaltung von [Betroffenenanfragen](../../gerer-les-exercices-des-droits/). Sie können die Daten, die Gegenstand der Anfrage sind, leicht finden, indem Sie die betreffenden Datensätze schnell identifizieren.
@@ -78,13 +78,13 @@ Jeder Datensatz soll durch Datenfelder ergänzt werden. Diese Felder sind die ei
 
 Die im Selektor angezeigten Felder sind die im Datenglossar verfügbaren Felder.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (3).png" alt=""><figcaption><p>Datenfeld-Selektor</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-8-1-3.png" alt=""><figcaption><p>Datenfeld-Selektor</p></figcaption></figure>
 
 Wenn eine Daten nicht vorhanden ist, können Sie sie direkt über diesen Selektor erstellen, um sie zum Datensatz hinzuzufügen.&#x20;
 
 Die Felder können nach vordefinierten Kategorien kategorisiert werden. Es handelt sich insbesondere um die von der CNIL empfohlenen Kategorien.
 
-<figure><img src="../../../.gitbook/assets/image (9) (2) (3).png" alt=""><figcaption><p>Selektor für Kategorien personenbezogener Daten</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-9-2-3.png" alt=""><figcaption><p>Selektor für Kategorien personenbezogener Daten</p></figcaption></figure>
 
 Auf Feldebene können Sie auch das Vorhandensein sensibler Daten angeben. Zum Beispiel Gesundheitsdaten oder eine andere Art sensibler Daten.&#x20;
 
@@ -92,7 +92,7 @@ In diesem Fall werden Sie aufgefordert, die Erhebung dieser Daten und insbesonde
 
 &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4) (3) (2).png" alt=""><figcaption><p>Sensible Daten</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-4-3-2.png" alt=""><figcaption><p>Sensible Daten</p></figcaption></figure>
 
 {% hint style="info" %}
 Diese Information wird von der Anwendung analysiert, um ein intelligentes [DSFA](analyse-dimpact.md)-Kriterium auszulösen.&#x20;
@@ -102,7 +102,7 @@ Diese Information wird von der Anwendung analysiert, um ein intelligentes [DSFA]
 
 In jedem Datensatz können Sie eine Aufbewahrungsregel für Daten zuordnen.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Speicherdauer</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-6-2.png" alt=""><figcaption><p>Speicherdauer</p></figcaption></figure>
 
 Die Speicherdauern gelten standardmäßig, da sie auf Verarbeitungsebene angepasst werden können (siehe unten).
 
@@ -126,17 +126,17 @@ Die Datenfelder eines generischen Datensatzes können nicht von einer Verarbeitu
 
 Dazu muss der Datensatz der Verarbeitung hinzugefügt werden. In der Liste der Datensätze klicken Sie auf die Schaltflächen "Aktive Datenbank/...".
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (5).png" alt=""><figcaption><p>Schaltfläche "Aktive Datenbank"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-4-1-5.png" alt=""><figcaption><p>Schaltfläche "Aktive Datenbank"</p></figcaption></figure>
 
 Sie sehen dann das Anpassungsfenster.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (11) (4).png" alt=""><figcaption><p>Fenster zur Anpassung der Speicherdauern</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-11-4.png" alt=""><figcaption><p>Fenster zur Anpassung der Speicherdauern</p></figcaption></figure>
 
 Wenn die Speicherdauer auf Verarbeitungsebene angepasst wurde, erscheint ein kleines Stiftsymbol auf der betreffenden Schaltfläche:&#x20;
 
 Das langfristige Ziel kann sein, die Verwendung generischer Datensätze zu reduzieren und sich einer präziseren Kartierung zuzuwenden, entweder über die Datenverarbeitungen (Fall Nr. 2) oder über die Assets (Fall Nr. 1).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (2) (4).png" alt=""><figcaption><p>Auf Verarbeitungsebene angepasste Speicherdauer</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-1-1-1-2-4.png" alt=""><figcaption><p>Auf Verarbeitungsebene angepasste Speicherdauer</p></figcaption></figure>
 
 ####
 

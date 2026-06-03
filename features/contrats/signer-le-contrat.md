@@ -4,7 +4,7 @@ Sobald Sie mindestens einen Unterzeichner zu Ihrem Vertrag hinzugefügt haben (s
 
 Sie können Unterschriften manuell erfassen oder unsere [Integration mit Docusign](integration-avec-docusign.md) einrichten, um den gesamten Unterschriftsprozess elektronisch zu verwalten.
 
-<figure><img src="../../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-356.png" alt=""><figcaption></figcaption></figure>
 
 Es gibt mehrere Möglichkeiten, auf dieses Unterschriftsmenü zuzugreifen:
 
@@ -14,13 +14,13 @@ Es gibt mehrere Möglichkeiten, auf dieses Unterschriftsmenü zuzugreifen:
 
 Sie können mehrere Unterzeichner gleichzeitig unterschreiben lassen, indem Sie auf den Pfeil rechts neben der Schaltfläche "Unterzeichner hinzufügen" klicken. Ihnen wird dann angeboten, alle Unterzeichner auszuwählen, für die Sie unterschreiben möchten.
 
-<figure><img src="../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-357.png" alt=""><figcaption></figcaption></figure>
 
 #### 3) Aus der Tabellenansicht unterschreiben
 
 Sie können einen Vertrag direkt aus der zusammenfassenden Tabellenansicht unterschreiben
 
-<figure><img src="../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-358.png" alt=""><figcaption></figcaption></figure>
 
 ### Die Unterschrift-Schaltfläche im Hauptaktionsbereich
 
@@ -32,16 +32,16 @@ Je nach Anzahl der erfassten Unterzeichner und der erhaltenen Unterschriften än
 
 Erfassen Sie Unterzeichner, um mit dieser Schaltfläche interagieren zu können
 
-<figure><img src="../../.gitbook/assets/image (339).png" alt=""><figcaption><p>Keine Unterzeichner</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-339.png" alt=""><figcaption><p>Keine Unterzeichner</p></figcaption></figure>
 
 #### 2) Unterschriften fehlen
 
 Durch Klicken auf diesen Status können Sie die fehlenden Unterschriften erfassen
 
-<figure><img src="../../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-336.png" alt=""><figcaption></figcaption></figure>
 
 #### 3) Vertrag von allen Unterzeichnern unterschrieben
 
 Durch Klicken auf diesen Status können Sie Unterschriften löschen
 
-<figure><img src="../../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-338.png" alt=""><figcaption></figcaption></figure>

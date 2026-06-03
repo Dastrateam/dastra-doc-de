@@ -10,6 +10,6 @@ Im Untermenü der Schaltfläche "Datensatz erstellen" klicken Sie auf Importiere
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-317.png" alt=""><figcaption></figcaption></figure>
 
 Sie können dann die Dateivorlage herunterladen und das erwartete Spaltenformat in der Importdateivorlage einsehen. Anschließend müssen Sie nur noch die Importdatei ablegen, damit der Import durchgeführt wird.&#x20;

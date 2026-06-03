@@ -10,7 +10,7 @@ Um eine effektive Cookie-Blockierung zu realisieren, gibt es mehrere mögliche M
 
 Diese Methode ist die schnellste in der Umsetzung, aber auch die am wenigsten zuverlässige. Im Konfigurationspanel des Dastra-Widgets können Sie, wenn Sie die Namen der mit jedem Dienst verbundenen Cookies angeben, die betreffenden Cookies bei jedem Seitenaufruf automatisch löschen.&#x20;
 
-![](<../../../../.gitbook/assets/image (85).png>)
+![](<../../../../.gitbook/assets/image-85.png>)
 
 Diese Funktionsweise kann in bestimmten Fällen wirksam sein, birgt aber das Risiko, die Zuverlässigkeit der verwendeten Drittanbieter-Tools erheblich zu beeinträchtigen (insbesondere Web-Analyse-Tools). Es ist sehr oft vorzuziehen, ergänzend eine der folgenden Methoden zu verwenden.
 
@@ -36,7 +36,7 @@ Durch:
 
 Ersetzen Sie „{your-service-slug}" durch die Kennung Ihres Dienstes, die bei der Konfiguration Ihres Widgets eingegeben wurde:
 
-![](<../../../../.gitbook/assets/image (86).png>)
+![](<../../../../.gitbook/assets/image-86.png>)
 
 Wenn der Client die Cookies akzeptiert hat, wird der Inhalt des Skripts automatisch ausgeführt.
 

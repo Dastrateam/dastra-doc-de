@@ -22,19 +22,19 @@ Diese Integration ermöglicht die automatische Erstellung von Objekten in Dastra
 
 Um ein Sammelpostfach für eines der oben aufgeführten Objekte einzurichten, gehen Sie zu den Einstellungen Ihres Mandanten, Tab Integrationen, und wählen Sie die Karte „Sammel-E-Mail-Adresse"
 
-<figure><img src="../../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-379.png" alt=""><figcaption></figcaption></figure>
 
 Wählen Sie dann den Objekttyp aus, für den Sie die Integration einrichten möchten, indem Sie auf „Integration hinzufügen" klicken. Beachten Sie, dass Sie nur ein Sammel-E-Mail-Postfach pro Objekttyp und pro Mandant haben können.
 
-<figure><img src="../../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-380.png" alt=""><figcaption></figcaption></figure>
 
 Sie haben die Möglichkeit, die Ziel-Organisationseinheit der über dieses Sammelpostfach erstellten Objekte bei der Installation der Integration anzugeben. Wenn Sie dieses Feld leer lassen, werden die Objekte in der Standard-Organisationseinheit erstellt.
 
-<figure><img src="../../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-381.png" alt=""><figcaption></figcaption></figure>
 
 Durch Klicken auf „Erstellen" schließt Dastra die Installation der Integration ab und stellt Ihnen die zu verwendende E-Mail-Adresse bereit.
 
-<figure><img src="../../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-382.png" alt=""><figcaption></figcaption></figure>
 
 ### Hauptfunktionalitäten
 

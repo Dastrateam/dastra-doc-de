@@ -9,7 +9,7 @@ Im Gegensatz zu anderen Lösungen, die Einwilligungsbanner pro Domain vermarkten
 
 Die Anzahl der **Domains und Subdomains ist daher pro Widget unbegrenzt**.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-1-1-1-1-1-1-1-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Globale Funktionsweise:
 

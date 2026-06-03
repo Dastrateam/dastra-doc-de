@@ -2,7 +2,7 @@
 
 Für jedes KI-System, das Sie registrieren, müssen Sie das oder die verwendeten KI-Modelle angeben.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-05-21 175521.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-05-21-175521.png" alt=""><figcaption></figcaption></figure>
 
 ## Definition
 
@@ -17,13 +17,13 @@ Ein Modell der künstlichen Intelligenz kann als ein Computerprogramm definiert 
 
 Um ein Referenzverzeichnis zu erstellen, navigieren Sie zum Tab „KI-Modelle".
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-05-21 174750.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-05-21-174750.png" alt=""><figcaption></figcaption></figure>
 
 Klicken Sie dann auf die Schaltfläche „KI-Modell erstellen". Ein Fenster öffnet sich, in dem Sie die angeforderten Informationen eingeben können.
 
 Scheuen Sie sich nicht, den Beschreibungsteil ausführlich zu gestalten, indem Sie die Funktionalitäten und Informationen hinzufügen, die Ihnen über das Modell vorliegen.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-05-21 174951.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-05-21-174951.png" alt=""><figcaption></figcaption></figure>
 
 ### Automatische Generierung mit dem KI-Assistenten
 
@@ -37,11 +37,11 @@ So nutzen Sie diese Option:
 
 Der generierte Inhalt ist ein Vorschlag — überprüfen und vervollständigen Sie die Informationen vor der Validierung.
 
-<figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-281.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-296.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-337.png" alt=""><figcaption></figcaption></figure>
 
 ## Verknüpfung zwischen System und Modell
 
@@ -49,4 +49,4 @@ Um ein KI-System mit einem Modell zu verknüpfen, gehen Sie zum betreffenden KI-
 
 Wählen Sie die betreffenden Modelle aus und füllen Sie dann das Feld „Nutzungsbeschreibung" aus. Dieses dient dazu, zu erklären, wie das Modell im Rahmen des betreffenden KI-Systems verwendet wird.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 144928.png" alt=""><figcaption><p>Ein Modell und ein KI-System verknüpfen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-06-14-144928.png" alt=""><figcaption><p>Ein Modell und ein KI-System verknüpfen</p></figcaption></figure>

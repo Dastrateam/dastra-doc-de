@@ -27,7 +27,7 @@ Die Grundrechte-Folgenabschätzung zielt darauf ab:
 
 Wenn Sie in Dastra ein KI-System als **Hochrisiko** definieren, erscheint ein Warnhinweis, der Sie auffordert, eine **Folgenabschätzung** durchzuführen.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2026-02-23 104949.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2026-02-23-104949.png" alt=""><figcaption></figcaption></figure>
 
 Wenn Sie über das Modul **Fragebögen** von Dastra verfügen, bietet Ihnen dieser Warnhinweis die Schaltfläche „**Folgenabschätzung durchführen**". Klicken Sie darauf, es öffnet sich ein Fenster mit Fragebögen.
 
@@ -40,6 +40,6 @@ Sie können nun:
 
 Um unsere einsatzbereite Vorlage zu importieren, klicken Sie auf **Vorlage erstellen**, dann **Aus einer Vorlage**. Dies leitet Sie zu einer Liste von Vorlagen weiter. Wählen Sie in den Filtern **Von Dastra erstellte Vorlagen** und wählen Sie den Typ **Folgenabschätzung (PIA)**. Sie können auch „Folgenabschätzung für ein KI-System" in die Suchleiste eingeben.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2026-02-23 113208.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2026-02-23-113208.png" alt=""><figcaption></figcaption></figure>
 
 Sie können nun Ihre Folgenabschätzung durchführen.

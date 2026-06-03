@@ -8,7 +8,7 @@ description: Hier lernen Sie, die Funktionalität der KI-Systeme zu nutzen.
 
 In diesem Abschnitt lernen Sie, die Funktionalität **KI-Systeme** von Dastra zu nutzen und deren Nutzen für Ihre Organisation zu verstehen.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-05-21 174301.png" alt=""><figcaption><p>Oberfläche des Moduls</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-05-21-174301.png" alt=""><figcaption><p>Oberfläche des Moduls</p></figcaption></figure>
 
 ***
 

@@ -30,7 +30,7 @@ Für das Anwendungslogo können Sie [dieses hier verwenden](https://www.dastra.e
 
 **Schritt 5**: An dieser Stelle müssen Sie eine Umleitungs-URL von _Dastra_ in Ihrer _Okta_-Anwendung konfigurieren. Gehen Sie dazu zurück in die _Dastra_-Anwendung, [auf die SSO-Verwaltungsseite](https://app.dastra.eu/general-settings/sso). Klicken Sie auf „**Neuer SSO-Login**", und unten im Formular wird eine Umleitungs-URL angezeigt, die Sie kopieren müssen.
 
-<figure><img src="../../../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-355.png" alt=""><figcaption></figcaption></figure>
 
 **Schritt 6**: Gehen Sie zurück zu Okta und fügen Sie die Umleitungs-URL in das entsprechende Feld ein, wählen Sie die Okta-Nutzer aus, denen Sie Zugang zu Dastra gewähren möchten (standardmäßig können Sie „Allow everyone" aktivieren) und klicken Sie auf „**Save**"
 

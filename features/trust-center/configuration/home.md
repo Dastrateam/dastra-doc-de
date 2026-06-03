@@ -2,7 +2,7 @@
 
 Die Registerkarte 'Konfiguration' auf der Bearbeitungsseite eines Trust Centers ermöglicht es Ihnen, die wesentlichen Optionen Ihres Trust Centers zu konfigurieren.
 
-<figure><img src="../../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-392.png" alt=""><figcaption></figcaption></figure>
 
 #### Name des Trust Centers
 

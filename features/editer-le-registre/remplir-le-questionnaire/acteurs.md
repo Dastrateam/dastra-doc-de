@@ -28,7 +28,7 @@ Sie können die an der Umsetzung der Verarbeitung beteiligten Stakeholder angebe
 
 Sie geben auch die Identität des Vertreters des Verantwortlichen an, gegebenenfalls des oder der gemeinsamen Verantwortlichen.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (318) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-318-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Einen gemeinsamen Verantwortlichen hinzufügen
 
@@ -36,7 +36,7 @@ Um einen gemeinsamen Verantwortlichen hinzuzufügen, muss eine neue Interessengr
 
 Sie werden aufgefordert, einen Stakeholder als gemeinsamen Verantwortlichen hinzuzufügen.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (12) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-12-4.png" alt=""><figcaption></figcaption></figure>
 
 ## Einen Verantwortlichen für die Umsetzung der Verarbeitung hinzufügen
 

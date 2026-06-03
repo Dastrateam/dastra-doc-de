@@ -15,11 +15,11 @@ Dastra ermöglicht es Ihnen, benutzerdefinierte Formularfelder zu erstellen, die
 
 Hier ein Beispiel für die Konfiguration von Feldern für den Stakeholder:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (3) (1) (1).png" alt=""><figcaption><p>Feldkonfiguration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-2-1-3-1-1.png" alt=""><figcaption><p>Feldkonfiguration</p></figcaption></figure>
 
 Und hier das Ergebnis im Formular:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-4-1-3.png" alt=""><figcaption></figcaption></figure>
 
 ## Betroffene Funktionen
 
@@ -87,17 +87,17 @@ Sie können:
 * Wählen Sie das Modul, in dem Sie ein benutzerdefiniertes Feld hinzufügen möchten
 * Die Felder müssen in Gruppen erstellt werden. Diese Gruppen können an einer bestimmten Position im Formular platziert werden. Klicken Sie auf "**Feldgruppe hinzufügen**"
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-3-1-3-1.png" alt=""><figcaption></figcaption></figure>
 
 * **Geben Sie den Namen und die Position** im Formular ein, die Sie wünschen
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-1-1-1-2-2.png" alt=""><figcaption></figcaption></figure>
 
 Für bestimmte Elemente ist es möglich, die gewünschte Position im Formular festzulegen!
 
 * Sobald die Gruppe erstellt ist, können Sie nun **die gewünschten Feldtypen per Drag-and-Drop** einrichten!
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-1-1-1-2-3.png" alt=""><figcaption></figcaption></figure>
 
 Füllen Sie alle Informationen aus!
 

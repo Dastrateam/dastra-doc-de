@@ -18,7 +18,7 @@ Die Erstellung einer Betroffenenanfrage kann in Dastra auf 3 verschiedene Arten 
 
 Um eine neue Anfrage manuell direkt aus dem Verzeichnis der Betroffenenanfragen zu erstellen, klicken Sie auf das Modul "Betroffenenanfragen" und dann auf die Schaltfläche "**Anfrage erstellen**".
 
-<figure><img src="../../.gitbook/assets/image (8) (4).png" alt=""><figcaption><p>Das Verzeichnis der Betroffenenanfragen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-8-4.png" alt=""><figcaption><p>Das Verzeichnis der Betroffenenanfragen</p></figcaption></figure>
 
 {% hint style="info" %}
 Sie können Betroffenenanfragen auch automatisch erstellen (siehe nachfolgend).
@@ -30,7 +30,7 @@ Um eine oder mehrere Betroffenenanfragen über eine Sammel-E-Mail-Adresse in Das
 
 Gehen Sie dazu in die **Einstellungen** des Mandanten, dann in den Bereich "**Integrationen**" und klicken Sie auf "**Sammel-E-Mail-Adresse**".
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (5) (1).png" alt=""><figcaption><p>Die Integration "Sammel-E-Mail-Adresse" in Dastra.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-3-1-5-1.png" alt=""><figcaption><p>Die Integration "Sammel-E-Mail-Adresse" in Dastra.</p></figcaption></figure>
 
 {% hint style="info" %}
 Falls diese Integration noch nicht installiert ist, installieren Sie sie.
@@ -38,7 +38,7 @@ Falls diese Integration noch nicht installiert ist, installieren Sie sie.
 
 Klicken Sie anschließend auf den vorkonfigurierten Anwendungsfall "**Verwandelt eine eingehende E-Mail in eine Betroffenenanfrage mit den zugehörigen Anhängen**". Eine E-Mail-Adresse wird automatisch generiert.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-4-1-6.png" alt=""><figcaption></figcaption></figure>
 
 So wird jede an diese Adresse gesendete E-Mail automatisch in eine Betroffenenanfrage in Dastra umgewandelt!
 

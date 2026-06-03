@@ -11,8 +11,8 @@ Um eine Übersetzung zu starten:
    1. **Eine neue Vorlage erstellen** aus dem aktuellen Formular in der Zielsprache
    2. **Eine neue Version erstellen** des aktuellen Formulars direkt in der Zielsprache
 
-<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-245.png" alt=""><figcaption></figcaption></figure>
 
 Die Übersetzung umfasst Fragen, Abschnitte, Antworten und Begleittexte. Die Verfügbarkeit der Sprachen hängt vom in Ihrem Mandanten konfigurierten LLM-Modell ab.
 
-<figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-253.png" alt=""><figcaption></figcaption></figure>

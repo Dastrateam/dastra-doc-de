@@ -31,7 +31,7 @@ In Dastra ist es möglich, [benutzerdefinierte Felder](../features/generalites/c
 
 Benutzerdefinierte Felder sind für jeden Mandanten spezifisch. Um sie in der Dastra-API zu berücksichtigen, muss zunächst der Variablenname in der Definition des benutzerdefinierten Feldes festgelegt werden:&#x20;
 
-<figure><img src="../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-276.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="../features/generalites/custom-fields.md" %}
 [custom-fields.md](../features/generalites/custom-fields.md)

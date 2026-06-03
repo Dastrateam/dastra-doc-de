@@ -15,7 +15,7 @@ Sie können sich mit Ihren Dastra-Zugangsdaten, einem Drittanbieter-Konto (SSO) 
 2. Geben Sie Ihre **E-Mail-Adresse** und Ihr **Passwort** ein
 3. Klicken Sie auf **Anmelden**
 
-<figure><img src="../../.gitbook/assets/image (4) (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-4-7-1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Aktivieren Sie die Option **Passwort merken**, wenn Sie ein persönliches Gerät verwenden, um Ihre Zugangsdaten nicht bei jedem Besuch erneut eingeben zu müssen.
@@ -32,7 +32,7 @@ Wenn Ihre Organisation ein **SSO (Single Sign-On)** konfiguriert hat, können Si
 3. Folgen Sie dem Authentifizierungsverfahren Ihrer Organisation
 4. Sie werden automatisch zu Ihrem Dastra-Bereich weitergeleitet
 
-<figure><img src="../../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-6-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 SSO vereinfacht die Zugriffsverwaltung und verstärkt die Sicherheit: Ihre Zugangsdaten werden niemals mit Dastra geteilt.
@@ -49,7 +49,7 @@ Falls Sie Ihr Passwort vergessen haben:
 3. Prüfen Sie Ihr Postfach und folgen Sie dem Link zum Zurücksetzen
 4. Wählen Sie ein neues Passwort gemäß den Sicherheitskriterien
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-7.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Die Links zum Zurücksetzen laufen aus Sicherheitsgründen nach kurzer Zeit ab.\
@@ -70,7 +70,7 @@ Sie fügt bei der Anmeldung einen zusätzlichen Schritt hinzu: die Eingabe eines
 3. Scannen Sie den QR-Code mit einer Authentifizierungs-App (Google Authenticator, Authy, 1Password usw.)
 4. Geben Sie den generierten Code ein, um die Aktivierung zu bestätigen
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-8.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Bewahren Sie den bei der Aktivierung angezeigten **Wiederherstellungscode** auf.\

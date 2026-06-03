@@ -19,7 +19,7 @@ description: >-
 * Klicken Sie auf **Single-Sign-On** und wählen Sie **SAML**
 * **Sie gelangen auf diese Seite**
 
-![](<../../../.gitbook/assets/image (8) (1).png>)
+![](<../../../.gitbook/assets/image-8-1.png>)
 
 ## **Konfiguration des SSO-Clients in Dastra**
 
@@ -36,13 +36,13 @@ description: >-
 * **Klicken Sie auf die Schaltfläche „Edit"** im ersten Bereich.
 * Geben Sie die Verbindungsinformationen (**Entity ID und ACS-URL**) wie folgt ein:
 
-![](<../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image-3-1-1-1-1-1-1.png>)
 
 * Klicken Sie auf **Speichern**
 * Gehen Sie direkt zu Bereich 3, um **das Zertifikat im Base64-Format herunterzuladen**
-* ![](<../../../.gitbook/assets/image (5) (1) (1) (1).png>)
+* ![](<../../../.gitbook/assets/image-5-1-1-1.png>)
 * **Öffnen Sie die CER-Datei mit Ihrem bevorzugten Texteditor** (zum Beispiel Notepad) und kopieren Sie den Inhalt (STRG + C)
-* ![](<../../../.gitbook/assets/image (4) (1) (2) (1).png>)
+* ![](<../../../.gitbook/assets/image-4-1-2-1.png>)
 
 **Schritt 3: Zertifikat zum Dastra-Client hinzufügen**
 
@@ -52,16 +52,16 @@ description: >-
 **Schritt 4: IdP-URLs in Dastra konfigurieren**
 
 * Kopieren Sie die 3 Links Entity Id, SSO URL und Logout URL aus Schritt 4 des Active Directory
-* ![](<../../../.gitbook/assets/image (7) (1) (1) (1).png>)
+* ![](<../../../.gitbook/assets/image-7-1-1-1.png>)
 * Kopieren Sie die URLs nach folgendem Schema:\
   **Login URL => Single sign on url** \
   **Azure AD Identifier => Identity provider's Entity Id** \
   **Logout Url => Identity provider Signout url**
 * Ihr SSO-Konfigurationsformular in Dastra sollte so aussehen:
-* ![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+* ![](<../../../.gitbook/assets/image-2-1-1-1-1-1-1-1-1.png>)
 * Sie können das Kontrollkästchen „Nutzer erstellen, wenn der Nutzer noch nie in Dastra eingeladen wurde" aktivieren. Wenn Sie diese Option aktivieren, werden die Konten Ihrer AD-Organisation, die nicht in Dastra vorhanden sind, bei der Anmeldung automatisch bereitgestellt, sofern sie nicht lokal in Dastra existieren.
 
-![](<../../../.gitbook/assets/image (6) (1).png>)
+![](<../../../.gitbook/assets/image-6-1.png>)
 
 * **Speichern Sie Ihre Änderungen** in Dastra
 

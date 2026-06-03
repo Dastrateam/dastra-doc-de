@@ -22,7 +22,7 @@ Wählen Sie im Modul **Cookies** Ihr Widget aus und navigieren Sie dann zum Tab 
 
 Klicken Sie auf **„Geo-zielgerichtete Variante erstellen"**.
 
-<figure><img src="../../../.gitbook/assets/image (514).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-514.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Die Variante benennen
 

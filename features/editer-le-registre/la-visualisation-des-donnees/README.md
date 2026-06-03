@@ -16,9 +16,9 @@ In Dastra können **Daten** auf verschiedene Weisen **visualisiert** werden:&#x2
 
 Um die Art und Weise zu ändern, wie die Verarbeitungen in Ihrem Verzeichnis angezeigt werden, gehen Sie zum Modul "Verzeichnis" in der Leiste links auf dem Bildschirm. Standardmäßig werden die Verarbeitungen im Tabellenformat angezeigt. Klicken Sie auf den **Pfeil rechts** neben der Schaltfläche "Tabelle".
 
-![Modul "Verzeichnis"](<../../../.gitbook/assets/image (199).png>)
+![Modul "Verzeichnis"](<../../../.gitbook/assets/image-199.png>)
 
-![Pfeil rechts neben der Schaltfläche & Dropdown-Menü](<../../../.gitbook/assets/Capture web\_4-5-2022\_95947\_app.dastra.eu.jpeg>)
+![Pfeil rechts neben der Schaltfläche & Dropdown-Menü](<../../../.gitbook/assets/capture-web-4-5-2022-95947-app-dastra-eu.jpeg>)
 
 {% hint style="info" %}
 Die erste Wahl "Tabelle" bezieht sich auf die Standardvisualisierung des **Verarbeitungsverzeichnisses**.

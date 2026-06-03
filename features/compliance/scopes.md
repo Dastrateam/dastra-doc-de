@@ -50,7 +50,7 @@ Bei der Erstellung eines Geltungsbereichs gibt der Nutzer an:
 * eine **optionale Beschreibung**
 * die im Geltungsbereich enthaltenen **Organisationseinheiten** (Pflichtfeld)
 
-<figure><img src="../../.gitbook/assets/image (456).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-456.png" alt=""><figcaption></figcaption></figure>
 
 👉 Ein Geltungsbereich muss immer **mindestens eine Organisationseinheit** enthalten.
 

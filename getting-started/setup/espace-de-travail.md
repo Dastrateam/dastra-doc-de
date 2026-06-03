@@ -42,9 +42,9 @@ Um auf Ihren Mandanten zuzugreifen:&#x20;
 3. Sie **gelangen dann zu Ihrem Mandanten**
 
 Sie können jederzeit den Mandanten wechseln, indem Sie auf den Selektor oben links auf dem Bildschirm klicken:\
-![](<../../.gitbook/assets/image (377).png>)
+![](<../../.gitbook/assets/image-377.png>)
 
-![](<../../.gitbook/assets/image (181).png>)
+![](<../../.gitbook/assets/image-181.png>)
 
 Füllen Sie die Felder aus und klicken Sie dann auf "Weiter".
 
@@ -52,7 +52,7 @@ Füllen Sie die Felder aus und klicken Sie dann auf "Weiter".
 
 Sobald der Mandant erstellt ist, können Sie Ihre Kollegen direkt in Ihren Bereich einladen.&#x20;
 
-![](<../../.gitbook/assets/image (129).png>)
+![](<../../.gitbook/assets/image-129.png>)
 
 {% hint style="info" %}
 Sie können bestehende Nutzer zu diesem Bereich hinzufügen oder neue Nutzer einladen, indem Sie auf die Schaltfläche "Nutzer einladen" klicken.
@@ -80,7 +80,7 @@ Hier eine Erinnerung an die Begriffsdefinitionen in Dastra:&#x20;
 
 Um die erste juristische Entität zu erstellen, geben Sie einfach ihren Namen an und ordnen Sie ihr den Verantwortlichen (den gesetzlichen Vertreter) und, falls benannt, den Datenschutzbeauftragten oder andere Stakeholder zu. Nur der Name der juristischen Entität ist obligatorisch.
 
-![](<../../.gitbook/assets/image (126).png>)
+![](<../../.gitbook/assets/image-126.png>)
 
 Füllen Sie die Felder aus und klicken Sie dann auf "Weiter", um Ihren Bereich zu betreten.
 
@@ -90,7 +90,7 @@ Sobald Ihr Bereich eröffnet ist, empfiehlt es sich, **sofort alle weiteren juri
 
 Klicken Sie dazu auf den Namen Ihrer Entität oben links auf dem Bildschirm (in diesem Fall die Schaltfläche "Test"), um das Dropdown-Menü anzuzeigen, und klicken Sie dann auf die Schaltfläche "Ihren Mandanten verwalten".
 
-![](<../../.gitbook/assets/image (182).png>)
+![](<../../.gitbook/assets/image-182.png>)
 
 Sie gelangen so zur Konfigurationsansicht der Entitäten und Abteilungen. Erstellen Sie Abteilungen, indem Sie auf die Schaltfläche "Abteilung erstellen" klicken, oder eine neue juristische Entität, indem Sie auf die Schaltfläche "Entität erstellen (Verantwortlicher)" klicken, bis das Organisationsschema Ihrer Struktur in Dastra abgebildet ist.
 
@@ -98,7 +98,7 @@ Sie gelangen so zur Konfigurationsansicht der Entitäten und Abteilungen. Erstel
 Sie können auch Unterabteilungen hinzufügen, indem Sie auf die Schaltfläche "Unterabteilung hinzufügen" klicken.
 {% endhint %}
 
-![Die in Dastra generierte Organigramm-Ansicht.](<../../.gitbook/assets/image (128).png>)
+![Die in Dastra generierte Organigramm-Ansicht.](<../../.gitbook/assets/image-128.png>)
 
 Herzlichen Glückwunsch, Ihr Mandant in Dastra ist erstellt und eingerichtet!&#x20;
 

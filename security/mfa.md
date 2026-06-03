@@ -16,12 +16,12 @@ Die Nutzer können sich somit sowohl mit ihrem üblichen Passwort als auch mit e
 * Laden Sie eine Zwei-Faktor-Authentifizierungs-App herunter
 * **Scannen Sie den QR-Code** mit der von Ihnen gewählten App
 
-![](<../.gitbook/assets/image (103).png>)
+![](<../.gitbook/assets/image-103.png>)
 
 * Bewahren Sie den Wiederherstellungscode sicher auf.&#x20;
 * Melden Sie sich mit dem 6-stelligen Code an, der von Ihrer Authentifizierungs-App bereitgestellt wird
 
-![Beispiel einer Authentifizierungs-App](<../.gitbook/assets/image (104).png>)
+![Beispiel einer Authentifizierungs-App](<../.gitbook/assets/image-104.png>)
 
 {% hint style="warning" %}
 Bewahren Sie den Wiederherstellungscode sorgfältig auf! Dieser ermöglicht es Ihnen, Ihr Konto wiederherzustellen, falls Sie Ihre Authentifizierungs-App verlieren. Ihr Konto wird dauerhaft gesperrt, wenn Sie diesen Code nicht vorlegen können. In diesem Fall müssen Sie sich an den Eigentümer Ihrer Organisation wenden, damit er die Zwei-Faktor-Authentifizierung Ihres Kontos zurücksetzt.

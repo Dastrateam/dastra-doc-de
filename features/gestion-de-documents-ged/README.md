@@ -50,11 +50,11 @@ Gehen Sie dazu in das Dokumentenmanagement und klicken Sie auf "Dokument verfass
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-18 104431.png" alt=""><figcaption><p>Ein neues Dokument verfassen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-12-18-104431.png" alt=""><figcaption><p>Ein neues Dokument verfassen</p></figcaption></figure>
 
 Das neue Dokument wird im Markdown-Format (.md) gespeichert
 
-<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-1-4.png" alt=""><figcaption></figcaption></figure>
 
 ### Einen Ordner erstellen
 
@@ -62,7 +62,7 @@ Sie können Ihre Dokumente in Ordnern organisieren, um sie leichter wiederzufind
 
 Es ist möglich, Unterordner zu erstellen.
 
-<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-8-3.png" alt=""><figcaption></figcaption></figure>
 
 ### Rechteverwaltung
 

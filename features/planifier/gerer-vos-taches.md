@@ -21,9 +21,9 @@ Um eine Aufgabe zu erstellen, haben Sie zwei Möglichkeiten:
 
 Klicken Sie auf der Hauptseite des Moduls "Planung" auf "Neue Aufgabe". Ein neues Fenster "Neue Aufgabe" erscheint rechts auf dem Bildschirm, in dem Sie die gewünschte Aufgabe beschreiben können. Klicken Sie nach der Beschreibung auf "Speichern".
 
-![Schaltfläche zur Erstellung einer neuen Aufgabe](<../../.gitbook/assets/image (177).png>)
+![Schaltfläche zur Erstellung einer neuen Aufgabe](<../../.gitbook/assets/image-177.png>)
 
-![Oberfläche zur Dokumentation der Aufgabe](<../../.gitbook/assets/Capture web\_4-5-2022\_14206\_app.dastra.eu.jpeg>)
+![Oberfläche zur Dokumentation der Aufgabe](<../../.gitbook/assets/capture-web-4-5-2022-14206-app-dastra-eu.jpeg>)
 
 {% hint style="info" %}
 Jede Aufgabe in Dastra kann einem in der Anwendung vorhandenen Element zugeordnet werden, zum Beispiel:
@@ -46,15 +46,15 @@ Dastra ermöglicht es Ihnen, eine Aufgabe genau dann zu erstellen, wenn Sie sie 
 
 * Bearbeitung einer Datenverarbeitung
 
-![An Datenverarbeitungen angehängte Aufgaben](<../../.gitbook/assets/image (26).png>)
+![An Datenverarbeitungen angehängte Aufgaben](<../../.gitbook/assets/image-26.png>)
 
 * Verwaltung einer Betroffenenanfrage
 
-![An Betroffenenanfragen angehängte Aufgaben](<../../.gitbook/assets/image (27).png>)
+![An Betroffenenanfragen angehängte Aufgaben](<../../.gitbook/assets/image-27.png>)
 
 * Datenschutzvorfall
 
-![An eine Datenschutzvorfallmeldung angehängte Aufgaben](<../../.gitbook/assets/image (28) (1).png>)
+![An eine Datenschutzvorfallmeldung angehängte Aufgaben](<../../.gitbook/assets/image-28-1.png>)
 
 * Generierung von Aufgaben aus einem Audit
 
@@ -66,7 +66,7 @@ Ein Maßnahmenplan kann auch automatisch nach Durchführung eines Audits generie
 
 Es ist möglich, in Dastra eine Liste von Unteraufgaben zu jeder Aufgabe zu erstellen. Bearbeiten Sie dazu eine Aufgabe und klicken Sie auf die Schaltfläche "Unteraufgabe hinzufügen".
 
-![Schaltfläche "Unteraufgabe hinzufügen"](<../../.gitbook/assets/image (223).png>)
+![Schaltfläche "Unteraufgabe hinzufügen"](<../../.gitbook/assets/image-223.png>)
 
 ## Eine Aufgabe zuweisen
 
@@ -78,7 +78,7 @@ Diese Personen werden bei jeder Änderung einer Aufgabe per E-Mail benachrichtig
 
 Um eine Aufgabe zu bearbeiten, klicken Sie einfach auf die drei Punkte rechts neben einer Aufgabe und wählen Sie "Bearbeiten".
 
-![Dropdown-Menü einer Aufgabe](<../../.gitbook/assets/image (222).png>)
+![Dropdown-Menü einer Aufgabe](<../../.gitbook/assets/image-222.png>)
 
 {% hint style="info" %}
 Um den Status einer Aufgabe noch einfacher zu ändern, können Sie diese per "Drag-and-Drop" aus dem Reiter "Tabelle" verschieben, der eine Verteilung der Aufgaben auf 4 Statusspalten ermöglicht: "Neu", "Zusätzliche Informationen erforderlich", "In Bearbeitung", "Erledigt". Sie können die Statusspalten auch anpassen.&#x20;
@@ -90,7 +90,7 @@ In Dastra ist es möglich, eine Aufgabe über das Dropdown-Menü der Aufgabe zu 
 
 Im Gegensatz zum Löschen wird eine Aufgabe durch die Archivierung nicht aus Dastra entfernt. Ein Vermerk "archiviert" erscheint in der Aufgabe. Um eine archivierte Aufgabe aus der Ansicht zu entfernen, deaktivieren Sie einfach den Filter "Archivierte Aufgaben anzeigen".
 
-![Filter "Archivierte Aufgaben anzeigen" deaktiviert](<../../.gitbook/assets/image (224).png>)
+![Filter "Archivierte Aufgaben anzeigen" deaktiviert](<../../.gitbook/assets/image-224.png>)
 
 ## Weiterführende Informationen
 

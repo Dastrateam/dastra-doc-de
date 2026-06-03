@@ -31,9 +31,9 @@ Für jeden Zweck müssen Sie [**die Rechtsgrundlage**](https://www.cnil.fr/fr/le
 
 Das Hinzufügen von Verarbeitungszwecken erfolgt in Abschnitt 3 der Verarbeitung.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Verarbeitungszweck hinzufügen</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-1-1-1-1-1-1-1-1-1-1-1-1.png" alt=""><figcaption><p>Verarbeitungszweck hinzufügen</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-2-1-1-1-1-1.png" alt=""><figcaption></figcaption></figure>
 
 Die Bezeichnung des Verarbeitungszwecks ist auf 120 Zeichen begrenzt.&#x20;
 
@@ -108,6 +108,6 @@ Sie können die Ergebnisse dieses Tests als Dokument in Schritt 11 aufbewahren. 
 
 In jedem Verarbeitungszweck können Sie eine Rechtsgrundlage aus den 6 oben genannten Grundlagen hinzufügen.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Rechtsgrundlage-Selektor</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-3-1-1-1.png" alt=""><figcaption><p>Rechtsgrundlage-Selektor</p></figcaption></figure>
 
 Sobald die Grundlage ausgewählt ist, können Sie eine Beschreibung hinzufügen. Zum Beispiel, um die berechtigten Interessen oder die gesetzliche Bestimmung zu präzisieren.&#x20;

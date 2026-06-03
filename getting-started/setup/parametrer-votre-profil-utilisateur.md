@@ -16,7 +16,7 @@ Sie können ein Logo oder Profilbild hinzufügen, das in Ihren Mandanten und in 
 * **Akzeptierte Formate:** PNG, JPG oder WebP
 * **Automatischer Zuschnitt:** Dastra passt das quadratische Format automatisch an
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-2-1-4-1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Wählen Sie ein einfaches und wiedererkennbares Bild (z. B. Ihr Foto oder das Logo Ihrer Organisation).
@@ -87,7 +87,7 @@ Endgültige Löschung: Nach der Bestätigung ist **die Löschung unwiderruflich*
 Eine Wiederherstellung ist nicht möglich.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-3-1-6.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

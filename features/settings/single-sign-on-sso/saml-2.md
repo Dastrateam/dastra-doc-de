@@ -43,11 +43,11 @@ Zur Konfiguration Ihres Authentifizierungsanbieters benötigen Sie die folgenden
 
 Gehen Sie in dastra.eu auf [die SSO-Administrationsseite](https://app.dastra.eu/general-settings/sso) und klicken Sie auf „SSO-Login hinzufügen"
 
-![](<../../../.gitbook/assets/image (116).png>)
+![](<../../../.gitbook/assets/image-116.png>)
 
 Füllen Sie die Formularfelder mithilfe der Konfigurationsinformationen der Entität aus:
 
-![](<../../../.gitbook/assets/image (117).png>)
+![](<../../../.gitbook/assets/image-117.png>)
 
 {% hint style="danger" %}
 Es ist möglich, alle Nutzer des Abonnementkontos zur Verwendung eines bestimmten SSO zu zwingen (durch Aktivieren des Kontrollkästchens „Nutzer zur Verwendung dieses SSO zwingen"). Vor der Aktivierung dieser Option ist Vorsicht geboten. Denn wenn das SSO nicht funktioniert, können Sie nicht mehr als Administrator auf Ihr Konto zugreifen. Es ist vorzuziehen, das SSO pro Nutzer zu verwalten.
@@ -62,4 +62,4 @@ Nur interne Konten eines Abonnements unterliegen dem SSO. Konten externer Nutzer
 
 Sobald die Konfiguration abgeschlossen ist, können Sie die Authentifizierung testen, indem Sie unten rechts auf die Schaltfläche „Testen" klicken. Wenn Sie bei der SSO-Konfiguration auf ein Problem stoßen, wenden Sie sich bitte an den Support, indem Sie die Seite zur [Verwaltung von Support-Tickets](https://app.dastra.eu/general-settings/support) aufrufen.
 
-![](<../../../.gitbook/assets/image (120).png>)
+![](<../../../.gitbook/assets/image-120.png>)

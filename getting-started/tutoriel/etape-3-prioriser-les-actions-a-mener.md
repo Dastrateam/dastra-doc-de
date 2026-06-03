@@ -8,7 +8,7 @@ Sie wissen nicht, mit welchen Maßnahmen Sie beginnen sollen? Sehen Sie sich den
 
 Nachdem die für Ihr Compliance-Projekt erforderlichen Maßnahmen identifiziert sind, erstellen Sie die zugehörigen Aufgaben und weisen sie den entsprechenden Mitarbeitern direkt im Tab "Planung" des Dastra-Tools zu:
 
-![Beispiel eines Maßnahmenplans](<../../.gitbook/assets/image (19).png>)
+![Beispiel eines Maßnahmenplans](<../../.gitbook/assets/image-19.png>)
 
 Weitere Informationen zur Funktion "Planung" in Dastra:
 

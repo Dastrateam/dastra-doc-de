@@ -6,7 +6,7 @@ Die Audit-Phase ermöglicht die offizielle Validierung des Compliance-Status zu 
 
 Die Vorbereitung und Durchführung aller Compliance-Audits zentralisiert gestalten, mit den Beteiligten zusammenarbeiten und die Nachverfolgung der Korrekturen nach festgestellten Abweichungen sicherstellen.
 
-<figure><img src="../../../.gitbook/assets/image (509).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-509.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -23,7 +23,7 @@ Das Audit-Modul wandelt die theoretische Compliance in eine messbare Realität u
 
 Dastra bietet eine Multi-User-Verwaltung zur Steuerung der Compliance auf Konzernebene sowie eine vollständige Interoperabilität über APIs und Multi-Format-Exporte.
 
-<figure><img src="../../../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-508.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -37,7 +37,7 @@ Die Erstellung einer Mission ist der Ausgangspunkt Ihrer Bewertung. Klicken Sie 
 * Beschreibung (optional): Geben Sie den Kontext oder den spezifischen Geltungsbereich an (bis zu 500 Zeichen).
 * Auditoren (Pflichtfeld): Wählen Sie die Nutzer aus, die für die Durchführung der Bewertung verantwortlich sind. Wenn Sie nicht in dieser Liste erscheinen, können Sie die Audit-Fragen nicht beantworten (auch wenn Sie Inhaber der Organisation sind).&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (510).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-510.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Audit-Phase und Zeitplan
 
@@ -114,7 +114,7 @@ Die Bewertungsoberfläche ist so konzipiert, dass sie eine vollständige Sicht a
 * Zentraler Arbeitsbereich: Zeigt das Ziel der ausgewählten Anforderung und die vollständige Liste der zugehörigen Kontrollen und Tests.
 * Entscheidungspanel (rechts): Gruppiert die Bewertungstools, die Kommentareingabe und die Änderungshistorie.
 
-<figure><img src="../../../.gitbook/assets/image (507).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-507.png" alt=""><figcaption></figcaption></figure>
 
 #### Nachweisüberprüfung (Kontrollen und Tests)
 
@@ -171,7 +171,7 @@ Das abgeschlossene Audit speist dank der Ausgabefunktionen von Dastra sofort die
 
 Die Ergebnisse werden in einer Übersicht konsolidiert, die den Compliance-Prozentsatz pro Audit anzeigt (z. B. 75 % für NIST, 57 % für DSGVO). Diese Indikatoren ermöglichen den Vergleich des Sicherheitsniveaus zwischen verschiedenen Einheiten oder Projekten.
 
-<figure><img src="../../../.gitbook/assets/image (506).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-506.png" alt=""><figcaption></figcaption></figure>
 
 **Export und Archivierung**
 

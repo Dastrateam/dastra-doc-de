@@ -12,7 +12,7 @@ Standardmäßig nutzt das [DMS von Dastra](../gestion-de-documents-ged/) ein sta
 
 Obwohl sehr sicher und in den meisten Szenarien praktisch, kann die Speicherung von Dateien in der Dastra-Anwendung mit anderen DMS oder Cloud-Dateimanagern redundant sein. Um dieses Problem zu lösen, integriert sich Dastra nativ mit den wichtigsten Cloud-Dateianbietern.
 
-<figure><img src="../../.gitbook/assets/image (252) (1).png" alt=""><figcaption><p>Die DMS-Dateien von Dastra können an verschiedenen Speicherorten gespeichert werden</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-252-1.png" alt=""><figcaption><p>Die DMS-Dateien von Dastra können an verschiedenen Speicherorten gespeichert werden</p></figcaption></figure>
 
 ### Benutzerdefinierten Cloud-Speicher konfigurieren
 
@@ -26,7 +26,7 @@ Um Ihren Cloud-Dateimanager zu konfigurieren, ist es ganz einfach:
 * Klicken Sie auf **Cloud-Speicher verwalten**
 * Wählen Sie Ihren Anbieter (Google Drive oder OneDrive)
 
-![](<../../.gitbook/assets/image (257) (1).png>)
+![](<../../.gitbook/assets/image-257-1.png>)
 
 * **Klicken Sie auf die Schaltfläche „Hinzufügen"**, Sie werden zur Login-Seite des Anbieters weitergeleitet, die Sie um die erforderlichen Berechtigungen zur Herstellung der Verbindung mit Dastra bittet.&#x20;
 * Am Ende des Prozesses wählen Sie das Laufwerk des Drive aus, das Sie verwenden möchten (ein Google Drive oder ein SharePoint-Laufwerk für OneDrive)
@@ -36,12 +36,12 @@ Um Ihren Cloud-Dateimanager zu konfigurieren, ist es ganz einfach:
 * **Bearbeiten Sie eine beliebige Entität**: Aufgabe, Verarbeitung, Akteur...&#x20;
 * **Wählen Sie die Datenquelle** oben links im Datei-Upload-Bereich.
 
-![](<../../.gitbook/assets/image (254) (1).png>)
+![](<../../.gitbook/assets/image-254-1.png>)
 
 * Senden Sie Dateien direkt auf Ihr Drive (Bearbeiten Sie sie, verschieben Sie sie)
 * Klicken Sie auf **Im Manager auswählen** und wählen Sie die anzuhängende Datei
 
-![](<../../.gitbook/assets/image (255).png>)
+![](<../../.gitbook/assets/image-255.png>)
 
 ### Einschränkungen
 

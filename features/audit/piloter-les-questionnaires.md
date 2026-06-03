@@ -62,9 +62,9 @@ Um die Zusammenführung zu starten:
 
 Diese Funktion ist besonders nützlich in Szenarien der externen Datenerhebung über Privacy Hubs, in denen Dritte (Lieferanten, Auftragsverarbeiter) Informationen angeben, die anschließend in Ihren internen Verzeichnissen widergespiegelt werden müssen.
 
-<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-275.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-278.png" alt=""><figcaption></figcaption></figure>
 
 ## Einen Maßnahmenplan erstellen
 

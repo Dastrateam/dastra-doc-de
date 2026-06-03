@@ -16,13 +16,13 @@ Einmal gespeichert, sind sie ein schnelles Mittel zur Kommunikation mit den Inte
 
 Um eine Vorlage auszuwählen oder zu erstellen, klicken Sie auf "Vorlage auswählen oder erstellen"
 
-<figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption><p>Vorlagenauswahl in einer Betroffenenanfrage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-13-2.png" alt=""><figcaption><p>Vorlagenauswahl in einer Betroffenenanfrage</p></figcaption></figure>
 
 Sie können dann eine bestehende Vorlage in der Liste oder über die Suchfunktion suchen, oder die verfügbaren Vorlagen in den Mandanten, auf die Sie Zugriff haben, oder die von Dastra erstellten Vorlagen durchsuchen.
 
 Wenn keine Vorlage passt, klicken Sie auf "Vorlage erstellen"
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Auswahl oder Erstellung einer Vorlage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-15.png" alt=""><figcaption><p>Auswahl oder Erstellung einer Vorlage</p></figcaption></figure>
 
 Die Vorlagenerstellungsoberfläche umfasst 4 Elemente&#x20;
 
@@ -31,7 +31,7 @@ Die Vorlagenerstellungsoberfläche umfasst 4 Elemente&#x20;
 * Ein Vorschau-Tab: ermöglicht die Anzeige der E-Mail-Darstellung in Echtzeit
 * Ein Input-Data-Tab: ermöglicht es Ihnen, die Daten des von der Vorlage betroffenen Objekts einzusehen
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (3).png" alt=""><figcaption><p>Vorlagenerstellungsoberfläche</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-7-1-3.png" alt=""><figcaption><p>Vorlagenerstellungsoberfläche</p></figcaption></figure>
 
 ## Vorlage anpassen
 
@@ -129,7 +129,7 @@ Der folgende Textkörper verwendet alle oben genannten Elemente
 
 Für die aktuell in Bearbeitung befindliche Anfrage wird es folgendermaßen umgewandelt:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (5).png" alt=""><figcaption><p>Ein Beispiel einer vollständigen Vorlage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-1-5.png" alt=""><figcaption><p>Ein Beispiel einer vollständigen Vorlage</p></figcaption></figure>
 
 ### Sie haben weitere Anforderungen?
 

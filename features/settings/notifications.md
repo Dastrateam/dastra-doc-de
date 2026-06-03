@@ -23,7 +23,7 @@ Das Benachrichtigungszentrum fasst die Warnungen zusammen, die über das **Glock
 * Nicht anpassbar (gemeinsam für den gesamten Mandanten)
 * Enthält allgemeine Benachrichtigungen über die letzten Aktivitäten: Erstellung, Änderung oder Löschung von Elementen
 
-<figure><img src="../../.gitbook/assets/image (5) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-5-5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 &#x20;Beispiel: „Eine neue Datenverarbeitung wurde in Ihrem Mandanten erstellt."

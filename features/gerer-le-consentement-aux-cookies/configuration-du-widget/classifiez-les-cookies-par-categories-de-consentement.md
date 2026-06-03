@@ -24,9 +24,9 @@ Mit DASTRA können Sie die auf Ihrer Website gesetzten Cookies per einfachem „
 
 Wählen Sie dazu einfach den zu klassifizierenden Cookie über die Klassifizierungsoberfläche aus und verschieben Sie ihn per „Klicken und Ablegen" in die gewünschte Kategorie.
 
-![Der Cookie „Zu klassifizierender Cookie" wird gerade klassifiziert](<../../../.gitbook/assets/image (52).png>)
+![Der Cookie „Zu klassifizierender Cookie" wird gerade klassifiziert](<../../../.gitbook/assets/image-52.png>)
 
-![Der Cookie „Zu klassifizierender Cookie" wurde in die Kategorie „Präferenzen" eingeordnet](<../../../.gitbook/assets/image (53).png>)
+![Der Cookie „Zu klassifizierender Cookie" wurde in die Kategorie „Präferenzen" eingeordnet](<../../../.gitbook/assets/image-53.png>)
 
 {% hint style="info" %}
 Sie können für jeden Cookie einzeln festlegen, ob eine Einwilligung eingeholt werden muss oder nicht.

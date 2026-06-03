@@ -12,7 +12,7 @@ Für alle Verarbeitungen können Sie den Änderungsverlauf sowie die Details der
 
 Klicken Sie dazu einfach auf das Uhrsymbol oben auf der Seite.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-18 103715.png" alt=""><figcaption><p>Schaltfläche zum Zugriff auf den Verlauf</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-12-18-103715.png" alt=""><figcaption><p>Schaltfläche zum Zugriff auf den Verlauf</p></figcaption></figure>
 
 Achtung, Änderungen an Organisationseinheiten werden nicht nachverfolgt.
 
@@ -28,7 +28,7 @@ Um eine Verarbeitung zu löschen, ist ein Umweg über den Papierkorb erforderlic
 
 Um eine Verarbeitung in den Papierkorb zu verschieben, gehen Sie auf die drei kleinen Punkte auf der Verarbeitung, um das Menü anzuzeigen.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-18 103935.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-12-18-103935.png" alt=""><figcaption></figcaption></figure>
 
 Und schließlich die Archive anzeigen
 
@@ -36,7 +36,7 @@ Und schließlich die Archive anzeigen
 
 und löschen
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-4-1-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Wie verwendet man Datensätze, ohne die Daten ändern zu können?
 
@@ -53,7 +53,7 @@ Erstellen Sie dann eine benutzerdefinierte Rolle mit den Berechtigungen:
 * Verzeichnis: Lesen, Schreiben
 * Datenkartierung: Lesen
 
-<figure><img src="../../.gitbook/assets/image (2) (2) (3).png" alt=""><figcaption><p>Rolle, die den Zugriff auf Datensätze ohne Bearbeitungsmöglichkeit ermöglicht</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-2-2-3.png" alt=""><figcaption><p>Rolle, die den Zugriff auf Datensätze ohne Bearbeitungsmöglichkeit ermöglicht</p></figcaption></figure>
 
 Weisen Sie dann diese Rolle den betreffenden Nutzern zu.
 
@@ -73,7 +73,7 @@ Anschließend sehen Sie die Schaltfläche "Gruppenaktionen wählen" erscheinen.
 
 Wählen Sie die Option "Stakeholder verknüpfen" und fügen Sie Ihre Stakeholder als Interessengruppe hinzu.
 
-<figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-17-2.png" alt=""><figcaption></figcaption></figure>
 
 ## Die Liste der Assets nach Organisationseinheit (OE) erhalten?
 
@@ -92,7 +92,7 @@ Sie können ein Verzeichnis und die zugehörigen Verarbeitungen auf verschiedene
 
 Sie können den Verarbeitungstyp ändern, indem Sie auf "Zu Auftragsverarbeiter wechseln" oder "Zu Verantwortlicher wechseln" klicken:
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-10-16 122037.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-10-16-122037.png" alt=""><figcaption></figcaption></figure>
 
 ## Fehlermeldung: "Das Feld Label ist erforderlich."
 
@@ -100,7 +100,7 @@ Diese Meldung erscheint in der Regel, wenn ein Element bei der Beantwortung eine
 
 ## Fehlermeldung: "Achtung, verbotener HTML-Inhalt ist in einem Feld vorhanden!"
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-03-04 163623.png" alt=""><figcaption><p>Achtung, verbotener HTML-Inhalt ist in einem Feld vorhanden!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2025-03-04-163623.png" alt=""><figcaption><p>Achtung, verbotener HTML-Inhalt ist in einem Feld vorhanden!</p></figcaption></figure>
 
 \
 Diese Meldung bedeutet, dass HTML-Code (in der Regel zwischen spitzen Klammern <> enthalten) in einem Feld vorhanden ist, in dem HTML (aus Sicherheitsgründen) verboten ist.<br>
@@ -108,14 +108,14 @@ Diese Meldung bedeutet, dass HTML-Code (in der Regel zwischen spitzen Klammern <
 \
 Die folgende Meldung ermöglicht eine einfache Identifizierung des betreffenden Felds:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Achtung, verbotener HTML-Inhalt ist in einem Feld vorhanden</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-2-1-1-1-1.png" alt=""><figcaption><p>Achtung, verbotener HTML-Inhalt ist in einem Feld vorhanden</p></figcaption></figure>
 
 ## Fehlermeldung: "Die Nutzer-ID existiert nicht in Ihrer Organisation." beim Speichern einer Verarbeitung
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-05-15 102250.png" alt=""><figcaption><p>Die Nutzer-ID existiert nicht in Ihrer Organisation.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2025-05-15-102250.png" alt=""><figcaption><p>Die Nutzer-ID existiert nicht in Ihrer Organisation.</p></figcaption></figure>
 
 Diese Meldung bedeutet, dass ein Nutzer, der aus Ihrem Mandanten gelöscht wurde, noch als Genehmiger in den Interessengruppen der Verarbeitung definiert ist:
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-05-15 102626.png" alt=""><figcaption><p>Gelöschter Nutzer, der als Interessengruppe der Verarbeitung definiert ist</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2025-05-15-102626.png" alt=""><figcaption><p>Gelöschter Nutzer, der als Interessengruppe der Verarbeitung definiert ist</p></figcaption></figure>
 
 Entfernen Sie den gelöschten Nutzer aus den Interessengruppen der Verarbeitung, um das Problem zu beheben.

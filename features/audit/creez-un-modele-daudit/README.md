@@ -12,11 +12,11 @@ Das Erstellen oder Bearbeiten einer Fragebogenvorlage in Dastra ist kinderleicht
 
 Um eine Fragebogenvorlage zu erstellen, klicken Sie auf die Schaltfläche "Vorlage erstellen" in der Registerkarte "Fragebögen". Anschließend können Sie einen der in Dastra verfügbaren Vorlagentypen auswählen: automatisierter Fragebogen, benutzerdefinierter Fragebogen oder aus einer Datei importiert.
 
-<figure><img src="../../../.gitbook/assets/image (16) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-16-3.png" alt=""><figcaption></figcaption></figure>
 
 Sie gelangen zur Auswahlansicht der Vorlagentypen:
 
-![Auswahl der Vorlagentypen](<../../../.gitbook/assets/image (138).png>)
+![Auswahl der Vorlagentypen](<../../../.gitbook/assets/image-138.png>)
 
 * Durch Klicken auf die Registerkarte "**Automatisierter Fragebogen**" wählen Sie eine vordefinierte Fragebogenvorlage aus der Dastra-Bibliothek aus.
 * Durch Klicken auf "**Benutzerdefinierter Fragebogen**" können Sie Ihre eigene Fragebogenvorlage erstellen.
@@ -29,7 +29,7 @@ Im Gegensatz zu automatisierten Fragebögen sind benutzerdefinierte Fragebögen 
 
 Dastra bietet zahlreiche automatisierte Fragebogenvorlagen zur Dokumentation der Compliance und zur Steuerung von Prozessen. Diese Vorlagen umfassen unter anderem DSFA/PIA, TIA, LIA, Fragebögen für Auftragsverarbeiter und vieles mehr.
 
-![Schaltfläche zur Bibliotheksauswahl](<../../../.gitbook/assets/Capture web\_6-5-2022\_103438\_app.dastra.eu.jpeg>)
+![Schaltfläche zur Bibliotheksauswahl](<../../../.gitbook/assets/capture-web-6-5-2022-103438-app-dastra-eu.jpeg>)
 
 Sobald die Vorlage ausgewählt ist, gelangen Sie zum Planungsbildschirm, auf dem Sie:
 
@@ -46,13 +46,13 @@ In Dastra ist es möglich, Ihre eigene benutzerdefinierte Fragebogenvorlage zu e
 
 Erstellen Sie die gewünschte Fragebogenvorlage und klicken Sie auf "Speichern und fortfahren".
 
-![Beispiel einer anpassbaren Fragebogenvorlage.](<../../../.gitbook/assets/Capture web\_6-5-2022\_103818\_app.dastra.eu.jpeg>)
+![Beispiel einer anpassbaren Fragebogenvorlage.](<../../../.gitbook/assets/capture-web-6-5-2022-103818-app-dastra-eu.jpeg>)
 
 ### Bewertete Elemente
 
 Sie können Fragebögen mit Elementen in Dastra verknüpfen. Durch die Auswahl des Typs des bewerteten Elements erzwingen Sie, dass alle auf dieser Vorlage basierenden Antworten mit einem Objekt des gewählten Typs verknüpft werden. Beispielsweise können Sie festlegen, dass diese Fragebogenvorlage immer mit einer Verarbeitung verknüpft wird.
 
-<figure><img src="../../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-267.png" alt=""><figcaption></figcaption></figure>
 
 Sie können auch entscheiden, einen Fragebogen nicht mit einem bestimmten Objekt zu verknüpfen. In diesem Fall wird die Antwort immer mit einer Organisationseinheit verknüpft. Dies kann beispielsweise bei globalen Compliance-Fragebögen der Fall sein.
 
@@ -60,7 +60,7 @@ Sie können auch entscheiden, einen Fragebogen nicht mit einem bestimmten Objekt
 
 Bei der Erstellung einer benutzerdefinierten Vorlage müssen Sie einen Vorlagentyp auswählen.
 
-<figure><img src="../../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-262.png" alt=""><figcaption></figcaption></figure>
 
 Diese Typen ermöglichen eine gewisse Anpassung der Fragebogenvorlagen.
 

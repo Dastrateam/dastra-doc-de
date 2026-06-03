@@ -26,7 +26,7 @@ Jeder Test ist:
 
 ### Bibliotheksansicht der Tests
 
-<figure><img src="../../../.gitbook/assets/image (492).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-492.png" alt=""><figcaption></figcaption></figure>
 
 Die Testbibliothek bietet einen übergreifenden Überblick über alle verfügbaren Tests, insbesondere:
 
@@ -80,7 +80,7 @@ Bei der Erstellung oder Bearbeitung eines Tests legt der Nutzer fest:
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (493).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-493.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -92,7 +92,7 @@ Diese Informationen dienen als operativer Leitfaden bei der Durchführung des Te
 
 Dastra bietet mehrere Arten einsatzbereiter Konnektoren (Fragebögen, Verzeichnisse, Richtlinien usw.) sowie einen generischen Konnektor. Diese Konnektoren werden direkt in den **automatisierten Tests** des Compliance-Moduls verwendet.
 
-<figure><img src="../../../.gitbook/assets/image (494).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-494.png" alt=""><figcaption></figcaption></figure>
 
 Ergänzend zu den manuellen Tests ermöglicht Dastra die Konfiguration **automatisierter Tests** mithilfe von **Konnektoren**.
 
@@ -118,7 +118,7 @@ Ein automatisierter Test kann überprüfen, dass jedes KI-System über eine konf
 
 Ergänzend zu den Standardkonnektoren ermöglicht Dastra die Erstellung **benutzerdefinierter Konnektoren**, um die Nachweissammlung in den Compliance-Tests zu automatisieren.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-1-1.png" alt=""><figcaption></figcaption></figure>
 
 Ein benutzerdefinierter Konnektor ermöglicht:
 

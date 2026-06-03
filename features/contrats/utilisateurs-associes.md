@@ -12,4 +12,4 @@ Hier ist eine Möglichkeit, die Rollen Ihrer Nutzer für Ihre Verträge zu defin
 
 ***
 
-<figure><img src="../../.gitbook/assets/image (331).png" alt=""><figcaption><p>Ordnen Sie Nutzer Ihrem Vertrag zu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-331.png" alt=""><figcaption><p>Ordnen Sie Nutzer Ihrem Vertrag zu</p></figcaption></figure>

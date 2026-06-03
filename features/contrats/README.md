@@ -12,4 +12,4 @@ Es ist erforderlich, ein Abonnement mit der Funktion "Verträge" zu besitzen, um
 
 Wenn die Funktion in Ihrem Plan aktiv ist, können Sie auf das Modul zugreifen, indem Sie auf das Vertragssymbol in der Navigation klicken.
 
-<figure><img src="../../.gitbook/assets/image (318) (1) (1).png" alt=""><figcaption><p>Symbol des Moduls Verträge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-318-1-1.png" alt=""><figcaption><p>Symbol des Moduls Verträge</p></figcaption></figure>

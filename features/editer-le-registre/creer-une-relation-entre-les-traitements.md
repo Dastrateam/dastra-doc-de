@@ -18,11 +18,11 @@ Beispielsweise können Sie in einem Unternehmensverbund eine Beziehung zwischen 
 
 Gehen Sie dazu auf ein Verarbeitungsblatt und wählen Sie den Tab "Beziehungen" oben auf dem Blatt aus.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Schaltfläche zur Erstellung von Verarbeitungsbeziehungen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-1-1-1-1-1-1-1-1-1-1.png" alt=""><figcaption><p>Schaltfläche zur Erstellung von Verarbeitungsbeziehungen</p></figcaption></figure>
 
 Wählen Sie dann einen Beziehungstyp aus.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Erstellung neuer Beziehungen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-1-1-1-1-1-1-1-1-1-1-1.png" alt=""><figcaption><p>Erstellung neuer Beziehungen</p></figcaption></figure>
 
 Sie können Beziehungen zu mehreren Verarbeitungen gleichzeitig erstellen. Dazu müssen Sie neue Verarbeitungen erstellen und die betreffenden Organisationseinheiten auswählen.
 

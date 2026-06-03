@@ -14,13 +14,13 @@ Diese Visualisierung ermöglicht es insbesondere, die geografischen Datenübermi
 
 Um die Karte der Datenübermittlungen zu visualisieren, klicken Sie auf das Modul "Verzeichnis" und dann auf die Schaltfläche "**Übermittlungen**" über Ihrer Verarbeitungsliste.&#x20;
 
-![Modul "Verzeichnis"](<../../../.gitbook/assets/image (199).png>)
+![Modul "Verzeichnis"](<../../../.gitbook/assets/image-199.png>)
 
-![Tab Übermittlungen über den Verarbeitungen](<../../../.gitbook/assets/Capture web\_4-5-2022\_101533\_app.dastra.eu.jpeg>)
+![Tab Übermittlungen über den Verarbeitungen](<../../../.gitbook/assets/capture-web-4-5-2022-101533-app-dastra-eu.jpeg>)
 
 So können Sie die **Karte der Datenübermittlungen** visualisieren.
 
-![Beispiel einer Datenübermittlung](<../../../.gitbook/assets/image (212).png>)
+![Beispiel einer Datenübermittlung](<../../../.gitbook/assets/image-212.png>)
 
 {% hint style="info" %}
 Es ist möglich, auf die Details der Übermittlungen zuzugreifen, indem Sie auf die Punkte klicken, die jedem Land entsprechen.

@@ -12,7 +12,7 @@ Eine Verarbeitungstätigkeit ist ein Vorgang oder eine Reihe von Vorgängen, die
 
 Um eine Verarbeitungstätigkeit zu erstellen, klicken Sie zunächst im Bereich Verzeichnis auf "Datenverarbeitung erstellen".
 
-![Auswahl der neuen Verarbeitung](<../../.gitbook/assets/image (185).png>)
+![Auswahl der neuen Verarbeitung](<../../.gitbook/assets/image-185.png>)
 
 Wählen Sie den Typ der Verarbeitung&#x20;
 
@@ -22,7 +22,7 @@ Füllen Sie die Beschreibung der Verarbeitungstätigkeit aus, und Sie werden zum
 
 Um eine Verarbeitung als Auftragsverarbeiter zu erstellen, ist es ganz einfach. Sie müssen beim Erstellen einer Verarbeitung das Kontrollkästchen aktivieren&#x20;
 
-![](<../../.gitbook/assets/image (186).png>)
+![](<../../.gitbook/assets/image-186.png>)
 
 Sie gelangen dann automatisch zur Dokumentationsphase einer Verarbeitung als Auftragsverarbeiter und haben die Möglichkeit, Ihre Verantwortlichen (in der Regel Ihre Kunden) zu deklarieren.
 
@@ -30,7 +30,7 @@ Sie gelangen dann automatisch zur Dokumentationsphase einer Verarbeitung als Auf
 
 Um eine bestehende Verarbeitungstätigkeit zu bearbeiten, klicken Sie auf die Schaltfläche "Bearbeiten" der Verarbeitung oder gehen Sie direkt zu den Schritten auf der linken Seite des Bildschirms:
 
-![](<../../.gitbook/assets/image (187).png>)
+![](<../../.gitbook/assets/image-187.png>)
 
 Folgen Sie dann jedem Schritt des Fragebogens, beginnend mit dem folgenden Abschnitt:
 

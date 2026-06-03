@@ -28,7 +28,7 @@ Dieses enthält:&#x20;
 * die **Datenübermittlungen** außerhalb des EWR
 * die **Sicherheitsmaßnahmen**
 
-![Die verschiedenen Abschnitte einer Verarbeitung "Auftragsverarbeiter" in Dastra](<../../.gitbook/assets/Capture d'écran 2025-04-25 154348.png>)
+![Die verschiedenen Abschnitte einer Verarbeitung "Auftragsverarbeiter" in Dastra](<../../.gitbook/assets/screenshot-2025-04-25-154348.png>)
 
 ***
 

@@ -20,7 +20,7 @@ Sobald das Widget implementiert ist, erfasst DASTRA automatisch für Sie die Ein
 
 Um diese einzusehen, navigieren Sie einfach zur Oberfläche „Einwilligung" des DASTRA Cookie-Einwilligungsmoduls.
 
-![Oberfläche „Einwilligung"](<../../../.gitbook/assets/Capture web\_6-5-2022\_95747\_app.dastra.eu.jpeg>)
+![Oberfläche „Einwilligung"](<../../../.gitbook/assets/capture-web-6-5-2022-95747-app-dastra-eu.jpeg>)
 
 {% hint style="info" %}
 Von dieser Oberfläche aus können Sie auch die erfassten Einwilligungsnachweise anpassen, die Daten exportieren und insbesondere nach Datum oder Cookie-Widget filtern.

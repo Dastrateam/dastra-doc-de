@@ -9,8 +9,8 @@ Verfügbare Funktionen:
 * Nachweise bereitstellen, die angeforderten Daten kopieren oder löschen.
 * Die Anfrage als bearbeitet oder als unzulässig markieren mit einem Kommentar.
 
-<figure><img src="../../../.gitbook/assets/interface_traitement-demandes_liste_fr.png" alt=""><figcaption><p>Liste der zu bearbeitenden Anfragen</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/interface-traitement-demandes-liste-fr.png" alt=""><figcaption><p>Liste der zu bearbeitenden Anfragen</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/interface_traitement-demandes_demandes_en_attente_fr.png" alt=""><figcaption><p>Ausstehende Anfragen zur Bearbeitung</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/interface-traitement-demandes-demandes-en-attente-fr.png" alt=""><figcaption><p>Ausstehende Anfragen zur Bearbeitung</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/interface_traitement-demandes_traite_fr.png" alt=""><figcaption><p>Beispiel einer bearbeiteten Anfrage</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/interface-traitement-demandes-traite-fr.png" alt=""><figcaption><p>Beispiel einer bearbeiteten Anfrage</p></figcaption></figure>

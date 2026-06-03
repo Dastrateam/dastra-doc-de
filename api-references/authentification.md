@@ -14,7 +14,7 @@ Ihr API-Schlüssel ermöglicht viele Aktionen, daher sollten Sie ihn sorgfältig
 
 Wenn Sie die OAuth2-Authentifizierung im Modus "authorization\_code" verwenden möchten, müssen die Weiterleitungs-URL(s) sowie die autorisierten CORS-Ursprünge korrekt konfiguriert werden.
 
-![](<../.gitbook/assets/image (249) (1) (1) (1).png>)
+![](<../.gitbook/assets/image-249-1-1-1.png>)
 
 ## API-Schlüssel (X-API-Key)&#x20;
 
@@ -52,7 +52,7 @@ https://account.dastra.eu/connect/authorize?
 
 Die API-Authentifizierung erfolgt mithilfe des [OAuth2-Protokolls](https://oauth.net/2/) unter Verwendung des "Client credential"-Flows. Dieser Authentifizierungsmodus darf ausschließlich für Server-zu-Server-Anfragen verwendet werden und darf keinesfalls browserseitig eingesetzt werden (z. B. SPA in JavaScript).
 
-![](<../.gitbook/assets/API authentication scheam.svg>)
+![](<../.gitbook/assets/api-authentication-scheam.svg>)
 
 ### Token abrufen
 

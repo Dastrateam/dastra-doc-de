@@ -14,15 +14,15 @@ Es besteht aus 3 Hauptbereichen:
 * Der Community-Tab rechts auf dem Bildschirm,
 * Der Bereich in der Mitte mit den Kacheln, die die Neuigkeiten und die Überwachung Ihres Bereichs zusammenfassen, sowie die verschiedenen Funktionen.
 
-![Die Funktionsleiste links auf dem Bildschirm](<../.gitbook/assets/Capture web\_3-5-2022\_154256\_app.dastra.eu.jpeg>)
+![Die Funktionsleiste links auf dem Bildschirm](<../.gitbook/assets/capture-web-3-5-2022-154256-app-dastra-eu.jpeg>)
 
-![Der Community-Tab rechts auf dem Bildschirm](<../.gitbook/assets/Capture web\_3-5-2022\_154626\_app.dastra.eu.jpeg>)
+![Der Community-Tab rechts auf dem Bildschirm](<../.gitbook/assets/capture-web-3-5-2022-154626-app-dastra-eu.jpeg>)
 
 ### Die Kacheln des Dashboards
 
 Im Bereich mit den Kacheln können Sie die Reihenfolge der Kacheln ändern, indem Sie auf die Drag-and-Drop-Schaltfläche klicken, mit der Sie die Anzeigereihenfolge der Kachel verschieben können.
 
-![Ein Beispiel einer Dashboard-Kachel](<../.gitbook/assets/image (160).png>)
+![Ein Beispiel einer Dashboard-Kachel](<../.gitbook/assets/image-160.png>)
 
 Es gibt verschiedene **Kachelkategorien** im Dashboard:
 
@@ -39,7 +39,7 @@ Es gibt verschiedene **Kachelkategorien** im Dashboard:
 
 Sie können das Dashboard auch drucken oder direkt einen Nutzer einladen, indem Sie auf eine der verfügbaren Schaltflächen oben rechts im Kachelbereich klicken.
 
-![Die Schaltflächen Drucken und Nutzer einladen](<../.gitbook/assets/image (161).png>)
+![Die Schaltflächen Drucken und Nutzer einladen](<../.gitbook/assets/image-161.png>)
 
 ## Weiterführende Informationen
 

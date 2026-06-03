@@ -39,11 +39,11 @@ Der Einrichtungsprozess ist sehr einfach:
     Diese Informationen ermöglichen es Dastra, einen gesicherten Zugriffstoken für die Kommunikation mit Ihrer ServiceNow-Instanz zu generieren.
 4.
 
-    <figure><img src="../../.gitbook/assets/SetupServiceNowAccount.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/setupservicenowaccount.png" alt=""><figcaption></figcaption></figure>
 
 4. Nach der Validierung wird ein Konfigurationsfenster angezeigt. Dieser Schritt ist **obligatorisch**, um die Installation abzuschließen.
 
-<figure><img src="../../.gitbook/assets/SettingsServiceNow.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settingsservicenow.png" alt=""><figcaption></figcaption></figure>
 
 ### Konfiguration
 

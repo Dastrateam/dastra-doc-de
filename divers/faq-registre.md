@@ -47,11 +47,11 @@ Wenn Sie ein Element nicht finden, auf das Sie Zugriff haben sollten, ist es mö
 1.  Ein Filter ist aktiv und schränkt die Anzeige ein, wie unten mit der "(1)" dargestellt. Klicken Sie auf Filter löschen \
     <br>
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image-2-1-1-1-1-1-1-1-1-1.png" alt=""><figcaption></figcaption></figure>
 2. Das Objekt ist mit einer Organisationseinheit verknüpft, auf die Sie keinen Zugriff haben oder für die Sie nicht die erforderlichen Rechte besitzen. Kontaktieren Sie den Verwalter Ihres Mandanten.
 3.  Das Objekt ist archiviert und wird daher standardmäßig nicht in der Liste angezeigt. Sie können über das Filtermenü wählen, ob archivierte Elemente angezeigt werden sollen.<br>
 
-    <figure><img src="../.gitbook/assets/image (4) (1) (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image-4-1-4.png" alt=""><figcaption></figcaption></figure>
 
 4. Schließlich sind möglicherweise fehlerhafte Einstellungen in Ihrem Browser gespeichert. Zur Überprüfung können Sie den privaten Modus verwenden. Wenn der private Modus das Problem löst, folgen Sie der unten beschriebenen Prozedur zum Löschen des lokalen Speichers Ihres Browsers.
 

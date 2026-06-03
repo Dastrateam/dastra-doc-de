@@ -26,10 +26,10 @@ Der Einrichtungsprozess ist sehr einfach:&#x20;
 * Klicken Sie auf die Schaltfläche **"Installieren"**.
 *   **Geben Sie Ihre Anmeldedaten** Ihres Filerskeepers-Administratorkontos ein (E-Mail + Passwort). Diese Anmeldedaten ermöglichen es uns, einen Zugriffstoken für die Filerskeepers-API zu generieren.<br>
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image-2-1-1.png" alt=""><figcaption></figcaption></figure>
 * Ein Konfigurationsfenster wird angezeigt. Diese Konfiguration ist obligatorisch, um die Installation abzuschließen. Wählen Sie in diesem Formular den "Schedule" aus, den Sie mit Dastra konfigurieren möchten.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-1-1-1-1-1-1.png" alt=""><figcaption></figcaption></figure>
 
 ### Konfiguration
 
@@ -50,17 +50,17 @@ Der Filerskeepers-Konnektor hat mehrere Betriebsmodi:&#x20;
 
 Wenn Sie nun einen Datensatz aufrufen, wird im Abschnitt "Aufbewahrungsrichtlinien" eine Schaltfläche zur Auswahl der Aufbewahrungsrichtlinie angezeigt
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-3.png" alt=""><figcaption></figcaption></figure>
 
 Durch Klicken auf diese Schaltfläche können Sie direkt einen Datensatz aus Ihrem Filerskeepers-Referenzverzeichnis auswählen. **Diese Aufbewahrungsfrist wird automatisch** mit Dastra synchronisiert, wenn Sie diese Option in der Konnektor-Konfiguration aktiviert haben.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-4.png" alt=""><figcaption></figcaption></figure>
 
 Wählen Sie einen Datensatz aus, indem Sie auf die Schaltfläche "Select" klicken
 
 Sobald Sie die Aufbewahrungsfrist ausgewählt haben, schließt sich das Fenster und folgende Informationen werden angezeigt: <br>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Nur Aufbewahrungsfristen in der aktiven Basis werden synchronisiert

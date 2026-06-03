@@ -8,7 +8,7 @@ description: Erfahren Sie, wie Sie ein vollständiges bestehendes Verzeichnis in
 
 Um das gesamte Verzeichnis zu exportieren, gehen Sie zum Modul "Verzeichnis", klicken Sie auf den Pfeil oben rechts neben der Schaltfläche zur Erstellung einer Verarbeitung und wählen Sie dann "Verzeichnis exportieren".
 
-![Dropdown-Menü des Verzeichnisses mit der Exportfunktion](<../../.gitbook/assets/Capture web\_3-5-2022\_164438\_app.dastra.eu.jpeg>)
+![Dropdown-Menü des Verzeichnisses mit der Exportfunktion](<../../.gitbook/assets/capture-web-3-5-2022-164438-app-dastra-eu.jpeg>)
 
 Wählen Sie dann das Exportformat sowie die gewünschte Exportart (vollständig oder Format Artikel 30) und klicken Sie auf "Datei herunterladen". Das war's, Ihr Verzeichnis ist exportiert!
 
@@ -58,11 +58,11 @@ Zögern Sie nicht, auch unsere Bibliothek von Verarbeitungsvorlagen zu konsultie
 
 Um Ihre bestehenden Verarbeitungsbezeichnungen zu importieren, klicken Sie auf den Tab "Daten importieren" im Bereich Verzeichnis, Tab Verzeichnis:
 
-![](<../../.gitbook/assets/image (10) (1) (1).png>)
+![](<../../.gitbook/assets/image-10-1-1.png>)
 
 Laden Sie dann eine Beispieldatei herunter, wie auf dem Bildschirm angezeigt.
 
-![](<../../.gitbook/assets/image (11) (1) (1).png>)
+![](<../../.gitbook/assets/image-11-1-1.png>)
 
 Füllen Sie die heruntergeladene Datei mit Ihren Verarbeitungsbezeichnungen in der folgenden Reihenfolge aus:
 
@@ -75,7 +75,7 @@ Füllen Sie die heruntergeladene Datei mit Ihren Verarbeitungsbezeichnungen in d
 
 Unten ein Beispiel einer Datei im geforderten Format, die importiert und per Drag-and-Drop in Dastra importiert werden kann:
 
-{% file src="../../.gitbook/assets/sample-DataProcessing (18).csv" %}
+{% file src="../../.gitbook/assets/sample-dataprocessing-18.csv" %}
 
 Importieren Sie sie direkt in unsere Oberfläche per Drag-and-Drop und klicken Sie dann auf Fortfahren.&#x20;
 
@@ -85,7 +85,7 @@ Das war's, Ihre Verarbeitungsbezeichnungen sind importiert!
 
 Um Ihre bestehenden Anwendungen/Assets zu importieren, klicken Sie auf den Tab "Importieren" im Modul Referenzsysteme, Tab Assets:
 
-![](<../../.gitbook/assets/image (92).png>)
+![](<../../.gitbook/assets/image-92.png>)
 
 Laden Sie dann eine Beispieldatei herunter, wie auf dem Bildschirm angezeigt. Füllen Sie die heruntergeladene Datei mit Ihren Anwendungen in der folgenden Reihenfolge aus:
 
@@ -103,7 +103,7 @@ Laden Sie dann eine Beispieldatei herunter, wie auf dem Bildschirm angezeigt. F�
 
 Unten ein Beispiel einer Datei im geforderten Format, die importiert und per Drag-and-Drop in Dastra importiert werden kann:
 
-{% file src="../../.gitbook/assets/sample-applications - EXAMPLE.xlsx" %}
+{% file src="../../.gitbook/assets/sample-applications-example.xlsx" %}
 
 Importieren Sie sie direkt in unsere Oberfläche per Drag-and-Drop und klicken Sie dann auf Fortfahren.&#x20;
 
@@ -113,7 +113,7 @@ Das war's, Ihre Anwendungen sind importiert!
 
 Wiederholen Sie das gleiche Verfahren wie zuvor aus dem Modul Referenzsysteme, Tab Stakeholder. Unten ein Beispiel:
 
-{% file src="../../.gitbook/assets/sample-Asset.csv" %}
+{% file src="../../.gitbook/assets/sample-asset.csv" %}
 
 Ihr Stakeholder-Referenzsystem verzeichnet alle an einer Verarbeitung beteiligten Interessengruppen. Juristische Personen wie Auftragsverarbeiter, Kunden oder gemeinsame Verantwortliche sowie natürliche Personen wie Ansprechpartner der Verarbeitungen.&#x20;
 

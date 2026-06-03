@@ -25,11 +25,11 @@ Die Active Directory Federation Services (allgemein unter dem Akronym ADFS bekan
 * Gehen Sie zum Verzeichnis „**Certificates**" des ADFS-Servers
 * Rufen Sie das .CER-Zertifikat Ihres ADFS-Servers ab, indem Sie das Zertifikat „**Token-Signing**" verwenden.&#x20;
 
-![](<../../../.gitbook/assets/image (259).png>)
+![](<../../../.gitbook/assets/image-259.png>)
 
 * Klicken Sie auf „**View Certificates**"
 
-![](<../../../.gitbook/assets/image (250).png>)
+![](<../../../.gitbook/assets/image-250.png>)
 
 Kopieren Sie den Code des X509-Zertifikats, indem Sie die CER-Datei mit einem Texteditor öffnen.&#x20;
 
@@ -37,7 +37,7 @@ Fügen Sie den Zertifikatscode in das Zertifikatsfeld ein, das mit „----BEGIN 
 
 Die Konfiguration Ihres Logins sollte folgendermaßen aussehen:&#x20;
 
-![](<../../../.gitbook/assets/image (257).png>)
+![](<../../../.gitbook/assets/image-257.png>)
 
 **Schritt 3**: Bewahren Sie die folgenden Werte auf:&#x20;
 
@@ -54,11 +54,11 @@ So konfigurieren Sie das Dastra SSO mit ADFS SSO SAML2P
 
 **Schritt 2:** Klicken Sie rechts auf **„Relying Party Trusts**" und wählen Sie „**Add Relying Party Trust**". Dies startet den Assistenten zum Hinzufügen eines **Relying Party Trust**.
 
-&#x20;![](<../../../.gitbook/assets/image (248).png>)
+&#x20;![](<../../../.gitbook/assets/image-248.png>)
 
 **Schritt 3:**  Im Bildschirm _**Select Data Source**_ wählen Sie _**Enter data about the relying party manually**_.&#x20;
 
-&#x20;![](<../../../.gitbook/assets/image (254).png>)
+&#x20;![](<../../../.gitbook/assets/image-254.png>)
 
 **Schritt 4:**  Geben Sie einen _**Display name** ein, zum Beispiel **„Dastra"**_ _und klicken Sie auf **„Next"**_
 
@@ -68,7 +68,7 @@ So konfigurieren Sie das Dastra SSO mit ADFS SSO SAML2P
 
 **Schritt 7:** Wählen Sie „_**Enable support for the SAML 2.0 SSO Web SSO protocol**_."
 
-![](<../../../.gitbook/assets/image (252).png>)&#x20;
+![](<../../../.gitbook/assets/image-252.png>)&#x20;
 
 Im Feld „Relying party SAML 2.0 SSO service URL" tragen Sie die URL der „**SP redirect URI**" aus Dastra ein. Diese URL hat das Format: https://account.dastra.eu/xxxx-xxxx-xxxx-xxxx/Acs
 
@@ -78,22 +78,22 @@ Im Feld „Relying party SAML 2.0 SSO service URL" tragen Sie die URL der „**S
 
 **Schritt 10**: Aktivieren Sie das Kontrollkästchen _**Open the Edit Claim Rules dialog**_ bevor Sie auf „Fertig stellen" klicken. Ein Fenster „_**Edit Claim Rules"**_ wird dann angezeigt.&#x20;
 
-![](<../../../.gitbook/assets/image (251).png>)
+![](<../../../.gitbook/assets/image-251.png>)
 
 \
 **Schritt 11**: Klicken Sie auf _**Add Rule**_ und wählen Sie die „Claim Rule": „_**Send LDAP Attributes as Claims"**_.
 
-![](<../../../.gitbook/assets/image (256).png>)
+![](<../../../.gitbook/assets/image-256.png>)
 
 **Schritt 12**: Ordnen Sie die Claims wie folgt zu. Die Claim-Namen können je nach Konfiguration Ihres Servers variieren. Dastra benötigt drei Attribute zum Funktionieren: E-Mail (Pflicht), Vorname und Nachname des Nutzers:
 
-&#x20;![](<../../../.gitbook/assets/image (258).png>)
+&#x20;![](<../../../.gitbook/assets/image-258.png>)
 
 **Schritt 13**: Klicken Sie auf „**Finish**" und klicken Sie erneut auf „**Add Rule**". Wählen Sie dieses Mal den Typ „_**Transform an Incoming Claim"** und klicken Sie auf Weiter._
 
 **Schritt 14:**  Konfigurieren Sie die folgende Regel: **Email Address => Name ID => Email**
 
-![](<../../../.gitbook/assets/image (249).png>)
+![](<../../../.gitbook/assets/image-249.png>)
 
 Wenden Sie anschließend die Änderungen an, indem Sie auf „Apply" klicken
 

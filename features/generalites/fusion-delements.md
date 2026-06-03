@@ -29,19 +29,19 @@ Das Zusammenführungstool kann verwendet werden für:
 
 Wählen Sie einfach die zusammenzuführenden Elemente aus:
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (416) (1).png" alt=""><figcaption><p><br></p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-416-1.png" alt=""><figcaption><p><br></p></figcaption></figure></div>
 
 Klicken Sie dann auf "Gruppenaktion wählen" und "Daten zusammenführen":&#x20;
 
 \
-![](<../../.gitbook/assets/image (417).png>)
+![](<../../.gitbook/assets/image-417.png>)
 
 Sie gelangen dann zu einer speziellen Seite, auf der Sie:
 
 Das Hauptelement auswählen können, das nach der Zusammenführung erhalten bleiben soll.
 
 Die Felder der zu löschenden Elemente auswählen können, die Sie in das Hauptelement übernehmen möchten.\
-![](<../../.gitbook/assets/image (418).png>)
+![](<../../.gitbook/assets/image-418.png>)
 
 Wenn Felder auf dieser Seite nicht angezeigt werden, werden automatisch die Feldwerte des beibehaltenen Elements übernommen.\
 \

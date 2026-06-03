@@ -12,11 +12,11 @@ DASTRA ermöglicht es Ihnen, ein Cookie-Einwilligungs-Widget direkt auf Ihrer We
 
 Dieses Widget besteht aus mehreren Elementen:
 
-![Ein „Cookie"-Symbol, das unten links auf dem Bildschirm erscheint](<../../../.gitbook/assets/Capture web\_6-5-2022\_93427\_www.dastra.eu.jpeg>)
+![Ein „Cookie"-Symbol, das unten links auf dem Bildschirm erscheint](<../../../.gitbook/assets/capture-web-6-5-2022-93427-www-dastra-eu.jpeg>)
 
-![Ein ausklappbares Einführungsfenster](<../../../.gitbook/assets/image (42).png>)
+![Ein ausklappbares Einführungsfenster](<../../../.gitbook/assets/image-42.png>)
 
-![Die Liste der Cookies nach Verarbeitungszweck, die von der Website verwendet werden](<../../../.gitbook/assets/image (40) (1).png>)
+![Die Liste der Cookies nach Verarbeitungszweck, die von der Website verwendet werden](<../../../.gitbook/assets/image-40-1.png>)
 
 ## Voraussetzungen&#x20;
 
@@ -42,7 +42,7 @@ Um die Cookies nach Einwilligungskategorien zu klassifizieren, besuchen Sie die 
 
 Um ein Cookie-Einwilligungs-Widget auf Ihrer Website einzurichten, müssen Sie zur Oberfläche „Erscheinungsbild" des Cookie-Einwilligungsmoduls von DASTRA navigieren. Nachdem Sie Ihr erstes Einwilligungs-Widget erstellt haben, klicken Sie darauf, um eine Seite aufzurufen, auf der Sie verschiedene Funktionen für das Widget finden. Klicken Sie auf „Erscheinungsbild des Widgets".&#x20;
 
-![Oberfläche „Erscheinungsbild" des DASTRA Cookie-Einwilligungsmoduls](<../../../.gitbook/assets/Capture web\_6-5-2022\_93842\_app.dastra.eu.jpeg>)
+![Oberfläche „Erscheinungsbild" des DASTRA Cookie-Einwilligungsmoduls](<../../../.gitbook/assets/capture-web-6-5-2022-93842-app-dastra-eu.jpeg>)
 
 Von dieser Oberfläche aus können Sie **Ihr Widget vollständig anpassen**, damit es auf Ihrer Website so angezeigt wird, wie Sie es wünschen.&#x20;
 
@@ -52,7 +52,7 @@ Sie können auch weitere allgemeine Änderungen am Widget in den Bereichen „Ko
 
 Wenn die Konfiguration abgeschlossen ist, klicken Sie auf „Veröffentlichen". Sie können auch eine Vorschau des Endergebnisses auf Ihrer Website anzeigen, indem Sie auf „Vorschau" klicken.&#x20;
 
-![](<../../../.gitbook/assets/Capture web\_6-5-2022\_94118\_app.dastra.eu.jpeg>)
+![](<../../../.gitbook/assets/capture-web-6-5-2022-94118-app-dastra-eu.jpeg>)
 
 ## Fügen Sie den Widget-Code auf Ihrer Website ein
 
@@ -60,7 +60,7 @@ Sobald Ihr Ziel-Cookie-Einwilligungs-Widget definiert ist, können Sie es dank d
 \
 Navigieren Sie dazu zum Tab „Installation", nachdem Sie Ihr Widget im Menü des Cookie-Moduls ausgewählt haben, und fügen Sie den automatisch generierten Code vor dem Ende des HTML-Tags \<body> Ihrer Website ein.
 
-![HTML-Code-Generierung des Widgets](<../../../.gitbook/assets/image (58).png>)
+![HTML-Code-Generierung des Widgets](<../../../.gitbook/assets/image-58.png>)
 
 {% hint style="info" %}
 Sie können den Google Tag Manager verwenden, um diesen Code dynamisch auf jeder Seite einzufügen.

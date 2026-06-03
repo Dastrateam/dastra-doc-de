@@ -15,17 +15,17 @@ Es gibt 2 Möglichkeiten, einen neuen Datenschutzvorfall in DASTRA zu erfassen:
 
 Durch Klicken auf die Schaltfläche „Datenschutzvorfall hinzufügen" erscheint ein Fenster, in dem Sie den Datenschutzvorfall detailliert beschreiben können. Folgen Sie den Schritten und klicken Sie auf „Speichern und beenden". Fertig – Sie haben Ihren ersten Datenschutzvorfall manuell dokumentiert!
 
-![Die Schritte der Dokumentation des Datenschutzvorfalls](<../../.gitbook/assets/image (172).png>)
+![Die Schritte der Dokumentation des Datenschutzvorfalls](<../../.gitbook/assets/image-172.png>)
 
 ### Import / Export des Verzeichnisses der Datenschutzvorfälle
 
 Das gesamte Verzeichnis der Datenschutzvorfälle kann importiert und exportiert werden. Um einen Datenschutzvorfall zu importieren, klicken Sie auf das Pfeilsymbol neben der Schaltfläche „Datenschutzvorfall hinzufügen".
 
-![](<../../.gitbook/assets/Capture web\_5-5-2022\_164539\_app.dastra.eu.jpeg>)
+![](<../../.gitbook/assets/capture-web-5-5-2022-164539-app-dastra-eu.jpeg>)
 
 Ein Fenster erscheint mit einer Schaltfläche „Import". Klicken Sie darauf, laden Sie die Verzeichnisvorlage herunter und folgen Sie den Anweisungen, um die Datenschutzvorfälle in Dastra zu importieren. Nach dem Import ist der Datenschutzvorfall direkt im Verzeichnis der Datenschutzvorfälle verfügbar.
 
-![Import-Fenster für das Verzeichnis der Datenschutzvorfälle](<../../.gitbook/assets/image (173).png>)
+![Import-Fenster für das Verzeichnis der Datenschutzvorfälle](<../../.gitbook/assets/image-173.png>)
 
 ### Wie führt man eine Risikoanalyse des Datenschutzvorfalls durch?
 

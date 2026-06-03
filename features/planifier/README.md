@@ -18,11 +18,11 @@ Bei Dastra sind wir der Überzeugung, dass ein **klarer**, **kollaborativer** un
 
 Um auf das Planungsmodul zuzugreifen, gehen Sie in die Anwendung und klicken Sie auf das Modul "Planung" auf der linken Seite des Bildschirms.
 
-![Schaltfläche "Planung"](<../../.gitbook/assets/image (220).png>)
+![Schaltfläche "Planung"](<../../.gitbook/assets/image-220.png>)
 
 Sie gelangen zum Planungsmodul:
 
-![Planungsmodul](<../../.gitbook/assets/image (221).png>)
+![Planungsmodul](<../../.gitbook/assets/image-221.png>)
 
 ## Weiterführende Informationen
 

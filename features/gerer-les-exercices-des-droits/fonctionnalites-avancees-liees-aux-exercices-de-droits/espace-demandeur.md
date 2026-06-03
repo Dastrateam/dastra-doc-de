@@ -9,6 +9,6 @@ Von diesem Bereich aus kann der Antragsteller:
 * Direkt mit dem Verantwortlichen antworten und kommunizieren.
 * Dokumente herunterladen oder Nachweisdokumente einreichen.
 
-<figure><img src="../../../.gitbook/assets/espace_discussion_demandeur.png" alt=""><figcaption><p>Der Austauschbereich mit dem Antragsteller</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/espace-discussion-demandeur.png" alt=""><figcaption><p>Der Austauschbereich mit dem Antragsteller</p></figcaption></figure>
 
 Dieser Bereich gewährleistet die Nachverfolgbarkeit, Überwachung und Transparenz des Austauschs und vermeidet gleichzeitig unsichere Übermittlungen per klassischer E-Mail.

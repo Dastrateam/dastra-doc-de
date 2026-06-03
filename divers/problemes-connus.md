@@ -12,11 +12,11 @@ description: Auf dieser Seite finden Sie die Lösung der wichtigsten bekannten P
 
 In sehr seltenen Fällen kann Dastra vom Spam-Filter des Servers blockiert werden. In diesem Fall können Sie einen Einladungslink generieren, indem Sie eine neue Einladung erstellen und auf **"Nutzer einladen"** > **Schritte befolgen > "Link generieren" auswählen** klicken.&#x20;
 
-<figure><img src="../.gitbook/assets/image (9) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-9-4.png" alt=""><figcaption></figcaption></figure>
 
 **Klicken Sie auf "Link generieren" > Kopieren Sie den auf der Seite angezeigten Link**
 
-<figure><img src="../.gitbook/assets/image (2) (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-2-2-2.png" alt=""><figcaption></figcaption></figure>
 
 So können Sie den Einladungslink über einen Unternehmens-Chat, einen Versand aus Ihrem E-Mail-Postfach usw. an den Nutzer übermitteln.
 
@@ -35,7 +35,7 @@ Um diese Probleme zu beheben, stellen wir Ihnen mehrere Lösungen zur Verfügung
 
 Um diese Funktion aufzurufen, navigieren Sie zum Reiter "Profil" in Ihren persönlichen Einstellungen:&#x20;
 
-![](<../.gitbook/assets/image (3) (1) (4).png>)
+![](<../.gitbook/assets/image-3-1-4.png>)
 
 {% hint style="info" %}
 Wenn Sie diese Option wählen, verlieren Sie Ihre Spalteneinstellungen in allen Tabellen von Dastra und die Anzeige der Tutorials in allen Modulen wird erneut ausgelöst.&#x20;
@@ -48,7 +48,7 @@ Diese beiden Maßnahmen haben Ihr Problem nicht gelöst? Kontaktieren Sie den Su
 **Szenario**: Sie melden sich bei Dastra über die URL https://app.dastra.eu an, geben Ihre Anmeldedaten ein und gelangen auf eine Fehlerseite "**Zugriff verweigert (401)**".
 
 Vorschau der Seite:\
-![](<../.gitbook/assets/image (1) (1) (1) (2) (4) (1).png>)
+![](<../.gitbook/assets/image-1-1-1-2-4-1.png>)
 
 **Lösungen**:&#x20;
 

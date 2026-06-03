@@ -28,7 +28,7 @@ Für jede Verarbeitung enthält das Verzeichnis eines Verantwortlichen mindesten
 7. die **vorgesehenen Löschfristen** für die verschiedenen Datenkategorien, d. h. die Speicherdauer, oder andernfalls die Kriterien zu deren Bestimmung
 8. soweit möglich, eine **allgemeine Beschreibung der technischen und organisatorischen Sicherheitsmaßnahmen**, die Sie umsetzen
 
-![Die verschiedenen Abschnitte einer Verarbeitung "Verantwortlicher" in Dastra](<../../.gitbook/assets/image (194).png>)
+![Die verschiedenen Abschnitte einer Verarbeitung "Verantwortlicher" in Dastra](<../../.gitbook/assets/image-194.png>)
 
 ### Die Stakeholder&#x20;
 

@@ -12,11 +12,11 @@ Es ist möglich, die verschiedenen Versionen eines Vertrags über den Versionsma
 
 Wenn Sie einen Vertrag erstellen, wird standardmäßig die Version 1 dieses Vertrags erstellt, die im Hauptaktionsmenü des Vertrags sichtbar ist
 
-<figure><img src="../../.gitbook/assets/image (351).png" alt=""><figcaption><p>Die Schaltfläche zum Zugriff auf den Versionsmanager</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-351.png" alt=""><figcaption><p>Die Schaltfläche zum Zugriff auf den Versionsmanager</p></figcaption></figure>
 
 Durch Klicken auf diese Schaltfläche gelangen Sie zum Versionsmanager
 
-<figure><img src="../../.gitbook/assets/image (353).png" alt=""><figcaption><p>Der Versionsmanager</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-353.png" alt=""><figcaption><p>Der Versionsmanager</p></figcaption></figure>
 
 Dieses Menü ermöglicht es Ihnen, alle Versionen Ihres Vertrags einzusehen und zu verwalten sowie neue zu erstellen, indem Sie auf _Neue Version erstellen_ klicken.
 
@@ -24,7 +24,7 @@ Dieses Menü ermöglicht es Ihnen, alle Versionen Ihres Vertrags einzusehen und 
 
 Durch Klicken auf _Neue Version erstellen_ können Sie eine neue Version erstellen, indem Sie die folgenden Informationen angeben
 
-<figure><img src="../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-354.png" alt=""><figcaption></figcaption></figure>
 
 Es ist wichtig zu beachten, dass der Name des Vertrags, die Beschreibung, die Organisationseinheit, die Assets, Unterzeichner und Nutzer in der neuen Version beibehalten werden. Das Start- und Enddatum des Vertrags wird bei der Versionserstellung abgefragt (Sie können es anschließend ändern), und es ist möglich, dieser neuen Version eine Beschreibung hinzuzufügen.
 
@@ -44,7 +44,7 @@ Es ist wichtig, zwischen der aktiven Version (einzigartig), die als Referenz fü
 
 Die inaktiven Versionen des Vertrags sind im Versionsmanager durch einen roten Punkt gekennzeichnet.
 
-<figure><img src="../../.gitbook/assets/image (341).png" alt=""><figcaption><p>Obwohl Version 4 die aktive Version ist, kann ich problemlos Version 2 anzeigen und bearbeiten</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-341.png" alt=""><figcaption><p>Obwohl Version 4 die aktive Version ist, kann ich problemlos Version 2 anzeigen und bearbeiten</p></figcaption></figure>
 
 ### Eine Version aktivieren
 
@@ -52,13 +52,13 @@ Bei der Erstellung einer Version wird diese automatisch zur aktiven und angezeig
 
 Sie können eine Version manuell aktivieren, indem Sie zum Versionsmanager gehen und auf die Option Aktivieren einer Version klicken.
 
-<figure><img src="../../.gitbook/assets/image (342).png" alt=""><figcaption><p>Version 3 des Vertrags als aktive / Hauptversion festlegen.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-342.png" alt=""><figcaption><p>Version 3 des Vertrags als aktive / Hauptversion festlegen.</p></figcaption></figure>
 
 ### Löschung
 
 Sie können jederzeit eine inaktive Version des Vertrags löschen, indem Sie im Menü einer Version auf Löschen klicken
 
-<figure><img src="../../.gitbook/assets/image (343).png" alt=""><figcaption><p>Version 1 des Vertrags löschen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-343.png" alt=""><figcaption><p>Version 1 des Vertrags löschen</p></figcaption></figure>
 
 Es ist nicht möglich, die aktive Version des Vertrags zu löschen.
 

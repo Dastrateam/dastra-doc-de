@@ -14,7 +14,7 @@ Diese Frameworks dienen als **gemeinsame Grundlage**, um Ihre Compliance-Projekt
 
 #### 1. Seitennavigation – Compliance-Bibliothek
 
-<div align="center"><figure><img src="../../../../.gitbook/assets/image (425).png" alt="library view"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../../.gitbook/assets/image-425.png" alt="library view"><figcaption></figcaption></figure></div>
 
 Das Seitenmenü ermöglicht den Zugriff auf die verschiedenen Objekte der Bibliothek:
 

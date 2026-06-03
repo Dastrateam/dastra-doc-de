@@ -16,7 +16,7 @@ Ein Nutzer (**User Agent**) fordert eine Verbindung beim Dienstanbieter (**Servi
 
 In unserem Fall ist der User Agent der **Browser eines Dastra-Nutzers**. Der Service Provider ist **Dastra** und der Identity Provider ist Ihr **bevorzugter Authentifizierungsanbieter** (zum Beispiel: Active Directory).
 
-![Funktionsprinzip des SSO unter Verwendung des SAML-2-Protokolls](<../../../.gitbook/assets/image (114).png>)
+![Funktionsprinzip des SSO unter Verwendung des SAML-2-Protokolls](<../../../.gitbook/assets/image-114.png>)
 
 ## Einrichtung
 
@@ -47,7 +47,7 @@ Dastra bietet zwei Protokolle für die einmalige Anmeldung an: [**SAML 2**](saml
 * Klicken Sie auf Ihre SSO-Konfiguration
 * Aktivieren Sie das Kontrollkästchen „Für alle Nutzer erzwingen"
 
-<figure><img src="../../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-405.png" alt=""><figcaption></figcaption></figure>
 
 ### Verwaltung von vom SSO-Login befreiten Nutzern
 
@@ -57,7 +57,7 @@ Diese Nutzer können sich mit **ihrem Passwort** bei der Anwendung anmelden.
 
 Sie können vom SSO befreite Nutzer benennen, indem Sie die Nutzer Ihrer Organisation im folgenden Feld auswählen:
 
-<figure><img src="../../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-406.png" alt=""><figcaption></figcaption></figure>
 
 ## Wie aktiviere ich die automatische Nutzerbereitstellung?
 
@@ -71,9 +71,9 @@ returnUrl=https://www.dastra.eu
 
 Sie können diesen Link abrufen, indem Sie auf diese Schaltfläche klicken:<br>
 
-<figure><img src="../../../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-415.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/sso_config-sample.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sso-config-sample.png" alt=""><figcaption></figcaption></figure>
 
 Im Fall einer validierten Authentifizierung wird automatisch ein Konto in Dastra erstellt und eine Benachrichtigungs-E-Mail wird Ihnen einige Stunden später zugesendet.
 
@@ -85,7 +85,7 @@ Wenn das Konto des Nutzers im Authentifizierungsanbieter gelöscht oder ungülti
 
 Sie können **die standardmäßig zugewiesene Rolle** für alle mit Ihrem Abonnement verknüpften Organisationen wählen.
 
-![](<../../../.gitbook/assets/image (124).png>)
+![](<../../../.gitbook/assets/image-124.png>)
 
 {% hint style="info" %}
 Derzeit unterstützt Dastra nicht das Binding von Rollen über die Eigenschaften des Authentifizierungsservers. Wenn diese Funktionalität wichtig ist, können Sie uns dies über die [Support-Seite](https://app.dastra.eu/general-settings/support) mitteilen.
@@ -95,13 +95,13 @@ Derzeit unterstützt Dastra nicht das Binding von Rollen über die Eigenschaften
 
 Es ist möglich, die Teams eines Mandanten an eine Eigenschaft (Claim) zu binden, die von Ihrem Authentifizierungsserver zurückgegeben wird.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-1-1-2-1-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Wie verwalte ich die Logins der Nutzer?
 
 Sie können den Login-Typ der Nutzer konfigurieren, indem Sie die [Nutzerverwaltungsseite des Abonnements](https://app.dastra.eu/general-settings/users) aufrufen. Wenn Sie ein Nutzerprofil aufrufen, können Sie den bevorzugten SSO-Login auswählen. Sobald der Nutzer sich mit seiner E-Mail-Adresse bei Dastra anmeldet, wird er automatisch zur Login-Seite des von Ihnen eingerichteten Authentifizierungsanbieters weitergeleitet.
 
-![](<../../../.gitbook/assets/image (118).png>)
+![](<../../../.gitbook/assets/image-118.png>)
 
 Sie können den Login-Typ auch bei der Einladung neuer Nutzer festlegen.
 

@@ -49,7 +49,7 @@ Gehen Sie auf die [SMTP-Server-Konfigurationsseite](https://app.dastra.eu/genera
 
 Füllen Sie die Formularfelder mit den unter [Voraussetzungen](./#prerequis) angegebenen Daten aus
 
-![](<../../../.gitbook/assets/image (249) (1).png>)
+![](<../../../.gitbook/assets/image-249-1.png>)
 
 Beachten Sie, dass die Konnektivität zum Server automatisch getestet wird, um sicherzustellen, dass die Server-Anmeldedaten korrekt sind. Eine Test-E-Mail wird automatisch von unseren Servern gesendet.
 

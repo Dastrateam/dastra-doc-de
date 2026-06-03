@@ -31,7 +31,7 @@ Erstellen Sie in Ihrem GTM-Container einen Trigger für ein dataLayer-Ereignis m
 
 Das Google Optimize-Tag wird dann nur bei diesem Ereignis ausgelöst. So sieht es in der GTM-Oberfläche aus:
 
-![](<../../../../.gitbook/assets/image (169).png>)
+![](<../../../../.gitbook/assets/image-169.png>)
 
 ## Spezialfall der „Blocking Triggers"
 
@@ -50,13 +50,13 @@ In diesem Fall müssen bestimmte Konfigurationen vorgenommen werden, um **den Ei
 Benennen Sie Ihr Tag z. B. „DastraConsents". Geben Sie im Feld Cookie-Name (Cookie name) den Namen des Einwilligungs-Cookies ein (Standard: **consent-eu**).\
 Denken Sie daran, **die Option „URI-decode cookie" zu aktivieren**
 
-<figure><img src="../../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-7-1-1.png" alt=""><figcaption></figcaption></figure>
 
 #### Konfigurieren Sie anschließend Ihren Trigger folgendermaßen:&#x20;
 
 In diesem Fall wird unser Tag ausgelöst, wenn die Scroll-Tiefe auf der Seite > 20% beträgt. Wir möchten, dass dieses Tag nur ausgelöst wird, wenn der Google Analytics-Dienst vom Nutzer autorisiert wurde. So konfigurieren Sie den Tag-Trigger.
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-4-1-2.png" alt=""><figcaption></figcaption></figure>
 
 Im Bereich „Some Pages", wenn Sie das Tag nur aktivieren möchten, wenn die Nutzung eines Dienstes genehmigt wurde, geben Sie die Formel ein: **DastraConsents contains "{serviceName}":true** (Beispiel: "crisp":true) ohne Leerzeichen
 
@@ -69,7 +69,7 @@ Wenn Sie das Tag im Falle einer Ablehnung auslösen möchten, verwenden Sie die 
 Wenn Sie viele verschiedene Trigger für ein und dasselbe Tag haben, ist es auch durchaus möglich, eine Ausnahme auf diese Weise zu erstellen.\
 Beispiel eines Tags mit mehreren Triggern:&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-2-1-1-1-1-1-1-1.png" alt=""><figcaption></figcaption></figure>
 
 In diesem Fall möchten wir eine Ausnahme hinzufügen: Wenn das Google Ads-Tag (google-ads) nicht akzeptiert wurde, soll das Tag nicht ausgelöst werden.
 
@@ -87,11 +87,11 @@ Wenn Sie auch das Tag standardmäßig nicht aktivieren möchten, einschließlich
 **DastraConsents Does not contain "google-ads":true**
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-3-1-1-1-1-1.png" alt=""><figcaption></figcaption></figure>
 
 Klicken Sie auf „Speichern". Sie sollten Folgendes sehen:
 
-<figure><img src="../../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-5-1-1.png" alt=""><figcaption></figcaption></figure>
 
 Speichern Sie Ihre Änderungen und Sie sollten feststellen, dass Ihre Tags auf den betreffenden Seiten korrekt deaktiviert sind, wenn die Einwilligung nicht erteilt wurde.
 

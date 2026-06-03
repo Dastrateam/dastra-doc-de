@@ -6,13 +6,13 @@ Im Abschnitt Dokumente können Sie die relevanten Dokumente hinzufügen, die Ihr
 
 Die Dokumentenspeicherung ist mit unserem Modul [gestion-de-documents-ged](../gestion-de-documents-ged/ "mention") verknüpft. Sie können auch unsere Cloud-Speicher-Integration installieren, mit der Sie Dokumente aus Ihrem eigenen OneDrive oder Google Drive verknüpfen können.
 
-<figure><img src="../../.gitbook/assets/image (327).png" alt=""><figcaption><p>Unsere Cloud-Speicher-Integration zur Verknüpfung Ihres OneDrive oder Google Drive</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-327.png" alt=""><figcaption><p>Unsere Cloud-Speicher-Integration zur Verknüpfung Ihres OneDrive oder Google Drive</p></figcaption></figure>
 
 Auf der linken Seite finden Sie die Dokumentenvorschau und auf der rechten Seite eine Liste aller mit Ihrem Vertrag verknüpften Dokumente. Um ein anderes Dokument in der Vorschau anzuzeigen, klicken Sie einfach auf seinen Namen in der rechten Liste oder navigieren Sie mit den linken und rechten Pfeiltasten Ihrer Tastatur (oder klicken Sie auf die Pfeile auf dem Bildschirm). Das aktive Dokument, das gerade in der Vorschau angezeigt wird, ist in der Dokumentenliste blau hervorgehoben. \
 \
 Das Vorschaufenster bleibt aktiv, unabhängig davon, in welcher Registerkarte des Vertrags Sie sich befinden — nützlich, um sich auf das Dokument zu beziehen, während Sie beispielsweise die Unterzeichner oder Assets ausfüllen.
 
-<figure><img src="../../.gitbook/assets/image (328).png" alt=""><figcaption><p>Die Vorschau eines Dokuments</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-328.png" alt=""><figcaption><p>Die Vorschau eines Dokuments</p></figcaption></figure>
 
 ### Die Metadaten
 

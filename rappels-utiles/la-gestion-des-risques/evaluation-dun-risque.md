@@ -56,7 +56,7 @@ Ein "**Netto**"-Risiko (oder Restrisiko) wird hingegen unter Berücksichtigung a
 
 ## Visualisierung eines Risikos
 
-![Beispiel für die Visualisierung von Risiken in Dastra.](<../../.gitbook/assets/image (198).png>)
+![Beispiel für die Visualisierung von Risiken in Dastra.](<../../.gitbook/assets/image-198.png>)
 
 Weiterführende Informationen
 

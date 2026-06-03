@@ -16,7 +16,7 @@ Eine Kontrolle kann:
 
 ### Überwachung und Verwaltung der Kontrollen
 
-<figure><img src="../../../.gitbook/assets/image (480).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-480.png" alt=""><figcaption></figcaption></figure>
 
 Die Kontrollen können über zwei ergänzende Einstiegspunkte verfolgt werden.
 
@@ -41,7 +41,7 @@ Im Tab **Kontrollen** eines Frameworks sieht der Nutzer:
 
 #### 2. Von der Kontrollbibliothek aus
 
-<figure><img src="../../../.gitbook/assets/image (481).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-481.png" alt=""><figcaption></figcaption></figure>
 
 Die **Kontrollbibliothek** zentralisiert alle Kontrollen der Organisation, über alle Frameworks hinweg.
 
@@ -63,7 +63,7 @@ Das Bearbeitungsfenster ermöglicht es, die Rolle der Kontrolle und ihre Verbind
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-440.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -88,7 +88,7 @@ Der Nutzer kann die vorgeschlagene Referenz frei anpassen.
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (441).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-441.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -131,7 +131,7 @@ Die [**Tests**](tests.md) ermöglichen die Überprüfung der Existenz, Anwendung
 
 {% columns %}
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (442).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-442.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -167,7 +167,7 @@ Eine Kontrolle kann zugeordnet werden:
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (443).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-443.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -177,7 +177,7 @@ Eine Kontrolle kann zugeordnet werden:
 
 {% columns %}
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-444.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}

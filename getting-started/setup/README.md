@@ -12,7 +12,7 @@ Dieser Abschnitt führt Sie Schritt für Schritt durch die Erstellung Ihres erst
 
 Beginnen Sie mit der Erstellung Ihres Mandanten:<br>
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-9.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="espace-de-travail.md" %}
 [espace-de-travail.md](espace-de-travail.md)

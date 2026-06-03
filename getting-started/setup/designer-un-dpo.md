@@ -22,10 +22,10 @@ _**Hinweis**: Ein einzelner DSB ist einer Entität zugeordnet._
 
 Fügen Sie dann den DSB im vorgesehenen Feld hinzu.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-10-17 123923.png" alt=""><figcaption><p>Bearbeitungsfenster einer Entität</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-10-17-123923.png" alt=""><figcaption><p>Bearbeitungsfenster einer Entität</p></figcaption></figure>
 
 Der DSB wird als Stakeholder hinzugefügt. Wenn der DSB eine natürliche Person ist, fügen Sie ihn als natürliche Person hinzu. Wenn es sich um ein Unternehmen handelt (z. B. ein externer DSB), fügen Sie ihn als juristische Person hinzu.
 
-<figure><img src="../../.gitbook/assets/image (277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-277.png" alt=""><figcaption></figcaption></figure>
 
 Vergessen Sie nicht zu speichern, und das war's!

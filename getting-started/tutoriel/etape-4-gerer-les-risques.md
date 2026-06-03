@@ -28,7 +28,7 @@ Um Ihnen bei der Bestimmung zu helfen, ob Ihre Verarbeitung voraussichtlich ein 
 
 Diese Kriterien sind direkt in unseren Workflow zur Erstellung einer Datenverarbeitung integriert, und Sie können für jede Ihrer Verarbeitungen angeben, ob eine DSFA dafür durchzuführen ist oder nicht.
 
-![Beispiel einer Verarbeitung, die potenziell eine DSFA erfordert.](<../../.gitbook/assets/image (23).png>)
+![Beispiel einer Verarbeitung, die potenziell eine DSFA erfordert.](<../../.gitbook/assets/image-23.png>)
 
 ### Die Identifizierung und Bewertung von Risiken
 

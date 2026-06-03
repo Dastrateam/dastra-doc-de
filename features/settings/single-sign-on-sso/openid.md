@@ -8,7 +8,7 @@ description: Konfiguration einer SSO-Verbindung mit dem OpenId-Protokoll
 
 Die Spezifikationen von OpenId finden Sie [hier](https://openid.net/connect/)
 
-![](<../../../.gitbook/assets/image (119).png>)
+![](<../../../.gitbook/assets/image-119.png>)
 
 Die Konfiguration des SSO mit OpenID erfolgt in drei Schritten&#x20;
 
@@ -40,11 +40,11 @@ Zur Konfiguration Ihres Authentifizierungsanbieters benötigen Sie die folgenden
 
 Gehen Sie in dastra.eu auf [die SSO-Administrationsseite](https://app.dastra.eu/general-settings/sso) und klicken Sie auf „SSO-Login hinzufügen"
 
-![](<../../../.gitbook/assets/image (116).png>)
+![](<../../../.gitbook/assets/image-116.png>)
 
 Füllen Sie die Formularfelder mithilfe der Konfigurationsinformationen der Entität aus&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ab dem **30.03.2026** wird Dastra die Authentifizierung über das JWT-Private-Key-System autorisieren. Sie müssen dann keinen geheimen Schlüssel mehr in Ihrer SSO-Konfiguration angeben. Dastra wird automatisch die öffentlichen Schlüssel abrufen, um die JWT mit privatem Schlüssel zu generieren.\
@@ -64,4 +64,4 @@ Nur interne Konten eines Abonnements unterliegen dem SSO. Konten externer Nutzer
 
 Sobald die Konfiguration abgeschlossen ist, können Sie die Authentifizierung testen, indem Sie unten rechts auf die Schaltfläche „Testen" klicken. Wenn Sie bei der SSO-Konfiguration auf ein Problem stoßen, wenden Sie sich bitte an den Support, indem Sie die Seite zur [Verwaltung von Support-Tickets](https://app.dastra.eu/general-settings/support) aufrufen.
 
-![](<../../../.gitbook/assets/image (122).png>)
+![](<../../../.gitbook/assets/image-122.png>)

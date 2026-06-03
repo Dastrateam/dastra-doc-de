@@ -21,4 +21,4 @@ Um auf die Funktion zugreifen zu können, muss Ihr Abonnement unsere Funktion [.
 
 Sie greifen auf die Trust Center über die seitliche Navigationsleiste der Anwendung zu
 
-<figure><img src="../../.gitbook/assets/image (404).png" alt=""><figcaption><p>Vorschau eines Demo-Trust Centers mit allen aktivierten Modulen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-404.png" alt=""><figcaption><p>Vorschau eines Demo-Trust Centers mit allen aktivierten Modulen</p></figcaption></figure>

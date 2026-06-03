@@ -86,7 +86,7 @@ Dieses Verzeichnis ermöglicht es Ihnen:
 * **Die fortlaufende Compliance** der Modelle durch regelmäßige Audits und Maßnahmenpläne sicherzustellen.
 * **KI und Datenverarbeitungen zu verknüpfen**: Einheitliche DSGVO-/KI-Verordnung-Kartierung.
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-11.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2Fplaceholder-ai-register.png?alt=media" alt=""><figcaption><p>Modul Verzeichnis der KI-Systeme</p></figcaption></figure>
 

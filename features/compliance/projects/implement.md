@@ -39,7 +39,7 @@ Das bedeutet:
 
 👉 Solange sich das Projekt nicht in der **Überwachungsphase** befindet, wird die Änderung oder Validierung der Nachweise nicht empfohlen.
 
-<figure><img src="../../../.gitbook/assets/image (458).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-458.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -62,7 +62,7 @@ Die Tests können sein:
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (459).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-459.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -80,7 +80,7 @@ Für jedes Risiko können Sie:
 
 Dieser Ansatz ermöglicht es, die Wirkung der Kontrollen auf die Risikolage konkret zu visualisieren.
 
-<figure><img src="../../../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-461.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -114,7 +114,7 @@ Jeder Konnektor wird konfiguriert mit:
 * einer **Ausführungshäufigkeit**,
 * **Erfassungsparametern**, die an den Test angepasst sind.
 
-<figure><img src="../../../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-462.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -15,7 +15,7 @@ Wenn ein Fehler anzeigt, dass der Nutzer nicht auf die Anwendung zugreifen kann,
 
 Sie erhalten eine Fehlermeldung dieser Art:
 
-<figure><img src="../../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-1-6.png" alt=""><figcaption></figcaption></figure>
 
 1. Stellen Sie sicher, dass Sie ein gültiges Zertifikat haben.
 2. Überprüfen Sie, dass beim Kopieren/Einfügen des Zertifikats keine Zeilenumbrüche oder Leerzeichen eingefügt wurden

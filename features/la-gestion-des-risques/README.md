@@ -31,7 +31,7 @@ In Dastra kann ein Risiko **einem oder mehreren Objekten** zugeordnet werden, da
 * Akteur oder Auftragsverarbeiter
 * Asset&#x20;
 
-<figure><img src="../../.gitbook/assets/image (282).png" alt=""><figcaption><p>Beispiel einer konsolidierten Risikovisualisierung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-282.png" alt=""><figcaption><p>Beispiel einer konsolidierten Risikovisualisierung</p></figcaption></figure>
 
 ## Weiterführende Informationen
 

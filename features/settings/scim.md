@@ -44,7 +44,7 @@ Sie definieren Gruppen in Ihrem Azure Directory und Dastra kann diese Nutzer syn
 
 #### 5. Benennen Sie Ihre Anwendung
 
-<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-19-1.png" alt=""><figcaption></figcaption></figure>
 
 #### 6. Klicken Sie in der neu erstellten Anwendung auf die Schaltfläche „Provision User Accounts"
 
@@ -58,11 +58,11 @@ Sie definieren Gruppen in Ihrem Azure Directory und Dastra kann diese Nutzer syn
 
 **Melden Sie sich bei Dastra** als Administrator an. **Gehen Sie zur Organisationskonfiguration** > **klicken Sie auf Sicherheit / SCIM**
 
-![](<../../.gitbook/assets/image (14) (1).png>)
+![](<../../.gitbook/assets/image-14-1.png>)
 
 Klicken Sie auf die Schaltfläche **Konfigurieren**
 
-<figure><img src="../../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-18-2.png" alt=""><figcaption></figcaption></figure>
 
 Konfigurieren Sie Ihr SCIM. Wählen Sie den Mandanten aus, den Sie synchronisieren möchten (die Teams und Nutzer werden automatisch in diesem Mandanten bereitgestellt).
 
@@ -76,17 +76,17 @@ Klicken Sie auf **Speichern**
 Derzeit ermöglicht Dastra die SCIM-Synchronisation (Teams + Nutzer) von **nur einem Mandanten pro Organisation**.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-12-2.png" alt=""><figcaption></figcaption></figure>
 
 Klicken Sie auf „**Verbindung testen**" und „**Speichern**". Wenn beim Verbindungstest ein Fehler auftritt, kann dies an einer nicht aktivierten Funktion in Ihrem Abonnement liegen. [Kontaktieren Sie dann den Support](../../getting-started/le-support/faire-une-demande-de-support.md)
 
 #### 9. Aktivieren Sie die Bereitstellung der Anwendung
 
-<figure><img src="../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-10-2.png" alt=""><figcaption></figcaption></figure>
 
 #### 10. Fügen Sie Nutzer und/oder Gruppen zur erstellten Anwendung hinzu&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-9-3.png" alt=""><figcaption></figcaption></figure>
 
 ### Lassen Sie Ihre Nutzer sich verbinden
 

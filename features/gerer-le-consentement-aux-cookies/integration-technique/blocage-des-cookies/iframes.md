@@ -20,7 +20,7 @@ Audio-Player&#x20;
 
 Unser SDK ermöglicht es Ihnen, alle iframes auf der Seite zu blockieren und eine anpassbare Blockierungsnachricht anzuzeigen:
 
-![](<../../../../.gitbook/assets/image (184).png>)
+![](<../../../../.gitbook/assets/image-184.png>)
 
 Durch Klicken auf „I accept" wird die Einwilligung für den spezifischen Dienst automatisch übermittelt. Das System ermöglicht auch die Erfassung einer Cookie-Ablehnung in der Dastra-CMP.
 

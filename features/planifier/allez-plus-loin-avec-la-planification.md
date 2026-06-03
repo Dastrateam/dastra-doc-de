@@ -11,6 +11,6 @@ Zusätzlich zur Erstellung, Nachverfolgung und dem Export von Aufgaben ermöglic
 * Den Aufgaben-Workflow anzupassen, indem Sie zu "Einstellungen" / "Prozessablauf" navigieren
 * Ihren Aufgaben Tags zuzuweisen, um sie einfacher sortieren zu können&#x20;
 
-![Anpassung des Aufgaben-Workflows](<../../.gitbook/assets/image (162).png>)
+![Anpassung des Aufgaben-Workflows](<../../.gitbook/assets/image-162.png>)
 
 Für weitere Informationen zögern Sie nicht, [uns direkt zu kontaktieren](https://www.dastra.eu/fr/Contact?type=Demo).

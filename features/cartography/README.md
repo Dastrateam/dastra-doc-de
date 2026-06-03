@@ -29,7 +29,7 @@ Sie möchten diese Inventarisierung nicht durchführen oder sind der Meinung, da
 2. Klicken Sie in der Navigation auf das Symbol "Datenkartierung"
 3. Sie gelangen auf diese Seite:
 
-<figure><img src="../../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-378.png" alt=""><figcaption></figcaption></figure>
 
 Wählen Sie dann das Referenzsystem, auf das Sie zugreifen möchten.
 

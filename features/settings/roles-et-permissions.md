@@ -19,11 +19,11 @@ Um Ihre eigenen Rollen mit zugehörigen Berechtigungen zu erstellen, gehen Sie a
 
 Sie können eine neue benutzerdefinierte Rolle erstellen, indem Sie auf die Schaltfläche „Rolle hinzufügen" klicken
 
-<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-284.png" alt=""><figcaption></figcaption></figure>
 
 Es ist dann möglich, die den Berechtigungen zugeordneten Kontrollkästchen auszuwählen:
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-11-24 153151.png" alt=""><figcaption><p>Erstellung einer Aufgabenverwaltungsrolle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2025-11-24-153151.png" alt=""><figcaption><p>Erstellung einer Aufgabenverwaltungsrolle</p></figcaption></figure>
 
 <br>
 

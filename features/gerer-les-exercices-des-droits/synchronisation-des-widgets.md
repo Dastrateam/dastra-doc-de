@@ -10,8 +10,8 @@ So konfigurieren Sie die Synchronisation:
 
 Diese Funktion ist besonders nützlich für Organisationen, die mehrere Varianten desselben Widgets verwalten (z. B. ein Widget zur Kontolöschung, das je nach Anwendung oder geografischem Markt variiert).
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-159.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-115.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-121.png" alt=""><figcaption></figcaption></figure>

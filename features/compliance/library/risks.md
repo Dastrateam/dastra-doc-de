@@ -34,7 +34,7 @@ Diese Beziehung ermöglicht den Übergang von einem deklarativen Ansatz zu einem
 
 ### Bibliotheksansicht der Risiken
 
-<figure><img src="../../../.gitbook/assets/image (497).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-497.png" alt=""><figcaption></figcaption></figure>
 
 Die Risikobibliothek bietet einen Gesamtüberblick über die identifizierten Risiken, insbesondere:
 
@@ -55,7 +55,7 @@ Die Risikobibliothek bietet einen Gesamtüberblick über die identifizierten Ris
 
 {% columns %}
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (498).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-498.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -114,7 +114,7 @@ Die Zuordnung ermöglicht:
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-499.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 

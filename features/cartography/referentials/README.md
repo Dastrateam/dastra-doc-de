@@ -10,7 +10,7 @@ description: >-
 
 Um Eingabefehler zu reduzieren, ermöglicht Ihnen das Dastra-Verzeichnis die Verwaltung eines oder mehrerer Referenzsysteme völlig autonom und unabhängig vom Verzeichnis. Das folgende Schema veranschaulicht die Wiederverwendbarkeit des Verarbeitungsverzeichnisses.
 
-![Schema zur Darstellung der Beziehungen zwischen Verarbeitungen und Referenzsystemen (Anwendungen und Auftragsverarbeitung)](<../../../.gitbook/assets/image (91).png>)
+![Schema zur Darstellung der Beziehungen zwischen Verarbeitungen und Referenzsystemen (Anwendungen und Auftragsverarbeitung)](<../../../.gitbook/assets/image-91.png>)
 
 ## Liste der von Dastra angebotenen Referenzsysteme
 

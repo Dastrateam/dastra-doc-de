@@ -111,7 +111,7 @@ Um die Einwilligungen nach Dienst zu verwalten, benötigen Sie den vereinfachten
 Gehen Sie zur Dienstverwaltungsoberfläche. Beim Bearbeiten eines Dienstes erscheint der vereinfachte Name (Slug) des Dienstes unterhalb des Cookie-Namens.
 {% endhint %}
 
-![Position des vereinfachten Cookie-Namens](<../../../.gitbook/assets/image (67).png>)
+![Position des vereinfachten Cookie-Namens](<../../../.gitbook/assets/image-67.png>)
 
 ```javascript
 <script> 

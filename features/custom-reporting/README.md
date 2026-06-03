@@ -9,7 +9,7 @@ Diese leistungsstarke Funktion ermöglicht es Ihnen, maßgeschneiderte Berichte 
 ### Schnellstart
 
 1. Klicken Sie im linken Menü auf "Benutzerdefinierte Berichte"\
-   &#x20;![](<../../.gitbook/assets/image (292).png>)
+   &#x20;![](<../../.gitbook/assets/image-292.png>)
 2. Die Berichte sind in einem Kategoriensystem organisiert. Bevor Sie Ihren ersten Bericht erstellen, müssen Sie **eine erste Kategorie anlegen**
 3. **Klicken Sie auf Bericht erstellen** und wählen Sie eine der beiden Optionen: Neuen Bericht erstellen oder aus einer Vorlage erstellen
 
@@ -34,7 +34,7 @@ Diese leistungsstarke Funktion ermöglicht es Ihnen, maßgeschneiderte Berichte 
 
 Wählen Sie die verschiedenen Datentabellen aus, die Sie abfragen möchten: Verarbeitungen, Verarbeitungsschritte, Zweck, Tags... Sie können **bis zu 6 verschiedene Tabellen in jedem Bericht** abfragen.
 
-<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-293.png" alt=""><figcaption></figcaption></figure>
 
 Klicken Sie auf "Weiter", wenn Sie die Tabellen ausgewählt haben
 
@@ -46,7 +46,7 @@ Achtung: Sobald die Tabellen ausgewählt sind, können Sie nicht mehr zurückgeh
 
 Erstellen Sie Ihren Bericht, indem Sie die Metriken und Dimensionen auswählen, die Sie anzeigen möchten.
 
-<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-291.png" alt=""><figcaption></figcaption></figure>
 
 Klicken Sie auf die Schaltfläche "Speichern" unten rechts auf der Seite
 
@@ -65,10 +65,10 @@ Beispiel: Sie wählen die Variable "Anzahl Datenverarbeitungen" und "Status" aus
 
 Sobald der Bericht erstellt wurde, werden Sie auf die folgende Seite weitergeleitet:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption><p>Bildschirmaufnahme der Ergebnisse der benutzerdefinierten Berichte</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-290.png" alt=""><figcaption><p>Bildschirmaufnahme der Ergebnisse der benutzerdefinierten Berichte</p></figcaption></figure>
 
 Um ein Diagramm hinzuzufügen, klicken Sie auf "**Diagramm hinzufügen**".
 
 Sie können dann verschiedene Diagrammkategorien definieren.\
-![](<../../.gitbook/assets/image (289).png>)
+![](<../../.gitbook/assets/image-289.png>)
 
