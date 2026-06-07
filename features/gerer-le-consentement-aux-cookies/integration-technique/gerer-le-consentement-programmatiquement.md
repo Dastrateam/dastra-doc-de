@@ -20,10 +20,8 @@ Der Dastra-Einwilligungsdienst ist folgendermaßen zugänglich
 
 ```javascript
 <script>
-dastra = dastra || []
-dastra.push(['cookieReady',function(manager){
-    console.log(manager.consent)
-});
+  dastra = dastra || [] dastra.push(['cookieReady',function(manager)
+  {console.log(manager.consent)});
 </script>
 ```
 
@@ -31,14 +29,14 @@ dastra.push(['cookieReady',function(manager){
 
 In manager.consent stehen Ihnen folgende Methoden zur Verfügung:
 
-* open() : öffnet das Einwilligungs-Widget
-* close() : schließt das Einwilligungs-Widget
-* getAllConsents() : ruft alle Einwilligungen ab
-* hasConsented() : gibt `true` zurück, wenn der Nutzer bereits eine explizite Einwilligung gespeichert hat
-* getPurposeConsent(purposeLabel:string) : ruft die Einwilligung einer Cookie-Kategorie ab
-* setPurposeConsent(purposeLabel:string, consent:bool): legt die Einwilligung für eine Kategorie fest
-* getServiceConsent(serviceShortName:string): ruft die Einwilligung eines bestimmten Dienstes ab.
-* setServiceConsent(serviceShortName:string, consent:bool): legt die Einwilligung eines bestimmten Elements fest
+- open() : öffnet das Einwilligungs-Widget
+- close() : schließt das Einwilligungs-Widget
+- getAllConsents() : ruft alle Einwilligungen ab
+- hasConsented() : gibt `true` zurück, wenn der Nutzer bereits eine explizite Einwilligung gespeichert hat
+- getPurposeConsent(purposeLabel:string) : ruft die Einwilligung einer Cookie-Kategorie ab
+- setPurposeConsent(purposeLabel:string, consent:bool): legt die Einwilligung für eine Kategorie fest
+- getServiceConsent(serviceShortName:string): ruft die Einwilligung eines bestimmten Dienstes ab.
+- setServiceConsent(serviceShortName:string, consent:bool): legt die Einwilligung eines bestimmten Elements fest
 
 ### Liste der Nutzer-Einwilligungen abrufen (getAllConsents)
 
@@ -76,13 +74,13 @@ Die obige Methode gibt die Liste aller Nutzer-Einwilligungen zurück
 
 Die Cookie-Kategorien werden durch folgende Labels identifiziert:
 
-| Kategorie   | Label          |
-| ----------- | -------------- |
-| Erforderlich | `Necessary`   |
-| Präferenzen | `Preference`   |
-| Analytisch  | `Analytical`   |
-| Marketing   | `Marketing`    |
-| Sonstige    | `Other`        |
+| Kategorie           | Label          |
+| ------------------- | -------------- |
+| Erforderlich        | `Necessary`    |
+| Präferenzen         | `Preference`   |
+| Analytisch          | `Analytical`   |
+| Marketing           | `Marketing`    |
+| Sonstige            | `Other`        |
 | Nicht klassifiziert | `Unclassified` |
 
 {% hint style="warning" %}
@@ -111,16 +109,16 @@ Um die Einwilligungen nach Dienst zu verwalten, benötigen Sie den vereinfachten
 Gehen Sie zur Dienstverwaltungsoberfläche. Beim Bearbeiten eines Dienstes erscheint der vereinfachte Name (Slug) des Dienstes unterhalb des Cookie-Namens.
 {% endhint %}
 
-![Position des vereinfachten Cookie-Namens](<../../../.gitbook/assets/image-67.png>)
+![Position des vereinfachten Cookie-Namens](../../../.gitbook/assets/image-67.png)
 
 ```javascript
-<script> 
+<script>
 dastra = dastra || []
 dastra.push(['cookieReady',function(manager){
     let cookieService = 'google-analytics';
     let consents = manager.consent.getServiceConsent(cookieService);
     manager.consent.setServiceConsent(cookieService, false);
-    
+
     // sauvegarder le consentement
     manager.consent.save();
 });
@@ -133,8 +131,8 @@ Das folgende Beispiel zeigt, wie eine globale Ablehnung programmatisch angewende
 
 ```javascript
 <script>
-dastra = dastra || [];
-dastra.push(['cookieReady', function(manager) {
+window.dastra = window.dastra || [];
+window.dastra.push(['cookieReady', function(manager) {
 
   // N'agir que si l'utilisateur n'a pas encore fait de choix explicite
   if (!manager.consent.hasConsented()) {
@@ -158,8 +156,8 @@ Es ist auch möglich, selektiv bestimmte Kategorien zu akzeptieren – zum Beisp
 
 ```javascript
 <script>
-dastra = dastra || [];
-dastra.push(['cookieReady', function(manager) {
+window.dastra = window.dastra || [];
+window.dastra.push(['cookieReady', function(manager) {
 
   manager.consent.setPurposeConsent('Analytical', true);
   manager.consent.setPurposeConsent('Marketing',  false);
