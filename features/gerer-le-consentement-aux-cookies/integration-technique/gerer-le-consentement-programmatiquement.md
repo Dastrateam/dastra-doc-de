@@ -20,8 +20,9 @@ Der Dastra-Einwilligungsdienst ist folgendermaßen zugänglich
 
 ```javascript
 <script>
-  dastra = dastra || [] dastra.push(['cookieReady',function(manager)
-  {console.log(manager.consent)});
+  window.dastra = window.dastra || [];
+  window.dastra.push(['cookieReady',function(manager)
+  {console.log(manager.consent)}]);
 </script>
 ```
 
@@ -89,8 +90,8 @@ Verwenden Sie die **Labels als Zeichenketten** (z. B. `'Analytical'`) und nicht 
 
 ```javascript
 <script>
-dastra = dastra || []
-dastra.push(['cookieReady',function(manager){
+window.dastra = window.dastra || [];
+window.dastra.push(['cookieReady',function(manager){
     let consents = manager.consent.getPurposeConsent('Analytical');
     manager.consent.setPurposeConsent('Analytical', false);
 
