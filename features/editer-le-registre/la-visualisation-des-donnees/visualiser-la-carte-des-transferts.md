@@ -1,8 +1,10 @@
 ---
-description: Erfahren Sie, wie Sie die Karte der Datenübermittlungen in Dastra visualisieren.
+description: >-
+  Erfahren Sie, wie Sie die Karte der Datenübermittlungen in Dastra
+  visualisieren.
 ---
 
-# Karte der Datenübermittlungen visualisieren
+# Übermittlungskarte anzeigen
 
 ## Einführung
 
@@ -12,15 +14,15 @@ Diese Visualisierung ermöglicht es insbesondere, die geografischen Datenübermi
 
 ## Karte der Datenübermittlungen visualisieren
 
-Um die Karte der Datenübermittlungen zu visualisieren, klicken Sie auf das Modul "Verzeichnis" und dann auf die Schaltfläche "**Übermittlungen**" über Ihrer Verarbeitungsliste.&#x20;
+Um die Karte der Datenübermittlungen zu visualisieren, klicken Sie auf das Modul "Verzeichnis" und dann auf die Schaltfläche "**Übermittlungen**" über Ihrer Verarbeitungsliste.
 
-![Modul "Verzeichnis"](<../../../.gitbook/assets/image-199.png>)
+![Modul "Verarbeitungsverzeichnis"](../../../.gitbook/assets/2.png)
 
-![Tab Übermittlungen über den Verarbeitungen](<../../../.gitbook/assets/capture-web-4-5-2022-101533-app-dastra-eu.jpeg>)
+![Tab "Drittländer"](../../../.gitbook/assets/drittländer.png)
 
 So können Sie die **Karte der Datenübermittlungen** visualisieren.
 
-![Beispiel einer Datenübermittlung](<../../../.gitbook/assets/image-212.png>)
+![Beispiel einer Datenübermittlung](../../../.gitbook/assets/drittländer2.png)
 
 {% hint style="info" %}
 Es ist möglich, auf die Details der Übermittlungen zuzugreifen, indem Sie auf die Punkte klicken, die jedem Land entsprechen.

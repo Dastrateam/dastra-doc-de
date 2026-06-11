@@ -16,7 +16,7 @@ Von dieser Seite aus können Sie:
 {% endcolumn %}
 
 {% column %}
-<div align="center"><img src="../../../../.gitbook/assets/image-426.png" alt="create framework options"></div>
+<div align="center"><img src="../../../../.gitbook/assets/Compliance4.png" alt="create framework options"></div>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -61,9 +61,9 @@ Sie können anschließend an Ihren Kontext **angepasst** werden.
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../../.gitbook/assets/image-427.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Compliance5.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-429.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Compliance6.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -75,7 +75,7 @@ Sie können anschließend an Ihren Kontext **angepasst** werden.
 
 {% columns %}
 {% column %}
-<figure><img src="../../../../.gitbook/assets/image-447.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Compliance7.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}

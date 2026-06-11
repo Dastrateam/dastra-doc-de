@@ -6,7 +6,7 @@ description: Erfahren Sie, wie Sie die Kontakte in Ihrem Trust Center konfigurie
 
 **Aktivierung der Funktion 'Kontakte' in Ihrem Trust Center**
 
-Um die Funktion '**Kontakte**' in Ihrem Trust Center zu aktivieren, konsultieren Sie den Abschnitt der allgemeinen Konfiguration, der die Aktivierung oder Deaktivierung dieser Option ermöglicht. Nach der Aktivierung wird ein neuer Abschnitt '**Kontakte**' in der Seitenleiste der Startseite Ihres Trust Centers angezeigt.
+Um die Funktion '**Kontakte**' in Ihrem Trust Center zu aktivieren, besuchen Sie den Abschnitt der allgemeinen Konfiguration, der die Aktivierung oder Deaktivierung dieser Option ermöglicht. Nach der Aktivierung wird ein neuer Abschnitt '**Kontakte**' in der Seitenleiste der Startseite Ihres Trust Centers angezeigt.
 
 Abgesehen von der Aktivierung erfordern die Kontakte keine zusätzliche Konfiguration, um in Ihrem Trust Center angezeigt zu werden.
 

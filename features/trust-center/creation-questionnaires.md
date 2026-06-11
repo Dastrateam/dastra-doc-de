@@ -1,6 +1,6 @@
-# Projekte für Verarbeitungen, Vorfälle, Assets oder Verträge erfassen
+# Verarbeitungs-, Vorfalls-, Asset- oder Vertragsprojekte erfassen
 
-Wir haben Fragebogenvorlagen entwickelt, die speziell für die Arbeit mit Privacy Hubs konzipiert sind: Vorlagen zur Erstellung von Verarbeitungen, Datenschutzvorfällen, Assets im Referenzsystem und Verträgen. Diese Vorlagen funktionieren wie unsere anderen Vorlagen, aber nach dem Ausfüllen können die Antworten in entsprechende Entwürfe umgewandelt werden.
+Wir haben Fragebogenvorlagen entwickelt, die speziell für die Arbeit mit Trust Center konzipiert sind: Vorlagen zur Erstellung von Verarbeitungen, Datenschutzvorfällen, Assets im Referenzsystem und Verträgen. Diese Vorlagen funktionieren wie unsere anderen Vorlagen, aber nach dem Ausfüllen können die Antworten in entsprechende Entwürfe umgewandelt werden.
 
 #### Eine Vorlage hinzufügen
 

@@ -16,7 +16,7 @@ Eine Kontrolle kann:
 
 ### Überwachung und Verwaltung der Kontrollen
 
-<figure><img src="../../../.gitbook/assets/image-480.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance18.png" alt=""><figcaption></figcaption></figure>
 
 Die Kontrollen können über zwei ergänzende Einstiegspunkte verfolgt werden.
 
@@ -41,7 +41,7 @@ Im Tab **Kontrollen** eines Frameworks sieht der Nutzer:
 
 #### 2. Von der Kontrollbibliothek aus
 
-<figure><img src="../../../.gitbook/assets/image-481.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance17.png" alt=""><figcaption></figcaption></figure>
 
 Die **Kontrollbibliothek** zentralisiert alle Kontrollen der Organisation, über alle Frameworks hinweg.
 
@@ -63,7 +63,7 @@ Das Bearbeitungsfenster ermöglicht es, die Rolle der Kontrolle und ihre Verbind
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../.gitbook/assets/image-440.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance19.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -100,10 +100,10 @@ Jede Kontrolle muss einem **Abhilfemaßnahmentyp** zugeordnet werden, der ihre A
 
 * **Präventiv**\
   Die Kontrolle zielt darauf ab, das Eintreten eines Risikos **zu vermeiden**\
-  &#xNAN;_(z. B. Schulung, Zugriffsregeln, Validierung vor Produktivsetzung)_
+  \&#xNAN;_(z. B. Schulung, Zugriffsregeln, Validierung vor Produktivsetzung)_
 * **Abschwächung**\
   Die Kontrolle zielt darauf ab, die **Auswirkung oder Wahrscheinlichkeit** eines bereits bestehenden Risikos **zu reduzieren**\
-  &#xNAN;_(z. B. Überwachung, Erkennung, Mitigationsplan)_
+  \&#xNAN;_(z. B. Überwachung, Erkennung, Mitigationsplan)_
 
 👉 Diese Unterscheidung ist wesentlich für:
 

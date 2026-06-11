@@ -1,6 +1,5 @@
 ---
-description: >-
-  Erfahren Sie, wie Sie Dastra in Ihr bevorzugtes Datenanalyse-Tool integrieren!
+description: Erfahren Sie, wie Sie Dastra in Ihr bevorzugtes Datenanalyse-Tool integrieren!
 ---
 
 # Integration in Datenanalyse-Tools (BI)
@@ -9,21 +8,21 @@ description: >-
 Um diese Funktion zu nutzen, benötigen Sie in Ihrem Abonnement den **Enterprise**-Plan
 {% endhint %}
 
-Dastra ermöglicht es Ihnen ganz einfach, [benutzerdefinierte Berichte](./) in Ihr bevorzugtes BI-Tool (Power BI, Google Looker, Tableau Software...) zu importieren. Der Vorteil dieser Funktion besteht darin, dass Sie die Leistungsfähigkeit der BI-Tools nutzen können, um Daten eingehend zu analysieren, und dabei Berichte haben, die sich automatisch aktualisieren.<br>
+Dastra ermöglicht es Ihnen ganz einfach, [Personalisierte Berichte](./) in Ihr bevorzugtes BI-Tool (Power BI, Google Looker, Tableau Software...) zu importieren. Der Vorteil dieser Funktion besteht darin, dass Sie die Leistungsfähigkeit der BI-Tools nutzen können, um Daten eingehend zu analysieren, und dabei Berichte haben, die sich automatisch aktualisieren.<br>
 
 ### Einrichtung in Dastra
 
-Navigieren Sie zum Modul der benutzerdefinierten Berichte, öffnen Sie einen davon und klicken Sie auf die Schaltfläche "In BI-Tool integrieren".&#x20;
+Navigieren Sie zum Modul der personalisierte Berichte, öffnen Sie einen davon und klicken Sie auf die Schaltfläche "In BI-Tool integrieren".
 
 Ein modales Fenster öffnet sich, klicken Sie dann auf "Integrations-Link erstellen".
 
 **Kopieren Sie anschließend den generierten Link**
 
 {% hint style="info" %}
-Achtung! Geben Sie den generierten Link an niemanden weiter. Dieser ermöglicht den Zugriff auf die Rohdaten des Berichts.&#x20;
+Achtung! Geben Sie den generierten Link an niemanden weiter. Dieser ermöglicht den Zugriff auf die Rohdaten des Berichts.
 {% endhint %}
 
-## Einrichtung im BI-Tool:&#x20;
+## Einrichtung im BI-Tool:
 
 #### Microsoft Power BI
 

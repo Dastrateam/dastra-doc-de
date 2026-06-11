@@ -6,7 +6,7 @@ description: Erfahren Sie, wie Sie Fragebögen und DSFAs mit Dastra durchführen
 
 Das Modul Fragebögen von Dastra ermöglicht es Ihnen, alle für die Steuerung Ihrer Compliance erforderlichen Informationen zu erfassen: DSFA, Fragebögen für Auftragsverarbeiter, Compliance-Fragebögen, Transferfolgenabschätzungen und vieles mehr.
 
-Um auf das Modul zuzugreifen, klicken Sie auf das Symbol **"Fragebögen"** auf der linken Seite des Bildschirms. Das Modul ist in drei Registerkarten gegliedert: **Fragebogenvorlagen**, **Fragebögen anzeigen** und **Meine Antworten**.
+Um auf das Modul zuzugreifen, klicken Sie auf das Symbol **"Fragebögen"** auf der linken Seite des Bildschirms. Das Modul ist in drei Registerkarten gegliedert: V**orlagen**, **Alle Fragebögen** und **Meine Fragebögen**.
 
 ## Benutzer-Tutorial
 

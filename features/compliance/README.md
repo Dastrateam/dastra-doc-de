@@ -12,7 +12,7 @@ Das Modul **Compliance** von Dastra ermöglicht es, die regulatorische Complianc
 
 Das Modul basiert auf einer logischen Kette von Objekten, von den regulatorischen Referenzrahmen bis hin zu den Compliance-Nachweisen.
 
-<figure><img src="../../.gitbook/assets/mermaid-diagram-2026-01-28-160744.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Compliance.png" alt=""><figcaption></figcaption></figure>
 
 #### Frameworks (Referenzrahmen)
 
@@ -155,4 +155,4 @@ Eine einzelne Kontrolle (z. B. Überprüfung der Zugänge) kann somit:
 
 **Erläuterndes Schema**
 
-<figure><img src="../../.gitbook/assets/image-1-1-1-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Compliance1.png" alt=""><figcaption></figcaption></figure>

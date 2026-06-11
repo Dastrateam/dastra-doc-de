@@ -23,10 +23,10 @@ Das Benachrichtigungszentrum fasst die Warnungen zusammen, die über das **Glock
 * Nicht anpassbar (gemeinsam für den gesamten Mandanten)
 * Enthält allgemeine Benachrichtigungen über die letzten Aktivitäten: Erstellung, Änderung oder Löschung von Elementen
 
-<figure><img src="../../.gitbook/assets/image-5-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Erweiterte Konfiguration2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-&#x20;Beispiel: „Eine neue Datenverarbeitung wurde in Ihrem Mandanten erstellt."
+Beispiel: „Eine neue Datenverarbeitung wurde in Ihrem Mandanten erstellt."
 {% endhint %}
 
 ***
@@ -63,18 +63,18 @@ Die Rolle öffnet oder schließt das Recht auf Benachrichtigung. Der Nutzer kann
 Die E-Mail-Benachrichtigungen sind nach **Kategorien** organisiert.\
 Jede Kategorie enthält mehrere Unter-Ereignistypen, die individuell aktiviert werden können.
 
-| Kategorie                                     | Beispiel für Benachrichtigung                          | Anpassbar? |
-| --------------------------------------------- | ------------------------------------------------------ | ---------- |
-| **Datenverarbeitungen**                       | Eine Verarbeitung wurde geändert oder gelöscht         | ✅          |
-| **Rechteausübungsanfragen (DSR)**             | Eine neue Anfrage wurde zugewiesen                     | ✅          |
-| **Datenschutzverletzungen**                   | Eine Verletzung wurde gemeldet oder abgeschlossen      | ✅          |
-| **Aufgaben**                                  | Sie wurden einer Aufgabe zugewiesen                    | ✅          |
-| **Audits**                                    | Eine Antwort wurde validiert/abgelehnt                 | ✅          |
-| **Audit-Vorlagen**                            | Eine Vorlage wurde aktualisiert                        | ✅          |
-| **Kommentare**                                | Jemand hat Sie erwähnt (@)                             | ✅          |
-| **Einwilligung / Cookies**                    | Eine Änderung am Banner wurde vorgenommen              | ✅          |
-| **Berichte / Analysen**                       | Ein neuer Bericht ist verfügbar                        | ✅          |
-| **Marketing / Push**                          | Produktkommunikationen oder Dastra-Neuigkeiten         | ✅          |
+| Kategorie                         | Beispiel für Benachrichtigung                     | Anpassbar? |
+| --------------------------------- | ------------------------------------------------- | ---------- |
+| **Datenverarbeitungen**           | Eine Verarbeitung wurde geändert oder gelöscht    | ✅          |
+| **Rechteausübungsanfragen (DSR)** | Eine neue Anfrage wurde zugewiesen                | ✅          |
+| **Datenschutzverletzungen**       | Eine Verletzung wurde gemeldet oder abgeschlossen | ✅          |
+| **Aufgaben**                      | Sie wurden einer Aufgabe zugewiesen               | ✅          |
+| **Audits**                        | Eine Antwort wurde validiert/abgelehnt            | ✅          |
+| **Audit-Vorlagen**                | Eine Vorlage wurde aktualisiert                   | ✅          |
+| **Kommentare**                    | Jemand hat Sie erwähnt (@)                        | ✅          |
+| **Einwilligung / Cookies**        | Eine Änderung am Banner wurde vorgenommen         | ✅          |
+| **Berichte / Analysen**           | Ein neuer Bericht ist verfügbar                   | ✅          |
+| **Marketing / Push**              | Produktkommunikationen oder Dastra-Neuigkeiten    | ✅          |
 
 ***
 
@@ -112,7 +112,7 @@ Gut zu wissen
 Stellen Sie außerdem sicher, dass die E-Mails von Dastra nicht in den Ordner „Werbung" oder „Spam" umgeleitet werden.
 
 {% hint style="info" %}
-Achtung: Sie erhalten keine Benachrichtigung für Elemente, die Sie selbst betreffen.&#x20;
+Achtung: Sie erhalten keine Benachrichtigung für Elemente, die Sie selbst betreffen.
 {% endhint %}
 
 #### Kann ich eine monatliche Zusammenfassung erhalten?

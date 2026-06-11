@@ -1,23 +1,23 @@
-# Schritt 2: Ihre Verarbeitungen personenbezogener Daten kartieren und das Verarbeitungsverzeichnis erstellen
+# Schritt 2: Ihre Verarbeitungen personenbezogener Daten mappen und das Verzeichnis erstellen
 
-Nachdem Sie sich [zur Kartierung der Verarbeitungen weitergebildet](https://www.cnil.fr/fr/cartographier-vos-traitements-de-donnees-personnelles) und die Verantwortlichen interviewt haben, identifizieren Sie Ihre ersten Verarbeitungen wie folgt:
+Nachdem Sie die pesonenbezogenen Daten gemappt und die Verantwortlichen interviewt haben, identifizieren Sie Ihre ersten Verarbeitungen wie folgt:
 
-| #  | Abteilung           | Verarbeitung personenbezogener Daten        | System / Anwendung        | DSFA a priori erforderlich? |
-| -- | ------------------- | ------------------------------------------- | ------------------------- | --------------------------- |
-| 1  | HR                  | Bewerbermanagement                          | Linkedin (extern)         | Nein                        |
-| 2  | HR                  | Gehaltsabrechnung                           | Payfit (extern)           | Nein                        |
-| 3  | HR                  | Personalverwaltung                          | Microsoft Office          | Nein                        |
-| 4  | Generalsekretariat  | Verwaltung der Betriebsratsdaten            | Interne Anwendung         | Nein                        |
-| 5  | Produktion          | Qualitätsmanagement                         | Microsoft Office          | Nein                        |
-| 6  | Marketing & Vertrieb | Kundenverwaltung                           | Salesforce (extern)       | Nein                        |
-| 7  | Marketing & Vertrieb | Versand von Werbe-E-Mails                  | Mailjet (extern)          | Nein                        |
-| 8  | Marketing & Vertrieb | Profiling von Interessenten                | Salesforce                | Ja                          |
-| 9  | Sicherheit          | Verwaltung der Gebäudezugänge               | IBM                       | Ja                          |
-| 10 | Sicherheit          | Hintergrundüberprüfung                      | Microsoft Office          | Nein                        |
-| 11 | IT                  | Anwendungsentwicklung                       | Microsoft Azure (extern)  | Nein                        |
-| 12 | IT                  | Anwendungswartung                           | CGI (extern)              | Nein                        |
-| 13 | Recht               | Vertragsverwaltung                          | Microsoft Office          | Nein                        |
-| 14 | Einkauf             | Lieferantenverwaltung                       | SAP (extern)              | Nein                        |
+| #  | Abteilung            | Verarbeitung personenbezogener Daten | System / Anwendung       | DSFA a priori erforderlich? |
+| -- | -------------------- | ------------------------------------ | ------------------------ | --------------------------- |
+| 1  | HR                   | Bewerbermanagement                   | Linkedin (extern)        | Nein                        |
+| 2  | HR                   | Gehaltsabrechnung                    | Payfit (extern)          | Nein                        |
+| 3  | HR                   | Personalverwaltung                   | Microsoft Office         | Nein                        |
+| 4  | Generalsekretariat   | Verwaltung der Betriebsratsdaten     | Interne Anwendung        | Nein                        |
+| 5  | Produktion           | Qualitätsmanagement                  | Microsoft Office         | Nein                        |
+| 6  | Marketing & Vertrieb | Kundenverwaltung                     | Salesforce (extern)      | Nein                        |
+| 7  | Marketing & Vertrieb | Versand von Werbe-E-Mails            | Mailjet (extern)         | Nein                        |
+| 8  | Marketing & Vertrieb | Profiling von Interessenten          | Salesforce               | Ja                          |
+| 9  | Sicherheit           | Verwaltung der Gebäudezugänge        | IBM                      | Ja                          |
+| 10 | Sicherheit           | Hintergrundüberprüfung               | Microsoft Office         | Nein                        |
+| 11 | IT                   | Anwendungsentwicklung                | Microsoft Azure (extern) | Nein                        |
+| 12 | IT                   | Anwendungswartung                    | CGI (extern)             | Nein                        |
+| 13 | Recht                | Vertragsverwaltung                   | Microsoft Office         | Nein                        |
+| 14 | Einkauf              | Lieferantenverwaltung                | SAP (extern)             | Nein                        |
 
 Anschließend vervollständigen Sie Ihr Verarbeitungsverzeichnis in Dastra:
 
@@ -35,7 +35,7 @@ Füllen Sie dann alle für eine Verarbeitung erforderlichen Informationen aus, i
 [gerer-votre-traitement.md](../../features/editer-le-registre/gerer-votre-traitement.md)
 {% endcontent-ref %}
 
-Sie teilen das Verarbeitungsverzeichnis mit allen Verantwortlichen sowie Ihrem DSGVO-Ansprechpartnernetzwerk und bitten alle Interessengruppen um Freigabe.&#x20;
+Sie teilen das Verarbeitungsverzeichnis mit allen Verantwortlichen sowie Ihrem DSGVO-Ansprechpartnernetzwerk und bitten alle Interessengruppen um Freigabe.
 
 {% content-ref url="../../features/editer-le-registre/partager-le-registre.md" %}
 [partager-le-registre.md](../../features/editer-le-registre/partager-le-registre.md)

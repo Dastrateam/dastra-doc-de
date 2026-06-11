@@ -4,17 +4,17 @@
 
 Die Aktualität ist ein Indikator für die letzte Überprüfung eines Elements in Dastra. Es kann sich um eine Verarbeitung, ein Objekt Ihres Referenzverzeichnisses oder sogar einen Vertrag handeln. Durch Aktivierung dieser Funktionalität legen Sie ein zukünftiges Überprüfungsdatum für das Objekt fest, und die Aktualität verschlechtert sich, je näher dieses Datum rückt. Diese Funktionalität ist ein einfaches und spielerisches Mittel, um sicherzustellen, dass Sie die in der Anwendung eingegebenen Informationen regelmäßig überprüfen.
 
-<figure><img src="../.gitbook/assets/image-274.png" alt=""><figcaption><p>Funktionsschema des Aktualitätsindikators</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Compliance53.png" alt=""><figcaption><p>Funktionsschema des Aktualitätsindikators</p></figcaption></figure>
 
 ### Wie aktiviere ich den Aktualitätsindikator?
 
 Um die Aktualität für einen Objekttyp zu aktivieren, gehen Sie in die Einstellungen Ihres Mandanten und wählen Sie den Tab _Regelmäßige Überprüfungen_.
 
-<figure><img src="../.gitbook/assets/image-344.png" alt=""><figcaption><p>Das Konfigurationsmenü der regelmäßigen Überprüfung (Aktualität)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Compliance54.png" alt=""><figcaption><p>Das Konfigurationsmenü der regelmäßigen Überprüfung (Aktualität)</p></figcaption></figure>
 
 Sie können von diesem Menü aus die Aktualität für die verschiedenen Objekte aktivieren, die über diese Funktionalität verfügen, indem Sie auf das Dropdown-Menü zur Objektauswahl klicken.
 
-<figure><img src="../.gitbook/assets/image-345.png" alt=""><figcaption><p>Die Liste der Objekte, für die Sie die Aktualität aktivieren können</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Compliance55.png" alt=""><figcaption><p>Die Liste der Objekte, für die Sie die Aktualität aktivieren können</p></figcaption></figure>
 
 Aktivieren Sie die Option „Regelmäßige Überprüfung des Elements aktivieren" und konfigurieren Sie **das gewünschte Zeitintervall zwischen jeder Überprüfung**.
 
@@ -34,7 +34,7 @@ Alle Objekte, die über diese Funktionalität verfügen, haben eine Spalte „Da
 
 Bitte beachten Sie, dass die Aktualität nur für **veröffentlichte Elemente** angezeigt wird.
 
-<figure><img src="../.gitbook/assets/screenshot-2024-07-26-154523.png" alt="Die Spalte &#x22;Datum der letzten Überprüfung&#x22;"><figcaption><p>Die Spalte „Datum der letzten Überprüfung"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Compliance56.png" alt="Die Spalte &#x22;Datum der letzten Überprüfung&#x22;"><figcaption><p>Die Spalte „Datum der letzten Überprüfung"</p></figcaption></figure>
 
 Diesen Indikator finden Sie auch im Schnellzugriffsmenü der Elemente.
 
@@ -50,7 +50,7 @@ Dieser Indikator besteht aus einem Label mit den Werten „Aktuell", „Ausstehe
 
 <figure><img src="../.gitbook/assets/image-270.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image-269.png" alt=""><figcaption><p>In der mobilen Ansicht finden Sie diesen Indikator ebenfalls in der Navigationsleiste oben in Ihrem Verarbeitungsformular</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Compliance57.png" alt=""><figcaption><p>In der mobilen Ansicht finden Sie diesen Indikator ebenfalls in der Navigationsleiste oben in Ihrem Verarbeitungsformular</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image-271.png" alt=""><figcaption><p>Beispiel einer abgelaufenen Verarbeitung</p></figcaption></figure>
 
@@ -82,7 +82,7 @@ Sie können auch direkt über die Bearbeitungsansicht des zu überprüfenden Ele
 
 Sie gelangen dann zum Überprüfungsfenster des Elements. Beachten Sie, dass es möglich ist, frühere Überprüfungen über dieses Fenster einzusehen.
 
-<figure><img src="../.gitbook/assets/image-348.png" alt=""><figcaption><p>Das Fenster zur Überprüfung eines Elements</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Compliance58.png" alt=""><figcaption><p>Das Fenster zur Überprüfung eines Elements</p></figcaption></figure>
 
 Durch die Überprüfung eines Elements starten Sie einen neuen Aktualitätszyklus ab dem aktuellen Datum bis zum nächsten Überprüfungsdatum. Das Überprüfungsdatum wird standardmäßig basierend auf der Einstellung des Überprüfungsintervalls des Elements berechnet (siehe oben). Sie können dieses Standarddatum ignorieren und ein spezifisches Ablaufdatum für dieses Element festlegen, indem Sie die Option „Nächstes Überprüfungsdatum ändern" aktivieren und ein neues Datum auswählen (das nächste Überprüfungsdatum muss mindestens auf T+1 festgelegt werden)
 

@@ -2,7 +2,7 @@
 description: Erfahren Sie, wie Sie Ihr Verzeichnis teilen.
 ---
 
-# Verzeichnis teilen
+# Das Verzeichnis teilen
 
 ## Teilen des gesamten Verzeichnisses
 
@@ -10,15 +10,15 @@ Klicken Sie im Bereich "Verzeichnis" von DASTRA auf den Pfeil oben rechts im Ver
 
 Sobald Sie geklickt haben, erscheint ein Fenster auf dem Bildschirm, das Sie nach dem Ablaufdatum des Freigabelinks fragt. Klicken Sie dann auf "Link erstellen".
 
-![](<../../.gitbook/assets/image-180.png>)
+![](../../.gitbook/assets/Teilen1.png)
 
-Die Freigabe berücksichtigt alle Verarbeitungen mit dem Status "veröffentlicht". Verarbeitungen im Entwurfsstatus werden mit dieser Funktion nicht geteilt. Um eine Verarbeitung im Entwurfsstatus zu teilen, muss sie einzeln geteilt werden.&#x20;
+Die Freigabe berücksichtigt alle Verarbeitungen mit dem Status "veröffentlicht". Verarbeitungen im Entwurfsstatus werden mit dieser Funktion nicht geteilt. Um eine Verarbeitung im Entwurfsstatus zu teilen, muss sie einzeln geteilt werden.
 
-![Konfigurationsoberfläche für die Freigabe](<../../.gitbook/assets/image-178.png>)
+![Konfigurationsoberfläche für die Freigabe](../../.gitbook/assets/Teilen2.png)
 
-Die Gültigkeitsdauern der Links sind wie folgt:&#x20;
+Die Gültigkeitsdauern der Links sind wie folgt:
 
-* 2 Tage&#x20;
+* 2 Tage
 * 30 Tage
 * 120 Tage
 * unbegrenzt
@@ -33,14 +33,14 @@ Wiederholen Sie den oben beschriebenen Vorgang, aber gehen Sie in die Verarbeitu
 
 Verarbeitungen können unabhängig vom Status (veröffentlicht oder Entwurf) geteilt werden.
 
-![](<../../.gitbook/assets/image-18-1.png>)
+![](../../.gitbook/assets/Teilen3.png)
 
-Es ist auch möglich, mehrere Verarbeitungen zu teilen, indem Sie sie im Menü Verzeichnis auswählen und die Gruppenaktion "Teilen" wählen.&#x20;
+Es ist auch möglich, mehrere Verarbeitungen zu teilen, indem Sie sie im Menü Verzeichnis auswählen und die Gruppenaktion "Teilen" wählen.
 
 ## Freigabelinks verwalten
 
-Alle in Ihrem Mandanten erstellten Freigabelinks sind in der Verwaltungskonsole (Menü Einstellungen) zentralisiert.&#x20;
+Alle in Ihrem Mandanten erstellten Freigabelinks sind in den Mandanteneinstellungen unter "**Links zum Teilen**" zentralisiert.
 
 Sie können sie dort ansehen und gegebenenfalls löschen.
 
-![Verwaltungsoberfläche der Freigabelinks](<../../.gitbook/assets/image-179.png>)
+![Verwaltungsoberfläche der Freigabelinks](../../.gitbook/assets/Teilen4.png)

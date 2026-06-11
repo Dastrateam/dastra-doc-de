@@ -8,17 +8,19 @@ Das **Trust Center** ermöglicht es Organisationen, ein vollständig konfigurier
 
 Das Trust Center bietet eine modulare und flexible Konfiguration, mit der Sie die gewünschten Funktionen aus den folgenden Optionen auswählen und aktivieren können:
 
-* [Anpassbare Startseite](configuration/home.md) (obligatorisch)
+* [Anpassbare Startseite](configuration/home.md) (pflichtfeld)
 * [Fragebögen](configuration/questionnaires.md) (optional - erfordert die Funktion [Fragebögen](../audit/))
 * [Dokumente](configuration/attachments.md) (optional)
 * [Betroffenenanfragen](configuration/data-subject-requests.md) (optional - erfordert die Funktion [Betroffenenanfragen](../gerer-les-exercices-des-droits/))
 * [Organigramm](configuration/org-chart.md) (optional)
 * [Verarbeitungsverzeichnis](configuration/record-of-processing-activities.md) (optional - erfordert die Funktion [Verarbeitungsverzeichnis](../editer-le-registre/))
 
-### Zugang zur Funktion&#x20;
+### Zugang zur Funktion
 
 Um auf die Funktion zugreifen zu können, muss Ihr Abonnement unsere Funktion [.](./ "mention") enthalten.
 
 Sie greifen auf die Trust Center über die seitliche Navigationsleiste der Anwendung zu
 
-<figure><img src="../../.gitbook/assets/image-404.png" alt=""><figcaption><p>Vorschau eines Demo-Trust Centers mit allen aktivierten Modulen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/trust center.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/trust center2.png" alt=""><figcaption><p>Vorschau eines Demo-Trust Centers mit allen aktivierten Modulen</p></figcaption></figure>

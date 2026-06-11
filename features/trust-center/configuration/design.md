@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie die Designelemente Ihres Trust Centers konfig
 
 # Erscheinungsbild und Design
 
-<figure><img src="../../../.gitbook/assets/image-401.png" alt=""><figcaption><p>Die Registerkarte zur Konfiguration der Designelemente Ihres Trust Centers</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/trust center13.png" alt=""><figcaption><p>Die Registerkarte zur Konfiguration der Designelemente Ihres Trust Centers</p></figcaption></figure>
 
 #### Logo (optional)
 

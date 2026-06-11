@@ -1,4 +1,4 @@
-# Geo-zielgerichtete Varianten
+# Geo-Targeting-Varianten
 
 ### Vorstellung
 
@@ -9,7 +9,7 @@ Diese Funktion ist besonders nützlich für Organisationen, die in mehreren Län
 {% hint style="info" %}
 **Warum dies rechtlich wichtig ist**
 
-Das in Frankreich konforme Banner ist nicht unbedingt konform für einen kalifornischen Nutzer (Opt-out statt Opt-in) oder einen britischen Nutzer (nach dem Brexit hat die ICO eigene Richtlinien). Geo-zielgerichtete Varianten ermöglichen es Ihnen, Ihre CMP präzise an jeden rechtlichen Kontext anzupassen, ohne die Widgets zu vervielfachen.
+Das in Deutschland konforme Banner ist nicht unbedingt konform für einen kalifornischen Nutzer (Opt-out statt Opt-in) oder einen britischen Nutzer (nach dem Brexit hat die ICO eigene Richtlinien). Geo-zielgerichtete Varianten ermöglichen es Ihnen, Ihre CMP präzise an jeden rechtlichen Kontext anzupassen, ohne die Widgets zu vervielfachen.
 {% endhint %}
 
 ***
@@ -22,7 +22,7 @@ Wählen Sie im Modul **Cookies** Ihr Widget aus und navigieren Sie dann zum Tab 
 
 Klicken Sie auf **„Geo-zielgerichtete Variante erstellen"**.
 
-<figure><img src="../../../.gitbook/assets/image-514.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cookie11.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Die Variante benennen
 
@@ -74,11 +74,11 @@ Die „Standardeinwilligung" jedes Dienstes ist in der Widget-Konfiguration im B
 
 ### Typische Anwendungsfälle
 
-| Situation                                         | Empfohlene Konfiguration                                                          |
-| ------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Europäische Website mit amerikanischem Traffic     | EWR-Variante (striktes Opt-in) + USA/Kalifornien-Variante (CCPA Opt-out)         |
-| Französische Website mit deutscher Niederlassung   | Frankreich-Variante + Deutschland-Variante mit an die BfDI-Anforderungen angepassten Texten |
-| Globale Website mit minimaler Compliance außerhalb des EWR | Standard-Widget weltweit + EWR-Variante DSGVO-konform                     |
+| Situation                                                  | Empfohlene Konfiguration                                                                    |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Europäische Website mit amerikanischem Traffic             | EWR-Variante (striktes Opt-in) + USA/Kalifornien-Variante (CCPA Opt-out)                    |
+| Französische Website mit deutscher Niederlassung           | Frankreich-Variante + Deutschland-Variante mit an die BfDI-Anforderungen angepassten Texten |
+| Globale Website mit minimaler Compliance außerhalb des EWR | Standard-Widget weltweit + EWR-Variante DSGVO-konform                                       |
 
 ***
 

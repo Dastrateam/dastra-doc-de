@@ -10,13 +10,13 @@ Stellen Sie sicher, dass AIOHTTP in Ihrer Umgebung installiert ist:
 pip install aiohttp
 ```
 
-#### 1. Einen Anhang für einen Betroffenenrechte-Antrag erstellen
+#### 1. Einen Anhang für einen Betroffenenanfrage erstellen
 
 **Endpunkt**: `/datasubjectattachments`
 
 **Methode**: POST
 
-**Beschreibung**: Dieser Endpunkt wird verwendet, um einen Anhang zu erstellen, der mit einem Betroffenenrechte-Antrag verknüpft ist.
+**Beschreibung**: Dieser Endpunkt wird verwendet, um einen Anhang zu erstellen, der mit einer Betroffenenanfrage verknüpft ist.
 
 **Beispiel-Anfrage**:
 
@@ -50,13 +50,13 @@ response = asyncio.run(create_attachment(workspace_id, api_key, attachment_data)
 print(response)
 ```
 
-#### 2. Eine Nachricht mit Anhang in einem Betroffenenrechte-Antrag senden
+#### 2. Eine Nachricht mit Anhang in einer Betroffenenanfrage senden
 
 **Endpunkt**: `/datasubjectmessages`
 
 **Methode**: POST
 
-**Beschreibung**: Dieser Endpunkt wird verwendet, um eine Nachricht mit einem Anhang in einem Betroffenenrechte-Antrag zu senden.
+**Beschreibung**: Dieser Endpunkt wird verwendet, um eine Nachricht mit einem Anhang in einer Betroffenenanfrage zu senden.
 
 **Beispiel-Anfrage**:
 
@@ -97,7 +97,7 @@ print(response)
 
 **Methode**: GET
 
-**Beschreibung**: Dieser Endpunkt wird verwendet, um neue Betroffenenrechte-Anfragen anhand bestimmter Filter abzurufen.
+**Beschreibung**: Dieser Endpunkt wird verwendet, um neue Betroffenenanfragen anhand bestimmter Filter abzurufen.
 
 **Beispiel-Anfrage**:
 

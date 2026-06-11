@@ -1,12 +1,14 @@
 ---
-description: Erfahren Sie, wie Sie ein Widget für Betroffenenanfragen in Ihrem Trust Center konfigurieren
+description: >-
+  Erfahren Sie, wie Sie ein Widget für Betroffenenanfragen in Ihrem Trust Center
+  konfigurieren
 ---
 
 # Betroffenenanfragen
 
 **Aktivierung der Funktion 'Betroffenenanfragen' in Ihrem Trust Center**
 
-Um die Funktion '**Betroffenenanfragen**' in Ihrem Trust Center zu aktivieren, konsultieren Sie den Abschnitt der allgemeinen Konfiguration, der die Aktivierung oder Deaktivierung dieser Option ermöglicht. Nach der Aktivierung wird Ihrem Trust Center eine neue öffentliche Seite mit dem Titel 'Betroffenenanfragen' hinzugefügt.
+Um die Funktion '**Betroffenenanfragen**' in Ihrem Trust Center zu aktivieren, besuchen Sie den Abschnitt der allgemeinen Konfiguration, der die Aktivierung oder Deaktivierung dieser Option ermöglicht. Nach der Aktivierung wird Ihrem Trust Center eine neue öffentliche Seite mit dem Titel 'Betroffenenanfragen' hinzugefügt.
 
 <figure><img src="../../../.gitbook/assets/image-397.png" alt=""><figcaption><p>Die Konfigurationsregisterkarte der Funktion Betroffenenanfragen in Ihrem Trust Center</p></figcaption></figure>
 

@@ -12,7 +12,7 @@ Erhalten Sie einen Gesamtüberblick über Ihre Risiken, um Ihre Maßnahmenpläne
 
 ## Das Risikomanagement in Dastra in wenigen Worten
 
-Die Risikomanagement-Funktion der Lösung Dastra ermöglicht es, alle Ihre Risiken visuell und integriert zu identifizieren, zu bewerten, zu mindern und zu steuern sowie einen Gesamtüberblick über Ihre Risiken zu erhalten, um Ihre Maßnahmenpläne zu speisen, Ihre Abdeckung zu erweitern und Ihre Risikoexposition zu reduzieren.&#x20;
+Die Risikomanagement-Funktion der Lösung Dastra ermöglicht es, alle Ihre Risiken visuell und integriert zu identifizieren, zu bewerten, zu mindern und zu steuern sowie einen Gesamtüberblick über Ihre Risiken zu erhalten, um Ihre Maßnahmenpläne zu speisen, Ihre Abdeckung zu erweitern und Ihre Risikoexposition zu reduzieren.
 
 Mit Dastra können Sie:
 
@@ -20,16 +20,14 @@ Mit Dastra können Sie:
 * **Ihre Prozesse rationalisieren** für Bewertung, Kontrolle, Reporting und Verfolgung der Maßnahmenaufgaben;
 * Die **Aktualisierung**, die **Qualität** und die **Verfügbarkeit** der Risikodaten sicherstellen.<br>
 
-![Zusammenfassungskachel der Risiken](<../../.gitbook/assets/Capture d'écran 2022-03-15 140621.png>)
+## Ein Risiko zuordnen
 
-## Ein Risiko zuordnen&#x20;
-
-In Dastra kann ein Risiko **einem oder mehreren Objekten** zugeordnet werden, darunter die folgenden Elemente: &#x20;
+In Dastra kann ein Risiko **einem oder mehreren Objekten** zugeordnet werden, darunter die folgenden Elemente:
 
 * Organisationseinheit
 * Verarbeitung personenbezogener Daten
 * Akteur oder Auftragsverarbeiter
-* Asset&#x20;
+* Asset
 
 <figure><img src="../../.gitbook/assets/image-282.png" alt=""><figcaption><p>Beispiel einer konsolidierten Risikovisualisierung</p></figcaption></figure>
 
@@ -46,4 +44,3 @@ In Dastra kann ein Risiko **einem oder mehreren Objekten** zugeordnet werden, da
 {% content-ref url="risques.md" %}
 [risques.md](risques.md)
 {% endcontent-ref %}
-

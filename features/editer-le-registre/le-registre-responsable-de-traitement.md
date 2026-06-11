@@ -2,7 +2,7 @@
 description: Erfahren Sie, wie Sie das Verzeichnis "Verantwortlicher" in Dastra verwenden.
 ---
 
-# Verzeichnis "Verantwortlicher"
+# Verzeichnis „Verantwortlicher"
 
 ## Einführung
 
@@ -19,7 +19,7 @@ Der Rest dieser Seite behandelt ausschließlich das Verzeichnis "Verantwortliche
 
 Für jede Verarbeitung enthält das Verzeichnis eines Verantwortlichen mindestens:
 
-1. gegebenenfalls **den Namen und die Kontaktdaten** des [gemeinsamen Verantwortlichen](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article26) der durchgeführten Verarbeitung
+1. gegebenenfalls **den Namen und die Kontaktdaten** des [gemeinsamen Verantwortlichen](https://dsgvo-gesetz.de/art-26-dsgvo/) der durchgeführten Verarbeitung
 2. die **Verarbeitungszwecke**, das Ziel, für das Sie diese Daten erhoben haben
 3. die Kategorien **betroffener Personen** (Kunde, Interessent, Mitarbeiter usw.)
 4. die Kategorien **personenbezogener Daten** (Beispiele: Identität, Familiensituation, wirtschaftliche oder finanzielle Situation, Bankdaten, Verbindungsdaten, Standortdaten usw.)
@@ -28,9 +28,9 @@ Für jede Verarbeitung enthält das Verzeichnis eines Verantwortlichen mindesten
 7. die **vorgesehenen Löschfristen** für die verschiedenen Datenkategorien, d. h. die Speicherdauer, oder andernfalls die Kriterien zu deren Bestimmung
 8. soweit möglich, eine **allgemeine Beschreibung der technischen und organisatorischen Sicherheitsmaßnahmen**, die Sie umsetzen
 
-![Die verschiedenen Abschnitte einer Verarbeitung "Verantwortlicher" in Dastra](<../../.gitbook/assets/image-194.png>)
+![Die verschiedenen Abschnitte einer Verarbeitung "Verantwortlicher" in Dastra](<../../.gitbook/assets/Abschnitte einer Verarbeitung Verantwortlicher.png>)
 
-### Die Stakeholder&#x20;
+### Die Stakeholder
 
 * Die Identität und Kontaktdaten des Verantwortlichen
 * Die Identität und Kontaktdaten des Datenschutzbeauftragten, falls zutreffend
@@ -43,39 +43,37 @@ Für jede Verarbeitung enthält das Verzeichnis eines Verantwortlichen mindesten
 
 ### Die Rechtsgrundlage
 
-* Erfüllung einer rechtlichen Verpflichtung&#x20;
+* Erfüllung einer rechtlichen Verpflichtung
 * Erfüllung eines Vertrags
 * Berechtigte Interessen des Verantwortlichen oder eines Dritten
 * Öffentliches Interesse
-* Einwilligung&#x20;
+* Einwilligung
 * Schutz lebenswichtiger Interessen der betroffenen Person oder einer anderen Person
 
 ### Das Dateninventar und die betroffenen Personen
 
 * Art der betroffenen Personen
-* Datenkategorien&#x20;
+* Datenkategorien
 * Löschfristen oder anwendbare Regeln
 
-### Die Empfänger und Datenübermittlungen außerhalb des EWR&#x20;
+### Die Empfänger und Datenübermittlungen außerhalb des EWR
 
-* &#x20;Identifizierung der Empfänger, einschließlich interner Empfänger (von der Verarbeitung betroffene Abteilung); externer Organisationen (Geschäfts- oder institutionelle Partner); Auftragsverarbeiter (Hosting-Anbieter, Lösungsanbieter); gegebenenfalls die betroffene Person selbst und gemeinsame Verantwortliche&#x20;
+* Identifizierung der Empfänger, einschließlich interner Empfänger (von der Verarbeitung betroffene Abteilung); externer Organisationen (Geschäfts- oder institutionelle Partner); Auftragsverarbeiter (Hosting-Anbieter, Lösungsanbieter); gegebenenfalls die betroffene Person selbst und gemeinsame Verantwortliche
 * Für jeden Empfänger die Identifizierung der Übermittlungen außerhalb des Europäischen Wirtschaftsraums (EWR) und die verwendeten Rechtsgrundlagen (Verbindliche interne Datenschutzvorschriften bei Übermittlungen außerhalb der EU mit Tochtergesellschaften, Standardvertragsklauseln, als angemessen anerkannte Länder...)
 
 ### Die Sicherheitsmaßnahmen
 
-* Technische und organisatorische Maßnahmen zur Absicherung jeder Datenverarbeitung&#x20;
-*   Zum Beispiel Datenverschlüsselung, Pseudonymisierung, Zugriffsbeschränkung\
-    \
-    <br>
-
-    ***
+* Technische und organisatorische Maßnahmen zur Absicherung jeder Datenverarbeitung
+* Zum Beispiel Datenverschlüsselung, Pseudonymisierung, Zugriffsbeschränkung\
+  \
+  <br>
 
 {% hint style="info" %}
 Es ist möglich, eine als Verantwortlicher erstellte Verarbeitung in eine als Auftragsverarbeiter erstellte Verarbeitung umzuwandeln und umgekehrt.\
 [Die Vorgehensweise ist hier verfügbar](https://doc.dastra.eu/features/editer-le-registre/questions-frequentes#comment-changer-de-type-de-traitement-passer-dun-traitement-creer-en-tant-que-responsable-de-traitem)
 {% endhint %}
 
-## Weiterführende Informationen&#x20;
+## Weiterführende Informationen
 
 {% content-ref url="gerer-votre-registre.md" %}
 [gerer-votre-registre.md](gerer-votre-registre.md)

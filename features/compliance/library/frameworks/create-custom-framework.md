@@ -1,10 +1,11 @@
 ---
 description: >-
   Dastra ermöglicht es Ihnen, Ihren eigenen regulatorischen Referenzrahmen zu
-  erstellen und ihn mithilfe künstlicher Intelligenz an Ihre Bedürfnisse anzupassen
+  erstellen und ihn mithilfe künstlicher Intelligenz an Ihre Bedürfnisse
+  anzupassen
 ---
 
-# Erstellung eines benutzerdefinierten Frameworks
+# Benutzerdefiniertes Framework erstellen
 
 #### Einführung
 
@@ -20,7 +21,7 @@ Ein benutzerdefiniertes Framework kann:
 ### Schritt 1 – Erstellung des Frameworks
 
 {% columns %}
-{% column %}
+{% column width="50%" %}
 Bei der Erstellung eines benutzerdefinierten Frameworks legt der Nutzer fest:
 
 * **Den Namen des Frameworks** (z. B. _Custom KI_, _PSSI-KI – Demo_)
@@ -29,8 +30,10 @@ Bei der Erstellung eines benutzerdefinierten Frameworks legt der Nutzer fest:
 Nach der Erstellung wird das Framework der Bibliothek im Status **Entwurf** hinzugefügt.
 {% endcolumn %}
 
-{% column %}
-<figure><img src="../../../../.gitbook/assets/image-448.png" alt=""><figcaption></figcaption></figure>
+{% column width="50%" %}
+<figure><img src="../../../../.gitbook/assets/Compliance8.png" alt=""><figcaption></figcaption></figure>
+
+### ![](../../../../.gitbook/assets/Compliance9.png)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -70,9 +73,7 @@ Im Bearbeitungsmodus kann der Nutzer:
 {% endcolumn %}
 
 {% column %}
-
-<figure><img src="../../../../.gitbook/assets/image-449.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../../../.gitbook/assets/Compliance10.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -89,7 +90,7 @@ Dieser Schritt ermöglicht es, einen regulatorischen, normativen oder internen R
 
 {% columns %}
 {% column %}
-<figure><img src="../../../../.gitbook/assets/image-450.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Compliance11.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -117,8 +118,6 @@ Bei der Erstellung eines Kapitels:
 * **Referenz**: interne Kennung des Kapitels
 * **Name**: funktionale Bezeichnung des Kapitels
 
-&#x20;
-
 {% hint style="info" %}
 _Best Practice_: Verwenden Sie Kapitel zur Strukturierung nach großen Themen\
 (z. B. Governance, Sicherheit, Betrieb, Nutzung…).
@@ -135,7 +134,7 @@ Sie bilden die direkte Verbindung zwischen dem Referenzrahmen und den operativen
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../../.gitbook/assets/image-451.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Compliance12.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -154,7 +153,7 @@ Sie bilden die direkte Verbindung zwischen dem Referenzrahmen und den operativen
 
 {% columns %}
 {% column %}
-<figure><img src="../../../../.gitbook/assets/image-452.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Compliance13.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -163,7 +162,6 @@ Bei der Erstellung einer Anforderung bietet Dastra eine **KI-Unterstützung** an
 * dem Namen der Anforderung
 * dem übergeordneten Kapitel
 * dem Kontext des Frameworks
-
 {% endcolumn %}
 {% endcolumns %}
 
@@ -179,7 +177,7 @@ Der Nutzer kann die vorgeschlagene Referenz frei ändern.
 
 ### Organisation und Verwaltung der Anforderungen
 
-<figure><img src="../../../../.gitbook/assets/image-476.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Compliance14.png" alt=""><figcaption></figcaption></figure>
 
 Nach der Erstellung können die Anforderungen:
 
@@ -201,7 +199,7 @@ Für die Zuordnung von Kontrollen zu einer Anforderung gibt es zwei Ansätze.
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../../.gitbook/assets/image-453.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Compliance15.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -211,13 +209,11 @@ Für die Zuordnung von Kontrollen zu einer Anforderung gibt es zwei Ansätze.
 
 {% columns %}
 {% column %}
-
 Der Nutzer kann eine oder mehrere bereits in der Bibliothek vorhandene Kontrollen auswählen und der Anforderung zuordnen.
-
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../../.gitbook/assets/image-454.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Compliance16.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 

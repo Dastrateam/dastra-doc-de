@@ -6,7 +6,7 @@ description: Erfahren Sie, was Dastra ist.
 
 ## Einführung in Dastra
 
-**Dastra** ist eine umfassende Plattform für Compliance-Management und die Governance von Daten und Künstlicher Intelligenz.\
+**Dastra** ist eine umfassende Plattform für Compliance-Management und Governance von Daten und Künstlicher Intelligenz.\
 Sie ermöglicht es Datenschutz-, Rechts-, Technik- und Fachteams, **sämtliche Pflichten der DSGVO und der KI-Verordnung** in einer kollaborativen, ergonomischen und geführten Umgebung zu steuern.
 
 ***
@@ -35,7 +35,7 @@ Unser Ziel: **Compliance und Governance von Daten und KI einfach, nützlich und 
 > Bei Dastra sind wir der Überzeugung, dass Compliance nicht nur eine regulatorische Pflicht ist:\
 > Sie ist ein Hebel für **Transparenz, Vertrauen und verantwortungsvolle Innovation.**
 
-Weitere Informationen finden Sie in unserem [Manifesto](https://www.dastra.eu/fr/mission).
+Weitere Informationen finden Sie in unserer [Mission](https://www.dastra.eu/de/mission).
 
 ***
 
@@ -50,7 +50,7 @@ Erstellen und pflegen Sie Ihr **Verarbeitungsverzeichnis** mithilfe von:
 * konfigurierbaren Fragebögen und Vorlagen,
 * automatischen Exporten (Excel, JSON, PDF).
 
-<figure><img src="https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2FWXgKYDZQ3FSAIy8cacj2%2Fimage.png?alt=media" alt=""><figcaption><p>Modul Verarbeitungsverzeichnis</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Verarbeitungstätigkeiten.jpg" alt=""><figcaption><p>Modul Verarbeitungsverzeichnis</p></figcaption></figure>
 
 ***
 
@@ -59,7 +59,7 @@ Erstellen und pflegen Sie Ihr **Verarbeitungsverzeichnis** mithilfe von:
 Identifizieren, bewerten und priorisieren Sie Risiken im Zusammenhang mit Datenverarbeitungen oder KI-Systemen.\
 Führen Sie interne, externe oder automatisierte Audits durch und verfolgen Sie die zugehörigen Maßnahmenpläne.
 
-<figure><img src="https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2FQqByGKHiKZnpWaQlZQ1N%2Fimage.png?alt=media" alt=""><figcaption><p>Modul Risikomanagement und Audits</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Modul Risikomanagement und Audits.jpg" alt=""><figcaption><p>Modul Risikomanagement und Audits</p></figcaption></figure>
 
 ***
 
@@ -71,7 +71,7 @@ Implementieren Sie die regulatorischen Prozesse:
 * **Datenschutzvorfälle**: Erfassung, Qualifizierung, Meldung an die Aufsichtsbehörde,
 * **Cookie-Einwilligung**: Konfigurierbares Banner, Einwilligungsnachweis, TCF-Konformität.
 
-<figure><img src="https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2FZGuiJyC2vsyDE5hHihqN%2Fimage.png?alt=media" alt=""><figcaption><p>Modul Betroffenenrechte</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Modul Betroffenenrechte.jpg" alt=""><figcaption><p>Modul Betroffenenrechte</p></figcaption></figure>
 
 ***
 
@@ -86,12 +86,12 @@ Dieses Verzeichnis ermöglicht es Ihnen:
 * **Die fortlaufende Compliance** der Modelle durch regelmäßige Audits und Maßnahmenpläne sicherzustellen.
 * **KI und Datenverarbeitungen zu verknüpfen**: Einheitliche DSGVO-/KI-Verordnung-Kartierung.
 
-<figure><img src=".gitbook/assets/image-11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Modul Verzeichnis der KI-Systeme.jpg" alt=""><figcaption><p>Modul Verzeichnis der KI-Systeme</p></figcaption></figure>
 
-<figure><img src="https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2Fplaceholder-ai-register.png?alt=media" alt=""><figcaption><p>Modul Verzeichnis der KI-Systeme</p></figcaption></figure>
+<figure><img src="https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2Fplaceholder-ai-register.png?alt=media" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Dastra unterstützt Sie dabei, die Compliance mit der **KI-Verordnung** vorausschauend umzusetzen, indem die geforderte Dokumentation zentralisiert wird (Systemdatenblätter, Protokolle, Risikobewertungen, Nutzungshinweise, Bias-Kontrollen usw.).&#x20;
+Dastra unterstützt Sie dabei, die Compliance mit der **KI-Verordnung** vorausschauend umzusetzen, indem die geforderte Dokumentation zentralisiert wird (Systemdatenblätter, Protokolle, Risikobewertungen, Nutzungshinweise, Bias-Kontrollen usw.).
 {% endhint %}
 
 ***
@@ -101,7 +101,7 @@ Dastra unterstützt Sie dabei, die Compliance mit der **KI-Verordnung** voraussc
 Erstellen Sie Compliance-Maßnahmenpläne, weisen Sie Aufgaben zu, setzen Sie Fristen und verfolgen Sie den Fortschritt.\
 Visualisieren Sie die Abhängigkeiten zwischen Verarbeitungen, KI-Systemen und Korrekturmaßnahmen.
 
-<figure><img src="https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2FirsRP5lhUtu66JPBaLUU%2Fimage.png?alt=media" alt=""><figcaption><p>Modul Aufgaben- und Maßnahmenverwaltung</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Modul Kanban-Board.jpg" alt=""><figcaption><p>Modul Kanban-Board</p></figcaption></figure>
 
 ***
 
@@ -122,7 +122,7 @@ Jede Datei kann einer Verarbeitung, einem Risiko, einer Aufgabe oder einem KI-Sy
 
 #### 📊 8. **Compliance analysieren und steuern**
 
-Erstellen Sie maßgeschneiderte Berichte: DSGVO-Fortschritt, KI-Governance, Risiken, Maßnahmenpläne, Audits.\
+Erstellen Sie indivuduelle Berichte: DSGVO-Fortschritt, KI-Governance, Risiken, Maßnahmenpläne, Audits.\
 Dynamische Dashboards, Filter und Exporte (PDF, Excel, CSV).
 
 ***

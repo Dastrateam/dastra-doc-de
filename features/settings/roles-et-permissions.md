@@ -8,10 +8,10 @@ description: >-
 
 ## Allgemeine Funktionsweise
 
-Jeder Nutzer kann einer oder mehreren Rollen zugeordnet werden. Die Rollen sind ihrerseits mit einer Liste von Berechtigungen verknüpft (z. B.: im Verzeichnis schreiben, einen Fragebogen erstellen...). Es gibt zwei Möglichkeiten, die den Nutzern zugeordneten Rollen zu verwalten.&#x20;
+Jeder Nutzer kann einer oder mehreren Rollen zugeordnet werden. Die Rollen sind ihrerseits mit einer Liste von Berechtigungen verknüpft (z. B.: im Verzeichnis schreiben, einen Fragebogen erstellen...). Es gibt zwei Möglichkeiten, die den Nutzern zugeordneten Rollen zu verwalten.
 
 * Wenn Sie Inhaber sind, können Sie [diese Kontoverwaltungsoberfläche](https://app.dastra.eu/general-settings/users) verwenden
-* Wenn Sie die Rolle eines Mandanten-Administrators haben, können Sie die Rollen und Berechtigungen der Nutzer Ihres Mandanten über [diese Oberfläche](https://app.dastra.eu/workspace/573/settings/users) verwalten.&#x20;
+* Wenn Sie die Rolle eines Mandanten-Administrators haben, können Sie die Rollen und Berechtigungen der Nutzer Ihres Mandanten über [diese Oberfläche](https://app.dastra.eu/workspace/573/settings/users) verwalten.
 
 ## Erstellen Sie Ihre eigenen Rollen
 
@@ -19,11 +19,11 @@ Um Ihre eigenen Rollen mit zugehörigen Berechtigungen zu erstellen, gehen Sie a
 
 Sie können eine neue benutzerdefinierte Rolle erstellen, indem Sie auf die Schaltfläche „Rolle hinzufügen" klicken
 
-<figure><img src="../../.gitbook/assets/image-284.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Erweiterte Konfiguration.png" alt=""><figcaption></figcaption></figure>
 
 Es ist dann möglich, die den Berechtigungen zugeordneten Kontrollkästchen auszuwählen:
 
-<figure><img src="../../.gitbook/assets/screenshot-2025-11-24-153151.png" alt=""><figcaption><p>Erstellung einer Aufgabenverwaltungsrolle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rollen.png" alt=""><figcaption><p>Erstellung einer Aufgabenverwaltungsrolle</p></figcaption></figure>
 
 <br>
 

@@ -4,7 +4,7 @@ Sie können Ihr bestehendes Verzeichnis ganz einfach direkt in Dastra hochladen.
 
 Gehen Sie dazu zur Listenansicht mit dem Titel „KI-Systeme". Öffnen Sie oben rechts das Dropdown-Menü neben der Schaltfläche „Neues KI-System erstellen" und klicken Sie dann auf „Importieren". Eine neue Seite erscheint, auf der Sie unten Ihr bestehendes Verzeichnis hinzufügen können.
 
-<figure><img src="../../.gitbook/assets/screenshot-2024-05-21-174417.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KI-Register1.png" alt=""><figcaption></figcaption></figure>
 
 Wir empfehlen Ihnen, die Schritte auf der Seite [Ihre Daten importieren (Excel, CSV, JSON)](../generalites/importer-vos-donnees-excel-csv.md) für weitere Details zu befolgen.
 

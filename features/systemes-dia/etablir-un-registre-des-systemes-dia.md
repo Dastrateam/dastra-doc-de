@@ -11,7 +11,7 @@ Um ein KI-System hinzuzufügen, klicken Sie zunächst auf „Neues KI-System ers
 
 Sobald die Pflichtangaben gespeichert sind, werden Sie zu einem Formular mit 11 Schritten weitergeleitet. Dieses Formular ermöglicht es Ihnen, das KI-System so detailliert wie möglich zu dokumentieren.
 
-<figure><img src="../../.gitbook/assets/image-416.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KI-Register2.png" alt=""><figcaption></figcaption></figure>
 
 ## Die 11 Schritte des KI-System-Formulars
 

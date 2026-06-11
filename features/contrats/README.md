@@ -8,8 +8,8 @@ Das Modul **Verträge** von Dastra ist eine Funktion, die die Verwaltung und Nac
 
 ### Zugriff auf das Vertragsmodul
 
-Es ist erforderlich, ein Abonnement mit der Funktion "Verträge" zu besitzen, um auf das Modul zugreifen zu können. <br>
+Es ist erforderlich, ein Abonnement mit der Funktion "**Verträge und Richtlinien**" zu besitzen, um auf das Modul zugreifen zu können.<br>
 
 Wenn die Funktion in Ihrem Plan aktiv ist, können Sie auf das Modul zugreifen, indem Sie auf das Vertragssymbol in der Navigation klicken.
 
-<figure><img src="../../.gitbook/assets/image-318-1-1.png" alt=""><figcaption><p>Symbol des Moduls Verträge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Verträge und Richtlinien.png" alt=""><figcaption><p>Symbol des Moduls 'Verträge und Richtlinien'</p></figcaption></figure>

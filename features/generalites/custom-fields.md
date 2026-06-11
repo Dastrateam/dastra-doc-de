@@ -5,7 +5,6 @@ description: Dastra bietet Ihnen die Möglichkeit, Ihre Formulare unbegrenzt anz
 # Benutzerdefinierte Felder
 
 So verwenden Sie benutzerdefinierte Felder in Dastra
-{% endembed %}
 
 ## Wann sollten benutzerdefinierte Felder verwendet werden?
 
@@ -46,7 +45,7 @@ Sie können die folgenden Formulare anpassen:
 {% hint style="danger" %}
 #### Begrenzung der Feldanzahl
 
-Die Anzahl der benutzerdefinierten Felder ist je nach verwendetem Plan begrenzt. Bitte konsultieren Sie [die Preisseite der Anwendung](https://www.dastra.eu/fr/pricing) für weitere Informationen zu diesem Thema.
+Die Anzahl der benutzerdefinierten Felder ist je nach verwendetem Plan begrenzt. Bitte konsultieren Sie [die Preisseite der Anwendung](https://www.dastra.eu/de/pricing) für weitere Informationen zu diesem Thema.
 {% endhint %}
 
 ## Verfügbare Feldtypen

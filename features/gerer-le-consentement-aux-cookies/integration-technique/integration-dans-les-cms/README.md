@@ -1,16 +1,18 @@
 ---
 description: >-
-  Erfahren Sie, wie Sie das Dastra-Cookie-Widget mithilfe des JavaScript-SDK in eine
-  Webseite integrieren.
+  Erfahren Sie, wie Sie das Dastra-Cookie-Widget mithilfe des JavaScript-SDK in
+  eine Webseite integrieren.
 ---
 
 # Schnellstart
 
 ## Voraussetzung: Abruf eines öffentlichen API-Schlüssels
 
-Um einen öffentlichen Schlüssel des Dastra-SDK abzurufen, besuchen Sie diese Seite: [https://app.dastra.eu/general-settings/api](https://app.dastra.eu/general-settings/api)&#x20;
+Um einen öffentlichen Schlüssel des Dastra-SDK abzurufen, besuchen Sie diese Seite: [https://app.dastra.eu/general-settings/api](https://app.dastra.eu/general-settings/api)
 
-![](<../../../../.gitbook/assets/image-88.png>)
+![](../../../../.gitbook/assets/Cookie12.png)
+
+<figure><img src="../../../../.gitbook/assets/Cookie13.png" alt=""><figcaption></figcaption></figure>
 
 ## Konfigurieren Sie Ihr Widget
 

@@ -9,7 +9,7 @@ description: Erfahren Sie, was ein Verarbeitungsverzeichnis ist.
 Das **Verarbeitungsverzeichnis** ist die **strukturierte Kartierung aller Verarbeitungen personenbezogener Daten** innerhalb Ihrer Organisation.\
 Es stellt den **Ausgangspunkt jeder Kontrolle** durch eine Datenschutzaufsichtsbehörde (z. B.: CNIL) und ein **zentrales Instrument der Compliance-Governance** dar.
 
-> 🔗 Das Verarbeitungsverzeichnis ist in [Artikel 30 der DSGVO](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article30) vorgesehen.\
+> 🔗 Das Verarbeitungsverzeichnis ist in [Artikel 30 der DSGVO](https://dsgvo-gesetz.de/art-30-dsgvo/) vorgesehen.\
 > Es konkretisiert das Prinzip der **Accountability**, also der nachweisbaren Verantwortlichkeit.
 
 Es ermöglicht die genaue Identifizierung von:
@@ -22,7 +22,6 @@ Es ermöglicht die genaue Identifizierung von:
 * Den umgesetzten **Sicherheitsmaßnahmen**
 
 Wie Sie in den "Run"-Modus bei der Verwaltung der Verarbeitungsverzeichnisse wechseln
-{% endembed %}
 
 ***
 
@@ -56,7 +55,7 @@ KMU müssen dennoch in ihrem Verarbeitungsverzeichnis folgende Verarbeitungen ei
 * oder solche mit **sensiblen Daten** (Gesundheit, Straftaten, Meinungen).
 
 ➡️ In der Praxis sind **die meisten Unternehmen** betroffen.\
-Die CNIL empfiehlt, **in jedem Fall** ein Verarbeitungsverzeichnis zu erstellen.
+Die Aufsichtsbehörde empfiehlt, **in jedem Fall** ein Verarbeitungsverzeichnis zu erstellen.
 {% endhint %}
 
 ***

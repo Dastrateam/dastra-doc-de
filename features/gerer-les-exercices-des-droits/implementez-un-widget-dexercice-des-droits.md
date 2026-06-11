@@ -23,8 +23,6 @@ Es ist vollständig anpassbar und bietet:
 
 Hier ist das allgemeine Schema der Funktionsweise eines Widgets für Betroffenenanfragen in Dastra:
 
-![Schema des Prozesses zur Verwaltung von Betroffenenanfragen](../../.gitbook/assets/diapositive1.svg)
-
 Dieses Diagramm veranschaulicht den Prozess:
 
 1. Die betroffene Person reicht eine Anfrage über das Widget ein.
@@ -42,7 +40,9 @@ Bei der Erstellung eines Widgets legen Sie fest:
 * Die **verfügbaren Rechtstypen** (Auskunft, Berichtigung, Löschung usw.).
 * Die Weiterleitungslinks (Erfolg, Fehler, Datenschutzrichtlinie).
 
-<figure><img src="../../.gitbook/assets/widget-config.png" alt=""><figcaption><p>Konfiguration des Widgets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage20.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage21.png" alt=""><figcaption><p>Konfiguration des Widgets</p></figcaption></figure>
 
 ***
 
@@ -60,7 +60,7 @@ Verfügbare Optionen:
 * Anzeige des Fortschrittsbalkens.
 * Benutzerdefiniertes CSS (für "Experten")
 
-<figure><img src="../../.gitbook/assets/widget-apparence-fr.png" alt=""><figcaption><p>Passen Sie das Erscheinungsbild des Widgets an</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage22.png" alt=""><figcaption><p>Passen Sie das Erscheinungsbild des Widgets an</p></figcaption></figure>
 
 ***
 
@@ -72,7 +72,7 @@ Sie können die Felder auswählen, die im Formular erscheinen.
 * Sie können optionale Felder hinzufügen (Telefon, Adresse, Postleitzahl, Stadt, Land usw.).
 * Möglichkeit, eigene **benutzerdefinierte Felder** hinzuzufügen.
 
-<figure><img src="../../.gitbook/assets/widget-customization-field-config-fr.png" alt=""><figcaption><p>Passen Sie die verfügbaren Felder im Widget an</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage23.png" alt=""><figcaption><p>Passen Sie die verfügbaren Felder im Widget an</p></figcaption></figure>
 
 ***
 
@@ -101,7 +101,7 @@ Das Widget kann auf verschiedene Arten integriert werden:
 
 Der bereitgestellte Code ist ein HTML + JavaScript-Snippet, das auf Ihrer Website oder in einem Tag-Manager (z. B. Google Tag Manager) eingefügt werden kann.
 
-<figure><img src="../../.gitbook/assets/widget-installation-fr.png" alt=""><figcaption><p>Installationsanleitung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage24.png" alt=""><figcaption><p>Installationsanleitung</p></figcaption></figure>
 
 ***
 
@@ -110,7 +110,7 @@ Der bereitgestellte Code ist ein HTML + JavaScript-Snippet, das auf Ihrer Websit
 Das Widget ist mehrsprachig: Sie können mehrere Sprachen hinzufügen und die Übersetzungen anpassen.\
 Die erste Sprache in der Liste wird standardmäßig angezeigt.
 
-<figure><img src="../../.gitbook/assets/widget-langues.png" alt=""><figcaption><p>Anpassung der Widget-Texte</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage25.png" alt=""><figcaption><p>Anpassung der Widget-Texte</p></figcaption></figure>
 
 Für jede Sprache können Sie die angezeigten Texte ändern:
 
@@ -118,7 +118,7 @@ Für jede Sprache können Sie die angezeigten Texte ändern:
 * Texte vor den Links zur Datenschutzrichtlinie.
 * Schaltflächen- oder Anleitungstexte.
 
-<figure><img src="../../.gitbook/assets/widget-langues-surcharge-traduction.png" alt=""><figcaption><p>Ändern Sie einen Teil des Textes ganz einfach</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage26.png" alt=""><figcaption><p>Ändern Sie einen Teil des Textes ganz einfach</p></figcaption></figure>
 
 ***
 

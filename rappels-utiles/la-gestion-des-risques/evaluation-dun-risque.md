@@ -16,9 +16,9 @@ Wobei die **Wahrscheinlichkeit** die Eintrittshäufigkeit eines befürchteten Er
 
 und die **Auswirkung** die Schwere der Folgen und/oder die Tragweite der Konsequenzen dieses befürchteten Ereignisses ist.
 
-Die Auswirkung eines Risikos wird standardmäßig in 4 Kategorien eingeteilt:&#x20;
+Die Auswirkung eines Risikos wird standardmäßig in 4 Kategorien eingeteilt:
 
-* Katastrophal,&#x20;
+* Katastrophal,
 * Erheblich,
 * Mittel,
 * Gering.
@@ -50,13 +50,13 @@ Akzeptable Risiken werden in Dastra **grün** dargestellt.
 
 ## Bruttorisiko vs. Nettorisiko (oder Restrisiko)
 
-Ein "**Brutto**"-Risiko wird ohne die Gesamtheit der Kontroll- und Steuerungsmaßnahmen betrachtet – Organisation, diverse Kontrollen, Dokumentation usw.&#x20;
+Ein "**Brutto**"-Risiko wird ohne die Gesamtheit der Kontroll- und Steuerungsmaßnahmen betrachtet – Organisation, diverse Kontrollen, Dokumentation usw.
 
 Ein "**Netto**"-Risiko (oder Restrisiko) wird hingegen unter Berücksichtigung aller bereits vorhandenen und wirksamen Maßnahmen bewertet.
 
 ## Visualisierung eines Risikos
 
-![Beispiel für die Visualisierung von Risiken in Dastra.](<../../.gitbook/assets/image-198.png>)
+![Beispiel für die Visualisierung von Risiken in Dastra.](<../../.gitbook/assets/Beispiel für die Visualisierung von Risiken in Dastra..png>)
 
 Weiterführende Informationen
 

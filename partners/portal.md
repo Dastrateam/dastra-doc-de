@@ -1,18 +1,18 @@
-# Partnerbereich
+# Partnerportal
 
-Als Partner haben Sie Zugang zu einem Partnerbereich.&#x20;
+Als Partner haben Sie Zugang zu einem Partnerportal.
 
-Dieser Bereich ermöglicht Ihnen:&#x20;
+Dieses Portal ermöglicht Ihnen:
 
 * alle Ihre Kunden einzusehen
 * bei Dastra die Aufnahme eines neuen Kunden zu beantragen
 
-Darüber hinaus können Sie, wenn Sie Zugang zur Organisation Ihres Kunden haben, direkt vom Partnerbereich aus darauf zugreifen.&#x20;
+Darüber hinaus können Sie, wenn Sie Zugang zur Organisation Ihres Kunden haben, direkt vom Partnerportal aus darauf zugreifen.
 
-## Zugang zum Partnerbereich
+## Zugang zum Partnerportal
 
-Um auf den Partnerbereich zuzugreifen, müssen Sie zu Ihrer Partnerorganisation navigieren und dann einfach oben rechts auf Ihren Namen klicken und "Partnerbereich anzeigen" auswählen.&#x20;
+Um auf das Partnerportal zuzugreifen, müssen Sie zu Ihrer Partnerorganisation navigieren und dann einfach oben rechts auf Ihren Namen klicken und "Partnerportal anzeigen" auswählen.
 
 {% hint style="info" %}
-Voraussetzung: Sie müssen die Rolle des Eigentümers der Partnerorganisation innehaben, um diesen Bereich anzeigen zu können.&#x20;
+Voraussetzung: Sie müssen die Rolle des Eigentümers der Partnerorganisation innehaben, um diesen Bereich anzeigen zu können.
 {% endhint %}

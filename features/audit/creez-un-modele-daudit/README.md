@@ -1,40 +1,42 @@
 ---
-description: Erfahren Sie, wie Sie eine Fragebogenvorlage in Dastra erstellen und bearbeiten.
+description: >-
+  Erfahren Sie, wie Sie eine Fragebogenvorlage in Dastra erstellen und
+  bearbeiten.
 ---
 
-# Eine Fragebogenvorlage erstellen oder bearbeiten
+# Eine Fragebogenvorlage erstellen
 
 ## Einführung
 
-Das Erstellen oder Bearbeiten einer Fragebogenvorlage in Dastra ist kinderleicht. Navigieren Sie dazu zur Funktion "Fragebögen".
+Das Erstellen oder Bearbeiten einer Fragebogenvorlage in Dastra ist kinderleicht. Navigieren Sie dazu zur Funktion "**Fragebögen**".
 
 ## Eine Fragebogenvorlage erstellen oder bearbeiten
 
-Um eine Fragebogenvorlage zu erstellen, klicken Sie auf die Schaltfläche "Vorlage erstellen" in der Registerkarte "Fragebögen". Anschließend können Sie einen der in Dastra verfügbaren Vorlagentypen auswählen: automatisierter Fragebogen, benutzerdefinierter Fragebogen oder aus einer Datei importiert.
+Um eine Fragebogenvorlage zu erstellen, klicken Sie auf die Schaltfläche "**Vorlage erstellen**" in der Registerkarte "**Fragebögen**". Anschließend können Sie einen der in Dastra verfügbaren Vorlagentypen auswählen: automatisierter Fragebogen, benutzerdefinierter Fragebogen oder aus einer Datei importiert.
 
-<figure><img src="../../../.gitbook/assets/image-16-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Vorlage erstellen.png" alt=""><figcaption></figcaption></figure>
 
 Sie gelangen zur Auswahlansicht der Vorlagentypen:
 
-![Auswahl der Vorlagentypen](<../../../.gitbook/assets/image-138.png>)
+![Auswahl der Vorlagentypen](<../../../.gitbook/assets/Vorlage erstellen1.png>)
 
-* Durch Klicken auf die Registerkarte "**Automatisierter Fragebogen**" wählen Sie eine vordefinierte Fragebogenvorlage aus der Dastra-Bibliothek aus.
-* Durch Klicken auf "**Benutzerdefinierter Fragebogen**" können Sie Ihre eigene Fragebogenvorlage erstellen.
+* Durch Klicken auf die Registerkarte "**Basierend auf einer Vorlage**" wählen Sie eine vordefinierte Fragebogenvorlage aus der Dastra-Bibliothek aus.
+* Durch Klicken auf "**Von Grund auf neu**" können Sie Ihre eigene Fragebogenvorlage erstellen.
 
 {% hint style="info" %}
-Im Gegensatz zu automatisierten Fragebögen sind benutzerdefinierte Fragebögen vollständig anpassbar. Abhängig von den Antworten der Befragten können Sie automatisch einen Maßnahmenplan generieren oder die mit der Vorlage verbundenen Risiken kartieren.
+Im Gegensatz zu Fragebögen n welche auf einer Vorlage basieren, sind benutzerdefinierte Fragebögen vollständig anpassbar. Abhängig von den Antworten der Befragten können Sie automatisch einen Maßnahmenplan generieren oder die mit der Vorlage verbundenen Risiken kartieren.
 {% endhint %}
 
 ## Automatisierte Fragebogenvorlagen
 
 Dastra bietet zahlreiche automatisierte Fragebogenvorlagen zur Dokumentation der Compliance und zur Steuerung von Prozessen. Diese Vorlagen umfassen unter anderem DSFA/PIA, TIA, LIA, Fragebögen für Auftragsverarbeiter und vieles mehr.
 
-![Schaltfläche zur Bibliotheksauswahl](<../../../.gitbook/assets/capture-web-6-5-2022-103438-app-dastra-eu.jpeg>)
+![Schaltfläche zur Bibliotheksauswahl](<../../../.gitbook/assets/Vorlage erstellen2.png>)
 
 Sobald die Vorlage ausgewählt ist, gelangen Sie zum Planungsbildschirm, auf dem Sie:
 
-* entweder **die Vorlage bearbeiten** können, indem Sie auf die Schaltfläche "Vorlage bearbeiten" klicken
-* oder einen Fragebogen planen können, indem Sie auf die Schaltfläche "Fragebogen planen" klicken
+* entweder **die Vorlage bearbeiten** können, indem Sie auf die Schaltfläche "**Vorlage bearbeiten**" klicken
+* oder einen Fragebogen planen können, indem Sie auf die Schaltfläche "**Fragebogen planen**" klicken
 
 {% hint style="info" %}
 Bestimmte Fragebogentypen (DSFA, TIA, LIA) können auch direkt von einer Verarbeitung aus gestartet werden — beispielsweise über die Registerkarten "Folgenabschätzung", "Empfänger" oder "Zwecke". Weitere Details finden Sie auf den entsprechenden Seiten unten.
@@ -42,17 +44,17 @@ Bestimmte Fragebogentypen (DSFA, TIA, LIA) können auch direkt von einer Verarbe
 
 ## Benutzerdefinierte Fragebogenvorlagen
 
-In Dastra ist es möglich, Ihre eigene benutzerdefinierte Fragebogenvorlage zu erstellen. Klicken Sie dazu auf die Option "Benutzerdefinierter Fragebogen". Sie gelangen dann zur Bearbeitungsoberfläche für Fragebogenvorlagen.
+In Dastra ist es möglich, Ihre eigene benutzerdefinierte Fragebogenvorlage zu erstellen. Klicken Sie dazu auf "**Vorlage erstellen**" und anschließend die Option "**Von Grund auf neu**". Sie gelangen dann zur Bearbeitungsoberfläche für Fragebogenvorlagen.
 
-Erstellen Sie die gewünschte Fragebogenvorlage und klicken Sie auf "Speichern und fortfahren".
+Erstellen Sie die gewünschte Fragebogenvorlage und klicken Sie auf "**Anlegen**".
 
-![Beispiel einer anpassbaren Fragebogenvorlage.](<../../../.gitbook/assets/capture-web-6-5-2022-103818-app-dastra-eu.jpeg>)
+![Beispiel einer anpassbaren Fragebogenvorlage.](<../../../.gitbook/assets/asdasd (1).png>)
 
 ### Bewertete Elemente
 
 Sie können Fragebögen mit Elementen in Dastra verknüpfen. Durch die Auswahl des Typs des bewerteten Elements erzwingen Sie, dass alle auf dieser Vorlage basierenden Antworten mit einem Objekt des gewählten Typs verknüpft werden. Beispielsweise können Sie festlegen, dass diese Fragebogenvorlage immer mit einer Verarbeitung verknüpft wird.
 
-<figure><img src="../../../.gitbook/assets/image-267.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Vorlage erstellen4.png" alt=""><figcaption></figcaption></figure>
 
 Sie können auch entscheiden, einen Fragebogen nicht mit einem bestimmten Objekt zu verknüpfen. In diesem Fall wird die Antwort immer mit einer Organisationseinheit verknüpft. Dies kann beispielsweise bei globalen Compliance-Fragebögen der Fall sein.
 
@@ -60,7 +62,7 @@ Sie können auch entscheiden, einen Fragebogen nicht mit einem bestimmten Objekt
 
 Bei der Erstellung einer benutzerdefinierten Vorlage müssen Sie einen Vorlagentyp auswählen.
 
-<figure><img src="../../../.gitbook/assets/image-262.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Vorlage erstellen3.png" alt=""><figcaption></figcaption></figure>
 
 Diese Typen ermöglichen eine gewisse Anpassung der Fragebogenvorlagen.
 

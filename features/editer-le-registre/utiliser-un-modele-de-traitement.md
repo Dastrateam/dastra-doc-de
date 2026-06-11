@@ -6,17 +6,17 @@ Verarbeitungsvorlagen ermöglichen eine Zeitersparnis bei der Erfassung gängige
 
 ## Verarbeitung aus einer Vorlage erstellen
 
-Gehen Sie zu "Datenverarbeitung erstellen"
+Gehen Sie zu "**Erstellen Sie eine Datenverarbeitung**"
 
-<figure><img src="../../.gitbook/assets/image-12-2-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/datenverarbeitung erstellen.png" alt=""><figcaption></figcaption></figure>
 
-und wählen Sie "Vordefinierte Vorlage"
+und wählen Sie "**Basierend auf einer Vorlage**"
 
-<figure><img src="../../.gitbook/assets/image-17-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/datenverarbeitung erstellen2.png" alt=""><figcaption></figcaption></figure>
 
 Anschließend können Sie über die Suchleiste nach Verarbeitungsvorlagen suchen.
 
-<figure><img src="../../.gitbook/assets/image-33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/datenverarbeitung erstellen3.png" alt=""><figcaption></figcaption></figure>
 
 Die **Tags** ermöglichen es Ihnen, die Vorlagen nach Branchen zu filtern.
 
@@ -24,25 +24,25 @@ Die **Sprache** ermöglicht es Ihnen, Verarbeitungsvorlagen in anderen Sprachen 
 
 Um **den Inhalt der Vorlage** vor dem Import zu sehen, können Sie auf das Auge oben rechts auf der Vorlage klicken.
 
-<figure><img src="../../.gitbook/assets/image-3-1-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/datenverarbeitung erstellen4.png" alt=""><figcaption></figcaption></figure>
 
 ## Eine Verarbeitungsvorlage vorschlagen
 
-Wenn Sie keine Vorlage finden, können Sie uns die Erstellung einer neuen vorschlagen.
+Wenn Sie keine Vorlage finden, können Sie uns die Erstellung einer neuen vorschlagen oder eine mit KI erstellen lassen.
 
-<figure><img src="../../.gitbook/assets/image-44-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/datenverarbeitung erstellen5.png" alt=""><figcaption></figcaption></figure>
 
 ## Verarbeitungsvorlagen massenweise erstellen
 
 Sie können mehrere Verarbeitungsvorlagen auswählen und sie in einem Schritt importieren, indem Sie die Bibliothek nutzen.
 
-Gehen Sie zu den Optionen der Schaltfläche "Datenverarbeitung erstellen" und dann "Aus der Bibliothek erstellen"
+Gehen Sie zu den Optionen der Schaltfläche "**Erstellen Sie eine Datenverarbeitung**" und dann "**Erstellen Sie auf der Grundlage von Vorlagen**"
 
-<figure><img src="../../.gitbook/assets/image-40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/datenverarbeitung erstellen6.png" alt=""><figcaption></figcaption></figure>
 
-Wählen Sie eine oder mehrere Vorlagen, wählen Sie eine Organisationseinheit und klicken Sie auf "Hinzufügen"
+Wählen Sie eine oder mehrere Vorlagen, wählen Sie eine Organisationseinheit und klicken Sie auf "**Hinzufügen**"
 
-<figure><img src="../../.gitbook/assets/image-13-1-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/datenverarbeitung erstellen7.png" alt=""><figcaption></figcaption></figure>
 
 Die Schaltfläche "**Details**" ermöglicht eine Vorschau der Vorlage.
 

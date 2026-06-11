@@ -68,11 +68,11 @@ Dieser Leitfaden stellt drei Integrationsmodelle vor (vom einfachsten bis zum ro
 
 ### 🔹 Die richtige Vorgehensweise wählen
 
-| **Szenario**                                              | **Empfohlener Ansatz**    |
-| --------------------------------------------------------- | ------------------------- |
-| Proof of Concept, kleine Datensätze                       | Zapier (Webhooks + APIs)  |
-| Mittlere Workflows, moderate Komplexität                  | Zapier + Microservice     |
-| Großflächige Deployments, stark reguliert                  | Direkte API-Integration   |
+| **Szenario**                              | **Empfohlener Ansatz**   |
+| ----------------------------------------- | ------------------------ |
+| Proof of Concept, kleine Datensätze       | Zapier (Webhooks + APIs) |
+| Mittlere Workflows, moderate Komplexität  | Zapier + Microservice    |
+| Großflächige Deployments, stark reguliert | Direkte API-Integration  |
 
 ***
 
@@ -157,4 +157,4 @@ Hier einige häufige Szenarien, ihre Ziele und die zu verwendenden **Dastra-Endp
 * **Direkte API-Integrationen** = Robustheit und Skalierbarkeit für große Organisationen.
 * Mit diesen Modellen kann sich Dastra nahtlos in IT-, Daten- und Business-Ökosysteme integrieren.
 
-[Kontaktieren Sie uns](https://www.dastra.eu/fr/contacts/demo) für weitere Informationen.
+[Kontaktieren Sie uns](https://www.dastra.eu/de/contacts/demo) für weitere Informationen.

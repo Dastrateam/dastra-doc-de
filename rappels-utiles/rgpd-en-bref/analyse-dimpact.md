@@ -6,7 +6,7 @@ description: Erfahren Sie, was eine Datenschutz-Folgenabschätzung ist.
 
 ### 📖 Was ist eine DSFA?
 
-Die **Datenschutz-Folgenabschätzung (DSFA)**, vorgesehen durch [Artikel 35 der DSGVO](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article35), ist ein **Compliance-Mechanismus**, der darauf abzielt:
+Die **Datenschutz-Folgenabschätzung (DSFA)**, vorgesehen durch [Artikel 35 der DSGVO](https://dsgvo-gesetz.de/art-35-dsgvo/), ist ein **Compliance-Mechanismus**, der darauf abzielt:
 
 * **Risiken** für die Rechte und Freiheiten der betroffenen Personen **zu identifizieren und zu minimieren**,
 * Die **Compliance** mit der DSGVO **nachzuweisen**,
@@ -14,7 +14,7 @@ Die **Datenschutz-Folgenabschätzung (DSFA)**, vorgesehen durch [Artikel 35 der 
 
 > ⚖️ Die DSFA bezieht sich auf die **Risiken für die Personen**, nicht auf die Risiken für die Organisation.
 
-**DSFA = DPIA = PIA = Privacy Impact Assessment = AIPD = EIVP**
+**DSFA = DPIA = PIA = Privacy Impact Assessment = Datenschutz-Folgenabschätzung**
 
 ***
 
@@ -56,7 +56,7 @@ Eine DSFA ist **verpflichtend**, wenn eine Verarbeitung ein **hohes Risiko** fü
 * Einsatz von Biometrie oder KI für personenbezogene Daten.
 
 {% hint style="info" %}
-Verarbeitungen, die mindestens **2 der folgenden Kriterien** (EDPB) aufweisen, gelten als mit hohem Risiko behaftet:
+Verarbeitungen, die mindestens **2 der folgenden Kriterien** (EDSA) aufweisen, gelten als mit hohem Risiko behaftet:
 
 * Bewertung oder Scoring,
 * Automatisierte Entscheidungsfindung mit rechtlicher Wirkung,
@@ -83,7 +83,7 @@ Sie muss außerdem:
 * **Bei wesentlichen Änderungen** der Verarbeitung **überarbeitet werden**,
 * In Dastra **mit Ihrem Verarbeitungsverzeichnis verknüpft werden** für eine kontinuierliche Überwachung.
 
-![Ein iterativer Prozess](https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LvBxs22wUMicv9uWp6C%2F-MhI-vvGMYAjSpi9Gdmd%2F-MhI2gnfh_tui7vgUFpG%2Fimage.png?alt=media\&token=5fe8ef16-b671-435f-8202-e5ce62ee184b)
+![Ein iterativer Prozess](<../../.gitbook/assets/Ein iterativer Prozess.png>)
 
 > 🔁 Die DSFA ist ein **iterativer Prozess**: Sie begleitet den gesamten Lebenszyklus der Verarbeitung.
 
@@ -125,14 +125,14 @@ Für jedes **befürchtete Ereignis**:
 
 ### 🧠 Wer sollte einbezogen werden?
 
-| Stakeholder                   | Rolle in der DSFA                                                         |
-| ----------------------------- | ------------------------------------------------------------------------- |
-| **Verantwortlicher**          | Trägt die Verantwortung für die DSFA und steuert deren Durchführung       |
-| **Datenschutzbeauftragter**   | Berät, validiert die Methodik und bewertet die Restrisiken                |
-| **CISO / IT-Leitung**         | Bringt die technische Expertise und Sicherheitsmaßnahmen ein              |
-| **Fachabteilungen**           | Liefern die operativen Details der Verarbeitung                           |
-| **Auftragsverarbeiter**       | Übermitteln die für die Bewertung erforderlichen Informationen            |
-| **Betroffene Personen**       | Können in bestimmten Fällen konsultiert oder vertreten werden             |
+| Stakeholder                 | Rolle in der DSFA                                                   |
+| --------------------------- | ------------------------------------------------------------------- |
+| **Verantwortlicher**        | Trägt die Verantwortung für die DSFA und steuert deren Durchführung |
+| **Datenschutzbeauftragter** | Berät, validiert die Methodik und bewertet die Restrisiken          |
+| **CISO / IT-Leitung**       | Bringt die technische Expertise und Sicherheitsmaßnahmen ein        |
+| **Fachabteilungen**         | Liefern die operativen Details der Verarbeitung                     |
+| **Auftragsverarbeiter**     | Übermitteln die für die Bewertung erforderlichen Informationen      |
+| **Betroffene Personen**     | Können in bestimmten Fällen konsultiert oder vertreten werden       |
 
 > 👥 Die DSFA ist ein kollaborativer Ansatz – sie bindet sowohl Juristen als auch operative Mitarbeiter ein.
 
@@ -155,7 +155,7 @@ Dastra ermöglicht es, jede **DSFA** mit einem **KI-System** zu verknüpfen, um 
 ### 🧰 Bewährte Praktiken in Dastra
 
 * Zentralisieren Sie alle Ihre DSFAs im **Modul "Verarbeitungsverzeichnis"**,
-* Nutzen Sie die **vordefinierten Risikomodelle** (EDPB, CNIL, ISO 29134),
+* Nutzen Sie die **vordefinierten Risikomodelle** (EDSA, Aufsichtsbehörden, ISO 29134),
 * Arbeiten Sie mit den Teams über **Kommentare und Workflows** zusammen,
 * Exportieren Sie Ihre DSFAs als **PDF** für Audits,
 * Planen Sie **automatische Überprüfungserinnerungen**.
@@ -169,4 +169,3 @@ Dastra ermöglicht es, jede **DSFA** mit einem **KI-System** zu verknüpfen, um 
 ### 📘 Weiterführende Informationen
 
 🎥 Webinar "Wie Sie die DSFA-Phase mit einem Tool angehen"
-{% endembed %}

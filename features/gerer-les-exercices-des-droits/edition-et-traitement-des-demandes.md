@@ -31,7 +31,7 @@ Wenn eine Anfrage erfasst wird, erscheint sie im Anfragenverzeichnis.\
    * Möglichkeit, die Anfrage als komplex zu kennzeichnen (90 Tage).
    * Die Frist bei Bedarf vorübergehend aussetzen.
 
-<figure><img src="../../.gitbook/assets/edit-qualification-fr.png" alt=""><figcaption><p>Die Oberfläche zur Verwaltung einer Anfrage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage8.png" alt=""><figcaption><p>Die Oberfläche zur Verwaltung einer Anfrage</p></figcaption></figure>
 
 ***
 
@@ -44,20 +44,20 @@ Sie können die über das ursprüngliche Formular erfassten Informationen vervol
 * Zusätzliche Daten: Land, Postadresse, Telefon, Nutzer-ID usw.
 * Kategorie der betroffenen Person (z. B. Newsletter-Abonnenten, Kunden, Mitarbeiter).
 
-<figure><img src="../../.gitbook/assets/edit-identity-fr.png" alt=""><figcaption><p>Abschnitt zur Identität des Antragstellers</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage9.png" alt=""><figcaption><p>Abschnitt zur Identität des Antragstellers</p></figcaption></figure>
 
 ***
 
-### Bearbeitung der Anfrage
+### Ausführung der Anfrage
 
-Der Reiter **Bearbeitung der Anfrage** fasst alle mit der Ausführung verbundenen Aktionen zusammen.
+Der Reiter **Ausführung der Anfrage** fasst alle mit der Ausführung verbundenen Aktionen zusammen.
 
 #### Anhänge
 
 Sie können Nachweisdateien oder Exporte mit den Daten des Antragstellers hochladen.\
 Diese Dateien können anschließend bei der Antwort beigefügt werden.
 
-<figure><img src="../../.gitbook/assets/edit-traitement01-fr.png" alt=""><figcaption><p>Dateien zur Anfrage hinzufügen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage10 (1).png" alt=""><figcaption><p>Dateien zur Anfrage hinzufügen</p></figcaption></figure>
 
 ***
 
@@ -66,16 +66,16 @@ Diese Dateien können anschließend bei der Antwort beigefügt werden.
 Dastra identifiziert automatisch die Datensätze, die mit der **Kategorie der betroffenen Personen** verknüpft sind.\
 Jeder Datensatz muss einzeln bearbeitet werden.
 
-* Verfügbare Status: **Ausstehend** / **Bearbeitet**.
+* Verfügbare Status: **In Bearbeitung**/ **Beendet**.
 * Anzeige des Gesamtfortschritts (Fortschritt in Prozent).
 
-<figure><img src="../../.gitbook/assets/edit-traitement02-liste-fr.png" alt=""><figcaption><p>Erweiterte Bearbeitung pro Datensatz</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage11.png" alt=""><figcaption><p>Erweiterte Bearbeitung pro Datensatz</p></figcaption></figure>
 
 ***
 
 **Details eines Datensatzes**
 
-Sie können die Verbindungen zwischen dem Datensatz und den Assets direkt einsehen, indem Sie auf die Schaltfläche **Kartografie** klicken.
+Sie können die Verbindungen zwischen dem Datensatz und den Assets direkt einsehen, indem Sie auf die Schaltfläche **Data Mapping** klicken.
 
 <figure><img src="../../.gitbook/assets/edit-traitement02-cartography-fr.png" alt=""><figcaption><p>Visualisieren Sie die Verbindung zwischen der Personenkategorie und dem zu kontaktierenden Verantwortlichen</p></figcaption></figure>
 
@@ -119,11 +119,13 @@ Ein Fenster ermöglicht die Auswahl der Personen, die per E-Mail benachrichtigt 
 
 Sobald die Bearbeitung abgeschlossen ist, kann direkt an den Antragsteller geantwortet werden.
 
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage12.png" alt=""><figcaption></figcaption></figure>
+
 * Der **KI-Assistent** schlägt Ihnen eine konforme und anpassbare Nachricht vor.
 * Sie können den Ton anpassen: formeller, kürzer, länger, mit Emojis.
 * Die endgültige Nachricht kann direkt aus Dastra versendet werden.
 
-<figure><img src="../../.gitbook/assets/edit-response01-ai-generated-message.png" alt=""><figcaption><p>Tauschen Sie Nachrichten mit dem Antragsteller aus, unter Verwendung von KI, wenn gewünscht</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage13.png" alt=""><figcaption><p>Tauschen Sie Nachrichten mit dem Antragsteller aus, unter Verwendung von KI, wenn gewünscht</p></figcaption></figure>
 
 ***
 
@@ -131,7 +133,7 @@ Sobald die Bearbeitung abgeschlossen ist, kann direkt an den Antragsteller geant
 
 Zusätzlich zu den Hauptschritten (Qualifizierung, Überprüfung, Bearbeitung und Antwort) bietet Dastra ein Menü **Aktionen**, mit dem erweiterte Operationen für eine Anfrage durchgeführt werden können.
 
-<figure><img src="../../.gitbook/assets/demande-actions-possibles.png" alt=""><figcaption><p>Greifen Sie schnell auf die zahlreichen verfügbaren Zusatzaktionen zu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage14 (1).png" alt=""><figcaption><p>Greifen Sie schnell auf die zahlreichen verfügbaren Zusatzaktionen zu</p></figcaption></figure>
 
 Zu den verfügbaren Aktionen gehören insbesondere:
 
@@ -141,7 +143,7 @@ Zu den verfügbaren Aktionen gehören insbesondere:
 * **Exportieren**: die Informationen der Anfrage exportieren.
 * **Workflow-Regeln**: eine Automatisierungsregel anwenden oder auslösen.
 * **Anfrage aussetzen**: die gesetzliche Bearbeitungsfrist pausieren (siehe unten).
-* **Anfrage schließen**: die Anfrage manuell als abgeschlossen markieren.
+* **Anfrage abschließen**: die Anfrage manuell als abgeschlossen markieren.
 * **Zugangstoken zurücksetzen**: einen neuen sicheren Link für den Antragsteller erstellen.
 * **Anonymisieren**: die identifizierenden Daten der Anfrage löschen.
 * **In den Papierkorb verschieben**: die Anfrage archivieren oder löschen.
@@ -153,14 +155,14 @@ Zu den verfügbaren Aktionen gehören insbesondere:
 In bestimmten Fällen ist es notwendig, eine Anfrage **vorübergehend auszusetzen** (zum Beispiel in Erwartung einer Identitätsprüfung).\
 Die Aussetzung unterbricht die gesetzliche Frist, die erst nach Aufhebung der Aussetzung weiterläuft.
 
-<figure><img src="../../.gitbook/assets/demande-suspension.png" alt=""><figcaption><p>Setzen Sie eine Anfrage aus, z. B. in Erwartung einer Antwort des Antragstellers</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage15.png" alt=""><figcaption><p>Setzen Sie eine Anfrage aus, z. B. in Erwartung einer Antwort des Antragstellers</p></figcaption></figure>
 
-* **Datum der Aussetzung**: obligatorisch.
+* **Datum der Aussetzung**: Pflichtfeld.
 * **Begründung**: Freitextfeld zur Dokumentation des Grundes (z. B. in Erwartung von Nachweisdokumenten).
 
 Sobald die Anfrage ausgesetzt ist, zeigt die Oberfläche den Status deutlich an und bietet eine Schaltfläche zum Aufheben der Aussetzung.
 
-<figure><img src="../../.gitbook/assets/demande-suspension-visibilite.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenanfrage16.png" alt=""><figcaption></figcaption></figure>
 
 Der Zähler der verbleibenden Tage wird automatisch unter Berücksichtigung der Aussetzungsdauer neu berechnet.
 

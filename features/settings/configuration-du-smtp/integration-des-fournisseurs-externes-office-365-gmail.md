@@ -35,7 +35,7 @@ Diese Konfiguration betrifft **alle von Dastra in Ihrer Organisation versendeten
 
 Sie können auch über diese URL auf die Konfiguration zugreifen: [https://app.dastra.eu/general-settings/smtp](https://app.dastra.eu/general-settings/smtp)
 
-<figure><img src="../../../.gitbook/assets/image-3-1-6-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Erweiterte Konfiguration29.png" alt=""><figcaption></figcaption></figure>
 
 * Wählen Sie den gewünschten Anbieter:
   * **Microsoft 365 (Office 365)**
@@ -49,7 +49,7 @@ Sie können auch über diese URL auf die Konfiguration zugreifen: [https://app.d
 
 #### Schritt 2: Geforderte Informationen eingeben
 
-<figure><img src="../../../.gitbook/assets/image-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Erweiterte Konfiguration30.png" alt=""><figcaption></figcaption></figure>
 
 Zwei Pflichtfelder müssen ausgefüllt werden:
 
@@ -65,7 +65,7 @@ Klicken Sie nach dem Ausfüllen auf **Speichern und testen**, um die Konfigurati
 * Dastra führt einen Versandtest durch, um die Gültigkeit der konfigurierten Adresse zu bestätigen.
 * Überprüfen Sie in Ihrem Posteingang und Ihren Office 365 / Gmail-Protokollen, ob die Testnachricht erfolgreich zugestellt wurde.
 
-Die Nachricht sieht folgendermaßen aus:&#x20;
+Die Nachricht sieht folgendermaßen aus:
 
 <figure><img src="../../../.gitbook/assets/image-1-1-7-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -112,10 +112,10 @@ Die Office 365-Integration verwendet eine **Anwendungs**-Zustimmung (globale Adm
 
 Dastra fordert bei der OAuth-Zustimmung die folgenden Berechtigungen an:
 
-| Berechtigung           | Verwendung                                                         |
-| ---------------------- | ------------------------------------------------------------------ |
-| `Mail.Send`            | Versand von E-Mails aus dem konfigurierten Postfach                |
-| `Mail.Send.Shared`     | Versand aus einem geteilten Postfach (Shared Mailbox)              |
+| Berechtigung       | Verwendung                                            |
+| ------------------ | ----------------------------------------------------- |
+| `Mail.Send`        | Versand von E-Mails aus dem konfigurierten Postfach   |
+| `Mail.Send.Shared` | Versand aus einem geteilten Postfach (Shared Mailbox) |
 
 #### Werden geteilte Postfächer unterstützt?
 
@@ -132,7 +132,7 @@ Stellen Sie sicher, dass Ihr persönliches Konto über das Recht **„Senden als
 
 #### Müssen die Quell-IPs von Dastra gefiltert werden?
 
-Dastra verwendet die **Microsoft Graph API** für den E-Mail-Versand und keinen klassischen SMTP-Server. Die Aufrufe laufen über die Azure-Infrastruktur von Microsoft, deren IP-Bereiche zahlreich (~100 Bereiche) sind und sich im Laufe der Zeit ändern können.
+Dastra verwendet die **Microsoft Graph API** für den E-Mail-Versand und keinen klassischen SMTP-Server. Die Aufrufe laufen über die Azure-Infrastruktur von Microsoft, deren IP-Bereiche zahlreich (\~100 Bereiche) sind und sich im Laufe der Zeit ändern können.
 
 **Die IP-Einschränkung wird für diese Integration nicht empfohlen**: Sie wäre schwer zu pflegen und könnte bei Aktualisierungen der Azure-Bereiche zu Dienstunterbrechungen führen. Die Sicherheit wird durch das OAuth 2.0-Protokoll und die Administrator-Zustimmung gewährleistet.
 

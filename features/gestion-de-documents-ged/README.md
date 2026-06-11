@@ -1,6 +1,6 @@
 # Dokumentenmanagement (DMS)
 
-Dastra integriert nativ eine Funktion für das Dokumentenmanagement.&#x20;
+Dastra integriert nativ eine Funktion für das Dokumentenmanagement.
 
 Dieses Modul ermöglicht es, den Zugang zu allen in Dastra verknüpften Dokumenten zu zentralisieren und gemeinsam zu nutzen.
 
@@ -8,8 +8,6 @@ Hier können Sie beispielsweise alle nützliche Dokumentation zur Nachweisführu
 
 {% hint style="info" %}
 **Fokus auf die DSGVO-Dokumentation**
-
-&#x20;
 
 Die Dokumentationspflicht ergibt sich aus dem **Grundsatz der Rechenschaftspflicht** (Accountability), der in Artikel 24 der DSGVO verankert ist.
 
@@ -40,45 +38,43 @@ Zahlreiche Formate werden akzeptiert:
 * zip
 * usw.
 
-Wenn ein Format nicht akzeptiert wird, können Sie die Datei in ein .zip-Archiv packen, um sie in die Dokumentation aufzunehmen.&#x20;
+Wenn ein Format nicht akzeptiert wird, können Sie die Datei in ein .zip-Archiv packen, um sie in die Dokumentation aufzunehmen.
 
 ### Ein Dokument erstellen
 
-Mit Dastra können Sie schnell ein Dokument für Notizen erstellen.&#x20;
+Mit Dastra können Sie schnell ein Dokument für Notizen erstellen.
 
-Gehen Sie dazu in das Dokumentenmanagement und klicken Sie auf "Dokument verfassen"
+Gehen Sie dazu in das Dokumentenmanagement und klicken Sie auf "**Datei erstellen**"
 
-&#x20;
-
-<figure><img src="../../.gitbook/assets/screenshot-2024-12-18-104431.png" alt=""><figcaption><p>Ein neues Dokument verfassen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dok erstellen.png" alt=""><figcaption><p>Ein neues Dokument verfassen</p></figcaption></figure>
 
 Das neue Dokument wird im Markdown-Format (.md) gespeichert
 
-<figure><img src="../../.gitbook/assets/image-1-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dok erstellen2.png" alt=""><figcaption></figcaption></figure>
 
 ### Einen Ordner erstellen
 
-Sie können Ihre Dokumente in Ordnern organisieren, um sie leichter wiederzufinden.&#x20;
+Sie können Ihre Dokumente in Ordnern organisieren, um sie leichter wiederzufinden.
 
 Es ist möglich, Unterordner zu erstellen.
 
-<figure><img src="../../.gitbook/assets/image-8-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/neuer ordner.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/neuer ordner2.png" alt=""><figcaption></figcaption></figure>
 
 ### Rechteverwaltung
 
 Es ist möglich, Rechte für die Ordner und Dateien des DMS hinzuzufügen. Diese Rechte können sowohl für Ordner als auch für Dateien vergeben werden und können vom Administrator des Mandanten oder einem Nutzer mit der Berechtigung "Dateiverwaltung: Verwaltung" konfiguriert werden.
 
 {% hint style="info" %}
-Wichtig: Standardmäßig werden keine Einschränkungen auf die Ordnerstruktur angewendet. Die mit den Rollen des Nutzers verbundenen Berechtigungen werden jedoch angewendet!&#x20;
+Wichtig: Standardmäßig werden keine Einschränkungen auf die Ordnerstruktur angewendet. Die mit den Rollen des Nutzers verbundenen Berechtigungen werden jedoch angewendet!
 {% endhint %}
 
 Der Eigentümer des Mandanten (oder Administrator) kann die Zugriffsrechte konfigurieren, indem er auf das Konfigurationssymbol in der entsprechenden Zeile klickt. Er kann dann die Zugriffe konfigurieren, indem er Teams und Nutzer mit der zugehörigen Ausführungsberechtigung hinzufügt.
 
-&#x20;
-
 <figure><img src="../../.gitbook/assets/select-permission.gif" alt=""><figcaption><p>Oberfläche zur Verwaltung der Berechtigungen</p></figcaption></figure>
 
-Diese Berechtigungen werden auf alle "Kind"-Elemente angewendet (d. h. alle Elemente, die in dem Ordner enthalten sind, was auch die Unterordner einschließt).&#x20;
+Diese Berechtigungen werden auf alle "Kind"-Elemente angewendet (d. h. alle Elemente, die in dem Ordner enthalten sind, was auch die Unterordner einschließt).
 
 {% hint style="info" %}
 Ein Ordner, für den keine Berechtigung definiert ist, gilt als für alle Nutzer zugänglich.

@@ -20,7 +20,7 @@ In dieser Phase wechselt das Projekt von einer Vorbereitungslogik zu einer **kon
 * die Nachweise werden gesammelt, aktualisiert und bewertet,
 * die Compliance-Indikatoren werden verwertbar.
 
-<figure><img src="../../../.gitbook/assets/image-464.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance42.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -39,7 +39,7 @@ Die Überwachungsseite bietet eine zusammenfassende Übersicht des Projektstatus
 
 Diese Indikatoren ermöglichen es, schnell kritische Punkte zu identifizieren und Korrekturmaßnahmen zu priorisieren.
 
-<figure><img src="../../../.gitbook/assets/image-465.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance43.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -60,8 +60,7 @@ Jeder Nachweis kann dokumentiert werden, um nachfolgende Audits zu erleichtern.
 {% endcolumn %}
 
 {% column %}
-
-<figure><img src="../../../.gitbook/assets/image-466.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance44.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -80,7 +79,7 @@ Eine Kampagne ermöglicht:
 
 Bei der Erstellung einer Kampagne ist es möglich, **automatisch alle Tests mit ausstehenden Nachweisen vorab auszuwählen**, um den Start zu erleichtern.
 
-<figure><img src="../../../.gitbook/assets/image-467.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance45.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -98,8 +97,7 @@ Der globale Fortschritt der Kampagne ist in Echtzeit sichtbar, sodass der Projek
 {% endcolumn %}
 
 {% column %}
-
-<figure><img src="../../../.gitbook/assets/image-468.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance46.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -115,7 +113,7 @@ Jeder Test verfügt über einen klaren Lebenszyklus:
 
 Nach der Validierung trägt der Test automatisch zur Verbesserung des Status der zugehörigen Kontrolle und zu den globalen Projektindikatoren bei. Die Einladung leitet den Nutzer zu einem personalisierten Tracking-Dashboard, in dem er die Nachweise für die Tests eingeben kann, für die er Inhaber ist.
 
-<figure><img src="../../../.gitbook/assets/image-469.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance47.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

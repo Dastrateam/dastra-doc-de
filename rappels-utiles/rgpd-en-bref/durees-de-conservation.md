@@ -2,7 +2,7 @@
 description: Erfahren Sie, was Speicherdauern sind.
 ---
 
-# Speicherdauern
+# Speicherdauer
 
 ### 📖 Definition
 
@@ -25,17 +25,13 @@ Konkret müssen Sie für jede Verarbeitung festlegen:
 
 Die Aufbewahrung gliedert sich in **aufeinanderfolgende Phasen**. Dieser Zyklus bestimmt Ihre Regeln.
 
-| Phase                            | Zweck                          | Zugang                        | Beispiel für Dauer                     |
-| -------------------------------- | ------------------------------ | ----------------------------- | -------------------------------------- |
-| **Aktive Nutzung**               | Operativer Betrieb             | Umfassend (Fachabteilung)     | Vertragsdauer + Durchführung           |
-| **Zwischenarchivierung**         | Nachweis / Rechtsverteidigung  | Eingeschränkt (Need-to-know)  | Gesetzliche Verjährung (z. B. 5 Jahre) |
-| **Dauerhafte Archivierung** (öffentlich) | Historisches Interesse   | Sehr eingeschränkt            | Übergabe / Sortierung durch SIAF       |
-| **Anonymisierung**               | Statistiken / Forschung        | Nicht identifizierbare Daten  | Unbegrenzt wenn irreversibel           |
-| **Löschung**                     | Ende des Zyklus                | —                             | Nach Ablauf der Phasen                 |
-
-{% hint style="info" %}
-📄 Der [CNIL-Leitfaden "Speicherdauern"](https://www.cnil.fr/sites/default/files/atoms/files/guide_durees_de_conservation.pdf) beschreibt im Detail: Verarbeitungsverzeichnis, Referenzdokument, Archivierungs-/Löschverfahren, Anweisungen an Auftragsverarbeiter usw.
-{% endhint %}
+| Phase                       | Zweck                         | Zugang                       | Beispiel für Dauer                     |
+| --------------------------- | ----------------------------- | ---------------------------- | -------------------------------------- |
+| **Aktive Nutzung**          | Operativer Betrieb            | Umfassend (Fachabteilung)    | Vertragsdauer + Durchführung           |
+| **Zwischenarchivierung**    | Nachweis / Rechtsverteidigung | Eingeschränkt (Need-to-know) | Gesetzliche Verjährung (z. B. 5 Jahre) |
+| **Dauerhafte Archivierung** | Historisches Interesse        | Sehr eingeschränkt           | Übergabe / Sortierung durch Behörden   |
+| **Anonymisierung**          | Statistiken / Forschung       | Nicht identifizierbare Daten | Unbegrenzt wenn irreversibel           |
+| **Löschung**                | Ende des Zyklus               | —                            | Nach Ablauf der Phasen                 |
 
 ***
 
@@ -46,7 +42,7 @@ Die Aufbewahrung gliedert sich in **aufeinanderfolgende Phasen**. Dieser Zyklus 
 2. **Die Phasen kartieren**\
    → aktive Nutzung → Zwischenarchivierung → Anonymisierung/Löschung
 3. **Rechtsgrundlagen und Referenzen identifizieren**\
-   → Gesetze & branchenspezifische Vorschriften, CNIL-Beschlüsse, Referenzrahmen, **SIAF** (öffentlich), Branchenpraktiken
+   → Gesetze & branchenspezifische Vorschriften, Beschlüsse der Aufsichtsbehörden, Referenzrahmen, Branchenpraktiken
 4. **Eine klare Regel festlegen**\
    → "**X Jahre nach \[Ereignis]**, dann **Archivierung Y Jahre**, dann **Löschung**"\
    → oder "**solange…**, dann **Z Jahre nach** / **Kriterium**"
@@ -63,13 +59,13 @@ Wenn es **keine eindeutige Referenz** gibt, wählen Sie eine dem Zweck **angemes
 
 ### 🧪 Beispiele für Regeln (anzupassen)
 
-| Kontext           | Daten                             | Zusammengefasste Regel                                                    |
-| ----------------- | --------------------------------- | ------------------------------------------------------------------------- |
-| B2B-Interessenten | Identität, Kontakt, Opt-in-Nachweis | **3 Jahre** nach letztem aktivem Kontakt, dann **Löschung**             |
+| Kontext           | Daten                               | Zusammengefasste Regel                                                     |
+| ----------------- | ----------------------------------- | -------------------------------------------------------------------------- |
+| B2B-Interessenten | Identität, Kontakt, Opt-in-Nachweis | **3 Jahre** nach letztem aktivem Kontakt, dann **Löschung**                |
 | HR – Bewerber     | Lebenslauf, Anschreiben, Gespräche  | **2 Jahre** nach letztem Kontakt mit dem Bewerber, sofern kein Widerspruch |
-| Kunden            | Vertrag, Rechnungsstellung        | Vertrag + **5 Jahre** (Nachweis), dann **Archivierung**/**Löschung**      |
-| Videoüberwachung  | Bilder                            | **Maximal 30 Tage**, außer bei Vorfall (Beweisverfahren)                  |
-| Cookies           | Kennungen, Präferenzen            | Dauer gemäß Banner und **Einwilligungsnachweis**                          |
+| Kunden            | Vertrag, Rechnungsstellung          | Vertrag + **5 Jahre** (Nachweis), dann **Archivierung**/**Löschung**       |
+| Videoüberwachung  | Bilder                              | **Maximal 30 Tage**, außer bei Vorfall (Beweisverfahren)                   |
+| Cookies           | Kennungen, Präferenzen              | Dauer gemäß Banner und **Einwilligungsnachweis**                           |
 
 > Diese Werte variieren je nach anwendbaren Rechtstexten, Ihrer Branche und Ihren Risiken: **Dokumentieren Sie Ihre Entscheidungen**.
 
@@ -79,7 +75,7 @@ Wenn es **keine eindeutige Referenz** gibt, wählen Sie eine dem Zweck **angemes
 
 * **Fachverantwortlicher der Verarbeitung**: Operativer Bedarf, auslösende Ereignisse
 * **Datenschutzbeauftragter / Rechtsabteilung**: Compliance, anwendbare Rechtstexte, Balance zwischen Rechten und Freiheiten
-* **Archiv / SIAF (öffentlich)**: Aufbewahrungsfristen, Sortierung, Übergabe, endgültige Bestimmung
+* **Archiv**: Aufbewahrungsfristen, Sortierung, Übergabe, endgültige Bestimmung
 * **CISO / IT**: Bereinigung, Anonymisierung, Zugriffsbeschränkung, Protokolle
 * **Auftragsverarbeiter**: Konforme Ausführung gemäß **schriftlichen Anweisungen**
 
@@ -146,8 +142,6 @@ Verknüpfen Sie diese Dauern mit Ihrem **Register der KI-Systeme**, um die Kohä
 
 ### 📚 Nützliche Referenzen
 
-* **CNIL** – Leitfaden Speicherdauern (Dokumentation, Nachweise, Archivierung)
-* **SIAF** – Verwaltungstabelle (öffentlicher Sektor)
 * Branchenspezifische Referenzrahmen, Verhaltenskodizes, Tarifverträge
 
 ***
@@ -155,7 +149,6 @@ Verknüpfen Sie diese Dauern mit Ihrem **Register der KI-Systeme**, um die Kohä
 ### ▶️ Ressourcen & nächste Schritte
 
 Webinar "Speicherdauern: Wie bestimmt man sie?"
-{% endembed %}
 
 ***
 

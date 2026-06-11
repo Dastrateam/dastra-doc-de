@@ -6,7 +6,7 @@ description: Erfahren Sie, wie Sie ein Organigramm in Ihrem Trust Center konfigu
 
 **Aktivierung der Funktion 'Organigramm' in Ihrem Trust Center**
 
-Um die Funktion '**Organigramm**' in Ihrem Trust Center zu aktivieren, konsultieren Sie den Abschnitt der allgemeinen Konfiguration, der die Aktivierung oder Deaktivierung dieser Option ermöglicht. Nach der Aktivierung wird Ihrem Trust Center eine neue öffentliche Seite mit dem Titel '**Organigramm**' hinzugefügt.
+Um die Funktion '**Organigramm**' in Ihrem Trust Center zu aktivieren, besuchen Sie den Abschnitt der allgemeinen Konfiguration, der die Aktivierung oder Deaktivierung dieser Option ermöglicht. Nach der Aktivierung wird Ihrem Trust Center eine neue öffentliche Seite mit dem Titel '**Organigramm**' hinzugefügt.
 
 Abgesehen von der Aktivierung erfordert das Organigramm keine zusätzliche Konfiguration, um in Ihrem Trust Center angezeigt zu werden.
 

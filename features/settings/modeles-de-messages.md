@@ -8,271 +8,271 @@ description: Funktionsweise der Nachrichtenvorlagen
 
 Um Ihre Zeit zu optimieren und die Effizienz zu steigern, können Sie Nachrichtenvorlagen konfigurieren, die in den Modulen von Dastra wiederverwendet werden können.
 
-### Verfügbare Arten von Nachrichtenvorlagen&#x20;
+### Verfügbare Arten von Nachrichtenvorlagen
 
-<figure><img src="../../.gitbook/assets/image-16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Erweiterte Konfiguration31.png" alt=""><figcaption></figcaption></figure>
 
 Die Vorlagentypen sind wie folgt:
 
-*   **Nachricht in Rechteausübungsanfragen**
+*   **Nachricht in Betroffenenanfragen**
 
     Beim Austausch mit den Antragstellern können Sie Vorlagen speichern, um Zeit zu sparen. Zum Beispiel eine Vorlage für die Empfangsbestätigung der Anfrage.
 *   **Aufgabe**
 
-    Sie können den Inhalt der Aufgabenbeschreibung anpassen. Ideal, um bei sich wiederholenden Aufgaben Zeit zu sparen. Zum Beispiel, wenn Sie jemanden bitten, Informationen zu einer Datenverarbeitung einzugeben, können Sie dieselbe Nachrichtenvorlage wiederverwenden.&#x20;
+    Sie können den Inhalt der Aufgabenbeschreibung anpassen. Ideal, um bei sich wiederholenden Aufgaben Zeit zu sparen. Zum Beispiel, wenn Sie jemanden bitten, Informationen zu einer Datenverarbeitung einzugeben, können Sie dieselbe Nachrichtenvorlage wiederverwenden.
 *   **Audits**
 
     Sie können die Einladungen zur Beantwortung eines Audits anpassen. Verwenden Sie hier eine Vorlage, um dieselbe Nachricht für alle Ihre Befragten einzugeben. Zum Beispiel können Sie Ihre Auftragsverarbeiter einladen, einen Überprüfungsaudit über die ordnungsgemäße Anwendung des Auftragsverarbeitungsvertrags auszufüllen, basierend auf einer Vorlage, die dem Image Ihrer Organisation entspricht.
 *   **Eine Verarbeitung vervollständigen**
 
-    Sie können einen Dastra-Nutzer einladen, eine Datenverarbeitung ab einem bestimmten Schritt zu vervollständigen. Schreiben Sie die Vorlage einmal oder wählen Sie eine Vorlage je nach Qualität des Empfängers (Jurist, IT-Leiter usw.), um Zeit zu sparen.&#x20;
+    Sie können einen Dastra-Nutzer einladen, eine Datenverarbeitung ab einem bestimmten Schritt zu vervollständigen. Schreiben Sie die Vorlage einmal oder wählen Sie eine Vorlage je nach Qualität des Empfängers (Jurist, IT-Leiter usw.), um Zeit zu sparen.
 *   **Eine Datenschutzverletzung vervollständigen**
 
-    Sie können einen Dastra-Nutzer einladen, eine Datenschutzverletzung ab einem bestimmten Schritt zu vervollständigen. Schreiben Sie die Vorlage einmal oder wählen Sie eine Vorlage je nach Qualität des Empfängers (Jurist, IT-Leiter usw.), um Zeit zu sparen.&#x20;
+    Sie können einen Dastra-Nutzer einladen, eine Datenschutzverletzung ab einem bestimmten Schritt zu vervollständigen. Schreiben Sie die Vorlage einmal oder wählen Sie eine Vorlage je nach Qualität des Empfängers (Jurist, IT-Leiter usw.), um Zeit zu sparen.
 
 ### Erstellung der Vorlage
 
-Die Vorlagenerstellung erfolgt entweder über die Mandant-Einstellungen oder direkt am Ort der Nachricht.&#x20;
+Die Vorlagenerstellung erfolgt entweder über die Mandant-Einstellungen oder direkt am Ort der Nachricht.
 
-<figure><img src="../../.gitbook/assets/image-1-1-2-1.png" alt=""><figcaption><p>Erstellung über die Mandant-Einstellungen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Erweiterte Konfiguration32.png" alt=""><figcaption><p>Erstellung über die Mandant-Einstellungen</p></figcaption></figure>
 
 Klicken Sie auf Vorlage erstellen
 
-<figure><img src="../../.gitbook/assets/image-4-1-2-1-1.png" alt=""><figcaption><p>Oberfläche zur Vorlagenerstellung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Erweiterte Konfiguration33.png" alt=""><figcaption><p>Oberfläche zur Vorlagenerstellung</p></figcaption></figure>
 
 Vergessen Sie nicht, Ihre Arbeit zu speichern!
 
 ### Benutzerdefinierte Variablen in den Vorlagen
 
-Dastra ermöglicht es Ihnen, **die Vorlage automatisch mit benutzerdefinierten Variablen zu füllen**.&#x20;
+Dastra ermöglicht es Ihnen, **die Vorlage automatisch mit benutzerdefinierten Variablen zu füllen**.
 
-Das bedeutet, dass Sie automatisch Informationen zum mit der Vorlage verknüpften Objekt in den Text der Nachrichtenvorlage einfügen können.&#x20;
+Das bedeutet, dass Sie automatisch Informationen zum mit der Vorlage verknüpften Objekt in den Text der Nachrichtenvorlage einfügen können.
 
-Zum Beispiel kann in der Einladung zur Beantwortung eines Audits automatisch das Fälligkeitsdatum eines Audits übernommen werden.&#x20;
+Zum Beispiel kann in der Einladung zur Beantwortung eines Audits automatisch das Fälligkeitsdatum eines Audits übernommen werden.
 
-<figure><img src="../../.gitbook/assets/image-2-1-2.png" alt=""><figcaption><p>Die benutzerdefinierten Felder der Einladungsnachricht zur Audit-Beantwortung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Erweiterte Konfiguration34.png" alt=""><figcaption><p>Die benutzerdefinierten Felder der Einladungsnachricht zur Audit-Beantwortung</p></figcaption></figure>
 
-Sie können so einfach dynamische Felder direkt in die Vorlage einfügen. Als Sprache für die Vorlagenerstellung verwenden wir die LiquidJS-Syntax.&#x20;
+Sie können so einfach dynamische Felder direkt in die Vorlage einfügen. Als Sprache für die Vorlagenerstellung verwenden wir die LiquidJS-Syntax.
 
-Hier ist der vollständige Leitfaden: [die Tags](https://liquidjs.com/tags/overview.html) und [die Filter](https://liquidjs.com/filters/overview.html).&#x20;
+Hier ist der vollständige Leitfaden: [die Tags](https://liquidjs.com/tags/overview.html) und [die Filter](https://liquidjs.com/filters/overview.html).
 
 Um Status zu übersetzen, können Sie den benutzerdefinierten Filter getTranslation wie folgt verwenden \{{data | getTranslation: ''\}}. Beispiel: \{{data | getTranslation: 'dataSubjectRequestStates'\}}
 
-### Detail der Variablenfelder:&#x20;
+### Detail der Variablenfelder:
 
-#### Nachricht für Rechteausübungsanfragen:&#x20;
+#### Nachricht für Betroffenenanfragen:
 
-•             Titel der Anfrage (title)
+• Titel der Anfrage (title)
 
-•             Geschlossen von (closedByUser)
+• Geschlossen von (closedByUser)
 
-•             Organisationseinheit (area)
+• Organisationseinheit (area)
 
-•             Erstellt von (creator)
+• Erstellt von (creator)
 
-•             Bearbeiter (operator)
+• Bearbeiter (operator)
 
-•             Sprache (locale)
+• Sprache (locale)
 
-•             Archiviert (archived)
+• Archiviert (archived)
 
-•             Archiviert am (archivedDate)
+• Archiviert am (archivedDate)
 
-•             Personenkategorie (subjectCategory)
+• Personenkategorie (subjectCategory)
 
-•             Komplexe Anfrage (complex)
+• Komplexe Anfrage (complex)
 
-•             Abschlussdatum (dateClosed)
+• Abschlussdatum (dateClosed)
 
-•             Zusätzliche Informationen (intern) (description)
+• Zusätzliche Informationen (intern) (description)
 
-•             Nachricht der Anfrage (message)
+• Nachricht der Anfrage (message)
 
-•             E-Mail (email)
+• E-Mail (email)
 
-•             Telefonnummer (phoneNumber)
+• Telefonnummer (phoneNumber)
 
-•             Vorname (givenName)
+• Vorname (givenName)
 
-•             Nachname (familyName)
+• Nachname (familyName)
 
-•             Aktualisiert am (dateUpdate)
+• Aktualisiert am (dateUpdate)
 
-•             Ref. Id (refId)
+• Ref. Id (refId)
 
-•             Nutzer-ID (userId)
+• Nutzer-ID (userId)
 
-•             Schließungsgrund (closedReason)
+• Schließungsgrund (closedReason)
 
-•             Beschreibung der Schließung (closedReasonDescription)
+• Beschreibung der Schließung (closedReasonDescription)
 
-•             Ablaufdatum (expiryTime)
+• Ablaufdatum (expiryTime)
 
-•             Adresse (address)
+• Adresse (address)
 
-•             Postleitzahl (zipCode)
+• Postleitzahl (zipCode)
 
-•             Stadt (city)
+• Stadt (city)
 
-•             Land (countryCode)
+• Land (countryCode)
 
-•             E-Mail-Validierungsdatum (emailValidationDate)
+• E-Mail-Validierungsdatum (emailValidationDate)
 
-•             E-Mail validiert (mailValidated)
+• E-Mail validiert (mailValidated)
 
-•             Quell-URL (referrerUrl)
+• Quell-URL (referrerUrl)
 
-•             Identität validiert (identityValidated)
+• Identität validiert (identityValidated)
 
-•             Datum der Identitätsvalidierung (dateIdentityValidated)
+• Datum der Identitätsvalidierung (dateIdentityValidated)
 
-•             Anfrage-ID (demandId)
+• Anfrage-ID (demandId)
 
-•             Status (state)
+• Status (state)
 
-•             Datum (dateCreation)
+• Datum (dateCreation)
 
-•             Schritt (workFlowStep)
+• Schritt (workFlowStep)
 
-•             Erfassungskanal (channel)
+• Erfassungskanal (channel)
 
-•             Rechtearten (purposes)
+• Rechtearten (purposes)
 
-•             Nachrichten (nbMessages)
+• Nachrichten (nbMessages)
 
-•             Verbleibende Tage (remainingDays)
+• Verbleibende Tage (remainingDays)
 
-•             Schließungsfrist (Tage) (closingTime)
+• Schließungsfrist (Tage) (closingTime)
 
-•             Tags (tags)
+• Tags (tags)
 
-#### Aufgabenbeschreibung:&#x20;
+#### Aufgabenbeschreibung:
 
-•             Projekt (project)
+• Projekt (project)
 
-•             Iteration (iteration)
+• Iteration (iteration)
 
-•             Reihenfolge (order)
+• Reihenfolge (order)
 
-•             Inhaber (owner)
+• Inhaber (owner)
 
-•             Organisationseinheit (area)
+• Organisationseinheit (area)
 
-•             Erstellt von (creator)
+• Erstellt von (creator)
 
-•             Verbleibende Tage (remainingDays)
+• Verbleibende Tage (remainingDays)
 
-•             Schließungsfrist (Tage) (closingTime)
+• Schließungsfrist (Tage) (closingTime)
 
-•             Anzahl Unteraufgaben (nbSubTasks)
+• Anzahl Unteraufgaben (nbSubTasks)
 
-•             Anzahl geschlossener Unteraufgaben (nbSubTasksClosed)
+• Anzahl geschlossener Unteraufgaben (nbSubTasksClosed)
 
-•             Id (id)
+• Id (id)
 
-•             Interne Referenz (ref)
+• Interne Referenz (ref)
 
-•             Archiviert (archived)
+• Archiviert (archived)
 
-•             Name (label)
+• Name (label)
 
-•             Beschreibung (descriptionHtml)
+• Beschreibung (descriptionHtml)
 
-•             Verknüpft mit (objectType)
+• Verknüpft mit (objectType)
 
-•             Status (state)
+• Status (state)
 
-•             Frist (deadline)
+• Frist (deadline)
 
-•             Startdatum (startDate)
+• Startdatum (startDate)
 
-•             Geschlossen am (dateClosed)
+• Geschlossen am (dateClosed)
 
-•             Aktiviert am (dateActivated)
+• Aktiviert am (dateActivated)
 
-•             Erstellt am (dateCreation)
+• Erstellt am (dateCreation)
 
-•             Aktualisiert am (dateUpdate)
+• Aktualisiert am (dateUpdate)
 
-•             Quelle (source)
+• Quelle (source)
 
-•             test (customFields.test)
+• test (customFields.test)
 
-•             Liste (customFields.liste)
+• Liste (customFields.liste)
 
-•             Einfaches Kontrollkästchen (customFields.case\_a\_cocher\_simple)
+• Einfaches Kontrollkästchen (customFields.case\_a\_cocher\_simple)
 
-•             Tags (tags)
+• Tags (tags)
 
-•             Schritt (workFlowStep)
+• Schritt (workFlowStep)
 
-•             Priorität (priority)
+• Priorität (priority)
 
-•             Zugewiesen an (assignedToUser)
+• Zugewiesen an (assignedToUser)
 
-#### Einladungen zur Beantwortung eines Audit-Fragebogens:&#x20;
+#### Einladungen zur Beantwortung eines Audit-Fragebogens:
 
-•             Vorlage (template)
+• Vorlage (template)
 
-•             Datum des nächsten Audits (dateNextAudit)
+• Datum des nächsten Audits (dateNextAudit)
 
-•             Audit-Dauer (auditDurationDays)
+• Audit-Dauer (auditDurationDays)
 
-•             Anz. Korrekturen (nbCorrections)
+• Anz. Korrekturen (nbCorrections)
 
-•             Anz. Validierungen (nbValidations)
+• Anz. Validierungen (nbValidations)
 
-•             Tage bis zum nächsten Audit (nextAuditDaysRemaining)
+• Tage bis zum nächsten Audit (nextAuditDaysRemaining)
 
-•             Id (id)
+• Id (id)
 
-•             Name (label)
+• Name (label)
 
-•             Ältere Version (isRevision)
+• Ältere Version (isRevision)
 
-•             Versionsname (revisionDescription)
+• Versionsname (revisionDescription)
 
-•             Archiviert (archived)
+• Archiviert (archived)
 
-•             Überfällig (isOverdue)
+• Überfällig (isOverdue)
 
-•             Organisationseinheit (area)
+• Organisationseinheit (area)
 
-•             Aktualisiert am (dateUpdate)
+• Aktualisiert am (dateUpdate)
 
-•             Archiviert am (archivedDate)
+• Archiviert am (archivedDate)
 
-•             Score (readiness)
+• Score (readiness)
 
-•             Punkte (score)
+• Punkte (score)
 
-•             Vervollständigungsrate (%) (completionRate)
+• Vervollständigungsrate (%) (completionRate)
 
-•             Anz. Antworten (nbAnswers)
+• Anz. Antworten (nbAnswers)
 
-•             Anz. Fragen (nbQuestions)
+• Anz. Fragen (nbQuestions)
 
-•             Verantwortliche (owners)
+• Verantwortliche (owners)
 
-•             Befragte (respondants)
+• Befragte (respondants)
 
-•             Aktionsplan erstellt am (actionPlanDate)
+• Aktionsplan erstellt am (actionPlanDate)
 
-•             Status (state)
+• Status (state)
 
-•             Startdatum (startDate)
+• Startdatum (startDate)
 
-•             Abgeschlossen am (responseDate)
+• Abgeschlossen am (responseDate)
 
-•             Veröffentlichungsdatum (publishedDate)
+• Veröffentlichungsdatum (publishedDate)
 
-•             Erstellt am (dateCreation)
+• Erstellt am (dateCreation)
 
-•             Verknüpftes Objekt (objectLabel)
+• Verknüpftes Objekt (objectLabel)
 
-•             Frist (deadline)
+• Frist (deadline)
 
-#### Einladungen zur Vervollständigung einer Verarbeitung:&#x20;
+#### Einladungen zur Vervollständigung einer Verarbeitung:
 
 Organisationseinheit (area)
 
@@ -348,7 +348,7 @@ Letzte Änderung (dateUpdate)
 
 Beschreibung (description)
 
-#### Einladung zur Vervollständigung einer Verletzung:&#x20;
+#### Einladung zur Vervollständigung einer Verletzung:
 
 Name (label)
 

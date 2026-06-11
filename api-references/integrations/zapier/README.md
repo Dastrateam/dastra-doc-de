@@ -27,7 +27,7 @@ Ein Zap ist ein automatisierter Workflow, der Ihre Anwendungen und Dienste mitei
 
 ### Vorlagen für eine blitzschnelle Konfiguration
 
-Wir haben automatisierte Workflow-Vorlagen vorkonfiguriert, die Sie mit wenigen Klicks einrichten können. Etwa zehn Vorlagen sind bereits verfügbar und zugänglich über unsere [Integrationsseite](https://www.dastra.eu/fr/integrations) oder direkt im [Integrationsbereich](https://app.dastra.eu/workspace/0/settings/integrations) der Dastra-Webanwendung.
+Wir haben automatisierte Workflow-Vorlagen vorkonfiguriert, die Sie mit wenigen Klicks einrichten können. Etwa zehn Vorlagen sind bereits verfügbar und zugänglich über unsere [Integrationsseite](https://www.dastra.eu/de/integrations) oder direkt im [Integrationsbereich](https://app.dastra.eu/workspace/0/settings/integrations) der Dastra-Webanwendung.
 
 Wir werden regelmäßig neue Vorlagen veröffentlichen, um Ihren Automatisierungsbedarf zu decken und Ihnen wertvolle Zeit zu sparen. Zögern Sie nicht, uns auch Ihre Ideen für automatisierte Workflows zu übermitteln, damit wir diese als Vorlagen anbieten können.
 
@@ -69,6 +69,6 @@ Die [Zapier-Dokumentation](https://zapier.com/help) für weitere Informationen z
 
 Sie sind jetzt bereit, in die Welt der Automatisierung einzutauchen und Ihren ersten Konnektor einzurichten.
 
-Folgen Sie unserer Schritt-für-Schritt-Anleitung zur Automatisierung Ihrer Betroffenenrechte-Anfragen:
+Folgen Sie unserer Schritt-für-Schritt-Anleitung zur Automatisierung Ihrer Betroffenenanfragen:
 
-{% embed url="https://www.dastra.eu/fr/guide/automatisation-exercice-de-droits/51571" %}
+{% embed url="https://www.dastra.eu/de/resources" %}

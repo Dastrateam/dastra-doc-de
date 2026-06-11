@@ -155,7 +155,7 @@ Beispiele: Sensible Daten, elektronische Werbung, Cookies (je nach Zweck).
 * **Automatisierung**: Antwortvorlagen, wiederkehrende Aufgaben, Erinnerungen, Benachrichtigungen, Integrationen (Helpdesk/CRM).
 * **Reporting**: Antwortzeiten, Volumen, Ablehnungsgründe, Trends nach Recht.
 
-<figure><img src="../../.gitbook/assets/image-12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Betroffenenrechte.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -166,7 +166,7 @@ Beispiele: Sensible Daten, elektronische Werbung, Cookies (je nach Zweck).
 * **Verlängerung**:\
   « Aufgrund der Komplexität/Anzahl der Anfragen wird die Frist um zwei Monate verlängert. Sie erhalten spätestens am TT/MM/JJJJ eine Antwort. »
 * **Begründete Ablehnung**:\
-  « Ihrer Anfrage kann nicht entsprochen werden, da \_\_\_\_\_\_ (DSGVO-Grund). Sie können eine Beschwerde bei der zuständigen Aufsichtsbehörde einreichen. »
+  « Ihrer Anfrage kann nicht entsprochen werden, da \_\_\_\_\_\_ _(DSGVO-Grund)_. Sie können eine Beschwerde bei der zuständigen Aufsichtsbehörde einreichen. »
 
 ***
 

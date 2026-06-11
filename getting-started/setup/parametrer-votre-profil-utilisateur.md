@@ -1,4 +1,4 @@
-# Ihr Nutzerprofil einrichten
+# Ihr Nutzerprofil konfigurieren
 
 ### 🧭 Überblick
 
@@ -28,25 +28,25 @@ Wählen Sie ein einfaches und wiedererkennbares Bild (z. B. Ihr Foto oder das Lo
 
 Die folgenden Felder können jederzeit ausgefüllt oder aktualisiert werden:
 
-| Feld                                                      | Beschreibung                                                               | Pflicht       |
-| --------------------------------------------------------- | -------------------------------------------------------------------------- | ------------- |
-| **Vorname**                                               | Ihr Vorname, wie er in Dastra angezeigt wird                               | ✅ Pflichtfeld |
-| **Nachname**                                              | Ihr Nachname                                                               | ✅ Pflichtfeld |
-| **Öffentlicher Spitzname**                                | Angezeigter Spitzname in Kommentaren oder bei externen Freigaben           | Optional      |
-| **Telefonnummer**                                         | Verwendet für bestimmte Benachrichtigungen oder Zwei-Faktor-Validierungen  |               |
-| **Postanschrift / Postleitzahl / Stadt / Region / Land**  | Berufliche oder persönliche Kontaktdaten je nach Kontext                   | Optional      |
-| **Blog / Website**                                        | Link zu Ihrer beruflichen Website oder LinkedIn                            | Optional      |
-| **Biografie**                                             | Kurze Beschreibung Ihrer Rolle oder Funktion                               | Optional      |
-| **Profil-E-Mail**                                         | Mit Ihrem Dastra-Konto verknüpfte Adresse                                 | ✅ Pflichtfeld |
+| Feld                                                     | Beschreibung                                                              | Pflicht       |
+| -------------------------------------------------------- | ------------------------------------------------------------------------- | ------------- |
+| **Vorname**                                              | Ihr Vorname, wie er in Dastra angezeigt wird                              | ✅ Pflichtfeld |
+| **Nachname**                                             | Ihr Nachname                                                              | ✅ Pflichtfeld |
+| **Öffentlicher Spitzname**                               | Angezeigter Spitzname in Kommentaren oder bei externen Freigaben          | Optional      |
+| **Telefonnummer**                                        | Verwendet für bestimmte Benachrichtigungen oder Zwei-Faktor-Validierungen |               |
+| **Postanschrift / Postleitzahl / Stadt / Region / Land** | Berufliche oder persönliche Kontaktdaten je nach Kontext                  | Optional      |
+| **Blog / Website**                                       | Link zu Ihrer beruflichen Website oder LinkedIn                           | Optional      |
+| **Biografie**                                            | Kurze Beschreibung Ihrer Rolle oder Funktion                              | Optional      |
+| **Profil-E-Mail**                                        | Mit Ihrem Dastra-Konto verknüpfte Adresse                                 | ✅ Pflichtfeld |
 
 ### 🌐 Sprache und Zeitzone
 
 Sie können die Anzeige von Dastra nach Ihrer Sprache und Zeitzone anpassen.
 
-| Einstellung                 | Beschreibung                                                                                     |
-| --------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Sprache der Oberfläche**  | In der Anwendung verwendete Sprache (Deutsch, Englisch usw.). Standardmäßig sind 9 Sprachen verfügbar. |
-| **Zeitzone**                | Standardmäßig (UTC+01:00) Mitteleuropäische Zeit (Paris)                                         |
+| Einstellung                | Beschreibung                                                                                           |
+| -------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Sprache der Oberfläche** | In der Anwendung verwendete Sprache (Deutsch, Englisch usw.). Standardmäßig sind 9 Sprachen verfügbar. |
+| **Zeitzone**               | Standardmäßig (UTC+01:00) Mitteleuropäische Zeit (Paris)                                               |
 
 {% hint style="info" %}
 Diese Einstellungen beeinflussen nur **Ihre persönliche Anzeige**.\
@@ -87,7 +87,7 @@ Endgültige Löschung: Nach der Bestätigung ist **die Löschung unwiderruflich*
 Eine Wiederherstellung ist nicht möglich.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image-3-1-6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Konto löschen.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -95,7 +95,7 @@ Eine Wiederherstellung ist nicht möglich.
 
 * Halten Sie Ihre Kontaktdaten aktuell, um die Kontinuität der Kommunikation sicherzustellen.
 * Verwenden Sie einen professionellen Spitznamen für die Dastra-Community.
-* Informieren Sie vor der Löschung Ihres Kontos Ihren Administrator, um Datenverlust zu vermeiden.&#x20;
+* Informieren Sie vor der Löschung Ihres Kontos Ihren Administrator, um Datenverlust zu vermeiden.
 
 ***
 

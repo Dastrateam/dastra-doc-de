@@ -8,7 +8,7 @@ description: Diese Seite erklärt, wie Sie die Sprachen des Einwilligungs-Widget
 
 Gehen Sie auf die Einstellungsseite des gewünschten Widgets und dann auf den Tab „Texte und Übersetzungen". Sie können eine oder mehrere Sprachen hinzufügen.
 
-![](<../../../.gitbook/assets/capture-web-6-5-2022-102131-app-dastra-eu.jpeg>)
+![](../../../.gitbook/assets/Cookie15.png)
 
 ## Wie wird die Sprache des Widgets erkannt?
 

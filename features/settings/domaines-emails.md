@@ -12,22 +12,22 @@ Die E-Mail-Domains ermöglichen Ihren zukünftigen Mitarbeitern die Möglichkeit
 
 ## Wie verwende ich sie?
 
-Die Konfiguration der E-Mail-Domains finden Sie in der allgemeinen Konfiguration Ihrer Organisation, Bereich **Sicherheit**&#x20;
+Die Konfiguration der E-Mail-Domains finden Sie in der allgemeinen Konfiguration Ihrer Organisation, Bereich **Sicherheit**
 
-<figure><img src="../../.gitbook/assets/image-16-4.png" alt="Zugang zur E-Mail-Domain-Konfiguration"><figcaption><p>E-Mail-Domains Konfiguration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Erweiterte Konfiguration35.png" alt="Zugang zur E-Mail-Domain-Konfiguration"><figcaption><p>E-Mail-Domains Konfiguration</p></figcaption></figure>
 
 Aktivieren oder deaktivieren Sie die Funktionalität, indem Sie auf die Schaltfläche „_Nutzern erlauben_..." klicken
 
-Wählen Sie dann die Rolle und den Mandanten aus, die zukünftigen Nutzern zugewiesen werden:&#x20;
+Wählen Sie dann die Rolle und den Mandanten aus, die zukünftigen Nutzern zugewiesen werden:
 
-<figure><img src="../../.gitbook/assets/image-2-3.png" alt=""><figcaption><p>Zuweisung der Rolle und des Mandanten</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Erweiterte Konfiguration36.png" alt=""><figcaption><p>Zuweisung der Rolle und des Mandanten</p></figcaption></figure>
 
 Speichern Sie abschließend die Konfiguration, indem Sie auf die Schaltfläche _Speichern_ klicken!
 
 {% hint style="warning" %}
 **Einschränkungen**:
 
-Sie dürfen nur E-Mail-Domains hinzufügen, die zuvor autorisiert wurden (d. h. für die ein Nutzer Ihrer Organisation eine E-Mail-Adresse validiert hat).&#x20;
+Sie dürfen nur E-Mail-Domains hinzufügen, die zuvor autorisiert wurden (d. h. für die ein Nutzer Ihrer Organisation eine E-Mail-Adresse validiert hat).
 
 Persönliche Domains (gmail, hotmail usw.) oder als „Wegwerf"-Domains identifizierte Domains sind verboten!
 {% endhint %}

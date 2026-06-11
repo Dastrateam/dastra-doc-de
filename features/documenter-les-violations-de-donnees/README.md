@@ -16,19 +16,19 @@ Weitere Informationen darüber, was ein Datenschutzvorfall ist und welche Pflich
 
 ## Warum sollte ein Verzeichnis der Datenschutzvorfälle geführt werden?
 
-Artikel 33 Absatz 5 der DSGVO verpflichtet jede Organisation, eine Dokumentation der Datenschutzvorfälle zu führen.&#x20;
+[Artikel 33 Absatz 5 der DSGVO](https://dsgvo-gesetz.de/art-33-dsgvo/) verpflichtet jede Organisation, eine Dokumentation der Datenschutzvorfälle zu führen.
 
-Über die gesetzliche Verpflichtung hinaus sind die Speicherung und Analyse von Vorfallberichten unerlässlich, um die Meldepflichten einzuhalten und Präventionsmaßnahmen zu identifizieren. Siehe: [https://www.dastra.eu/fr/data-breach](https://www.dastra.eu/fr/data-breach)
+Über die gesetzliche Verpflichtung hinaus sind die Speicherung und Analyse von Vorfallberichten unerlässlich, um die Meldepflichten einzuhalten und Präventionsmaßnahmen zu identifizieren. Siehe: [https://www.dastra.eu/de/product-features/data-breach](https://www.dastra.eu/de/product-features/data-breach)
 
 ## Zugriff auf das Verzeichnis der Datenschutzvorfallmeldungen in Dastra
 
 DASTRA ermöglicht es Ihnen, ein Verzeichnis der Datenschutzvorfälle zu erstellen. Gehen Sie dazu in die DASTRA-Anwendung und klicken Sie auf das Modul **Verletzungen**, das in der linken Seitenleiste verfügbar ist:
 
-![Schaltfläche des Moduls zur Verwaltung von Datenschutzvorfällen](<../../.gitbook/assets/capture-web-5-5-2022-163811-app-dastra-eu.jpeg>)
+![Schaltfläche des Moduls zur Verwaltung von Datenschutzvorfällen](../../.gitbook/assets/Vorfall.png)
 
 Das Verzeichnis der Datenschutzvorfälle wird angezeigt.
 
-![Der Verwaltungsbereich für Datenschutzvorfälle](<../../.gitbook/assets/capture-web-5-5-2022-163922-app-dastra-eu.jpeg>)
+![Der Verwaltungsbereich für Datenschutzvorfälle](../../.gitbook/assets/Vorfall1.png)
 
 ## Weiterführende Informationen
 

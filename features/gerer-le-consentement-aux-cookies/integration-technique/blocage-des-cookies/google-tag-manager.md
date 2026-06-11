@@ -1,8 +1,8 @@
 ---
 description: >-
-  Dastra ist nativ in Google Tag Manager integriert. Dieser Artikel erklärt Ihnen,
-  wie Sie das Blockieren oder Freigeben von Tags in Abhängigkeit von den
-  Einwilligungen des Nutzers mithilfe von GTM integrieren.
+  Dastra ist nativ in Google Tag Manager integriert. Dieser Artikel erklärt
+  Ihnen, wie Sie das Blockieren oder Freigeben von Tags in Abhängigkeit von den
+  Einwilligungen des Nutzers mithilfe von GTM inte
 ---
 
 # Google Tag Manager
@@ -16,9 +16,9 @@ Diese Tagging-Lösung ist sehr effektiv für die Implementierung der effektiven 
 
 Die folgenden Ereignisse werden automatisch an den Google dataLayer gesendet:
 
-| Name                              | Bedeutung                                                                          |
-| --------------------------------- | ---------------------------------------------------------------------------------- |
-| dastra:consent:{your-vendor-name} | Dieses Ereignis wird gesendet, wenn der Nutzer die Cookies dieses Anbieters akzeptiert hat |
+| Name                              | Bedeutung                                                                                         |
+| --------------------------------- | ------------------------------------------------------------------------------------------------- |
+| dastra:consent:{your-vendor-name} | Dieses Ereignis wird gesendet, wenn der Nutzer die Cookies dieses Anbieters akzeptiert hat        |
 | dastra:refused:{your-vendor-name} | Dieses Ereignis wird ausgelöst, wenn der Nutzer den Cookies dieses Anbieters nicht zugestimmt hat |
 
 Sie können daher die Tags, die den verschiedenen im Widget konfigurierten Anbietern entsprechen, mithilfe dieser beiden Ereignisse auslösen.
@@ -31,7 +31,7 @@ Erstellen Sie in Ihrem GTM-Container einen Trigger für ein dataLayer-Ereignis m
 
 Das Google Optimize-Tag wird dann nur bei diesem Ereignis ausgelöst. So sieht es in der GTM-Oberfläche aus:
 
-![](<../../../../.gitbook/assets/image-169.png>)
+![](../../../../.gitbook/assets/image-169.png)
 
 ## Spezialfall der „Blocking Triggers"
 
@@ -52,7 +52,7 @@ Denken Sie daran, **die Option „URI-decode cookie" zu aktivieren**
 
 <figure><img src="../../../../.gitbook/assets/image-7-1-1.png" alt=""><figcaption></figcaption></figure>
 
-#### Konfigurieren Sie anschließend Ihren Trigger folgendermaßen:&#x20;
+#### Konfigurieren Sie anschließend Ihren Trigger folgendermaßen:
 
 In diesem Fall wird unser Tag ausgelöst, wenn die Scroll-Tiefe auf der Seite > 20% beträgt. Wir möchten, dass dieses Tag nur ausgelöst wird, wenn der Google Analytics-Dienst vom Nutzer autorisiert wurde. So konfigurieren Sie den Tag-Trigger.
 
@@ -67,7 +67,7 @@ Wenn Sie das Tag im Falle einer Ablehnung auslösen möchten, verwenden Sie die 
 #### Fall mehrerer Trigger desselben Typs mit einer Ausnahme
 
 Wenn Sie viele verschiedene Trigger für ein und dasselbe Tag haben, ist es auch durchaus möglich, eine Ausnahme auf diese Weise zu erstellen.\
-Beispiel eines Tags mit mehreren Triggern:&#x20;
+Beispiel eines Tags mit mehreren Triggern:
 
 <figure><img src="../../../../.gitbook/assets/image-2-1-1-1-1-1-1-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -79,10 +79,10 @@ Klicken Sie auf **„Ausnahme hinzufügen"** (Add Exception)
 Achtung: Ausnahmen funktionieren nur dann korrekt, wenn sie vom gleichen Typ sind. Wenn Ihre Trigger vom Typ „Page view" sind, muss die Ausnahme ebenfalls vom Typ Page view sein
 {% endhint %}
 
-Erstellen Sie einen Trigger desselben Typs mit dem Namen z. B. „Seitenaufrufe mit explizit abgelehntem Google Ads-Dienst".&#x20;
+Erstellen Sie einen Trigger desselben Typs mit dem Namen z. B. „Seitenaufrufe mit explizit abgelehntem Google Ads-Dienst".
 
 {% hint style="info" %}
-Wenn Sie auch das Tag standardmäßig nicht aktivieren möchten, einschließlich wenn der Nutzer nicht auf das Einwilligungs-Modal geklickt hat (und daher kein Cookie mit den Präferenzen gespeichert ist). In diesem Fall können Sie einen Trigger mit einer Negation verwenden:&#x20;
+Wenn Sie auch das Tag standardmäßig nicht aktivieren möchten, einschließlich wenn der Nutzer nicht auf das Einwilligungs-Modal geklickt hat (und daher kein Cookie mit den Präferenzen gespeichert ist). In diesem Fall können Sie einen Trigger mit einer Negation verwenden:
 
 **DastraConsents Does not contain "google-ads":true**
 {% endhint %}
@@ -99,7 +99,7 @@ Speichern Sie Ihre Änderungen und Sie sollten feststellen, dass Ihre Tags auf d
 
 #### Ablehnung von Cookies nach Akzeptierung:
 
-In bestimmten Fällen werden einige Tags nach der Ablehnung von Cookies nicht korrekt bereinigt. Dies geschieht insbesondere, wenn ein Nutzer sich entscheidet, die Cookies zu akzeptieren, dann erneut auf das Widget klickt und seine Einwilligung zurücknimmt. In den meisten Fällen stellt dies kein Problem dar, da die Marker ohnehin nicht mehrmals auf der Seite ausgeführt werden und es daher nicht mehr notwendig ist, die in die Seite eingefügten Script-Tags zu entfernen.&#x20;
+In bestimmten Fällen werden einige Tags nach der Ablehnung von Cookies nicht korrekt bereinigt. Dies geschieht insbesondere, wenn ein Nutzer sich entscheidet, die Cookies zu akzeptieren, dann erneut auf das Widget klickt und seine Einwilligung zurücknimmt. In den meisten Fällen stellt dies kein Problem dar, da die Marker ohnehin nicht mehrmals auf der Seite ausgeführt werden und es daher nicht mehr notwendig ist, die in die Seite eingefügten Script-Tags zu entfernen.
 
 In bestimmten Situationen ist es möglich, dass die Tags weiterhin aktiv sind.
 
@@ -119,7 +119,7 @@ window.addEventListener('dastra:consents:any_refused', function(){
 
 #### Aktualisierung der Einwilligung:
 
-Um die Seite neu zu laden, wenn eine Einwilligung auf irgendeine Weise geändert wird, verwenden Sie die Funktion _updated_ mit dem folgenden Code:&#x20;
+Um die Seite neu zu laden, wenn eine Einwilligung auf irgendeine Weise geändert wird, verwenden Sie die Funktion _updated_ mit dem folgenden Code:
 
 ```markup
 <script>
@@ -132,7 +132,7 @@ window.addEventListener('dastra:consents:updated', function(){
 
 #### Vollständige Akzeptierung der Tracker:
 
-Um die Seite beim vollständigen Akzeptieren der Tracker neu zu laden (Schaltfläche „Alle akzeptieren"):&#x20;
+Um die Seite beim vollständigen Akzeptieren der Tracker neu zu laden (Schaltfläche „Alle akzeptieren"):
 
 ```markup
 <script>
@@ -143,9 +143,9 @@ window.addEventListener('dastra:consents:all_accepted', function(){
 </script>
 ```
 
-#### &#x20;Akzeptierung eines bestimmten Dienstes:
+#### Akzeptierung eines bestimmten Dienstes:
 
-Um die Seite bei der Akzeptierung eines bestimmten Dienstes neu zu laden:&#x20;
+Um die Seite bei der Akzeptierung eines bestimmten Dienstes neu zu laden:
 
 ```markup
 <script>
@@ -155,4 +155,3 @@ window.addEventListener('dastra:consent:<slug du service>', function(){
 })
 </script>
 ```
-

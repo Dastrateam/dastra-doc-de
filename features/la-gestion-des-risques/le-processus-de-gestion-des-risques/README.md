@@ -5,13 +5,13 @@ description: Erfahren Sie, wie der Risikomanagement-Prozess in Dastra funktionie
 # Der Risikomanagement-Prozess
 
 \
-Der Risikomanagement-Prozess in Dastra ist eine **vereinfachte Version** des Modells **eBios Risk Manager** sowie der **Risikobewertungsmethodik der CNIL**.
+Der Risikomanagement-Prozess in Dastra ist eine **vereinfachte Version** des Modells **eBios Risk Manager**.
 
 ### Verwalten Sie Ihre Risiken in 4 Schritten <a href="#gerez-vos-risques-en-4-etapes" id="gerez-vos-risques-en-4-etapes"></a>
 
 Das Risikomanagement erfolgt in einem Prozess mit vier großen Schritten.
 
-![4 Schritte des Risikomanagements + Archivierung](https://static.dastra.eu/richtextbackoffice/ebc257ad-6e50-4768-8f26-cf4ea98eba38/image.png)
+![4 Schritte des Risikomanagements + Archivierung](<../../../.gitbook/assets/Risiko (1).png>)
 
 **1. Die Identifikation**\
 Ziel der Risikoidentifikation ist es, die Ereignisse zu bestimmen, die eintreten könnten und ein befürchtetes Ereignis (wie einen Verlust) verursachen, und einen Überblick zu geben, wie, wo und wann dieses Ereignis eintreten könnte.

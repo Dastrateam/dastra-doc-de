@@ -1,14 +1,15 @@
 ---
 description: >-
-  Erfahren Sie, was Datenschutz durch Technikgestaltung und datenschutzfreundliche
-  Voreinstellung bedeuten und wie Sie diese in Dastra anwenden.
+  Erfahren Sie, was Datenschutz durch Technikgestaltung und
+  datenschutzfreundliche Voreinstellung bedeuten und wie Sie diese in Dastra
+  anwenden.
 ---
 
-# Datenschutz durch Technikgestaltung und datenschutzfreundliche Voreinstellung
+# Datenschutz durch Technikgestaltung und datenschutzfreundliche Voreinstellungen
 
 ### 🌍 Einführung
 
-Die Grundsätze des **Datenschutzes durch Technikgestaltung** (_Privacy by Design_) und der **datenschutzfreundlichen Voreinstellung** (_Privacy by Default_) stehen im Mittelpunkt der **DSGVO**, festgelegt in [Artikel 25](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article25).\
+Die Grundsätze des **Datenschutzes durch Technikgestaltung** (_Privacy by Design_) und der **datenschutzfreundlichen Voreinstellung** (_Privacy by Default_) stehen im Mittelpunkt der **DSGVO**, festgelegt in [Artikel 25](https://dsgvo-gesetz.de/art-25-dsgvo/).\
 Sie zielen darauf ab, sicherzustellen, dass der **Schutz personenbezogener Daten** bereits **bei der Konzeption eines Projekts** integriert wird und dass die **Standardeinstellungen** das höchstmögliche Datenschutzniveau gewährleisten.
 
 > 🎯 Ziel: Risiken vorbeugen, bevor sie auftreten, und die Compliance in jeder Phase des Datenlebenszyklus nachweisen.
@@ -69,20 +70,20 @@ Der Ansatz muss **kontinuierlich** sein und in den **Lebenszyklus der Verarbeitu
 
 ### 🧱 Typische zu integrierende Maßnahmen
 
-| Ziel                         | Technische oder organisatorische Maßnahme                             |
-| ---------------------------- | --------------------------------------------------------------------- |
-| Daten minimieren             | Selektive Datenerhebung, Maskierung, automatische Löschung            |
-| Datenflüsse sichern          | Verschlüsselung, TLS, starke Authentifizierung, Zugriffsmanagement    |
-| Rechte wahren                | Portal zur Rechteverwaltung (DSR), Widerspruchsverfahren              |
-| Transparenz gewährleisten    | Datenschutzhinweise, Zugriffsprotokolle, klare Dokumentation          |
-| Rückverfolgbarkeit sichern   | Protokollierung der Verarbeitungen, regelmäßige Audits                |
-| Speicherdauer kontrollieren  | Bereinigung, Anonymisierung, gesicherte Zwischenarchivierung          |
+| Ziel                        | Technische oder organisatorische Maßnahme                          |
+| --------------------------- | ------------------------------------------------------------------ |
+| Daten minimieren            | Selektive Datenerhebung, Maskierung, automatische Löschung         |
+| Datenflüsse sichern         | Verschlüsselung, TLS, starke Authentifizierung, Zugriffsmanagement |
+| Rechte wahren               | Portal zur Rechteverwaltung (DSR), Widerspruchsverfahren           |
+| Transparenz gewährleisten   | Datenschutzhinweise, Zugriffsprotokolle, klare Dokumentation       |
+| Rückverfolgbarkeit sichern  | Protokollierung der Verarbeitungen, regelmäßige Audits             |
+| Speicherdauer kontrollieren | Bereinigung, Anonymisierung, gesicherte Zwischenarchivierung       |
 
 ***
 
 ### 🧠 Zusammenhang mit der Accountability (nachweisbare Verantwortlichkeit)
 
-**Privacy by Design** leitet sich direkt vom [Accountability-Prinzip (Artikel 5 DSGVO)](https://www.cnil.fr/fr/definition/accountability) ab.\
+**Privacy by Design** leitet sich direkt vom [Accountability-Prinzip (Artikel 5 DSGVO)](https://dsgvo-gesetz.de/art-5-dsgvo/) ab.\
 Der Verantwortliche muss **jederzeit** die Compliance seiner Verarbeitungen **nachweisen** können.
 
 > 💬 Das bedeutet: _"Nicht nur konform sein, sondern in der Lage sein, dies nachzuweisen."_

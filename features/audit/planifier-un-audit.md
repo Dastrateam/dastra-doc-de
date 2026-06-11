@@ -19,7 +19,7 @@ Es ist möglich, Personen, die den Fragebogen noch nicht beantwortet haben, erne
 
 Es ist möglich, den Fragebogen mit einem anderen spezifischen Modul zu verknüpfen. Weisen Sie dazu bei der Konfiguration Ihrer Fragebogenvorlage, nachdem Sie ihr einen Namen und eine Beschreibung gegeben haben, ein Element zu, das Gegenstand des Fragebogens sein wird.
 
-![Auswahl des bewerteten Elements in der Konfiguration](<../../.gitbook/assets/capture-web-6-5-2022-111340-app-dastra-eu.jpeg>)
+![Auswahl des bewerteten Elements in der Konfiguration](<../../.gitbook/assets/fragebögen konfig.png>)
 
 Wenn Ihr Fragebogen bereits erstellt wurde, ist es dennoch möglich, nachträglich ein Element zuzuweisen. Gehen Sie in den Fragebogen, klicken Sie auf die Schaltfläche "Vorlage bearbeiten" und dann auf die Schaltfläche "Konfigurieren" unterhalb der Schaltfläche "Speichern". Sie gelangen dann zurück zur ursprünglichen Konfigurationsregisterkarte der Vorlage.
 
@@ -27,13 +27,8 @@ Diese Objekte können Akteure, Assets, Anwendungen, Datenverarbeitungen, Datensc
 
 Wenn Sie dann Ihren Fragebogen planen, erscheint ein neues Feld "Mit dem Fragebogen verknüpftes Objekt". Der Selektor ermöglicht es Ihnen, genauer auszuwählen, mit welchem Objekt Sie den Fragebogen verknüpfen möchten.
 
-![Ein Beispiel für ein zugewiesenes Element: eine Datenverarbeitung](<../../.gitbook/assets/capture-web-6-5-2022-11277-app-dastra-eu.jpeg>)
+![Ein Beispiel für ein zugewiesenes Element: eine Datenverarbeitung](<../../.gitbook/assets/fragebögen konfig2.png>)
 
 {% hint style="info" %}
 Sie können einen Fragebogen nur mit einem einzigen Objekt in Dastra verknüpfen.
 {% endhint %}
-
-## Wie erstellt man einen Maßnahmenplan aus einem Fragebogen?
-
-## Wie validiert man einen Fragebogen?
-

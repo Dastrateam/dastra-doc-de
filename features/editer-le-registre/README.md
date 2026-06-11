@@ -6,7 +6,7 @@ description: Erfahren Sie, wie Sie Ihr Verarbeitungsverzeichnis mit Dastra bearb
 
 ## Einführung
 
-Das Verarbeitungsverzeichnis ermöglicht es Ihnen, eine Kartierung Ihrer **Datenverarbeitungen** vorzunehmen und einen **Gesamtüberblick** darüber zu erhalten, was Sie mit den betreffenden personenbezogenen Daten tun. Ein vollständiges Verarbeitungsverzeichnis zu führen ist eine **Pflicht** gemäß Artikel 30 der DSGVO, aber über den verpflichtenden Aspekt hinaus ist es vor allem ein **Instrument, um seine Daten besser zu kennen** und **die Wertschöpfungskette** zu beherrschen — von der Erzeugung bis zur Nutzung. &#x20;
+Das Verarbeitungsverzeichnis ermöglicht es Ihnen, eine Kartierung Ihrer **Datenverarbeitungen** vorzunehmen und einen **Gesamtüberblick** darüber zu erhalten, was Sie mit den betreffenden personenbezogenen Daten tun. Ein vollständiges Verarbeitungsverzeichnis zu führen ist eine **Pflicht** gemäß [Artikel 30 der DSGVO](https://dsgvo-gesetz.de/art-30-dsgvo/), aber über den verpflichtenden Aspekt hinaus ist es vor allem ein **Instrument, um seine Daten besser zu kennen** und **die Wertschöpfungskette** zu beherrschen — von der Erzeugung bis zur Nutzung.
 
 Bei Dastra sind wir der Meinung, dass es unsere Aufgabe ist, Ihnen die **Arbeit der Kartierung** der Verarbeitungen **zu erleichtern**, damit Sie sich auf Ihr Kerngeschäft konzentrieren können. Dafür begleiten wir Sie mit einem **intelligenten** Verzeichnis und **Fragebögen**, die Sie Schritt für Schritt bei der Erstellung Ihres Verzeichnisses führen.
 
@@ -14,15 +14,13 @@ Bei Dastra sind wir der Meinung, dass es unsere Aufgabe ist, Ihnen die **Arbeit 
 
 Die Funktion des Verarbeitungsverzeichnisses von Dastra erfüllt alle regulatorischen Anforderungen. Die Verzeichnisse, sowohl für den Verantwortlichen als auch für den Auftragsverarbeiter, basieren auf Referenzsystemen (Stakeholder, Assets, Datensätze, Daten, Risiken und Sicherheitsmaßnahmen), die es ermöglichen, **Ihre Verarbeitungen zu kartieren** und im Tagesgeschäft **Zeit zu sparen**.
 
-Die Verarbeitungen sind duplizierbar und Verarbeitungsvorlagen stehen in einer Bibliothek zur Verfügung, die allen unseren Nutzern frei zugänglich ist. Ein Workflow ist integriert, eine Suchfunktion ist nativ vorhanden, und es ist möglich, Verarbeitungsblätter in verschiedenen Formaten zu importieren / exportieren (PDF, Word, HTML, Excel, CSV, JSON). Es ist möglich, Anhänge, Datenschutzvorfälle oder Risiken an diese Verarbeitungen anzuhängen.&#x20;
-
-<figure><img src="../../.gitbook/assets/Capture d'écran 2023-01-24 à 15.11.37.png" alt=""><figcaption></figcaption></figure>
+Die Verarbeitungen sind duplizierbar und Verarbeitungsvorlagen stehen in einer Bibliothek zur Verfügung, die allen unseren Nutzern frei zugänglich ist. Ein Workflow ist integriert, eine Suchfunktion ist nativ vorhanden, und es ist möglich, Verarbeitungsblätter in verschiedenen Formaten zu importieren / exportieren (PDF, Word, HTML, Excel, CSV, JSON). Es ist möglich, Anhänge, Datenschutzvorfälle oder Risiken an diese Verarbeitungen anzuhängen.
 
 ## Verzeichnis "Verantwortlicher" versus "Auftragsverarbeiter"
 
-Artikel 30 der DSGVO sieht spezifische Pflichten für das _Verzeichnis des Verantwortlichen_ und für das _Verzeichnis des Auftragsverarbeiters_ vor. Wenn Ihre Organisation sowohl als Auftragsverarbeiter als auch als Verantwortlicher tätig ist, muss Ihr Verzeichnis daher die beiden Tätigkeitskategorien klar unterscheiden.
+[Artikel 30 der DSGVO](https://dsgvo-gesetz.de/art-30-dsgvo/) sieht spezifische Pflichten für das _Verzeichnis des Verantwortlichen_ und für das _Verzeichnis des Auftragsverarbeiters_ vor. Wenn Ihre Organisation sowohl als Auftragsverarbeiter als auch als Verantwortlicher tätig ist, muss Ihr Verzeichnis daher die beiden Tätigkeitskategorien klar unterscheiden.
 
-**In der Praxis empfiehlt die CNIL in diesem Fall, 2 Verzeichnisse zu führen:**
+**In der Praxis empfiehlt die Aufsichtsbehörde in diesem Fall, 2 Verzeichnisse zu führen:**
 
 1. eines für die Verarbeitungen personenbezogener Daten, für die Sie selbst verantwortlich sind,
 2. ein weiteres für die Verarbeitungen, die Sie als Auftragsverarbeiter für Ihre Kunden durchführen.
@@ -37,9 +35,9 @@ Artikel 30 der DSGVO sieht spezifische Pflichten für das _Verzeichnis des Veran
 
 ## Die verschiedenen Methoden zur Einrichtung des Verarbeitungsverzeichnisses
 
-Es gibt zwei Methoden, um ein Verarbeitungsblatt zu erstellen:&#x20;
+Es gibt zwei Methoden, um ein Verarbeitungsblatt zu erstellen:
 
-* **Top-Down-Ansatz (absteigend)**: Das Projekt beginnt mit der Inventarisierung der Datenverarbeitungen, und anschließend werden die spezifischen Informationen zu jeder Verarbeitung erfasst (Daten, Auftragsverarbeiter usw.).&#x20;
+* **Top-Down-Ansatz (absteigend)**: Das Projekt beginnt mit der Inventarisierung der Datenverarbeitungen, und anschließend werden die spezifischen Informationen zu jeder Verarbeitung erfasst (Daten, Auftragsverarbeiter usw.).
 * **Bottom-Up-Ansatz (aufsteigend)**: Man beginnt mit der Inventarisierung der Daten (Software, Datensätze und Felder personenbezogener Daten) und erstellt die Verarbeitungen auf dieser Grundlage.
 
 ### Welche Methode zur Einrichtung des Verzeichnisses wählen?
@@ -84,10 +82,9 @@ Wenn Sie lernen möchten, wie Sie das Verzeichnis teilen, klicken Sie hier:
 
 ## Weiterführende Informationen
 
-Hier finden Sie unser Webinar zum Verarbeitungsverzeichnis.&#x20;
+Hier finden Sie unser Webinar zum Verarbeitungsverzeichnis.
 
 Wie Sie bei der Verwaltung der Verarbeitungsverzeichnisse in den Betriebsmodus wechseln
-{% endembed %}
 
 {% content-ref url="../../rappels-utiles/rgpd-en-bref/registre-de-traitement.md" %}
 [registre-de-traitement.md](../../rappels-utiles/rgpd-en-bref/registre-de-traitement.md)

@@ -1,23 +1,27 @@
 ---
-description: Diese Seite erläutert die Funktionsweise der benutzerdefinierten Berichte von Dastra
+description: >-
+  Diese Seite erläutert die Funktionsweise der benutzerdefinierten Berichte von
+  Dastra
 ---
 
-# Benutzerdefinierte Berichte
+# Personalisierte Berichte
 
-Diese leistungsstarke Funktion ermöglicht es Ihnen, maßgeschneiderte Berichte zu erstellen, die auf Ihre spezifischen Bedürfnisse zugeschnitten sind. Ob Sie ein Anfänger oder ein fortgeschrittener Nutzer sind – diese benutzerfreundliche Funktion bietet Ihnen maximale Flexibilität, um wichtige Informationen aus den Dastra-Daten zu extrahieren.
+Diese leistungsstarke Funktion ermöglicht es Ihnen, personalisierte Berichte zu erstellen, die auf Ihre spezifischen Bedürfnisse zugeschnitten sind. Ob Sie ein Anfänger oder ein fortgeschrittener Nutzer sind – diese benutzerfreundliche Funktion bietet Ihnen maximale Flexibilität, um wichtige Informationen aus den Dastra-Daten zu extrahieren.
 
 ### Schnellstart
 
-1. Klicken Sie im linken Menü auf "Benutzerdefinierte Berichte"\
-   &#x20;![](<../../.gitbook/assets/image-292.png>)
-2. Die Berichte sind in einem Kategoriensystem organisiert. Bevor Sie Ihren ersten Bericht erstellen, müssen Sie **eine erste Kategorie anlegen**
-3. **Klicken Sie auf Bericht erstellen** und wählen Sie eine der beiden Optionen: Neuen Bericht erstellen oder aus einer Vorlage erstellen
+1. Klicken Sie im linken Menü auf "**Personalisierte Berichte**"
+
+<figure><img src="../../.gitbook/assets/Personalisierte Berichte.png" alt=""><figcaption></figcaption></figure>
+
+1. Die Berichte sind in einem Kategoriensystem organisiert. Bevor Sie Ihren ersten Bericht erstellen, müssen Sie **eine erste Kategorie anlegen**
+2. **Klicken Sie auf** "**Erstellen Sie ein Bericht**" und wählen Sie eine der beiden Optionen: Neuen Bericht erstellen oder aus einer Vorlage erstellen
 
 ## Glossar
 
 * **Metrik**: Eine Metrik ist ein messbarer Wert, der es ermöglicht, Elemente zu gruppieren (aggregieren). _Beispiel: Die Anzahl der Verarbeitungen, die durchschnittliche Bearbeitungsdauer einer Aufgabe..._
-* **Dimension**: Im Gegensatz zur Metrik ermöglicht die Dimension keine Aggregation der Daten. Es handelt sich um eine einfache Eigenschaft (= eine Spalte) eines Elements. \
-  &#xNAN;_&#x42;eispiel: der Name der Verarbeitung, der Status der Verarbeitung, die Referenz, ..._
+* **Dimension**: Im Gegensatz zur Metrik ermöglicht die Dimension keine Aggregation der Daten. Es handelt sich um eine einfache Eigenschaft (= eine Spalte) eines Elements.\
+  \&#xNAN;_Beispiel: der Name der Verarbeitung, der Status der Verarbeitung, die Referenz, ..._
 
 ## Aufbau des Berichts
 
@@ -34,9 +38,9 @@ Diese leistungsstarke Funktion ermöglicht es Ihnen, maßgeschneiderte Berichte 
 
 Wählen Sie die verschiedenen Datentabellen aus, die Sie abfragen möchten: Verarbeitungen, Verarbeitungsschritte, Zweck, Tags... Sie können **bis zu 6 verschiedene Tabellen in jedem Bericht** abfragen.
 
-<figure><img src="../../.gitbook/assets/image-293.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Personalisierte Berichte1.png" alt=""><figcaption></figcaption></figure>
 
-Klicken Sie auf "Weiter", wenn Sie die Tabellen ausgewählt haben
+Klicken Sie auf "**Weiter**", wenn Sie die Tabellen ausgewählt haben
 
 {% hint style="info" %}
 Achtung: Sobald die Tabellen ausgewählt sind, können Sie nicht mehr zurückgehen, um die betreffenden Tabellen zu ändern.
@@ -46,15 +50,15 @@ Achtung: Sobald die Tabellen ausgewählt sind, können Sie nicht mehr zurückgeh
 
 Erstellen Sie Ihren Bericht, indem Sie die Metriken und Dimensionen auswählen, die Sie anzeigen möchten.
 
-<figure><img src="../../.gitbook/assets/image-291.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Personalisierte Berichte2.png" alt=""><figcaption></figcaption></figure>
 
-Klicken Sie auf die Schaltfläche "Speichern" unten rechts auf der Seite
+Klicken Sie auf die Schaltfläche "**Anlegen und Fortfahren**" unten rechts auf der Seite
 
 {% hint style="info" %}
-Die Daten werden automatisch nach Dimensionen aggregiert, um die ausgewählten Metriken zu berechnen.&#x20;
+Die Daten werden automatisch nach Dimensionen aggregiert, um die ausgewählten Metriken zu berechnen.
 {% endhint %}
 
-Beispiel: Sie wählen die Variable "Anzahl Datenverarbeitungen" und "Status" aus und erhalten einen Bericht in folgender Form &#x20;
+Beispiel: Sie wählen die Variable "Anzahl Datenverarbeitungen" und "Status" aus und erhalten einen Bericht in folgender Form
 
 | Status  | Anzahl Datenverarbeitungen |
 | ------- | -------------------------- |
@@ -63,12 +67,12 @@ Beispiel: Sie wählen die Variable "Anzahl Datenverarbeitungen" und "Status" aus
 
 ## Anzeige und grafische Darstellung des benutzerdefinierten Berichts
 
-Sobald der Bericht erstellt wurde, werden Sie auf die folgende Seite weitergeleitet:&#x20;
+Sobald der Bericht erstellt wurde, werden Sie auf die folgende Seite weitergeleitet:
 
 <figure><img src="../../.gitbook/assets/image-290.png" alt=""><figcaption><p>Bildschirmaufnahme der Ergebnisse der benutzerdefinierten Berichte</p></figcaption></figure>
 
 Um ein Diagramm hinzuzufügen, klicken Sie auf "**Diagramm hinzufügen**".
 
-Sie können dann verschiedene Diagrammkategorien definieren.\
-![](<../../.gitbook/assets/image-289.png>)
+Sie können dann verschiedene Diagrammkategorien definieren.<br>
 
+<figure><img src="../../.gitbook/assets/image-289.png" alt=""><figcaption></figcaption></figure>

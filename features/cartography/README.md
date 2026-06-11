@@ -26,14 +26,13 @@ Sie möchten diese Inventarisierung nicht durchführen oder sind der Meinung, da
 ### So greifen Sie auf die Datenkartierung zu
 
 1. [Greifen Sie auf Ihren Mandanten zu](../../getting-started/setup/espace-de-travail.md#accedez-a-un-espace-de-travail)
-2. Klicken Sie in der Navigation auf das Symbol "Datenkartierung"
+2. Klicken Sie in der Navigation auf das Symbol "**Metadaten**"
 3. Sie gelangen auf diese Seite:
 
-<figure><img src="../../.gitbook/assets/image-378.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Metadaten.png" alt=""><figcaption></figcaption></figure>
 
 Wählen Sie dann das Referenzsystem, auf das Sie zugreifen möchten.
 
-## Erstellen Sie Ihre Liste der Sicherheitsmaßnahmen&#x20;
+## Erstellen Sie Ihre Liste der Sicherheitsmaßnahmen
 
 ## Wie verwaltet man seine Auftragsverarbeiter?
-

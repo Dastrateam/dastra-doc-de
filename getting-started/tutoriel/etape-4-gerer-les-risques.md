@@ -1,4 +1,4 @@
-# Schritt 3: Risiken managen
+# Schritt 3: Risiken verwalten
 
 Das Risikomanagement in Dastra kann verschiedene Formen annehmen:
 
@@ -8,7 +8,7 @@ Das Risikomanagement in Dastra kann verschiedene Formen annehmen:
 
 ### Die Datenschutz-Folgenabschätzung
 
-Wenn Sie Verarbeitungen personenbezogener Daten identifiziert haben, die voraussichtlich ein hohes Risiko für die Rechte und Freiheiten der betroffenen Personen mit sich bringen, müssen Sie für jede dieser Verarbeitungen eine [Datenschutz-Folgenabschätzung](https://www.cnil.fr/fr/gerer-les-risques) (DSFA) durchführen.
+Wenn Sie Verarbeitungen personenbezogener Daten identifiziert haben, die voraussichtlich ein hohes Risiko für die Rechte und Freiheiten der betroffenen Personen mit sich bringen, müssen Sie für jede dieser Verarbeitungen eine [Datenschutz-Folgenabschätzung](https://dsgvo-gesetz.de/themen/datenschutz-folgenabschaetzung/) (DSFA) durchführen.
 
 {% hint style="info" %}
 Die Durchführung einer DSFA ist obligatorisch für jede Verarbeitung, die voraussichtlich ein hohes Risiko für die Rechte und Freiheiten der betroffenen Personen mit sich bringt (Artikel 35 der DSGVO).
@@ -28,15 +28,15 @@ Um Ihnen bei der Bestimmung zu helfen, ob Ihre Verarbeitung voraussichtlich ein 
 
 Diese Kriterien sind direkt in unseren Workflow zur Erstellung einer Datenverarbeitung integriert, und Sie können für jede Ihrer Verarbeitungen angeben, ob eine DSFA dafür durchzuführen ist oder nicht.
 
-![Beispiel einer Verarbeitung, die potenziell eine DSFA erfordert.](<../../.gitbook/assets/image-23.png>)
+![Beispiel einer Verarbeitung, die potenziell eine DSFA erfordert.](<../../.gitbook/assets/dsfa verarbeitung.png>)
 
 ### Die Identifizierung und Bewertung von Risiken
 
-Das Risiko-Modul in Dastra ermöglicht es Ihnen, Risiken auf Ebene Ihrer Verarbeitungen, Ihrer Stakeholder (z. B. Auftragsverarbeiter) und Ihrer Assets zu managen.&#x20;
+Das Risiko-Modul in Dastra ermöglicht es Ihnen, Risiken auf Ebene Ihrer Verarbeitungen, Ihrer Stakeholder (z. B. Auftragsverarbeiter) und Ihrer Assets zu managen.
 
-Die Methodik des Risikomanagements entspricht den Standardanforderungen des Risikomanagements für Informationssysteme.&#x20;
+Die Methodik des Risikomanagements entspricht den Standardanforderungen des Risikomanagements für Informationssysteme.
 
-4 Schritte sind zu befolgen:&#x20;
+4 Schritte sind zu befolgen:
 
 1: Risikoidentifizierung
 
@@ -46,7 +46,7 @@ Die Methodik des Risikomanagements entspricht den Standardanforderungen des Risi
 
 4: Risikoüberwachung
 
-Das Risiko wird allgemein wie folgt gemessen:&#x20;
+Das Risiko wird allgemein wie folgt gemessen:
 
 $$
 Risiko  = Wahrscheinlichkeit  * Auswirkung

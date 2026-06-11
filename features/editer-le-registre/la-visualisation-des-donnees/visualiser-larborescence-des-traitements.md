@@ -1,8 +1,10 @@
 ---
-description: Erfahren Sie, wie Sie die Baumstruktur der Verarbeitungen in Dastra visualisieren.
+description: >-
+  Erfahren Sie, wie Sie die Baumstruktur der Verarbeitungen in Dastra
+  visualisieren.
 ---
 
-# Baumstruktur der Verarbeitungen visualisieren
+# Baumstruktur der Verarbeitungen anzeigen
 
 ## Einführung
 
@@ -14,13 +16,13 @@ Diese Visualisierung ermöglicht es insbesondere zu verstehen, welchen Entitäte
 
 Um die Baumstruktur der Verarbeitungen zu visualisieren, klicken Sie auf das Modul "Verzeichnis" und dann auf den Pfeil rechts neben der Schaltfläche, um die Option "**Baumstruktur**" auszuwählen.
 
-![Modul "Verzeichnis"](<../../../.gitbook/assets/image-199.png>)
+![Modul "Verarbeitungsverzeichnis"](../../../.gitbook/assets/2.png)
 
-![Pfeil rechts neben der Schaltfläche & Dropdown-Menü](<../../../.gitbook/assets/capture-web-4-5-2022-95947-app-dastra-eu.jpeg>)
+![Pfeil rechts neben der Schaltfläche & Dropdown-Menü](../../../.gitbook/assets/struktur.png)
 
 So können Sie die **Baumstruktur der Verarbeitungen** visualisieren.
 
-![Die Baumstruktur der Verarbeitungen in Dastra](<../../../.gitbook/assets/image-211.png>)
+![Die Baumstruktur der Verarbeitungen in Dastra](../../../.gitbook/assets/struktur2.png)
 
 {% hint style="info" %}
 Die Filter und die Einstellungsschaltfläche ermöglichen es Ihnen, die Visualisierung der Baumstruktur nach Ihren Wünschen anzupassen.

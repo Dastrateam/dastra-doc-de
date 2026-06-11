@@ -33,14 +33,14 @@ Bevor Maßnahmen gewählt werden, müssen Sie:
 
 Wirken direkt auf die Informationssysteme.
 
-| Bereich                              | Beispiele                                                                   |
-| ------------------------------------ | --------------------------------------------------------------------------- |
-| **Zugriffskontrolle**                | Starke Authentifizierung (MFA), Berechtigungsmanagement, Protokollierung    |
-| **Verschlüsselung**                  | Daten im Ruhezustand und bei der Übertragung, TLS-Zertifikate, verwaltete und erneuerte Schlüssel |
-| **Pseudonymisierung / Anonymisierung** | Logische Trennung, Hashing, Token                                         |
-| **Sicherung und Belastbarkeit**      | Regelmäßige Backups, Wiederherstellungstests, Redundanz                     |
-| **Anwendungssicherheit**             | Penetrationstests, Patches, Serverhärtung                                   |
-| **Überwachung**                      | SIEM, Warnungen bei abnormalem Zugriff, Vorfallserkennung                   |
+| Bereich                                | Beispiele                                                                                         |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Zugriffskontrolle**                  | Starke Authentifizierung (MFA), Berechtigungsmanagement, Protokollierung                          |
+| **Verschlüsselung**                    | Daten im Ruhezustand und bei der Übertragung, TLS-Zertifikate, verwaltete und erneuerte Schlüssel |
+| **Pseudonymisierung / Anonymisierung** | Logische Trennung, Hashing, Token                                                                 |
+| **Sicherung und Belastbarkeit**        | Regelmäßige Backups, Wiederherstellungstests, Redundanz                                           |
+| **Anwendungssicherheit**               | Penetrationstests, Patches, Serverhärtung                                                         |
+| **Überwachung**                        | SIEM, Warnungen bei abnormalem Zugriff, Vorfallserkennung                                         |
 
 ***
 
@@ -48,12 +48,12 @@ Wirken direkt auf die Informationssysteme.
 
 Strukturieren die Governance und das interne Verhalten.
 
-| Bereich                          | Beispiele                                                                        |
-| -------------------------------- | -------------------------------------------------------------------------------- |
-| **Sicherheitsrichtlinie**        | IT-Charta, IT-Sicherheits-Governance, Vorfallmanagementplan                      |
-| **Schulung und Sensibilisierung** | Interne Kampagnen, E-Learning-Module, Phishing-Simulationen                     |
-| **Drittmanagement**              | Vertragsklauseln, Audits von Auftragsverarbeitern, regelmäßige Bewertungen       |
-| **Interne Verfahren**            | Berechtigungsprozess, Notfallwiederherstellungsplan (BCP/DRP), regelmäßige Überprüfung |
+| Bereich                           | Beispiele                                                                              |
+| --------------------------------- | -------------------------------------------------------------------------------------- |
+| **Sicherheitsrichtlinie**         | IT-Charta, IT-Sicherheits-Governance, Vorfallmanagementplan                            |
+| **Schulung und Sensibilisierung** | Interne Kampagnen, E-Learning-Module, Phishing-Simulationen                            |
+| **Drittmanagement**               | Vertragsklauseln, Audits von Auftragsverarbeitern, regelmäßige Bewertungen             |
+| **Interne Verfahren**             | Berechtigungsprozess, Notfallwiederherstellungsplan (BCP/DRP), regelmäßige Überprüfung |
 
 ***
 
@@ -61,11 +61,11 @@ Strukturieren die Governance und das interne Verhalten.
 
 Schützen Räumlichkeiten, Geräte und materielle Datenträger.
 
-| Bereich                   | Beispiele                                                       |
-| ------------------------- | --------------------------------------------------------------- |
-| **Physischer Zugang**     | Ausweiskontrolle, Kameras, Bereiche mit beschränktem Zugang     |
-| **Materieller Schutz**    | Tresore, gesicherte Racks, Notstromversorgung                   |
-| **Sichere Vernichtung**   | Schreddern, zertifiziertes Löschen, IT-Entsorgungsmanagement    |
+| Bereich                 | Beispiele                                                    |
+| ----------------------- | ------------------------------------------------------------ |
+| **Physischer Zugang**   | Ausweiskontrolle, Kameras, Bereiche mit beschränktem Zugang  |
+| **Materieller Schutz**  | Tresore, gesicherte Racks, Notstromversorgung                |
+| **Sichere Vernichtung** | Schreddern, zertifiziertes Löschen, IT-Entsorgungsmanagement |
 
 ***
 
@@ -93,9 +93,7 @@ Dastra erleichtert die **Dokumentation, Bewertung und Nachverfolgung** der Siche
 
 ### 📚 Nützliche Ressourcen
 
-* [CNIL-Leitfaden – Sicherheit personenbezogener Daten](https://www.cnil.fr/fr/principes-cles/guide-de-la-securite-des-donnees-personnelles)
-* [ISO/IEC 27001 – Informationssicherheits-Managementsysteme](https://www.iso.org/fr/isoiec-27001-information-security.html)
-* [ANSSI – Empfehlungen zur IT-Sicherheit](https://www.ssi.gouv.fr/)
+* [ISO/IEC 27001 – Informationssicherheits-Managementsysteme](https://www.dinmedia.de/de/norm/iso-iec-27001/360980333)
 
 ***
 

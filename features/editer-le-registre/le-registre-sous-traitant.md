@@ -1,14 +1,16 @@
 ---
-description: Erfahren Sie, wie Sie das Verzeichnis "Auftragsverarbeiter" in Dastra verwenden.
+description: >-
+  Erfahren Sie, wie Sie das Verzeichnis "Auftragsverarbeiter" in Dastra
+  verwenden.
 ---
 
-# Verzeichnis "Auftragsverarbeiter"
+# Verzeichnis „Auftragsverarbeiter"
 
 ## Einführung
 
-Artikel 30 der DSGVO sieht spezifische Pflichten für das _Verzeichnis des Verantwortlichen_ für die Verarbeitung personenbezogener Daten und für das _Verzeichnis des Auftragsverarbeiters_ vor. Wenn Ihre Organisation sowohl als Auftragsverarbeiter als auch als Verantwortlicher tätig ist, muss Ihr Verzeichnis daher die beiden Tätigkeitskategorien klar unterscheiden.
+[Artikel 30 der DSGVO](https://dsgvo-gesetz.de/art-30-dsgvo/) sieht spezifische Pflichten für das _Verzeichnis des Verantwortlichen_ für die Verarbeitung personenbezogener Daten und für das _Verzeichnis des Auftragsverarbeiters_ vor. Wenn Ihre Organisation sowohl als Auftragsverarbeiter als auch als Verantwortlicher tätig ist, muss Ihr Verzeichnis daher die beiden Tätigkeitskategorien klar unterscheiden.
 
-**In der Praxis empfiehlt die CNIL in diesem Fall, 2 Verzeichnisse zu führen:**
+**In der Praxis empfiehlt die Aufsichtsbehörde in diesem Fall, 2 Verzeichnisse zu führen:**
 
 1. eines für die Verarbeitungen personenbezogener Daten, für die Sie selbst verantwortlich sind,
 2. ein weiteres für die Verarbeitungen, die Sie als Auftragsverarbeiter für Ihre Kunden durchführen.
@@ -17,18 +19,18 @@ Der Rest dieser Seite behandelt ausschließlich das Verzeichnis "Auftragsverarbe
 
 ## Das Verzeichnis Auftragsverarbeiter
 
-Jeder Auftragsverarbeiter ist verpflichtet, ein weniger umfangreiches Verzeichnis zu führen.&#x20;
+Jeder Auftragsverarbeiter ist verpflichtet, ein weniger umfangreiches Verzeichnis zu führen.
 
-Dieses enthält:&#x20;
+Dieses enthält:
 
-* die **Kontaktdaten des Auftragsverarbeiters**, seines Vertreters (falls zutreffend) und seines Datenschutzbeauftragten&#x20;
+* die **Kontaktdaten des Auftragsverarbeiters**, seines Vertreters (falls zutreffend) und seines Datenschutzbeauftragten
 * die **Kontaktdaten aller Verantwortlichen, für die der Auftragsverarbeiter tätig ist** (in der Regel die Kunden)
 * die **Datenkategorien**, die verarbeitet werden
-* die **Empfänger**&#x20;
+* die **Empfänger**
 * die **Datenübermittlungen** außerhalb des EWR
 * die **Sicherheitsmaßnahmen**
 
-![Die verschiedenen Abschnitte einer Verarbeitung "Auftragsverarbeiter" in Dastra](<../../.gitbook/assets/screenshot-2025-04-25-154348.png>)
+![Die verschiedenen Abschnitte einer Verarbeitung "Auftragsverarbeiter" in Dastra](<../../.gitbook/assets/Abschnitte einer Verarbeitung Auftragsverarbeiter.png>)
 
 ***
 

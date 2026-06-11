@@ -1,10 +1,10 @@
 ---
 description: >-
-  Die Geltungsbereiche ermöglichen die Definition des organisatorischen
-  Anwendungsbereichs der Compliance-Projekte.
+  Die Scopes ermöglichen die Definition des organisatorischen Anwendungsbereichs
+  der Compliance-Projekte.
 ---
 
-# Geltungsbereiche
+# Scopes
 
 Sie dienen dazu, **Organisationseinheiten** zu gruppieren, um einen Compliance-Ansatz auf die gesamte Organisation oder Teile davon anzuwenden.
 
@@ -14,16 +14,16 @@ Ein Geltungsbereich beantwortet eine einfache Frage:
 
 ***
 
-### Rolle der Geltungsbereiche in Dastra
+### Rolle der Scopes in Dastra
 
-In Dastra werden die Geltungsbereiche ausschließlich in den **Compliance-Projekten** verwendet.\
+In Dastra werden die Scopes ausschließlich in den **Compliance-Projekten** verwendet.\
 Sie ermöglichen:
 
 * die betroffenen Einheiten gezielt anzusprechen,
 * die Anforderungen, Kontrollen und Tests auf die richtige Ebene abzustimmen,
 * die Compliance entsprechend der organisatorischen Realität zu strukturieren.
 
-👉 Ein Geltungsbereich ändert nicht die Frameworks:\
+👉 Ein Scope ändert nicht die Frameworks:\
 er **bestimmt, wo** die Compliance gilt, nicht **was** gilt.
 
 ***
@@ -42,21 +42,21 @@ Die Organisationseinheiten können einzeln oder in Gruppen ausgewählt werden, u
 
 ***
 
-### Erstellung eines Geltungsbereichs
+### Erstellung eines Scopes
 
-Bei der Erstellung eines Geltungsbereichs gibt der Nutzer an:
+Bei der Erstellung eines Scopes gibt der Nutzer an:
 
-* **den Namen des Geltungsbereichs** (z. B. _Global_, _IT & Sicherheit_)
+* **den Namen des Scopes** (z. B. _Global_, _IT & Sicherheit_)
 * eine **optionale Beschreibung**
-* die im Geltungsbereich enthaltenen **Organisationseinheiten** (Pflichtfeld)
+* die im Scope enthaltenen **Organisationseinheiten** (Pflichtfeld)
 
-<figure><img src="../../.gitbook/assets/image-456.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Compliance29.png" alt=""><figcaption></figcaption></figure>
 
-👉 Ein Geltungsbereich muss immer **mindestens eine Organisationseinheit** enthalten.
+👉 Ein Scope muss immer **mindestens eine Organisationseinheit** enthalten.
 
 ***
 
-### Beispiel eines Geltungsbereichs
+### Beispiel eines Scopes
 
 📌 Beispiel:
 
@@ -69,22 +69,22 @@ Bei der Erstellung eines Geltungsbereichs gibt der Nutzer an:
   * Factory
   * Sub / Service
 
-Dieser Geltungsbereich kann anschließend in einem Compliance-Projekt ausgewählt werden, um anzugeben, dass dieses für die gesamte Organisation gilt.
+Dieser Scope kann anschließend in einem Compliance-Projekt ausgewählt werden, um anzugeben, dass dieses für die gesamte Organisation gilt.
 
 ***
 
 ### Best Practices
 
-* Einen **globalen Geltungsbereich** für übergreifende Ansätze erstellen
-* **Eingeschränktere Geltungsbereiche** für gezielte Projekte erstellen
-* Geltungsbereiche zwischen Projekten wiederverwenden, um Kohärenz zu gewährleisten
-* Geltungsbereiche eindeutig und fachlich benennen
+* Einen **globalen Scope** für übergreifende Ansätze erstellen
+* **Eingeschränktere Scopes** für gezielte Projekte erstellen
+* Scopes zwischen Projekten wiederverwenden, um Kohärenz zu gewährleisten
+* Scopes eindeutig und fachlich benennen
 
 ***
 
 ### Verbindung mit Compliance-Projekten
 
-Die Geltungsbereiche werden **bei der Erstellung eines Compliance-Projekts** ausgewählt.
+Die Scopes werden **bei der Erstellung eines Compliance-Projekts** ausgewählt.
 
 Sie ermöglichen:
 
@@ -96,5 +96,5 @@ Sie ermöglichen:
 
 ### Zusammenfassung
 
-Die Geltungsbereiche sind ein **organisatorisches Rahmenwerkzeug**.\
+Die Scopes sind ein **organisatorisches Rahmenwerkzeug**.\
 Sie ermöglichen die Ausrichtung der Compliance an der tatsächlichen Unternehmensstruktur, ohne die Referenzrahmen zu verkomplizieren.

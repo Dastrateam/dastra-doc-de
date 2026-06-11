@@ -6,7 +6,7 @@ description: ServiceNow-Integration zur Synchronisierung von Assets in Dastra
 
 ### Was ist ServiceNow?
 
-Die [ServiceNow](https://www.servicenow.com/)-Integration ermöglicht die **automatische Synchronisierung von Geschäftsanwendungen** aus der ServiceNow-CMDB direkt in Dastra.
+Die [ServiceNow](https://www.servicenow.com/de/)-Integration ermöglicht die **automatische Synchronisierung von Geschäftsanwendungen** aus der ServiceNow-CMDB direkt in Dastra.
 
 Sie ermöglicht:
 
@@ -39,18 +39,18 @@ Der Einrichtungsprozess ist sehr einfach:
     Diese Informationen ermöglichen es Dastra, einen gesicherten Zugriffstoken für die Kommunikation mit Ihrer ServiceNow-Instanz zu generieren.
 4.
 
-    <figure><img src="../../.gitbook/assets/setupservicenowaccount.png" alt=""><figcaption></figcaption></figure>
+```
+<figure><img src="../../.gitbook/assets/setupservicenowaccount.png" alt=""><figcaption></figcaption></figure>
+```
 
 4. Nach der Validierung wird ein Konfigurationsfenster angezeigt. Dieser Schritt ist **obligatorisch**, um die Installation abzuschließen.
-
-<figure><img src="../../.gitbook/assets/settingsservicenow.png" alt=""><figcaption></figcaption></figure>
 
 ### Konfiguration
 
 * Geben Sie die **URL Ihrer ServiceNow-Instanz** ein
 * Entscheiden Sie, ob Sie die Synchronisierung der Assets einrichten möchten. (Die mit ServiceNow synchronisierten Assets werden jede Nacht um 00:00 UTC aktualisiert)
 * Wählen Sie die Personen aus, die bei Änderung/Erstellung von Assets benachrichtigt werden sollen. Die Person erhält eine Benachrichtigungs-E-Mail mit Informationen über die aktualisierten Assets.
-* Das Aktivieren von "Create new assets if not exists" hat zur Folge, dass ein Asset erstellt wird, wenn es in Dastra nicht vorhanden ist, basierend auf der externen Referenz.&#x20;
+* Das Aktivieren von "Create new assets if not exists" hat zur Folge, dass ein Asset erstellt wird, wenn es in Dastra nicht vorhanden ist, basierend auf der externen Referenz.
 
 {% hint style="info" %}
 Achtung: Wenn Sie dieses Kontrollkästchen aktivieren, wird eine große Anzahl von Assets automatisch in Ihrem Mandanten erstellt. Stellen Sie sicher, dass die externen Referenzen korrekt angegeben sind.

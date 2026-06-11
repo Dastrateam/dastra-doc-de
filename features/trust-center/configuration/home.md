@@ -1,8 +1,8 @@
 # Startseite und allgemeine Konfiguration
 
-Die Registerkarte 'Konfiguration' auf der Bearbeitungsseite eines Trust Centers ermöglicht es Ihnen, die wesentlichen Optionen Ihres Trust Centers zu konfigurieren.
+Die Registerkarte '**Konfiguration**' auf der Bearbeitungsseite eines Trust Centers ermöglicht es Ihnen, die wesentlichen Optionen Ihres Trust Centers zu konfigurieren.
 
-<figure><img src="../../../.gitbook/assets/image-392.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/trust center6.png" alt=""><figcaption></figcaption></figure>
 
 #### Name des Trust Centers
 
@@ -18,7 +18,7 @@ Dieses Rich-Text-Feld (HTML) ermöglicht es Ihnen, die Willkommensnachricht mit 
 
 #### Funktionen des Trust Centers
 
-In diesem Abschnitt wählen Sie die im Trust Center zu aktivierenden Funktionen aus (je nach den in Ihrem Abonnement enthaltenen Optionen). Durch Aktivieren des Kontrollkästchens einer Funktion wird diese in Ihrem Hub verfügbar. Wenn eine spezifische Konfiguration erforderlich ist, wird durch das Aktivieren des Kontrollkästchens ein Akkordeon mit Einstellungen freigeschaltet, sodass Sie die Konfiguration direkt von der Bearbeitungsseite des Privacy Hubs aus vornehmen können. Konsultieren Sie die nachstehenden Dokumentationsseiten für Details zur Konfiguration jeder Funktion.
+In diesem Abschnitt wählen Sie die im Trust Center zu aktivierenden Funktionen aus (je nach den in Ihrem Abonnement enthaltenen Optionen). Durch Aktivieren des Kontrollkästchens einer Funktion wird diese in Ihrem Trust Center verfügbar. Wenn eine spezifische Konfiguration erforderlich ist, wird durch das Aktivieren des Kontrollkästchens ein weiterer Abschnitt mit Einstellungen geöffnet, sodass Sie die Konfiguration direkt von der Bearbeitungsseite des Privacy Hubs aus vornehmen können. Besuchen Sie die nachstehenden Dokumentationsseiten für Details zur Konfiguration jeder Funktion.
 
 #### Schnelllinks
 

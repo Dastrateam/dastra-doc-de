@@ -16,7 +16,7 @@ Ein Nutzer (**User Agent**) fordert eine Verbindung beim Dienstanbieter (**Servi
 
 In unserem Fall ist der User Agent der **Browser eines Dastra-Nutzers**. Der Service Provider ist **Dastra** und der Identity Provider ist Ihr **bevorzugter Authentifizierungsanbieter** (zum Beispiel: Active Directory).
 
-![Funktionsprinzip des SSO unter Verwendung des SAML-2-Protokolls](<../../../.gitbook/assets/image-114.png>)
+![Funktionsprinzip des SSO unter Verwendung des SAML-2-Protokolls](../../../.gitbook/assets/image-114.png)
 
 ## Einrichtung
 
@@ -49,7 +49,7 @@ Dastra bietet zwei Protokolle für die einmalige Anmeldung an: [**SAML 2**](saml
 
 <figure><img src="../../../.gitbook/assets/image-405.png" alt=""><figcaption></figcaption></figure>
 
-### Verwaltung von vom SSO-Login befreiten Nutzern
+### Verwaltung von SSO-Login befreiten Nutzern
 
 In bestimmten Fällen möchten Sie **das SSO für bestimmte Nutzer deaktivieren** (zum Beispiel ein Sicherheitsadministrator, ein Dienstkonto, ein Nutzer, der sich nicht in Ihrem Active Directory befindet...). In diesem Fall ist es möglich, spezifische Nutzer anzugeben, die nicht zum SSO-Login Ihrer Organisation weitergeleitet werden. Es wird empfohlen, einen Nutzer mit einem lokalen Dienstkonto zu benennen, um Fehlfunktionen des SSO zu handhaben, beispielsweise bei einem Ausfall des Identitätsanbieters oder einem Konfigurationsproblem.
 
@@ -85,7 +85,7 @@ Wenn das Konto des Nutzers im Authentifizierungsanbieter gelöscht oder ungülti
 
 Sie können **die standardmäßig zugewiesene Rolle** für alle mit Ihrem Abonnement verknüpften Organisationen wählen.
 
-![](<../../../.gitbook/assets/image-124.png>)
+![](../../../.gitbook/assets/image-124.png)
 
 {% hint style="info" %}
 Derzeit unterstützt Dastra nicht das Binding von Rollen über die Eigenschaften des Authentifizierungsservers. Wenn diese Funktionalität wichtig ist, können Sie uns dies über die [Support-Seite](https://app.dastra.eu/general-settings/support) mitteilen.
@@ -101,7 +101,7 @@ Es ist möglich, die Teams eines Mandanten an eine Eigenschaft (Claim) zu binden
 
 Sie können den Login-Typ der Nutzer konfigurieren, indem Sie die [Nutzerverwaltungsseite des Abonnements](https://app.dastra.eu/general-settings/users) aufrufen. Wenn Sie ein Nutzerprofil aufrufen, können Sie den bevorzugten SSO-Login auswählen. Sobald der Nutzer sich mit seiner E-Mail-Adresse bei Dastra anmeldet, wird er automatisch zur Login-Seite des von Ihnen eingerichteten Authentifizierungsanbieters weitergeleitet.
 
-![](<../../../.gitbook/assets/image-118.png>)
+![](../../../.gitbook/assets/image-118.png)
 
 Sie können den Login-Typ auch bei der Einladung neuer Nutzer festlegen.
 

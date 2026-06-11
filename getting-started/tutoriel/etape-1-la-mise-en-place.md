@@ -1,6 +1,6 @@
 # Schritt 1: Die Einrichtung
 
-Zunächst haben Sie sich über die [Rolle des DSB](https://www.cnil.fr/fr/designer-un-pilote) und die zu erfüllenden Voraussetzungen für die Benennung eines DSB informiert und entscheiden dann, ob es angebracht ist, einen [DSB zu benennen](https://www.cnil.fr/fr/designation-dpo) oder nicht.
+Zunächst haben Sie sich über die [Rolle des DSB](https://dsgvo-gesetz.de/art-39-dsgvo/) und die zu erfüllenden Voraussetzungen für die Benennung eines DSB informiert und entscheiden dann, ob es angebracht ist, einen [DSB zu benennen](https://dsgvo-gesetz.de/art-37-dsgvo/) oder nicht.
 
 Ihre Wahl fällt auf einen Mitarbeiter (DSB oder nicht), der seinerseits ein Netzwerk von DSGVO-Ansprechpartnern in den verschiedenen Fachbereichen des Unternehmens definiert und leitet.
 

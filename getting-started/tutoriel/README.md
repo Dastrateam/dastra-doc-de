@@ -1,5 +1,7 @@
 ---
-description: Lernen Sie Schritt für Schritt anhand eines konkreten Beispiels, wie Sie Dastra nutzen.
+description: >-
+  Lernen Sie Schritt für Schritt anhand eines konkreten Beispiels, wie Sie
+  Dastra nutzen.
 ---
 
 # Tutorial
@@ -19,13 +21,13 @@ In diesem Szenario sind Sie Geschäftsführer von SHIPBUILDER, einer Organisatio
 * HR
 * Generalsekretariat
 * Produktion
-* Marketing & Vertrieb&#x20;
+* Marketing & Vertrieb
 * Sicherheit
 * IT
 * Recht
 * Einkauf
 
-Sie haben beschlossen, Ihr Unternehmen in Übereinstimmung mit der Datenschutz-Grundverordnung (DSGVO) zu bringen. Nachdem Sie den [Artikel der CNIL zur DSGVO-Vorbereitung in sechs Schritten](https://www.cnil.fr/fr/principes-cles/rgpd-se-preparer-en-6-etapes) gelesen haben, beginnen Sie ohne weitere Verzögerung.
+Sie haben beschlossen, Ihr Unternehmen in Übereinstimmung mit der Datenschutz-Grundverordnung (DSGVO) zu bringen.
 
 Beginnen Sie mit der Einrichtung Ihres Mandanten in Dastra:
 
@@ -57,7 +59,7 @@ Implementieren Sie die im Sinne der DSGVO obligatorischen Prozesse:
 [etape-5-implementer-les-processus-internes.md](etape-5-implementer-les-processus-internes.md)
 {% endcontent-ref %}
 
-Zentralisieren Sie schließlich die Dokumentation Ihrer Compliance, insbesondere um möglichen Kontrollen durch die Aufsichtsbehörde (wie die CNIL) standzuhalten, und liefern Sie den operativen Teams ergänzende Informationen:
+Zentralisieren Sie schließlich die Dokumentation Ihrer Compliance, insbesondere um möglichen Kontrollen durch die Aufsichtsbehörde standzuhalten, und liefern Sie den operativen Teams ergänzende Informationen:
 
 {% content-ref url="etape-6-documenter-la-conformite.md" %}
 [etape-6-documenter-la-conformite.md](etape-6-documenter-la-conformite.md)

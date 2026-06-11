@@ -1,5 +1,7 @@
 ---
-description: Erfahren Sie, wie Sie generische Beziehungen zwischen Elementen in Dastra erstellen.
+description: >-
+  Erfahren Sie, wie Sie generische Beziehungen zwischen Elementen in Dastra
+  erstellen.
 ---
 
 # Generische Beziehungen
@@ -39,7 +41,7 @@ Sie werden hauptsächlich im Modul **Assets** und in den **Referenzsystemen** (D
 
 <figure><img src="../../.gitbook/assets/image-1-1-1-4.png" alt=""><figcaption></figcaption></figure>
 
-3. Klicken Sie auf **"Beziehung hinzufügen"** und wählen Sie den Objekttyp, der verknüpft werden soll (Stakeholder, Sicherheitsmaßnahme, Datenschutzvorfall, Asset, Datensatz oder Risiko).
+3. Klicken Sie auf **"Eine Beziehung hinzufügen"** und wählen Sie den Objekttyp, der verknüpft werden soll (Stakeholder, Sicherheitsmaßnahme, Datenschutzvorfall, Asset, Datensatz oder Risiko).
 4. Im Dialogfenster:
    * Aktivieren Sie **"Umgekehrte Beziehung"**, wenn die Richtung umgekehrt werden soll.
    * Wählen Sie **"Bestehendes Element"**, um ein bereits in Dastra vorhandenes Element zu verknüpfen, oder **"Element erstellen"**, um eines ad hoc zu erstellen.
@@ -47,7 +49,7 @@ Sie werden hauptsächlich im Modul **Assets** und in den **Referenzsystemen** (D
    * Fügen Sie optional eine **Beziehungsbezeichnung** und eine **Zusammenfassung** hinzu.
 5. Klicken Sie auf **"Hinzufügen"**, um die Beziehung zu speichern.
 
-<figure><img src="../../.gitbook/assets/image-2-1-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Eine Beziehung hinzufügen.png" alt=""><figcaption></figcaption></figure>
 
 ## Beziehungen visualisieren
 
@@ -56,10 +58,10 @@ Sobald die Beziehungen erstellt sind, erscheinen sie in:
 * Dem Panel **"Verknüpfte Elemente"** jedes Elements, das alle direkten Verknüpfungen anzeigt.
 * Dem **Knotengraph** in der Datenkartierungsansicht, in dem alle Beziehungen als verbundenes Netzwerk dargestellt werden.
 
-<figure><img src="../../.gitbook/assets/image-4-7.png" alt=""><figcaption><p>Beispiel einer grafischen Visualisierung einer generischen Beziehung in der Datenkartierung</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Data Mapping.png" alt=""><figcaption><p>Beispiele einer grafischen Visualisierung generischer Beziehungen im Data Mapping</p></figcaption></figure>
 
 ## Weiterführende Informationen
 
-{% content-ref url="../cartography/README.md" %}
-[cartography](../cartography/README.md)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}

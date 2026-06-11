@@ -6,7 +6,7 @@ description: Erfahren Sie, wie Sie Meldungen von Datenschutzvorfällen nachverfo
 
 ### 📖 Definition
 
-Gemäß [Artikel 4.12 der DSGVO](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4) ist\
+Gemäß [Artikel 4.12 der DSGVO](https://dsgvo-gesetz.de/art-4-dsgvo/) ist\
 ein **Datenschutzvorfall** (Verletzung des Schutzes personenbezogener Daten):
 
 > _Eine Verletzung der Sicherheit, die, ob unbeabsichtigt oder unrechtmäßig, zur Vernichtung, zum Verlust, zur Veränderung oder zur unbefugten Offenlegung von beziehungsweise zum unbefugten Zugang zu personenbezogenen Daten führt, die übermittelt, gespeichert oder auf sonstige Weise verarbeitet wurden._
@@ -31,11 +31,11 @@ Mit anderen Worten handelt es sich um jeden **Sicherheitsvorfall**, ob **absicht
 
 ### 🧩 Die drei Haupttypen von Datenschutzvorfällen
 
-| Typ                   | Beschreibung                            | Beispiel                               |
-| --------------------- | --------------------------------------- | -------------------------------------- |
-| **Vertraulichkeit**   | Unbefugter Zugriff oder Offenlegung     | Datenleck durch Phishing               |
-| **Integrität**        | Unbefugte Änderung oder Fälschung       | Veränderung einer Patientenakte        |
-| **Verfügbarkeit**     | Versehentlicher Verlust oder Vernichtung | Daten ohne Sicherungskopie gelöscht   |
+| Typ                 | Beschreibung                             | Beispiel                            |
+| ------------------- | ---------------------------------------- | ----------------------------------- |
+| **Vertraulichkeit** | Unbefugter Zugriff oder Offenlegung      | Datenleck durch Phishing            |
+| **Integrität**      | Unbefugte Änderung oder Fälschung        | Veränderung einer Patientenakte     |
+| **Verfügbarkeit**   | Versehentlicher Verlust oder Vernichtung | Daten ohne Sicherungskopie gelöscht |
 
 ***
 
@@ -43,7 +43,7 @@ Mit anderen Worten handelt es sich um jeden **Sicherheitsvorfall**, ob **absicht
 
 Wenn ein Datenschutzvorfall eintritt, muss der **Verantwortliche** **unverzüglich** reagieren.
 
-#### 1️⃣ Meldung an die Aufsichtsbehörde (CNIL)
+#### 1️⃣ Meldung an die Aufsichtsbehörde
 
 * **Frist**: 72 Stunden nach Kenntnisnahme.
 * **Inhalt**:
@@ -54,7 +54,7 @@ Wenn ein Datenschutzvorfall eintritt, muss der **Verantwortliche** **unverzügli
 
 > Wenn die Meldung nicht innerhalb von 72 Stunden erfolgt, muss die **Verzögerung begründet** werden.
 
-📚 Referenz: [Artikel 33 der DSGVO](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article33)
+📚 Referenz: [Artikel 33 der DSGVO](https://dsgvo-gesetz.de/art-33-dsgvo/)
 
 ***
 
@@ -68,7 +68,7 @@ müssen die betroffenen Personen **schnellstmöglich** informiert werden:
 * Ergriffene Maßnahmen,
 * Empfehlungen zur Begrenzung der Auswirkungen (z. B.: Passwortänderung).
 
-📚 Referenz: [Artikel 34 der DSGVO](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article34)
+📚 Referenz: [Artikel 34 der DSGVO](https://dsgvo-gesetz.de/art-34-dsgvo/)
 
 ***
 
@@ -103,7 +103,7 @@ muss **jeder Vorfall** in einem internen Register erfasst werden, das enthält:
 * Die Teams in der **Erkennung und schnellen Meldung** von Vorfällen schulen.
 * **Präventivmaßnahmen** einrichten (MFA, Netzwerksegmentierung, Backups).
 * Ein **zentrales Register** nutzen, um jeden Vorfall und seine Behebung nachzuverfolgen.
-* Die Schwere mittels einer **standardisierten Risikomatrix** bewerten (z. B. CNIL oder ISO 27005).
+* Die Schwere mittels einer **standardisierten Risikomatrix** bewerten (z. B. ISO 27005).
 
 ***
 
@@ -111,21 +111,20 @@ muss **jeder Vorfall** in einem internen Register erfasst werden, das enthält:
 
 Dastra ermöglicht die **zentrale Dokumentation und Steuerung von Datenschutzvorfällen**:
 
-| Schritt      | Dastra-Funktion                                                            |
-| ------------ | -------------------------------------------------------------------------- |
-| Meldung      | Anpassbares Meldeformular                                                  |
-| Bewertung    | Automatische Risikoberechnung bezüglich der Betroffenenrechte              |
+| Schritt          | Dastra-Funktion                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------- |
+| Meldung          | Anpassbares Meldeformular                                                           |
+| Bewertung        | Automatische Risikoberechnung bezüglich der Betroffenenrechte                       |
 | Benachrichtigung | Berichterstellung für die Aufsichtsbehörde und Kommunikation an betroffene Personen |
-| Nachverfolgung | Aktionsprotokoll und Abhilfeplan                                         |
-| Reporting    | Dashboards und Compliance-Kennzahlen                                       |
+| Nachverfolgung   | Aktionsprotokoll und Abhilfeplan                                                    |
+| Reporting        | Dashboards und Compliance-Kennzahlen                                                |
 
 ***
 
 ### 📚 Nützliche Ressourcen
 
-* [CNIL – Einen Datenschutzvorfall melden](https://www.cnil.fr/fr/violation-de-donnees-personnelles)
 * [ENISA – Data Breach Notification Guidelines](https://www.enisa.europa.eu/)
-* [ISO/IEC 27035 – Management von Informationssicherheitsvorfällen](https://www.iso.org/standard/60803.html)
+* [ISO/IEC 27035 – Management von Informationssicherheitsvorfällen](https://www.dinmedia.de/de/norm/csa-iso-iec-27035-4/400025388?queryId=2f755d5cffcb79a64986797517c3268c\&indexName=prod_dinmedia_products\&position=1)
 
 ***
 

@@ -1,10 +1,10 @@
-# Ihre Daten importieren (Excel, CSV)
+# Daten importieren (Excel, CSV)
 
 ## Der Datenimport in Dastra
 
 Dastra ermöglicht es Ihnen, Ihre eigenen Daten im Tabellenformat ganz einfach direkt in die Anwendung zu importieren.
 
-Importe sind in den folgenden Modulen möglich:&#x20;
+Importe sind in den folgenden Modulen möglich:
 
 * Import des Verarbeitungsverzeichnisses
 * Import der Stakeholder
@@ -20,9 +20,9 @@ Importe sind in den folgenden Modulen möglich:&#x20;
 * Import der Datenschutzvorfälle
 * Import der Aufgaben
 
-Bei jedem Import ist der Ablauf identisch.&#x20;
+Bei jedem Import ist der Ablauf identisch.
 
-Er erfolgt in 4 Schritten:&#x20;
+Er erfolgt in 4 Schritten:
 
 1. [Vorbereitung der Datendatei](importer-vos-donnees-excel-csv.md#1.-preparation-du-fichier-de-donnees)
 2. [Hochladen der Datei](importer-vos-donnees-excel-csv.md#2.-charger-le-fichier)
@@ -37,25 +37,25 @@ Dastra unterstützt nur die folgenden Datenformate:
 * **Flache Dateien** (.csv, .txt) mit Trennzeichen ; und UTF-8-Kodierung (die Kodierung ist wichtig für Sonderzeichen)
 * **JSON** (nur für den Import des vollständigen Verarbeitungsverzeichnisses und Verarbeitungsvorlagen)
 
-Um das Datenimport-Menü aufzurufen, klicken Sie auf die Schaltfläche "Importieren" unter jedem Pfeil der Erstellungsschaltfläche.
+Um das Datenimport-Menü aufzurufen, klicken Sie auf die Schaltfläche "**Importieren**" unter jedem Pfeil der Erstellungsschaltfläche.
 
-<figure><img src="../../.gitbook/assets/screenshot-2024-12-18-102227.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/importz.png" alt=""><figcaption></figcaption></figure>
 
-Wählen Sie Excel, wenn Sie dazu aufgefordert werden:&#x20;
+Wählen Sie Excel, wenn Sie dazu aufgefordert werden:
 
-<figure><img src="../../.gitbook/assets/image-83-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/excel1.png" alt=""><figcaption></figcaption></figure>
 
 #### Herunterladen der Dateivorlage
 
-Laden Sie dann eine Dateivorlage herunter, indem Sie auf die Schaltfläche "Dateivorlage herunterladen" klicken
+Laden Sie dann eine Dateivorlage herunter, indem Sie auf die Schaltfläche "**Laden Sie die Dateivorlage herunter**" klicken
 
-<figure><img src="../../.gitbook/assets/screenshot-2024-12-18-102637.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/excel2.png" alt=""><figcaption></figcaption></figure>
 
 Die Dateivorlage ist **eine Datei im CSV-Format**, die Sie einfach mit LibreOffice, Wordpad, Excel oder Google Sheets bearbeiten können.
 
 Diese enthält alle erforderlichen Spalten mit Beispieldaten.
 
-Beispieldatei (für das Verarbeitungsverzeichnis): &#x20;
+Beispieldatei (für das Verarbeitungsverzeichnis):
 
 <figure><img src="../../.gitbook/assets/image-265.png" alt=""><figcaption><p>Zeile 2 enthält Beispieldaten, die ersetzt werden müssen</p></figcaption></figure>
 
@@ -63,21 +63,21 @@ Beispieldatei (für das Verarbeitungsverzeichnis): &#x20;
 
 Füllen Sie die heruntergeladene Datei mit Ihren Daten aus.
 
-Für jede Datendatei können Sie die erwarteten Werte der Spalten anzeigen:&#x20;
+Für jede Datendatei können Sie die erwarteten Werte der Spalten anzeigen:
 
 <figure><img src="../../.gitbook/assets/image-262-1.png" alt=""><figcaption><p>Erwartete Werte für die Importdatei des Verarbeitungsverzeichnisses</p></figcaption></figure>
 
-Die Importe enthalten erwartete Werte auf Englisch. Das ist völlig normal. Es handelt sich um einen technischen Import in die Datenbank.&#x20;
+Die Importe enthalten erwartete Werte auf Englisch. Das ist völlig normal. Es handelt sich um einen technischen Import in die Datenbank.
 
-Die englischen Werte entsprechen den Dropdown-Listen der Auswahlschaltflächen.&#x20;
+Die englischen Werte entsprechen den Dropdown-Listen der Auswahlschaltflächen.
 
 Beispielsweise entspricht im Import des Verarbeitungsverzeichnisses das Feld "processing state" dem Feld "Status der Verarbeitung" in Dastra. Es handelt sich um das Feld, das im ersten Schritt "Allgemeines" angegeben wird.
 
-Das Feld "State" entspricht dem Status der Verarbeitung ("brouillon" für "Draft" oder "veröffentlicht" für "Active").&#x20;
+Das Feld "State" entspricht dem Status der Verarbeitung ("brouillon" für "Draft" oder "veröffentlicht" für "Active").
 
 ### 2. Datei hochladen
 
-Sobald Ihre Datendatei bereit ist, müssen Sie in einigen Fällen eine Organisationseinheit angeben. Alle importierten Dateien werden in dieser Organisationseinheit abgelegt.&#x20;
+Sobald Ihre Datendatei bereit ist, müssen Sie in einigen Fällen eine Organisationseinheit angeben. Alle importierten Dateien werden in dieser Organisationseinheit abgelegt.
 
 {% hint style="info" %}
 Nur Importe von Objekten, die an Organisationseinheiten angehängt werden können, sind betroffen. Zum Beispiel das Verarbeitungsverzeichnis oder Datenschutzvorfälle. Stakeholder, Maßnahmen oder Datensätze sind nicht betroffen.
@@ -85,15 +85,15 @@ Nur Importe von Objekten, die an Organisationseinheiten angehängt werden könne
 
 #### Daten über den Import aktualisieren
 
-Es wird angeboten, ein Kontrollkästchen zu aktivieren, um bestehende Daten zu aktualisieren.&#x20;
+Es wird angeboten, ein Kontrollkästchen zu aktivieren, um bestehende Daten zu aktualisieren.
 
-Diese Funktion ermöglicht es, die Daten in Dastra anhand der Daten aus der Excel-Datei zu aktualisieren.&#x20;
+Diese Funktion ermöglicht es, die Daten in Dastra anhand der Daten aus der Excel-Datei zu aktualisieren.
 
-Standardmäßig erstellt der Import neue Objekte. Wenn das Objekt bereits existiert (z. B. ein Stakeholder), wird der Import kein neues Objekt erstellen.&#x20;
+Standardmäßig erstellt der Import neue Objekte. Wenn das Objekt bereits existiert (z. B. ein Stakeholder), wird der Import kein neues Objekt erstellen.
 
-Es ist möglich, ein bestehendes Objekt zu aktualisieren (z. B. einen Stakeholder).&#x20;
+Es ist möglich, ein bestehendes Objekt zu aktualisieren (z. B. einen Stakeholder).
 
-In diesem Fall müssen Sie das Kontrollkästchen "Bestehende Daten aktualisieren" auswählen und das Zuordnungsfeld wählen. Dieses Feld ist der Schlüssel zur Identifizierung der zu aktualisierenden Felder.&#x20;
+In diesem Fall müssen Sie das Kontrollkästchen "Bestehende Daten aktualisieren" auswählen und das Zuordnungsfeld wählen. Dieses Feld ist der Schlüssel zur Identifizierung der zu aktualisierenden Felder.
 
 <figure><img src="../../.gitbook/assets/image-263.png" alt=""><figcaption><p>Daten aktualisieren</p></figcaption></figure>
 

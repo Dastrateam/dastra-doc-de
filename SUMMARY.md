@@ -1,4 +1,4 @@
-# Inhaltsverzeichnis
+# Table of contents
 
 * [Einführung in Dastra](README.md)
 
@@ -35,7 +35,7 @@
   * [Ihr Nutzerprofil konfigurieren](getting-started/setup/parametrer-votre-profil-utilisateur.md)
 * [Tutorial](getting-started/tutoriel/README.md)
   * [Schritt 1: Die Einrichtung](getting-started/tutoriel/etape-1-la-mise-en-place.md)
-  * [Schritt 2: Ihre Verarbeitungen personenbezogener Daten kartieren und das Verzeichnis erstellen](getting-started/tutoriel/etape-2-cartographier-vos-traitements-de-donnees-a-caractere-personnel-et-etablir-le-registre.md)
+  * [Schritt 2: Ihre Verarbeitungen personenbezogener Daten mappen und das Verzeichnis erstellen](getting-started/tutoriel/etape-2-cartographier-vos-traitements-de-donnees-a-caractere-personnel-et-etablir-le-registre.md)
   * [Schritt 3: Risiken verwalten](getting-started/tutoriel/etape-4-gerer-les-risques.md)
   * [Schritt 4: Maßnahmen priorisieren](getting-started/tutoriel/etape-3-prioriser-les-actions-a-mener.md)
   * [Schritt 5: Interne Prozesse implementieren](getting-started/tutoriel/etape-5-implementer-les-processus-internes.md)
@@ -148,7 +148,7 @@
   * [Vergleich Dastra / eBios RM](features/la-gestion-des-risques/comparaison-dastra-ebios-rm.md)
   * [Ein Risiko einer Verarbeitung zuordnen](features/la-gestion-des-risques/risques.md)
   * [Häufig gestellte Fragen](features/la-gestion-des-risques/questions-frequentes.md)
-* [Planung](features/planifier/README.md)
+* [Kanban-Board](features/planifier/README.md)
   * [Eine Aufgabe erstellen oder bearbeiten](features/planifier/gerer-vos-taches.md)
   * [Ein Projekt oder eine Iteration erstellen oder bearbeiten](features/planifier/creer-ou-modifier-un-projet-ou-une-iteration.md)
   * [Aufgaben verfolgen, filtern oder exportieren](features/planifier/suivre-les-taches.md)
@@ -211,14 +211,14 @@
     * [Tests](features/compliance/library/tests.md)
     * [Risiken](features/compliance/library/risks.md)
     * [Bedrohungen](features/compliance/library/threats.md)
-  * [Geltungsbereiche](features/compliance/scopes.md)
+  * [Scopes](features/compliance/scopes.md)
   * [Projekte](features/compliance/projects/README.md)
     * [Projektgestaltung](features/compliance/projects/design.md)
     * [Projektimplementierung](features/compliance/projects/implement.md)
     * [Compliance-Überwachung](features/compliance/projects/monitoring.md)
     * [Audits](features/compliance/projects/audits.md)
 * [Regelmäßige Überprüfung (Aktualität)](features/revue-reguliere-fraicheur.md)
-* [Benutzerdefinierte Berichte](features/custom-reporting/README.md)
+* [Personalisierte Berichte](features/custom-reporting/README.md)
   * [Integration in Datenanalyse-Tools (BI)](features/custom-reporting/bi-tools.md)
 * [KI-Systeme](features/systemes-dia/README.md)
   * [Ihre KI-Systeme importieren](features/systemes-dia/importer-vos-systemes-dia.md)
@@ -271,7 +271,7 @@
 ## 🛡️ Sicherheit <a href="#security" id="security"></a>
 
 * [Sicherheit bei Dastra](security/general.md)
-* [Starke Authentifizierung](security/mfa.md)
+* [Zwei-Faktor-Authentifizierung](security/mfa.md)
 * [Qualität unserer Dienste](security/qualite-de-nos-services.md)
 * [Zertifizierungen](security/certifications.md)
 

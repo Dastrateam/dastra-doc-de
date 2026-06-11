@@ -4,21 +4,19 @@ description: >-
   einrichten.
 ---
 
-# Konfigurieren Sie ein Cookie-Einwilligungs-Widget
+# Ein Cookie-Einwilligungs-Widget konfigurieren
 
-DASTRA ermöglicht es Ihnen, ein Cookie-Einwilligungs-Widget direkt auf Ihrer Website einzurichten, das den Empfehlungen der CNIL zu Cookies und anderen Trackern entspricht.
+DASTRA ermöglicht es Ihnen, ein Cookie-Einwilligungs-Widget direkt auf Ihrer Website einzurichten, das den Empfehlungen der Aufsichtsbehörde zu Cookies und anderen Trackern entspricht.
 
-## Was beinhaltet das Dastra Cookie-Einwilligungs-Widget&#x20;
+## Was beinhaltet das Dastra Cookie-Einwilligungs-Widget
 
 Dieses Widget besteht aus mehreren Elementen:
 
-![Ein „Cookie"-Symbol, das unten links auf dem Bildschirm erscheint](<../../../.gitbook/assets/capture-web-6-5-2022-93427-www-dastra-eu.jpeg>)
+![Ein „Cookie"-Symbol, das unten links auf dem Bildschirm erscheint](../../../.gitbook/assets/Cookie6.png)
 
-![Ein ausklappbares Einführungsfenster](<../../../.gitbook/assets/image-42.png>)
+![Die Liste der Cookies nach Verarbeitungszweck, die von der Website verwendet werden](../../../.gitbook/assets/Cookie7.png)
 
-![Die Liste der Cookies nach Verarbeitungszweck, die von der Website verwendet werden](<../../../.gitbook/assets/image-40-1.png>)
-
-## Voraussetzungen&#x20;
+## Voraussetzungen
 
 Um Ihr Cookie-Einwilligungs-Widget zu implementieren, müssen Sie zuvor **die auf Ihrer Website gesetzten Cookies identifiziert** und **nach Verarbeitungszweck-Kategorien klassifiziert** haben. Das Cookie-Einwilligungsmodul von DASTRA ermöglicht dies in wenigen Klicks.
 
@@ -40,19 +38,15 @@ Um die Cookies nach Einwilligungskategorien zu klassifizieren, besuchen Sie die 
 
 ## Definieren Sie das Erscheinungsbild Ihres Ziel-Cookie-Einwilligungs-Widgets
 
-Um ein Cookie-Einwilligungs-Widget auf Ihrer Website einzurichten, müssen Sie zur Oberfläche „Erscheinungsbild" des Cookie-Einwilligungsmoduls von DASTRA navigieren. Nachdem Sie Ihr erstes Einwilligungs-Widget erstellt haben, klicken Sie darauf, um eine Seite aufzurufen, auf der Sie verschiedene Funktionen für das Widget finden. Klicken Sie auf „Erscheinungsbild des Widgets".&#x20;
+Um ein Cookie-Einwilligungs-Widget auf Ihrer Website einzurichten, müssen Sie zur Oberfläche „Erscheinungsbild und Design" des Cookie-Einwilligungsmoduls von DASTRA navigieren. Nachdem Sie Ihr erstes Einwilligungs-Widget erstellt haben, klicken Sie darauf, um eine Seite aufzurufen, auf der Sie verschiedene Funktionen für das Widget finden.
 
-![Oberfläche „Erscheinungsbild" des DASTRA Cookie-Einwilligungsmoduls](<../../../.gitbook/assets/capture-web-6-5-2022-93842-app-dastra-eu.jpeg>)
+![Oberfläche „Erscheinungsbild und Design" des DASTRA Cookie-Einwilligungsmoduls](../../../.gitbook/assets/Cookie8.png)
 
-Von dieser Oberfläche aus können Sie **Ihr Widget vollständig anpassen**, damit es auf Ihrer Website so angezeigt wird, wie Sie es wünschen.&#x20;
+Von dieser Oberfläche aus können Sie **Ihr Widget vollständig anpassen**, damit es auf Ihrer Website so angezeigt wird, wie Sie es wünschen.
 
 {% hint style="info" %}
 Sie können auch weitere allgemeine Änderungen am Widget in den Bereichen „Konfiguration", „Texte und Übersetzungen" und „Auslöser" vornehmen.
 {% endhint %}
-
-Wenn die Konfiguration abgeschlossen ist, klicken Sie auf „Veröffentlichen". Sie können auch eine Vorschau des Endergebnisses auf Ihrer Website anzeigen, indem Sie auf „Vorschau" klicken.&#x20;
-
-![](<../../../.gitbook/assets/capture-web-6-5-2022-94118-app-dastra-eu.jpeg>)
 
 ## Fügen Sie den Widget-Code auf Ihrer Website ein
 
@@ -60,7 +54,7 @@ Sobald Ihr Ziel-Cookie-Einwilligungs-Widget definiert ist, können Sie es dank d
 \
 Navigieren Sie dazu zum Tab „Installation", nachdem Sie Ihr Widget im Menü des Cookie-Moduls ausgewählt haben, und fügen Sie den automatisch generierten Code vor dem Ende des HTML-Tags \<body> Ihrer Website ein.
 
-![HTML-Code-Generierung des Widgets](<../../../.gitbook/assets/image-58.png>)
+![HTML-Code-Generierung des Widgets](../../../.gitbook/assets/Cookie9.png)
 
 {% hint style="info" %}
 Sie können den Google Tag Manager verwenden, um diesen Code dynamisch auf jeder Seite einzufügen.
@@ -69,5 +63,5 @@ Sie können den Google Tag Manager verwenden, um diesen Code dynamisch auf jeder
 Zögern Sie nicht, Ihren Webmaster für diesen Schritt hinzuzuziehen. Sobald dieser durchgeführt ist, erscheint ein Widget auf Ihrem Bildschirm.
 
 {% hint style="info" %}
-Aus Sicherheitsgründen können nur Websites mit einem SSL-Zertifikat vom Typ „https" ein Widget einrichten. &#x20;
+Aus Sicherheitsgründen können nur Websites mit einem SSL-Zertifikat vom Typ „https" ein Widget einrichten.
 {% endhint %}

@@ -4,7 +4,7 @@ description: >-
   Elemente zusammenzuführen.
 ---
 
-# Zusammenführung von Elementen
+# Elemente zusammenführen
 
 ## Wozu dient das Zusammenführungstool
 
@@ -29,23 +29,23 @@ Das Zusammenführungstool kann verwendet werden für:
 
 Wählen Sie einfach die zusammenzuführenden Elemente aus:
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-416-1.png" alt=""><figcaption><p><br></p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Sammelaktion.png" alt=""><figcaption></figcaption></figure></div>
 
-Klicken Sie dann auf "Gruppenaktion wählen" und "Daten zusammenführen":&#x20;
+Klicken Sie dann auf "**Bitte wählen Sie eine Sammelaktion aus**" und "**Zusammenführen**":
 
-\
-![](<../../.gitbook/assets/image-417.png>)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Sie gelangen dann zu einer speziellen Seite, auf der Sie:
 
 Das Hauptelement auswählen können, das nach der Zusammenführung erhalten bleiben soll.
 
-Die Felder der zu löschenden Elemente auswählen können, die Sie in das Hauptelement übernehmen möchten.\
-![](<../../.gitbook/assets/image-418.png>)
+Die Felder der zu löschenden Elemente auswählen können, die Sie in das Hauptelement übernehmen möchten.
+
+<figure><img src="../../.gitbook/assets/Sammelaktion2.png" alt=""><figcaption></figcaption></figure>
 
 Wenn Felder auf dieser Seite nicht angezeigt werden, werden automatisch die Feldwerte des beibehaltenen Elements übernommen.\
 \
-Anschließend können Sie auf die Schaltfläche "Speichern" klicken, um die Zusammenführung zu starten.
+Anschließend können Sie auf die Schaltfläche "**Zusammenführen**" klicken, um die Zusammenführung zu starten.
 
 {% hint style="info" %}
 Die zugehörigen Entitäten (Verarbeitungen, Analysen usw.) der gelöschten Elemente werden automatisch dem beibehaltenen Element zugeordnet, sodass keine Verluste oder Unterbrechungen in Ihrem Verzeichnis entstehen.

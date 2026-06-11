@@ -20,7 +20,7 @@ Um das Widget für Betroffenenanfragen einzurichten, benötigen Sie einen **öff
 
 Zunächst müssen Sie **das Widget einrichten** im [Verwaltungspanel für Widgets](https://app.dasta.eu/workspace/data-subject-request/integrations) für Betroffenenanfragen:
 
-![](../../.gitbook/assets/image-247-1-1.png)
+![](../../.gitbook/assets/Betroffenenanfrage29.png)
 
 Hier ist ein einfaches Integrationsbeispiel des Widgets (im Popup-Modus mit einer Öffnungsschaltfläche):
 

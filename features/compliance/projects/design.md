@@ -1,9 +1,8 @@
 ---
-description: >-
-  Die Konzeptionsphase bildet den Ausgangspunkt Ihres Compliance-Projekts.
+description: Die Konzeptionsphase bildet den Ausgangspunkt Ihres Compliance-Projekts.
 ---
 
-# Projektkonzeption
+# Projektgestaltung
 
 Sie ermöglicht die Definition des **organisatorischen Rahmens**, die Auswahl der **anwendbaren Referenzrahmen** und die automatische Initialisierung der zugehörigen Kontrollen, Tests und Risiken.
 
@@ -11,7 +10,7 @@ Dieser Schritt legt die Grundlagen des Projekts und bestimmt die Qualität der N
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image-432.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance30.png" alt=""><figcaption></figcaption></figure>
 
 ### 1. Projekterstellung und Definition des Geltungsbereichs
 
@@ -20,11 +19,11 @@ Der Geltungsbereich (Scope) umfasst eine oder mehrere Organisationseinheiten und
 
 {% columns %}
 {% column %}
-Nach der Projekterstellung wird der Geltungsbereich in der Projektkopfzeile angezeigt und während des gesamten Compliance-Zyklus verwendet.
+Nach der Projekterstellung wird der Scope in der Projektkopfzeile angezeigt und während des gesamten Compliance-Zyklus verwendet.
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../.gitbook/assets/image-490.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance31.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -34,7 +33,7 @@ Nach der Projekterstellung wird der Geltungsbereich in der Projektkopfzeile ange
 
 {% columns %}
 {% column %}
-<figure><img src="../../../.gitbook/assets/image-491.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance32.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -47,7 +46,7 @@ Die Konzeptionsphase ermöglicht es auch, **die zur Projektverwaltung berechtigt
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image-433.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance33.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Hinzufügen von Compliance-Frameworks
 
@@ -60,7 +59,7 @@ Das Hinzufügen eines Frameworks ermöglicht den Import von:
 * den **Tests**,
 * und den zugehörigen **Risiken**.
 
-<figure><img src="../../../.gitbook/assets/image-434.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance34.png" alt=""><figcaption></figcaption></figure>
 
 Es ist möglich, nacheinander mehrere Frameworks zum selben Projekt hinzuzufügen.
 
@@ -74,7 +73,7 @@ Wenn mehrere Frameworks zum Projekt hinzugefügt werden, erkennt Dastra automati
 * Ihre Umsetzung deckt gleichzeitig alle zugehörigen Anforderungen ab.
 * Dies ermöglicht eine Erhöhung der Compliance-Abdeckung ohne Vervielfachung der Maßnahmen.
 
-<figure><img src="../../../.gitbook/assets/image-435.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance35.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -85,8 +84,6 @@ Beim Hinzufügen eines Frameworks werden mehrere Optionen angeboten:
 * **alle Kontrollen** des Frameworks importieren,
 * **nur bestimmte Kontrollen** importieren,
 * oder **keine Kontrollen importieren**, um sie manuell zu implementieren.
-
-<figure><img src="../../../.gitbook/assets/image-437.png" alt=""><figcaption></figcaption></figure>
 
 Diese Flexibilität ermöglicht die Anpassung des Projekts an den Reifegrad der Organisation.
 
@@ -109,7 +106,7 @@ Zu diesem Zeitpunkt:
 {% endcolumn %}
 
 {% column %}
-<div align="center"><img src="../../../.gitbook/assets/image-438.png" alt=""></div>
+<div align="center"><img src="../../../.gitbook/assets/Compliance36.png" alt=""></div>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -124,7 +121,7 @@ Sie bilden:
 * die Grundlage für die **Bewertung des Anfangsrisikos**,
 * den Bezugspunkt für die Berechnung des **Restrisikos** nach Anwendung der Kontrollen.
 
-<figure><img src="../../../.gitbook/assets/image-439.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance37.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

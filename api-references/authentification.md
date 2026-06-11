@@ -6,7 +6,7 @@ description: Zur Authentifizierung bei der Dastra-API müssen Sie Folgendes verw
 
 ### Erhalt des geheimen API-Schlüssels
 
-Die Dastra REST-API verwendet API-Schlüssel zur Authentifizierung jeder Anfrage. Sie können Ihre Schlüssel in der [Konfigurationsoberfläche Ihrer Organisation](https://app.dastra.eu/general-settings/api) verwalten.&#x20;
+Die Dastra REST-API verwendet API-Schlüssel zur Authentifizierung jeder Anfrage. Sie können Ihre Schlüssel in der [Konfigurationsoberfläche Ihrer Organisation](https://app.dastra.eu/general-settings/api) verwalten.
 
 Sie können einen API-Schlüssel für einen bestimmten Mandanten oder die gesamte Organisation verwenden.
 
@@ -14,9 +14,9 @@ Ihr API-Schlüssel ermöglicht viele Aktionen, daher sollten Sie ihn sorgfältig
 
 Wenn Sie die OAuth2-Authentifizierung im Modus "authorization\_code" verwenden möchten, müssen die Weiterleitungs-URL(s) sowie die autorisierten CORS-Ursprünge korrekt konfiguriert werden.
 
-![](<../.gitbook/assets/image-249-1-1-1.png>)
+![](<../.gitbook/assets/Einen neuen API-Schlüssel erstellen (1).png>)
 
-## API-Schlüssel (X-API-Key)&#x20;
+## API-Schlüssel (X-API-Key)
 
 Zur Authentifizierung ist die einfachste Methode die Verwendung eines HTTP-Headers **X-API-Key**, der den privaten Schlüssel Ihres API-Schlüssels enthält, wie im folgenden Beispiel:
 
@@ -52,7 +52,7 @@ https://account.dastra.eu/connect/authorize?
 
 Die API-Authentifizierung erfolgt mithilfe des [OAuth2-Protokolls](https://oauth.net/2/) unter Verwendung des "Client credential"-Flows. Dieser Authentifizierungsmodus darf ausschließlich für Server-zu-Server-Anfragen verwendet werden und darf keinesfalls browserseitig eingesetzt werden (z. B. SPA in JavaScript).
 
-![](<../.gitbook/assets/api-authentication-scheam.svg>)
+![](../.gitbook/assets/api-authentication-scheam.svg)
 
 ### Token abrufen
 
@@ -86,7 +86,7 @@ Perform a token request using BASIC Headers
 {% endtab %}
 {% endtabs %}
 
-Sobald Sie ein access\_token erhalten haben, können Sie anschließend jeden Endpunkt der REST-API mit diesem Zugriffstoken aufrufen, indem Sie es als "Bearer Token" übergeben.&#x20;
+Sobald Sie ein access\_token erhalten haben, können Sie anschließend jeden Endpunkt der REST-API mit diesem Zugriffstoken aufrufen, indem Sie es als "Bearer Token" übergeben.
 
 Zum Beispiel, um die Liste Ihrer Mandanten abzurufen:
 
@@ -142,6 +142,6 @@ Liste der Dastra-Mandanten abrufen
 {% endtab %}
 {% endtabs %}
 
-Alle Anfragen müssen über [HTTPS](http://en.wikipedia.org/wiki/HTTP_Secure) und immer serverseitig erfolgen. Anfragen ohne Authentifizierung schlagen mit dem Fehlercode 401 fehl.
+Alle Anfragen müssen über [HTTPS](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure) und immer serverseitig erfolgen. Anfragen ohne Authentifizierung schlagen mit dem Fehlercode 401 fehl.
 
 Die API-Referenz finden Sie hier: [https://api.dastra.eu/swagger/index.html](https://api.dastra.eu/swagger/index.html)<br>

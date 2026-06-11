@@ -13,47 +13,49 @@ Die erweiterten Filter ermöglichen es Ihnen, Ihre Daten nach nahezu allen Felde
 * Gehen Sie in ein Modul von Dastra (z. B. das Modul für Betroffenenanfragen)
 * Klicken Sie auf die Schaltfläche "Filter" oben rechts in der Datentabelle.
 
-<figure><img src="../../.gitbook/assets/filters-01-ok.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Filter.png" alt=""><figcaption></figcaption></figure>
 
-* Ein kleines Fenster erscheint, das Ihnen eine Liste der am häufigsten verwendeten Standardfilter zeigt. Wenn Sie einen dieser Filter anwenden, wird die Tabelle automatisch aktualisiert.
+* Ein kleines Fenster erscheint, das Ihnen eine Liste der am häufigsten verwendeten Standardfilter zeigt. Wenn Sie einen dieser Filter anwenden, wird die Tabelle automatisch aktualisiert.f
 
-<figure><img src="../../.gitbook/assets/image-100.png" alt=""><figcaption></figcaption></figure>
-
-<p align="center"><sub><mark style="color:$info;">Kombination erweiterter Filter für Betroffenenanfragen</mark></sub></p>
+<figure><img src="../../.gitbook/assets/filter2.png" alt=""><figcaption><p align="center"><sub><mark style="color:$info;">Kombination erweiterter Filter für Betroffenenanfragen</mark></sub></p></figcaption></figure>
 
 {% hint style="info" %}
 Die Kombination dieser Filter ist kumulativ.
 
-_Beispiel: Wenn ich nach einem oder zwei Tags "komplex" und "ausstehend" filtere + eine Organisationseinheit "Contoso" auswähle: werden alle Zeilen angezeigt, die die 2 Tags "komplex" und "ausstehend" enthalten **und** sich in der Organisationseinheit "Contoso" befinden_
+_Beispiel: Wenn ich nach einem oder zwei Tags "komplex" und "ausstehend" filtere + eine Organisationseinheit auswähle: werden alle Zeilen angezeigt, die die 2 Tags "komplex" und "ausstehend" enthalten **und** sich in der Organisationseinheit befinden_
 {% endhint %}
 
 * Wenn Sie keinen passenden Filter finden, können Sie auf die Schaltfläche "Filter hinzufügen" klicken. Dort können Sie die Filterkombination bearbeiten, die am besten Ihren Anforderungen entspricht
 
-<figure><img src="../../.gitbook/assets/image-111.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/filter hinzufügen.png" alt=""><figcaption></figcaption></figure>
 
 Standardmäßig speichert Dastra die von Ihnen ausgewählten Filter dauerhaft, was bedeutet, dass die Filter erhalten bleiben, wenn Sie die Seite wechseln oder Ihren Browser aktualisieren. Diese Filter sind spezifisch für Ihren Browser und Ihren Mandanten (sie werden im **LocalStorage** gespeichert).
 
-## Benutzerdefinierte Ansichten
+## Benutzerdefinierte Spalten
 
-Sie können den aktuellen Zustand Ihrer Filter (und Ihre Spaltenauswahl) als **benannte Ansicht** speichern und dann mit einem einzigen Klick in der Symbolleiste jeder Liste zwischen Ihren Ansichten wechseln.
+Sie können die aktuellen Spalten mit einem einzigen Klick auf "**Spalten anpassen**" in der Symbolleiste ändern.
 
-So erstellen Sie eine Ansicht:
+<figure><img src="../../.gitbook/assets/Spalten anpassen1 (1).png" alt=""><figcaption></figcaption></figure>
 
-1. Wenden Sie die gewünschten Filter und die gewünschte Spaltenauswahl an.
-2. Klicken Sie auf die Schaltfläche **"Speichern"** in der Symbolleiste.
-3. Geben Sie Ihrer Ansicht einen Namen und bestätigen Sie.
+<figure><img src="../../.gitbook/assets/Spalten anpassen2.png" alt=""><figcaption></figcaption></figure>
 
-Die Ansicht erscheint dann direkt in der Symbolleiste des betreffenden Bereichs — mit einem Klick erreichbar, ohne den Bereich "Filter" erneut öffnen zu müssen.
+## Benutzerdefinierten Ansichten
 
-<figure><img src="../../.gitbook/assets/image-22.png" alt=""><figcaption></figcaption></figure>
+Um verschiedene benutzerdefinierte Ansichten zu erstellen klicken Sie auf "**Alle Elemente**" -> "**Benutzerdefinierte Ansicht speichern**".
+
+<figure><img src="../../.gitbook/assets/benutzerdefinierte Ansicht1.png" alt=""><figcaption></figcaption></figure>
+
+Es erscheint ein Fenster in der Sie die **Benutzerdefinierte Ansicht speichern können.** Geben Sie Ihrer Ansicht einen Namen und bestätigen Sie.
+
+<figure><img src="../../.gitbook/assets/benutzerdefinierte Ansicht2.png" alt=""><figcaption></figcaption></figure>
 
 Sie können **eine Ansicht** mit anderen Nutzern Ihres Mandanten **teilen**. Geteilte Ansichten erscheinen unter der Rubrik **"Geteilte Ansichten"** in der Symbolleiste.
 
-<figure><img src="../../.gitbook/assets/image-37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/benutzerdefinierte Ansicht3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-70.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/benutzerdefinierte Ansicht4.png" alt=""><figcaption></figcaption></figure>
 
-Diese Funktion ist in allen Bereichen verfügbar, in denen Objekte aufgelistet werden: Betroffenenanfragen, Verarbeitungsverzeichnis, Assets, Verträge, KI-Systeme, Datenschutzvorfälle…
+Diese Funktion ist in allen Bereichen verfügbar, in denen Objekte aufgelistet werden: Betroffenenanfragen, Verarbeitungsverzeichnis, Assets, Verträge, KI-Systeme, Vorfälle…
 
 ## Bekannte Probleme
 

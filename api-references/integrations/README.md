@@ -12,7 +12,7 @@ Der **Dastra Integrations-Marketplace** umfasst alle Konnektoren, mit denen Sie 
 Diese Integrationen erleichtern die Interoperabilität, reduzieren manuelle Eingriffe und gewährleisten eine bessere Konsistenz zwischen Ihren internen Systemen.
 
 Sie finden mehr als fünfzehn einsatzbereite Konnektoren auf der entsprechenden Seite:\
-[https://www.dastra.eu/fr/integrations](https://www.dastra.eu/fr/integrations?utm_source=chatgpt.com)
+[https://www.dastra.eu/de/integrations](https://www.dastra.eu/de/integrations)
 
 ### Hauptvorteile
 
@@ -47,7 +47,7 @@ Hier einige aktuell angebotene Integrationen:
 
 #### 1 — Zugang zum Marketplace
 
-Öffnen Sie in Dastra **Einstellungen → Integrationen**, um die Liste der Konnektoren anzuzeigen.
+Öffnen Sie in Dastra **Mandanteneinstellungen → Integrationen**, um die Liste der Konnektoren anzuzeigen.
 
 #### 2 — Installieren und konfigurieren
 

@@ -6,7 +6,7 @@ description: Erfahren Sie, was personenbezogene Daten sind.
 
 ### Definition personenbezogener Daten
 
-Laut der [CNIL](https://www.cnil.fr) sind **personenbezogene Daten** _alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen_.\
+Laut der [DSGVO](https://dsgvo-gesetz.de/) sind **personenbezogene Daten** _alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen_.\
 Mit anderen Worten handelt es sich um **jede Information, die es ermöglicht, eine Person direkt oder indirekt zu identifizieren.**
 
 Eine natürliche Person kann identifiziert werden:
@@ -39,7 +39,7 @@ Einige gängige Beispiele:
 * **Verbindung und Nutzung**: IP-Adresse, Verbindungskennung, Logs, Cookies
 * **Standort**: GPS-Koordinaten, Routen, Bewegungshistorie
 
-![Beispiel für Kategorien personenbezogener Daten](https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LvBxs22wUMicv9uWp6C%2F-MhIARYfobgZQ0AQg3B6%2F-MhIBJOrDtgP8zHhnEYg%2Fimage.png?alt=media\&token=f6fe31f4-3844-4647-96b2-4f8e7c6c9c9c)
+![Beispiel für Kategorien personenbezogener Daten](<../../.gitbook/assets/Beispiel für Kategorien personenbezogener Daten.jpg>)
 
 > 🔍 Diese Kategorien sind wesentlich, um **Ihr Verarbeitungsverzeichnis zu strukturieren** und die mit jeder Datenart verbundenen Risiken zu identifizieren.
 
@@ -73,7 +73,7 @@ Zu diesen Ausnahmen gehören insbesondere:
 * Die **ausdrückliche Einwilligung** der betroffenen Person,
 * Daten, die von der Person **offensichtlich öffentlich gemacht** wurden,
 * Verarbeitungen, die zum **Schutz lebenswichtiger Interessen** erforderlich sind,
-* Von der **CNIL genehmigte** Verarbeitungen aus Gründen des öffentlichen Interesses,
+* Von der **Aufsichtsbehörde genehmigte** Verarbeitungen aus Gründen des öffentlichen Interesses,
 * Verarbeitungen durch **Vereinigungen** mit politischem, religiösem, weltanschaulichem oder gewerkschaftlichem Zweck für ihre Mitglieder.
 
 > Diese Fälle müssen stets im **Verarbeitungsverzeichnis dokumentiert** und mit **geeigneten Sicherheitsmaßnahmen** versehen werden.

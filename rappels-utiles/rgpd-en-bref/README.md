@@ -2,7 +2,7 @@
 description: Zusammenfassung der Schlüsselbegriffe der Datenschutz-Grundverordnung.
 ---
 
-# Schlüsselbegriffe der DSGVO
+# Grundbegriffe der DSGVO
 
 Um die Logik und die Umsetzung der **Datenschutz-Grundverordnung (DSGVO)** gut zu verstehen, finden Sie hier die grundlegenden Begriffe, die Sie beherrschen sollten.\
 Jeder Begriff wird auf den folgenden Seiten ausführlich erläutert.
@@ -92,7 +92,7 @@ Entdecken Sie die wesentlichen Konzepte, auf denen der gesamte Rahmen der DSGVO 
 
 ***
 
-### 🤖 Und morgen: Konvergenz von DSGVO und KI-Verordnung
+### 🤖 So geht's weiter: Konvergenz von DSGVO und KI-Verordnung
 
 Die DSGVO bildet das Fundament der **Daten-Governance**.\
 Die **KI-Verordnung** ergänzt diesen Rahmen, indem sie **KI-Systeme** nach ihrem Risikoniveau reguliert.

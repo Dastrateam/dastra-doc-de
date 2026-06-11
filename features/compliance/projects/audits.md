@@ -2,11 +2,11 @@
 
 Die Audit-Phase ermöglicht die offizielle Validierung des Compliance-Status zu einem bestimmten Zeitpunkt. Sie stützt sich auf die in den vorgelagerten Phasen geleistete Vorbereitungs- und Überwachungsarbeit, um eine strukturierte Bewertung zu bieten, sei es intern oder durch externe Auditoren.
 
-**🎯 Ziel der Phase**&#x20;
+**🎯 Ziel der Phase**
 
 Die Vorbereitung und Durchführung aller Compliance-Audits zentralisiert gestalten, mit den Beteiligten zusammenarbeiten und die Nachverfolgung der Korrekturen nach festgestellten Abweichungen sicherstellen.
 
-<figure><img src="../../../.gitbook/assets/image-509.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance48.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -23,7 +23,7 @@ Das Audit-Modul wandelt die theoretische Compliance in eine messbare Realität u
 
 Dastra bietet eine Multi-User-Verwaltung zur Steuerung der Compliance auf Konzernebene sowie eine vollständige Interoperabilität über APIs und Multi-Format-Exporte.
 
-<figure><img src="../../../.gitbook/assets/image-508.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance49.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -35,20 +35,20 @@ Die Erstellung einer Mission ist der Ausgangspunkt Ihrer Bewertung. Klicken Sie 
 
 * Name (Pflichtfeld): Eindeutiger Titel der Mission (z. B. „Jährliches Compliance-Audit"), begrenzt auf 80 Zeichen.
 * Beschreibung (optional): Geben Sie den Kontext oder den spezifischen Geltungsbereich an (bis zu 500 Zeichen).
-* Auditoren (Pflichtfeld): Wählen Sie die Nutzer aus, die für die Durchführung der Bewertung verantwortlich sind. Wenn Sie nicht in dieser Liste erscheinen, können Sie die Audit-Fragen nicht beantworten (auch wenn Sie Inhaber der Organisation sind).&#x20;
+* Auditoren (Pflichtfeld): Wählen Sie die Nutzer aus, die für die Durchführung der Bewertung verantwortlich sind. Wenn Sie nicht in dieser Liste erscheinen, können Sie die Audit-Fragen nicht beantworten (auch wenn Sie Inhaber der Organisation sind).
 
-<figure><img src="../../../.gitbook/assets/image-510.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance50.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Audit-Phase und Zeitplan
 
 Die Wahl der Phase ermöglicht die Segmentierung Ihrer Mission und die Filterung Ihrer Governance-Dashboards.
 
-| **Phase**        | **Beschreibung & Ziel**                                                                          |
-| ---------------- | ------------------------------------------------------------------------------------------------ |
-| Erstanalyse      | Rahmenphase: Definition des Geltungsbereichs, des Referenzrahmens und der regulatorischen Themen. |
-| Vorbereitung     | Logistikphase: Zuweisung der Kontrollen an die Auditoren und Planung der Gespräche.              |
-| Vor-Audit        | „Probeaudit": Selbstbewertung zur Identifizierung von Abweichungen vor dem offiziellen Termin.   |
-| Abschlussaudit   | Abschlussphase: Abschlussbewertung, Erstellung der Schlussfolgerungen und Generierung des offiziellen Berichts. |
+| **Phase**      | **Beschreibung & Ziel**                                                                                         |
+| -------------- | --------------------------------------------------------------------------------------------------------------- |
+| Erstanalyse    | Rahmenphase: Definition des Geltungsbereichs, des Referenzrahmens und der regulatorischen Themen.               |
+| Vorbereitung   | Logistikphase: Zuweisung der Kontrollen an die Auditoren und Planung der Gespräche.                             |
+| Vor-Audit      | „Probeaudit": Selbstbewertung zur Identifizierung von Abweichungen vor dem offiziellen Termin.                  |
+| Abschlussaudit | Abschlussphase: Abschlussbewertung, Erstellung der Schlussfolgerungen und Generierung des offiziellen Berichts. |
 
 * Schlüsseldaten (Pflichtfeld): Geben Sie ein Startdatum und eine Frist an, um die Mission zeitlich einzurahmen.
 
@@ -114,7 +114,7 @@ Die Bewertungsoberfläche ist so konzipiert, dass sie eine vollständige Sicht a
 * Zentraler Arbeitsbereich: Zeigt das Ziel der ausgewählten Anforderung und die vollständige Liste der zugehörigen Kontrollen und Tests.
 * Entscheidungspanel (rechts): Gruppiert die Bewertungstools, die Kommentareingabe und die Änderungshistorie.
 
-<figure><img src="../../../.gitbook/assets/image-507.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance51.png" alt=""><figcaption></figcaption></figure>
 
 #### Nachweisüberprüfung (Kontrollen und Tests)
 
@@ -171,7 +171,7 @@ Das abgeschlossene Audit speist dank der Ausgabefunktionen von Dastra sofort die
 
 Die Ergebnisse werden in einer Übersicht konsolidiert, die den Compliance-Prozentsatz pro Audit anzeigt (z. B. 75 % für NIST, 57 % für DSGVO). Diese Indikatoren ermöglichen den Vergleich des Sicherheitsniveaus zwischen verschiedenen Einheiten oder Projekten.
 
-<figure><img src="../../../.gitbook/assets/image-506.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Compliance52.png" alt=""><figcaption></figcaption></figure>
 
 **Export und Archivierung**
 

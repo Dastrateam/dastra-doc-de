@@ -4,7 +4,7 @@ description: >-
   Cloud-Dateianbieter für die Speicherung der DMS-Dateien integriert
 ---
 
-# Integrationen OneDrive/Google Drive
+# OneDrive/Google Drive-Integrationen
 
 ### Interesse an benutzerdefiniertem Cloud-Speicher
 
@@ -18,30 +18,33 @@ Obwohl sehr sicher und in den meisten Szenarien praktisch, kann die Speicherung 
 
 Um Ihren Cloud-Dateimanager zu konfigurieren, ist es ganz einfach:
 
-* Gehen Sie zum [Dateimanager](https://app.dastra.eu/workspace/0/referentials/folders)
-* Klicken Sie auf den **Selektor oben links bei den Dateien**:&#x20;
+* Gehen Sie zum [Dateimanager](https://app.dastra.eu/workspace/0/documents/folders/Dastra)
 
-![image.png](https://static.dastra.eu/richtextbackoffice/511cd52b-858d-482b-805f-e0ed97f018a7/image.png)
+<figure><img src="../../.gitbook/assets/Erweiterte Konfiguration24.png" alt=""><figcaption></figcaption></figure>
+
+* Klicken Sie auf den **Selektor oben links bei den Dateien**:
+
+![image.png](<../../.gitbook/assets/Erweiterte Konfiguration25.png>)
 
 * Klicken Sie auf **Cloud-Speicher verwalten**
 * Wählen Sie Ihren Anbieter (Google Drive oder OneDrive)
 
-![](<../../.gitbook/assets/image-257-1.png>)
+![](<../../.gitbook/assets/Erweiterte Konfiguration26.png>)
 
-* **Klicken Sie auf die Schaltfläche „Hinzufügen"**, Sie werden zur Login-Seite des Anbieters weitergeleitet, die Sie um die erforderlichen Berechtigungen zur Herstellung der Verbindung mit Dastra bittet.&#x20;
+* **Klicken Sie auf die Schaltfläche „Hinzufügen"**, Sie werden zur Login-Seite des Anbieters weitergeleitet, die Sie um die erforderlichen Berechtigungen zur Herstellung der Verbindung mit Dastra bittet.
 * Am Ende des Prozesses wählen Sie das Laufwerk des Drive aus, das Sie verwenden möchten (ein Google Drive oder ein SharePoint-Laufwerk für OneDrive)
 
 ### Dateien aus Ihrem Cloud an Dastra anhängen
 
-* **Bearbeiten Sie eine beliebige Entität**: Aufgabe, Verarbeitung, Akteur...&#x20;
+* **Bearbeiten Sie eine beliebige Entität**: Aufgabe, Verarbeitung, Akteur...
 * **Wählen Sie die Datenquelle** oben links im Datei-Upload-Bereich.
 
-![](<../../.gitbook/assets/image-254-1.png>)
+![](../../.gitbook/assets/image-254-1.png)
 
 * Senden Sie Dateien direkt auf Ihr Drive (Bearbeiten Sie sie, verschieben Sie sie)
 * Klicken Sie auf **Im Manager auswählen** und wählen Sie die anzuhängende Datei
 
-![](<../../.gitbook/assets/image-255.png>)
+![](../../.gitbook/assets/image-255.png)
 
 ### Einschränkungen
 
