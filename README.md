@@ -152,12 +152,4 @@ Beginnen Sie jetzt mit der Erkundung von Dastra:
 
 ***
 
-{% hint style="info" %}
-💡 **Kostenlose Testversion**\
-Dastra kann 30 Tage lang kostenlos und ohne Kreditkarte getestet werden:\
-👉 [https://app.dastra.eu/signup](https://app.dastra.eu/signup)
-{% endhint %}
-
-***
-
 ### 📚 Weiterführende Informationen
