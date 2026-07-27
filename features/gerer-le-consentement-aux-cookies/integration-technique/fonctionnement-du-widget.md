@@ -1,8 +1,8 @@
 # Funktionsweise des Banners
 
-### Funktionsweise der Lizenz&#x20;
+### Funktionsweise der Lizenz
 
-Im Gegensatz zu anderen Lösungen, die Einwilligungsbanner pro Domain vermarkten, basiert die Dastra-Lizenz auf zwei Kriterien:&#x20;
+Im Gegensatz zu anderen Lösungen, die Einwilligungsbanner pro Domain vermarkten, basiert die Dastra-Lizenz auf zwei Kriterien:
 
 * **Der maximale monatliche Traffic**: die Gesamtzahl der Nutzersitzungen (oder Besuche) auf Ihren Websites während eines Monats.
 * **Die Anzahl der Banner**: Sie können ein Banner mit einer bestimmten Anzahl von Cookies/Diensten konfigurieren, das auf mehreren Websites oder Subdomains wiederverwendet werden kann. Das Einwilligungs-Cookie kann auf mehreren Subdomains funktionieren (z. B.: \*.subdomain.com).
@@ -41,11 +41,11 @@ Wenn der Client seine Domain im Widget-Editor nicht korrekt angegeben hat, wird 
 
 ### 4. Einholung der Einwilligung des Nutzers
 
-Wenn das Cookie „eu-consent" (Sie können den Cookie-Namen bei Bedarf ändern) fehlt, wird das Einwilligungsfenster angezeigt. Um die korrekte Anzeige des Widgets zu testen, können Sie dieses Cookie in Ihrem Browser löschen.&#x20;
+Wenn das Cookie „consent-eu" (Sie können den Cookie-Namen bei Bedarf ändern) fehlt, wird das Einwilligungsfenster angezeigt. Um die korrekte Anzeige des Widgets zu testen, können Sie dieses Cookie in Ihrem Browser löschen.
 
 ### 5. Die Erfassung der Einwilligung
 
-Die Einwilligungen werden automatisch über eine POST-Anfrage im JSON-Format an die Dastra-API übermittelt.&#x20;
+Die Einwilligungen werden automatisch über eine POST-Anfrage im JSON-Format an die Dastra-API übermittelt.
 
 Obwohl im Widget die Einwilligung nach Verarbeitungszweck erfolgt, wird die Speicherung nach Dienst durchgeführt.
 
@@ -90,7 +90,7 @@ So sieht der Einwilligungsnachweis aus, wie er in unseren Datenbanken gespeicher
 }
 ```
 
-&#x20;Als Antwort gibt die API eine Zeichenkette namens „consentId" zurück, die anschließend im localStorage des Browsers für maximal 180 Tage gespeichert wird. Diese Zeichenkette ist die eindeutige Kennung des Einwilligungsnachweises. Im Falle eines Rechtsstreits ist es diese Kennung, die im Browser des Kunden gesucht werden muss.
+Als Antwort gibt die API eine Zeichenkette namens „consentId" zurück, die anschließend im localStorage des Browsers für maximal 180 Tage gespeichert wird. Diese Zeichenkette ist die eindeutige Kennung des Einwilligungsnachweises. Im Falle eines Rechtsstreits ist es diese Kennung, die im Browser des Kunden gesucht werden muss.
 
 ### 6. Die Ausführung der Einwilligung
 
@@ -103,7 +103,7 @@ Für diese Phase empfehlen wir Ihnen den Leitfaden zur Cookie-Blockierung:
 {% endcontent-ref %}
 
 {% hint style="info" %}
-Mit Ausnahme der unbedingt erforderlichen Cookies müssen alle Drittanbieterdienste, die Tracking durchführen, standardmäßig blockiert werden.&#x20;
+Mit Ausnahme der unbedingt erforderlichen Cookies müssen alle Drittanbieterdienste, die Tracking durchführen, standardmäßig blockiert werden.
 {% endhint %}
 
 Herzlichen Glückwunsch, Sie sind bereit, mit der technischen Integration des Widgets zu beginnen:
